@@ -10,7 +10,7 @@ import { existsSync } from 'fs';
 
 const item_info_link = "https://raw.githubusercontent.com/Kastuks/market-information/refs/heads/main/data/cs2_items.json";
 const skins_to_name_id = "https://raw.githubusercontent.com/somespecialone/steam-item-name-ids/refs/heads/master/data/cs2.json";
-const runWorkflowFor = 1200; // seconds
+const runWorkflowFor = 100; // seconds
 const BASE_URL = 'https://steamcommunity.com/market';
 const GAME_ID = 730;
 const DELAY_MS = 7000;

@@ -25,6 +25,8 @@ jobs:
 
       - name: Run scraper
         run: node index.js
+        env:
+          BOT_GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
 
       - name: Commit and push results
         run: |
@@ -32,4 +34,4 @@ jobs:
           git config user.email "actions@github.com"
           git add -A
           git diff --cached --quiet || git commit -m "Update CS2 item prices [CI run]"
-          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
+          git push https://x-access-token:${{ secrets.BOT_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
