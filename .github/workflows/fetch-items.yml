@@ -1,0 +1,35 @@
+name: Fetch CS2 Items
+
+on:
+  # schedule:
+  #   - cron: "0 * * * *" # every hour on 0 minutes
+  workflow_dispatch:       # allow manual run via GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run scraper
+        run: node index.js
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Update CS2 item prices [CI run]"
+          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
