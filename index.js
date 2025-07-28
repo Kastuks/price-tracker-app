@@ -12,6 +12,7 @@ const item_info_link = "https://raw.githubusercontent.com/Kastuks/market-informa
 const skins_to_name_id = "https://raw.githubusercontent.com/somespecialone/steam-item-name-ids/refs/heads/master/data/cs2.json";
 const runWorkflowFor = 100; // seconds
 const BASE_URL = 'https://steamcommunity.com/market';
+const local_skins_to_name_id_path = "backup/cs2_skins_to_name_id.json";
 const GAME_ID = 730;
 const DELAY_MS = 7000;
 const DELAY_AFTER_TIMEOUT = 30000;
@@ -35,8 +36,12 @@ async function fetchAdditionalItemInfo() {
   });
 }
 
-async function fetchSkinsToNameIds() {
+async function fetchSkinsToNameIds(fetchLocal = false) {
   return new Promise(async (resolve, reject) => {
+      if (fetchLocal && existsSync(local_skins_to_name_id_path)) {
+        const data = JSON.parse(await fs.readFile(local_skins_to_name_id_path, 'utf8'));
+        resolve(data);
+      }
       const url = skins_to_name_id;
       await axios.get(url).then((response) => {
         const data = response.data;
