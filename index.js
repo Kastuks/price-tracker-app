@@ -93,7 +93,7 @@ async function retry(fn, retries = MAX_RETRIES) {
   throw new Error('Max retries reached.');
 }
 
-async function fetchAllItemNames(savePath = outputPath) {
+async function fetchAllItemPrices(savePath = outputPath) {
   let items = [];
   let itemsMap = {};
   let start = 0;
@@ -188,17 +188,6 @@ async function fetchPriceInfo(itemName) {
   };
 }
 
-async function loadExistingItems(path) {
-  if (!existsSync(path)) return {};
-  try {
-    const data = await fs.readFile(path, 'utf-8');
-    const items = JSON.parse(data);
-    return Object.fromEntries(items.map(item => [item.hash_name, item]));
-  } catch {
-    return {};
-  }
-}
-
 async function loadStartFrom() {
   const path = 'data/start_from.json';
   if (!existsSync(path)) return {};
@@ -240,35 +229,7 @@ function convertCentsToEur(centsPrice) {
 
 async function main() {
   getUsdToEurConversionRate();
-  // const itemListFromRender = await fetchAdditionalItemInfo();
-  // console.log(`Fetched ${itemListFromRender.length} items from render.`);
-  // const existing = await loadExistingItems(outputPath);
-  const items = await fetchAllItemNames();
-
-  // const updated = { ...existing };
-
-  // for (let i = 0; i < items.length; i++) {
-  //   const item = items[i];
-  //   if (updated[item.hash_name]) {
-      // console.log(`[${i + 1}/${items.length}] Skipping already fetched: ${item.hash_name}`);
-    //   continue;
-    // }
-
-    // try {
-      // const prices = await fetchPriceInfo(item.hash_name);
-      // updated[item.hash_name] = {
-      //   hash_name: item.hash_name,
-      //   image: item.image,
-      //   lowest_price: prices.lowest_price,
-      //   buy_order_price: prices.buy_order_price,
-      // };
-      // console.log(`[${i + 1}/${items.length}] ${item.hash_name} - ${prices.lowest_price || 'N/A'}`);
-      // await fs.writeFile(outputPath, JSON.stringify(Object.values(updated), null, 2));
-      // await sleep(DELAY_MS);
-  //   } catch (err) {
-  //     console.error(`Failed to fetch price for ${item.hash_name}: ${err.message}`);
-  //   }
-  // }
+  const items = await fetchAllItemPrices();
 
   console.log(`Done! Saved ${items.length} items to ${outputPath}`);
 }

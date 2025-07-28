@@ -10,7 +10,7 @@ const skins_to_name_id_link = "https://raw.githubusercontent.com/somespecialone/
 const local_skins_to_name_id_path = "backup/cs2_skins_to_name_id.json";
 const runWorkflowFor = 1200; // seconds
 const BASE_URL = 'https://steamcommunity.com/market';
-const DELAY_MS = 7000;
+const DELAY_MS = 10000;
 const DELAY_AFTER_TIMEOUT = 30000;
 const MAX_RETRIES = 5;
 const maxItemsProcessed = Math.trunc(runWorkflowFor / (DELAY_MS / 1000));
@@ -103,10 +103,19 @@ async function fetchAllNameIds() {
             const currentItem = itemListFromRender[start];
             const currentItemName = currentItem.hash_name;
             const itemNameId = skins[currentItemName];
+            await setStartFrom(start, 'data/start_from_name_id.json');
+
+            if (itemListFromRender.length > 1 && (start + 1) >= itemListFromRender.length) {
+                await setStartFrom(0, 'data/start_from_name_id.json');
+                console.log(`Reached end of item list at index ${start}. Setting start_from to 0.`);
+            }
 
             if (itemNameId) {
                 console.log(`Skipping already fetched: ${currentItemName}`);
-                ((itemListFromRender.length + 1) >= maxAmount) ? maxAmount++ : '';
+                ((itemListFromRender.length) > maxAmount) ? maxAmount++ : '';
+                continue;
+            } else if (!itemNameId && !currentItem.date_modified) {
+                console.warn(`Not marketable item: ${currentItemName}, skipping.`);
                 continue;
             }
 
@@ -115,17 +124,8 @@ async function fetchAllNameIds() {
                 skins[currentItemName] = fetchedItemNameId;
             }
 
-            console.log(`Fetched ${currentItemName} ${start}/${maxAmount}`);
-
+            console.log(`Fetched ${currentItemName} ${start}/${maxAmount - 1}`);
             await fs.writeFile(local_skins_to_name_id_path, JSON.stringify(skins, null, 2));
-
-            if (start <= maxAmount) {
-                await setStartFrom(start, 'data/start_from_name_id.json');
-            } 
-            if (itemListFromRender.length > 1 && start >= itemListFromRender.length) {
-                await setStartFrom(0, 'data/start_from_name_id.json');
-                console.log(`Reached end of item list at index ${start}. Setting start_from to 0.`);
-            }
             await sleep(DELAY_MS);
         }
     }
@@ -136,7 +136,11 @@ async function fetchItemNameId(currentItemName, appId = 730) {
 
     try {
         const axiosInstance = getAxiosInstance();
-        const { data: html } = await retry(() => axiosInstance.get(url));
+        const { data: html } = await retry(() => axiosInstance.get(url, {
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+            }
+        }));
         const match = html.match(/Market_LoadOrderSpread\(( \d+ )\)/);
 
         if (match) {
