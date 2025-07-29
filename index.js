@@ -98,7 +98,7 @@ async function retry(fn, retries = MAX_RETRIES) {
   throw new Error('Max retries reached.');
 }
 
-async function fetchAllItemPrices(savePath = batchNum ? `data/cs22_prices/cs2_items_${batchNum}.json` : outputPath) {
+async function fetchAllItemPrices(savePath = batchNum ? `data/cs2_prices/cs2_items_${batchNum}.json` : outputPath) {
   const itemListFromRender = await fetchAdditionalItemInfo();
   const hashNameToNameId = await fetchSkinsToNameIds(true);
 
