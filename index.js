@@ -6,15 +6,13 @@ import fsSync, { promises as fs } from 'fs';
 import { existsSync } from 'fs';
 // import HttpsProxyAgent from 'https-proxy-agent';
 
-// Workflow is run every 40 minutes
-
 const item_info_link = "https://raw.githubusercontent.com/Kastuks/market-information/refs/heads/main/data/cs2_items.json";
 const skins_to_name_id = "https://raw.githubusercontent.com/somespecialone/steam-item-name-ids/refs/heads/master/data/cs2.json";
-const runWorkflowFor = 2000; // seconds
+const runWorkflowFor = 2400; // seconds
 const BASE_URL = 'https://steamcommunity.com/market';
 const local_skins_to_name_id_path = "backup/cs2_skins_to_name_id.json";
 const GAME_ID = 730;
-const DELAY_MS = 10000;
+const DELAY_MS = 8000;
 const DELAY_AFTER_TIMEOUT = 30000;
 const MAX_RETRIES = 5;
 const outputPath = 'data/cs2_items.json';
@@ -179,7 +177,7 @@ async function fetchAllItemPrices(savePath = outputPath) {
     }
   }
   
-  return items;
+  return itemsMap;
 }
 
 async function fetchPriceInfo(itemName) {
@@ -230,7 +228,6 @@ function convertUSDToEur(usdPrice) {
 function convertCentsToEur(centsPrice) {
   return ((centsPrice / 100).toFixed(2)).toString();
 }
-
 
 async function main() {
   getUsdToEurConversionRate();
