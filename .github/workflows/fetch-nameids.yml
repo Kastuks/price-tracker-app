@@ -1,15 +1,15 @@
 name: Fetch CS2 missing Name IDs
 
 on:
-  schedule:
-    - cron: "0 */2 * * *" # every 2 hours on 0 minutes
+#   schedule:
+#     - cron: "0 */2 * * *" # every 2 hours on 0 minutes
   workflow_dispatch:       # allow manual run via GitHub UI
 
 permissions:
   contents: write
 
 jobs:
-  fetch_ids:
+  fetch:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run fetch ids
+      - name: Fetch name ids
         run: node getNameIds.js
         env:
           BOT_GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
