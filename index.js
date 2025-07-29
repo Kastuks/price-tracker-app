@@ -8,7 +8,7 @@ import { existsSync } from 'fs';
 
 const item_info_link = "https://raw.githubusercontent.com/Kastuks/market-information/refs/heads/main/data/cs2_items.json";
 const skins_to_name_id = "https://raw.githubusercontent.com/somespecialone/steam-item-name-ids/refs/heads/master/data/cs2.json";
-const runWorkflowFor = 24; // seconds
+const runWorkflowFor = 2400; // seconds
 const BASE_URL = 'https://steamcommunity.com/market';
 const local_skins_to_name_id_path = "backup/cs2_skins_to_name_id.json";
 const GAME_ID = 730;

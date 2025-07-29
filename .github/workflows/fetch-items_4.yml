@@ -1,8 +1,8 @@
 name: Fetch CS2 Items_4
 
 on:
-  # schedule:
-  #   - cron: "8 */1 * * *" # every hour on 0 minutes
+  schedule:
+    - cron: "9 */1 * * *" # every hour on 0 minutes
   workflow_dispatch:       # allow manual run via GitHub UI
 
 permissions:
