@@ -17,6 +17,8 @@ const DELAY_AFTER_TIMEOUT = 30000;
 const MAX_RETRIES = 5;
 const outputPath = 'data/cs2_items.json';
 const maxItemsProcessed = Math.trunc(runWorkflowFor / (DELAY_MS / 1000));
+const batchNum = process.env.BATCH_NUM || 1;
+const batchSize = 8;
 let usdToEurConversion = 0.9;
 
 async function fetchAdditionalItemInfo() {
@@ -50,8 +52,8 @@ async function fetchSkinsToNameIds(fetchLocal = false) {
 
 function getUsdToEurConversionRate() {
   const options = {
-	"method": "GET",
-	"url": "https://api.fxratesapi.com/latest"
+    "method": "GET",
+    "url": "https://api.fxratesapi.com/latest"
   };
 
   axios.request(options).then(function (response) {
@@ -96,41 +98,56 @@ async function retry(fn, retries = MAX_RETRIES) {
   throw new Error('Max retries reached.');
 }
 
-async function fetchAllItemPrices(savePath = outputPath) {
+async function fetchAllItemPrices(savePath = batchNum ? `data/cs22_prices/cs2_items_${batchNum}.json` : outputPath) {
+  const itemListFromRender = await fetchAdditionalItemInfo();
+  const hashNameToNameId = await fetchSkinsToNameIds(true);
+
+  let currentBatchStart = 0;
+  let currentBatchMaximum = itemListFromRender.length;
   let items = [];
   let itemsMap = {};
   let start = 0;
   const count = 1;
   let maxAmount = Infinity;
 
-  const itemListFromRender = await fetchAdditionalItemInfo();
-  const hashNameToNameId = await fetchSkinsToNameIds(true);
-
-   // Resume if file exists
   if (fsSync.existsSync(savePath)) {
     try {
       const existing = JSON.parse(await fs.readFile(savePath, 'utf8'));
       items = existing;
       itemsMap = Object.fromEntries(existing.map(item => [item.hash_name, item]));
       start = await loadStartFrom();
+      currentBatchStart = start;
       console.log(`Resuming from item #${start}`);
     } catch {
       items = [];
     }
   }
 
-  if ((start + maxItemsProcessed) > itemListFromRender.length) {
-    maxAmount = itemListFromRender.length;
-  } else {
-    maxAmount = start + maxItemsProcessed;
+  if (batchNum) {
+    const batchUnit = Math.trunc(itemListFromRender.length / batchSize)
+    currentBatchStart = (batchNum - 1) *  batchUnit;
+    if (batchNum !== batchSize) {
+      currentBatchMaximum = batchNum * batchUnit;
+    }
   }
 
-  while (start < maxAmount) {
+  if ((currentBatchStart + maxItemsProcessed) > currentBatchMaximum) {
+    maxAmount = itemListFromRender.length;
+  } else {
+    maxAmount = currentBatchStart + maxItemsProcessed;
+  }
+
+  while (currentBatchStart < maxAmount) {
     try {
-      const currentItem = itemListFromRender[start];
+      const currentItem = itemListFromRender[currentBatchStart];
       const currentItemName = currentItem.hash_name;
       const itemNameId = hashNameToNameId[currentItemName];
       console.log(`Processing item: ${currentItemName} (ID: ${itemNameId})`);
+
+      if (itemNameId === undefined) {
+        console.warn(`No name ID found for item: ${currentItemName}`);
+        continue;
+      }
 
       const url = `${BASE_URL}/itemordershistogram?norender=1&country=NL&language=english&currency=3&item_nameid=${itemNameId}&two_factor=0`;
       const axiosInstance = getAxiosInstance();
@@ -158,15 +175,16 @@ async function fetchAllItemPrices(savePath = outputPath) {
         };
       }
 
-      console.log(`Fetched ${currentItemName} ${start}/${maxAmount}`);
+      console.log(`Fetched ${currentItemName} ${currentBatchStart}/${maxAmount}`);
     
       await fs.writeFile(savePath, JSON.stringify(Object.values(itemsMap), null, 2));
     
       start += count;
-      if (start <= maxAmount) {
+      currentBatchStart += count;
+      if (currentBatchStart <= maxAmount) {
         await setStartFrom(start);
       } 
-      if (itemListFromRender.length > 1 && start >= itemListFromRender.length) {
+      if (itemListFromRender.length > 1 && currentBatchStart >= itemListFromRender.length) {
         await setStartFrom(0);
         console.log(`Reached end of item list at index ${start}. Setting start_from to 0.`);
       }
@@ -211,7 +229,7 @@ async function loadStartFrom() {
 }
 
 async function setStartFrom(startFrom) {
-  const path = 'data/start_from.json';
+  const path = batchNum ? `data/start_from/start_from_${batchNum}.json` : 'data/start_from.json';
   const startFromToSave = { start_from: startFrom };
   if (!existsSync(path)) return {};
   try {
