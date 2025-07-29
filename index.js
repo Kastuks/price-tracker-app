@@ -210,7 +210,7 @@ async function fetchPriceInfo(itemName) {
 }
 
 async function loadStartFrom() {
-  const path = 'data/start_from.json';
+  const path = batchNum ? `data/start_from/start_from_${batchNum}.json` : 'data/start_from.json';
   if (!existsSync(path)) return {};
   try {
     const data = await fs.readFile(path, 'utf-8');

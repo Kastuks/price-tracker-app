@@ -1,8 +1,8 @@
-name: Fetch CS2 Items_2
+name: Fetch CS2 Items_1
 
 on:
   # schedule:
-  #   - cron: "4 */1 * * *" # every hour on 0 minutes
+  #   - cron: "0 */1 * * *" # every hour on 0 minutes
   workflow_dispatch:       # allow manual run via GitHub UI
 
 permissions:
@@ -27,7 +27,7 @@ jobs:
         run: node index.js
         env:
           BOT_GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
-          BATCH_NUM: 2
+          BATCH_NUM: 1
 
       - name: Commit and push results
         run: |
