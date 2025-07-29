@@ -3,30 +3,30 @@
     "hash_name": "USP-S | 27 (Well-Worn)",
     "item_nameid": 176460493,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08mlhL-NnvL4N4TCmGpa7fp8j-3I4IG73gfgqENlMmHxLYeddlU4Z1CE-wXtyOfqg5C7tZidmyNhvSZ24XjUnQv3308quJuAfQ",
-    "sell_order_count": "2,653",
-    "buy_order_count": "44,280",
-    "lowest_sell_order": "0.12",
+    "sell_order_count": "2,654",
+    "buy_order_count": "44,181",
+    "lowest_sell_order": "0.11",
     "highest_buy_order": "0.10",
-    "date_modified": 1753819623575
+    "date_modified": 1753821811320
   },
   {
     "hash_name": "USP-S | 27 (Minimal Wear)",
     "item_nameid": 176460461,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08mlhL-NnvL4N4TCmGpa7fp9g-7J4cKtjQC38ks9YTz6cNSQdQU5Zl3V81S-xOzqgsfv6s_Byydi7nZ3sSnbgVXp1oZrc3sm",
     "sell_order_count": "1,152",
-    "buy_order_count": "71,952",
+    "buy_order_count": "71,951",
     "lowest_sell_order": "0.27",
     "highest_buy_order": "0.25",
-    "date_modified": 1753819631892
+    "date_modified": 1753821819478
   },
   {
     "hash_name": "USP-S | 27 (Field-Tested)",
     "item_nameid": 176460629,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08mlhL-NnvL4N4TCmGpa7fp8j-3I4IG73gfgqENlMmHxLYeddlU4Z1CE-wXtyOfqg5C7tZidmyNhvSZ24XjUnQv3308quJuAfQ",
-    "sell_order_count": "2,335",
-    "buy_order_count": "93,063",
+    "sell_order_count": "2,322",
+    "buy_order_count": "93,070",
     "lowest_sell_order": "0.15",
     "highest_buy_order": "0.13",
-    "date_modified": 1753819640007
+    "date_modified": 1753821827585
   }
 ]
