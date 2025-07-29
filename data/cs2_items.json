@@ -1278,5 +1278,155 @@
     "lowest_sell_order": "125.99",
     "highest_buy_order": "103.99",
     "date_modified": 1753644486599
+  },
+  {
+    "hash_name": "★ Survival Knife | Ultraviolet (Well-Worn)",
+    "item_nameid": 176507022,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC59_9OJhJWZh_vxDLbUkmJE5Ysi2-yWpoisilDn-kRsZG3xJY6WdlQ4M1vY-wC5ybi61Jfq6ZzBynZnpGB8suME_fNt",
+    "sell_order_count": "3",
+    "buy_order_count": "101",
+    "lowest_sell_order": "160.26",
+    "highest_buy_order": "123.24",
+    "date_modified": 1753803612052
+  },
+  {
+    "hash_name": "★ Survival Knife | Ultraviolet (Minimal Wear)",
+    "item_nameid": 176506559,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC59_9OJhJWZh_vxDLfYkWNFpsMh2bqVpdjwjlfl8xBlMm7zINDAJw8-M12B_Fjokr_n15W5uc-anCd9-n51yPy-ktU",
+    "sell_order_count": "11",
+    "buy_order_count": "153",
+    "lowest_sell_order": "179.59",
+    "highest_buy_order": "144.09",
+    "date_modified": 1753803619436
+  },
+  {
+    "hash_name": "★ Survival Knife | Ultraviolet (Field-Tested)",
+    "item_nameid": 176506404,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC59_9OJhJWZh_vxDLbUkmJE5Ysi2-yWpoisilDn-kRsZG3xJY6WdlQ4M1vY-wC5ybi61Jfq6ZzBynZnpGB8suME_fNt",
+    "sell_order_count": "13",
+    "buy_order_count": "212",
+    "lowest_sell_order": "140.04",
+    "highest_buy_order": "135.71",
+    "date_modified": 1753803627092
+  },
+  {
+    "hash_name": "★ Survival Knife | Ultraviolet (Factory New)",
+    "item_nameid": 176507340,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC59_9OJhJWZh_vxDLfYkWNFpsMh2bqVpdjwjlfl8xBlMm7zINDAJw8-M12B_Fjokr_n15W5uc-anCd9-n51yPy-ktU",
+    "sell_order_count": "1",
+    "buy_order_count": "73",
+    "lowest_sell_order": "307.18",
+    "highest_buy_order": "228.67",
+    "date_modified": 1753803634618
+  },
+  {
+    "hash_name": "★ Survival Knife | Ultraviolet (Battle-Scarred)",
+    "item_nameid": 176506333,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC59_9OJhJWZh_vxDLPUl31IpsMn3byU84ih3gTl8kpuam_1JIGXcVQ_NwmDqVG_xO_ph8S0u86Yz3V9-n51JumEXUc",
+    "sell_order_count": "4",
+    "buy_order_count": "1,154",
+    "lowest_sell_order": "149.50",
+    "highest_buy_order": "115.34",
+    "date_modified": 1753803641998
+  },
+  {
+    "hash_name": "★ Survival Knife | Tiger Tooth (Minimal Wear)",
+    "item_nameid": 176506395,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597dKJgImMkuXLPKnQmGxU18l4jeHVu9333AC2rRU9Y2igd9STegA2Yw3T8wW5xOrn1MS875rAzyZq7iIk537D30vgTiVyA-8",
+    "sell_order_count": "3",
+    "buy_order_count": "162",
+    "lowest_sell_order": "296.40",
+    "highest_buy_order": "201.04",
+    "date_modified": 1753803649420
+  },
+  {
+    "hash_name": "★ Survival Knife | Tiger Tooth (Factory New)",
+    "item_nameid": 176506373,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597dKJgImMkuXLPKnQmGxU18l4jeHVu9333AC2rRU9Y2igd9STegA2Yw3T8wW5xOrn1MS875rAzyZq7iIk537D30vgTiVyA-8",
+    "sell_order_count": "23",
+    "buy_order_count": "365",
+    "lowest_sell_order": "230.00",
+    "highest_buy_order": "218.74",
+    "date_modified": 1753803656800
+  },
+  {
+    "hash_name": "★ Survival Knife | Stained (Well-Worn)",
+    "item_nameid": 176097620,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2Jko-ZlPLwDLbUkmJE5Ysi0rGUpYiki1e3-EBvYzv7LYaUcQBvNFzWrgO3k-zmhZbp75TLmidqpGB8sud15uYh",
+    "sell_order_count": "4",
+    "buy_order_count": "222",
+    "lowest_sell_order": "150.36",
+    "highest_buy_order": "124.44",
+    "date_modified": 1753803664160
+  },
+  {
+    "hash_name": "★ Survival Knife | Stained (Minimal Wear)",
+    "item_nameid": 176097672,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2Jko-ZlPLwDLfYkWNFpsAljuzF9t-j0AOw_0A5MW_yJI7GJ1Q2MAqG_FO6x-rmjce8u5qbwXN9-n51dLqo0uM",
+    "sell_order_count": "9",
+    "buy_order_count": "179",
+    "lowest_sell_order": "162.00",
+    "highest_buy_order": "137.00",
+    "date_modified": 1753803671531
+  },
+  {
+    "hash_name": "★ Survival Knife | Stained (Field-Tested)",
+    "item_nameid": 176097723,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2Jko-ZlPLwDLbUkmJE5Ysi0rGUpYiki1e3-EBvYzv7LYaUcQBvNFzWrgO3k-zmhZbp75TLmidqpGB8sud15uYh",
+    "sell_order_count": "10",
+    "buy_order_count": "230",
+    "lowest_sell_order": "149.51",
+    "highest_buy_order": "132.38",
+    "date_modified": 1753803678993
+  },
+  {
+    "hash_name": "★ Survival Knife | Stained (Factory New)",
+    "item_nameid": 176097917,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2Jko-ZlPLwDLfYkWNFpsAljuzF9t-j0AOw_0A5MW_yJI7GJ1Q2MAqG_FO6x-rmjce8u5qbwXN9-n51dLqo0uM",
+    "sell_order_count": "4",
+    "buy_order_count": "147",
+    "lowest_sell_order": "228.85",
+    "highest_buy_order": "169.18",
+    "date_modified": 1753803686383
+  },
+  {
+    "hash_name": "★ Survival Knife | Stained (Battle-Scarred)",
+    "item_nameid": 176097703,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2Jko-ZlPLwDLPUl31IppEn3LyUpdjz2lflrhZkYmjzcNeTcQY4YA6ErlHvxezmgMO8tZXOynR9-n51N3ZRtNY",
+    "sell_order_count": "6",
+    "buy_order_count": "191",
+    "lowest_sell_order": "133.37",
+    "highest_buy_order": "120.46",
+    "date_modified": 1753803693756
+  },
+  {
+    "hash_name": "★ Survival Knife | Slaughter (Minimal Wear)",
+    "item_nameid": 176097507,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597dGJjoWJhfbLP7LWnn8fu8Qn07zF89yjjlft_RJuZ2GlddCXcQ9oYV-D-FK6x-q8h8K86pibzWwj5HcehI_jEg",
+    "sell_order_count": "14",
+    "buy_order_count": "274",
+    "lowest_sell_order": "262.04",
+    "highest_buy_order": "232.26",
+    "date_modified": 1753803701085
+  },
+  {
+    "hash_name": "★ Survival Knife | Slaughter (Field-Tested)",
+    "item_nameid": 176097651,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597dGJjoWJhfbLPr7Vn35cppwhie2S9o6kjQawrhY4MG-gcoDHclM4ZFHZ_FC6kL3u08C0uMmbwHp9-n51oysaRlk",
+    "sell_order_count": "9",
+    "buy_order_count": "163",
+    "lowest_sell_order": "283.36",
+    "highest_buy_order": "215.91",
+    "date_modified": 1753803708809
+  },
+  {
+    "hash_name": "★ Survival Knife | Slaughter (Factory New)",
+    "item_nameid": 176097529,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597dGJjoWJhfbLP7LWnn8fu8Qn07zF89yjjlft_RJuZ2GlddCXcQ9oYV-D-FK6x-q8h8K86pibzWwj5HcehI_jEg",
+    "sell_order_count": "10",
+    "buy_order_count": "307",
+    "lowest_sell_order": "296.40",
+    "highest_buy_order": "237.77",
+    "date_modified": 1753803985963
   }
 ]

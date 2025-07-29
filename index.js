@@ -10,11 +10,11 @@ import { existsSync } from 'fs';
 
 const item_info_link = "https://raw.githubusercontent.com/Kastuks/market-information/refs/heads/main/data/cs2_items.json";
 const skins_to_name_id = "https://raw.githubusercontent.com/somespecialone/steam-item-name-ids/refs/heads/master/data/cs2.json";
-const runWorkflowFor = 100; // seconds
+const runWorkflowFor = 2000; // seconds
 const BASE_URL = 'https://steamcommunity.com/market';
 const local_skins_to_name_id_path = "backup/cs2_skins_to_name_id.json";
 const GAME_ID = 730;
-const DELAY_MS = 7000;
+const DELAY_MS = 10000;
 const DELAY_AFTER_TIMEOUT = 30000;
 const MAX_RETRIES = 5;
 const outputPath = 'data/cs2_items.json';
@@ -106,7 +106,7 @@ async function fetchAllItemPrices(savePath = outputPath) {
   let maxAmount = Infinity;
 
   const itemListFromRender = await fetchAdditionalItemInfo();
-  const hashNameToNameId = await fetchSkinsToNameIds();
+  const hashNameToNameId = await fetchSkinsToNameIds(true);
 
    // Resume if file exists
   if (fsSync.existsSync(savePath)) {
@@ -136,7 +136,7 @@ async function fetchAllItemPrices(savePath = outputPath) {
 
       const url = `${BASE_URL}/itemordershistogram?norender=1&country=NL&language=english&currency=3&item_nameid=${itemNameId}&two_factor=0`;
       const axiosInstance = getAxiosInstance();
-      const { data } = await retry(() => axiosInstance.get(url));
+      const { data } = await retry(() => axiosInstance.get(url), 2);
     
       if (itemsMap[currentItemName]) {
         itemsMap[currentItemName] = {
