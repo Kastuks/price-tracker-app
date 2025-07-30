@@ -10,7 +10,13 @@ permissions:
 
 jobs:
   scrape:
+    name: Fetch Items Batch 2
     runs-on: ubuntu-latest
+    
+    concurrency:
+      group: fetch-items-2
+      cancel-in-progress: false
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
