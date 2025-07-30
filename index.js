@@ -137,6 +137,7 @@ async function fetchAllItemPrices(savePath = batchNum ? `data/cs2_prices/cs2_ite
     maxAmount = currentBatchStart + maxItemsProcessed;
   }
 
+  console.log(`Starting batch ${batchNum}, start: ${start} from index currentBatchStart: ${currentBatchStart} to maxAmount: ${maxAmount}, currentBatchMaximum: ${currentBatchMaximum}`);
   while (currentBatchStart < maxAmount) {
     try {
       const currentItem = itemListFromRender[currentBatchStart];
@@ -184,7 +185,7 @@ async function fetchAllItemPrices(savePath = batchNum ? `data/cs2_prices/cs2_ite
       if (currentBatchStart <= maxAmount) {
         await setStartFrom(start);
       } 
-      if (itemListFromRender.length > 1 && currentBatchStart >= itemListFromRender.length) {
+      if (itemListFromRender.length > 1 && currentBatchStart >= currentBatchMaximum) {
         await setStartFrom(0);
         console.log(`Reached end of item list at index ${start}. Setting start_from to 0.`);
       }
