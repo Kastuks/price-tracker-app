@@ -131,6 +131,12 @@ async function fetchAllItemPrices(savePath = batchNum ? `data/cs2_prices/cs2_ite
     }
   }
 
+  if (currentBatchStart >= currentBatchMaximum) {
+    currentBatchStart -= start;
+    start = 0;
+    await setStartFrom(0);
+  }
+
   if ((currentBatchStart + maxItemsProcessed) > currentBatchMaximum) {
     maxAmount = currentBatchMaximum;
   } else {
