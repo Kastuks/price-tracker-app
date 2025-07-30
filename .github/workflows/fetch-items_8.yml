@@ -16,6 +16,7 @@ jobs:
     concurrency:
       group: fetch-items-8
       cancel-in-progress: false
+      
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
