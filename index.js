@@ -117,7 +117,6 @@ async function fetchAllItemPrices(savePath = batchNum ? `data/cs2_prices/cs2_ite
       itemsMap = Object.fromEntries(existing.map(item => [item.hash_name, item]));
       start = await loadStartFrom();
       currentBatchStart = start;
-      console.log(`Resuming from item #${start}`);
     } catch {
       items = [];
     }
@@ -126,7 +125,8 @@ async function fetchAllItemPrices(savePath = batchNum ? `data/cs2_prices/cs2_ite
   if (batchNum) {
     const batchUnit = Math.trunc(itemListFromRender.length / batchSize)
     currentBatchStart += ((batchNum - 1) *  batchUnit);
-    if (batchNum !== batchSize) {
+    // env picks up a string instead of number, that's why we do != intead of !== here
+    if (batchNum != batchSize) {
       currentBatchMaximum = batchNum * batchUnit;
     }
   }
