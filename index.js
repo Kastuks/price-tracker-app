@@ -125,14 +125,14 @@ async function fetchAllItemPrices(savePath = batchNum ? `data/cs2_prices/cs2_ite
 
   if (batchNum) {
     const batchUnit = Math.trunc(itemListFromRender.length / batchSize)
-    currentBatchStart = (batchNum - 1) *  batchUnit;
+    currentBatchStart += ((batchNum - 1) *  batchUnit);
     if (batchNum !== batchSize) {
       currentBatchMaximum = batchNum * batchUnit;
     }
   }
 
   if ((currentBatchStart + maxItemsProcessed) > currentBatchMaximum) {
-    maxAmount = itemListFromRender.length;
+    maxAmount = currentBatchMaximum;
   } else {
     maxAmount = currentBatchStart + maxItemsProcessed;
   }
