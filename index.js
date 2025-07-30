@@ -151,6 +151,17 @@ async function fetchAllItemPrices(savePath = batchNum ? `data/cs2_prices/cs2_ite
       const itemNameId = hashNameToNameId[currentItemName];
       console.log(`Processing item: ${currentItemName} (ID: ${itemNameId})`);
 
+      start += count;
+      currentBatchStart += count;
+      if (currentBatchStart <= maxAmount) {
+        await setStartFrom(start);
+      }
+
+      if (itemListFromRender.length > 1 && currentBatchStart >= currentBatchMaximum) {
+        await setStartFrom(0);
+        console.log(`Reached end of item list at index ${start}. Setting start_from to 0.`);
+      }
+
       if (itemNameId === undefined) {
         console.warn(`No name ID found for item: ${currentItemName}`);
         continue;
@@ -183,18 +194,7 @@ async function fetchAllItemPrices(savePath = batchNum ? `data/cs2_prices/cs2_ite
       }
 
       console.log(`Fetched ${currentItemName} ${currentBatchStart}/${maxAmount}`);
-    
       await fs.writeFile(savePath, JSON.stringify(Object.values(itemsMap), null, 2));
-    
-      start += count;
-      currentBatchStart += count;
-      if (currentBatchStart <= maxAmount) {
-        await setStartFrom(start);
-      } 
-      if (itemListFromRender.length > 1 && currentBatchStart >= currentBatchMaximum) {
-        await setStartFrom(0);
-        console.log(`Reached end of item list at index ${start}. Setting start_from to 0.`);
-      }
       await sleep(DELAY_MS);
     } catch (err) {
       console.error(`Error fetching items at start=${start}: ${err.message}`);
