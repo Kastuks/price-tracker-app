@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  scrape:
+  fetch:
     name: Fetch Items Batch 4
     runs-on: ubuntu-latest
     
@@ -29,7 +29,13 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run scraper
+      - name: Pull latest from main before executing price fetch
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git pull origin main
+
+      - name: Run fetcher
         run: node index.js
         env:
           BOT_GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
