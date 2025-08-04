@@ -6,7 +6,6 @@ import fsSync, { promises as fs } from 'fs';
 import { existsSync } from 'fs';
 
 const item_info_link = "https://raw.githubusercontent.com/Kastuks/market-information/refs/heads/main/data/cs2_items.json";
-const skins_to_name_id_link = "https://raw.githubusercontent.com/somespecialone/steam-item-name-ids/refs/heads/master/data/cs2.json";
 const local_skins_to_name_id_path = "backup/cs2_skins_to_name_id.json";
 const runWorkflowFor = 1200; // seconds
 const BASE_URL = 'https://steamcommunity.com/market';
@@ -30,28 +29,7 @@ async function fetchAdditionalItemInfo() {
   });
 }
 
-async function fetchSkinsToNameIds() {
-  return new Promise(async (resolve, reject) => {
-      const url = skins_to_name_id_link;
-      await axios.get(url).then((response) => {
-        const data = response.data;
-        resolve(data);
-      });
-  });
-}
-
-// Optional: List of proxies
-const PROXIES = [
-  // 'http://username:password@proxyhost:port',
-  // 'http://proxyhost:port',
-];
-
-let proxyIndex = 0;
 function getAxiosInstance() {
-  if (PROXIES.length === 0) return axios;
-  const proxy = PROXIES[proxyIndex++ % PROXIES.length];
-  // const agent = new HttpsProxyAgent(proxy);
-  // return create({ httpsAgent: agent });
   return axios;
 }
 
