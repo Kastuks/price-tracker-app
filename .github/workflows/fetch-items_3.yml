@@ -18,6 +18,10 @@ jobs:
       cancel-in-progress: false
     
     steps:
+      - name: Sleep for 30 seconds
+        run: sleep 30s
+        shell: bash
+
       - name: Checkout repo
         uses: actions/checkout@v3
 
