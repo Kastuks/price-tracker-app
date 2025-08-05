@@ -1,0 +1,39 @@
+name: Squash Last 10 Commits
+
+on:
+  workflow_dispatch:      # Allow manual trigger
+    inputs:
+        commit_count:
+            description: 'Number of commits to squash'
+            required: true
+            default: '10'
+
+jobs:
+  squash:
+    runs-on: ubuntu-latest
+
+    concurrency:
+      group: squash-commits
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.BOT_GITHUB_TOKEN }}  # or use GITHUB_TOKEN if you're not pushing from a bot
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+      - name: Fetch full history
+        run: git fetch --unshallow
+
+      - name: Squash commits
+        run: |
+          COUNT=${{ github.event.inputs.commit_count }}
+          echo "Squashing last $COUNT commits..."
+          git reset --soft HEAD~$COUNT
+          git commit -m "Squash: Combine last $COUNT commits [Automated]"
+          git push origin HEAD --force
