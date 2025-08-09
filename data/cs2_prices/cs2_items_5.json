@@ -30003,11 +30003,11 @@
     "hash_name": "Souvenir Tec-9 | Red Quartz (Field-Tested)",
     "item_nameid": 2398881,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szLYyRR-N26mImRkvPLPr7Vn35cpsYg3L_Ep9igjAHt_xdpajjwJI_EcQ8-NA7UqAC2xefv08K4vJzKnyZ9-n51wjPABls",
-    "sell_order_count": "22",
+    "sell_order_count": "20",
     "buy_order_count": "446",
-    "lowest_sell_order": "13.80",
-    "highest_buy_order": "12.56",
-    "date_modified": 1754724602564
+    "lowest_sell_order": "15.32",
+    "highest_buy_order": "12.58",
+    "date_modified": 1754765057852
   },
   {
     "hash_name": "Souvenir Tec-9 | Red Quartz (Factory New)",
@@ -30017,7 +30017,7 @@
     "buy_order_count": "217",
     "lowest_sell_order": "34.62",
     "highest_buy_order": "26.01",
-    "date_modified": 1754724611008
+    "date_modified": 1754765066168
   },
   {
     "hash_name": "Souvenir Tec-9 | Nuclear Threat (Well-Worn)",
@@ -30026,8 +30026,8 @@
     "sell_order_count": "4",
     "buy_order_count": "55",
     "lowest_sell_order": "470.00",
-    "highest_buy_order": "85.98",
-    "date_modified": 1754724619281
+    "highest_buy_order": "92.28",
+    "date_modified": 1754765074305
   },
   {
     "hash_name": "Souvenir Tec-9 | Nuclear Threat (Minimal Wear)",
@@ -30036,8 +30036,8 @@
     "sell_order_count": "1",
     "buy_order_count": "277",
     "lowest_sell_order": "1087.67",
-    "highest_buy_order": "143.03",
-    "date_modified": 1754724627524
+    "highest_buy_order": "143.07",
+    "date_modified": 1754765082603
   },
   {
     "hash_name": "Souvenir Tec-9 | Nuclear Threat (Field-Tested)",
@@ -30046,8 +30046,8 @@
     "sell_order_count": "2",
     "buy_order_count": "207",
     "lowest_sell_order": "124.40",
-    "highest_buy_order": "98.03",
-    "date_modified": 1754724635897
+    "highest_buy_order": "98.91",
+    "date_modified": 1754765090890
   },
   {
     "hash_name": "Souvenir Tec-9 | Nuclear Threat (Battle-Scarred)",
@@ -30057,36 +30057,36 @@
     "buy_order_count": "198",
     "lowest_sell_order": "546.44",
     "highest_buy_order": "96.73",
-    "date_modified": 1754724644115
+    "date_modified": 1754765099057
   },
   {
     "hash_name": "Souvenir Tec-9 | Mummy's Rot (Well-Worn)",
     "item_nameid": 176372891,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09GjmY2SqPrxN7LEmyUH7MRyi-zE8dqh3wfj_RA5Zz2ncoCQc1c4NVDZq1Xqxea6hpLu6J3P1zI97evv0trv",
-    "sell_order_count": "38",
-    "buy_order_count": "2,893",
-    "lowest_sell_order": "0.53",
+    "sell_order_count": "43",
+    "buy_order_count": "2,894",
+    "lowest_sell_order": "0.52",
     "highest_buy_order": "0.48",
-    "date_modified": 1754724652372
+    "date_modified": 1754765107311
   },
   {
     "hash_name": "Souvenir Tec-9 | Mummy's Rot (Minimal Wear)",
     "item_nameid": 176372905,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09GjmY2SqPv9NLPF2G8HuMQpi7yX8Nuk2wTn_UZlMTr2doWWcAFvMA7R-lm7lee70MTpu5vXiSw0OQEEATk",
     "sell_order_count": "19",
-    "buy_order_count": "3,393",
-    "lowest_sell_order": "1.86",
+    "buy_order_count": "3,396",
+    "lowest_sell_order": "1.84",
     "highest_buy_order": "1.39",
-    "date_modified": 1754724660537
+    "date_modified": 1754765115537
   },
   {
     "hash_name": "Souvenir Tec-9 | Mummy's Rot (Field-Tested)",
     "item_nameid": 176372898,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09GjmY2SqPrxN7LEmyUH7MRyi-zE8dqh3wfj_RA5Zz2ncoCQc1c4NVDZq1Xqxea6hpLu6J3P1zI97evv0trv",
-    "sell_order_count": "27",
+    "sell_order_count": "25",
     "buy_order_count": "6,911",
     "lowest_sell_order": "0.76",
-    "highest_buy_order": "0.65",
-    "date_modified": 1754724668811
+    "highest_buy_order": "0.66",
+    "date_modified": 1754765123689
   }
 ]
