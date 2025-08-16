@@ -3007,7 +3007,7 @@
     "buy_order_count": "152",
     "lowest_sell_order": "647.54",
     "highest_buy_order": "537.62",
-    "date_modified": 1755338930594
+    "date_modified": 1755378474971
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Ultraviolet (Battle-Scarred)",
@@ -3017,17 +3017,17 @@
     "buy_order_count": "132",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "409.48",
-    "date_modified": 1755338938805
+    "date_modified": 1755378483074
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Tiger Tooth (Factory New)",
     "item_nameid": 176045141,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmcjgOrzUhFRe-sR_jez--YXygED6qRU5Nj-gIIDDJw5rYlCEr1G9yefthZO9usnMzCFn7yIm4H3ZnkGxiQYMMLJaPaiaJQ",
     "sell_order_count": "2",
-    "buy_order_count": "363",
+    "buy_order_count": "362",
     "lowest_sell_order": "1161.84",
-    "highest_buy_order": "950.24",
-    "date_modified": 1755338947130
+    "highest_buy_order": "936.51",
+    "date_modified": 1755378491216
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Slaughter (Minimal Wear)",
@@ -3037,7 +3037,7 @@
     "buy_order_count": "280",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "913.04",
-    "date_modified": 1755338955467
+    "date_modified": 1755378499396
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Slaughter (Field-Tested)",
@@ -3047,17 +3047,17 @@
     "buy_order_count": "184",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "824.85",
-    "date_modified": 1755338963673
+    "date_modified": 1755378507511
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Slaughter (Factory New)",
     "item_nameid": 176001495,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjuNrnDl1Rd4cJ5nqeT9t3zjAWyrRZoYmD6ItPDIw43ZQ3W_Ae_ye3mgsPu7cvPzyQyu3N3-z-DyNf7crE4",
-    "sell_order_count": "1",
+    "sell_order_count": 0,
     "buy_order_count": "1,397",
-    "lowest_sell_order": "1361.07",
+    "lowest_sell_order": "0.00",
     "highest_buy_order": "1194.74",
-    "date_modified": 1755338972011
+    "date_modified": 1755378515795
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Scorched (Well-Worn)",
@@ -3067,37 +3067,37 @@
     "buy_order_count": "116",
     "lowest_sell_order": "550.00",
     "highest_buy_order": "367.27",
-    "date_modified": 1755338980342
+    "date_modified": 1755378524057
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Scorched (Minimal Wear)",
     "item_nameid": 176009087,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-Yh8jwMqvBmm5u5Mx2gv2P89-t2A218hZqMmjyJICRIVA-NQqGrFnol-rmhp_otJzKwCEwsnYl5WGdwUK9YInkvw",
-    "sell_order_count": "1",
+    "sell_order_count": 0,
     "buy_order_count": "93",
-    "lowest_sell_order": "609.50",
+    "lowest_sell_order": "0.00",
     "highest_buy_order": "413.36",
-    "date_modified": 1755338988482
+    "date_modified": 1755378532225
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Scorched (Field-Tested)",
     "item_nameid": 176000051,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-Yh8jwMqvBmm5u5cB1g_zMu46k2lLk-xJqa237ddLBdgRrNAzT_1K5xbrr1MK6vZjJwHMwsnEjsXfD30vgABTRJno",
-    "sell_order_count": "3",
-    "buy_order_count": "150",
+    "sell_order_count": "2",
+    "buy_order_count": "149",
     "lowest_sell_order": "469.32",
     "highest_buy_order": "372.10",
-    "date_modified": 1755338996748
+    "date_modified": 1755378540428
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Safari Mesh (Field-Tested)",
     "item_nameid": 176004032,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-Yh8j5NqjZqX9Q5vp8j-3I4IG73wG3-UVua2GgJ4fAdQE5ZQzRrlK5k7jvhJHo6prLyXFjvyMm4XaInAv330_ld3TUNw",
-    "sell_order_count": "2",
+    "sell_order_count": "1",
     "buy_order_count": "173",
-    "lowest_sell_order": "428.31",
+    "lowest_sell_order": "450.00",
     "highest_buy_order": "323.39",
-    "date_modified": 1755339005160
+    "date_modified": 1755378548631
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Safari Mesh (Battle-Scarred)",
@@ -3107,7 +3107,7 @@
     "buy_order_count": "129",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "309.44",
-    "date_modified": 1755339013399
+    "date_modified": 1755378556917
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Rust Coat (Battle-Scarred)",
@@ -3115,9 +3115,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KhsjnJ77UmlRa5sx3j9bJ8I3jkRrh_0RuZmqnIYGUcVI4Zl6D81btxO-5gJa67ZnIwXY16XR34HiOzBe0n1gSOQJlG9hM",
     "sell_order_count": "4",
     "buy_order_count": "197",
-    "lowest_sell_order": "563.45",
+    "lowest_sell_order": "565.00",
     "highest_buy_order": "537.39",
-    "date_modified": 1755339021748
+    "date_modified": 1755378565186
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Night Stripe (Minimal Wear)",
@@ -3127,47 +3127,47 @@
     "buy_order_count": "121",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "458.00",
-    "date_modified": 1755339030066
+    "date_modified": 1755378573391
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Night Stripe (Field-Tested)",
     "item_nameid": 176000935,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-Yh8j6OrzZgnhF-sxhj9bM8Ij8nVn6rhdraz_ydYaWeg88YAuD8wXrku-805DptZqfzCY3siFx43bdmRLiiQYMMLLaq6hq4A",
-    "sell_order_count": "3",
+    "sell_order_count": "1",
     "buy_order_count": "147",
-    "lowest_sell_order": "619.02",
+    "lowest_sell_order": "644.00",
     "highest_buy_order": "404.50",
-    "date_modified": 1755339038391
+    "date_modified": 1755378581538
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Night Stripe (Battle-Scarred)",
     "item_nameid": 176007376,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-Yh8j6OrzZgnhF-sxhj9bJ8I3jkRqxrRU5Nzv3ddDGcQE4NQvU_lK4xum8gJLvuZvIyyQxvyd3t3qJnUTin1gSObimFSEF",
     "sell_order_count": "1",
-    "buy_order_count": "150",
-    "lowest_sell_order": "492.56",
-    "highest_buy_order": "382.64",
-    "date_modified": 1755339046538
+    "buy_order_count": "151",
+    "lowest_sell_order": "504.88",
+    "highest_buy_order": "382.66",
+    "date_modified": 1755378589704
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Marble Fade (Factory New)",
     "item_nameid": 176043272,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-Kmsj5MqnTmm5u7sR1j9bW_Ij6n2u4ohQ0J3fycYKVelU7YA2C-Vbvw7vr1MW17p_KyXdi6XR05n2OmUHihR9Ka7Zpm7XAHhcAmaWL",
-    "sell_order_count": "4",
-    "buy_order_count": "1,012",
+    "sell_order_count": "3",
+    "buy_order_count": "1,014",
     "lowest_sell_order": "1538.24",
-    "highest_buy_order": "1175.00",
-    "date_modified": 1755339054881
+    "highest_buy_order": "1180.71",
+    "date_modified": 1755378597954
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Forest DDPAT (Field-Tested)",
     "item_nameid": 176002805,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-DjsjwN6vQglRc7cF4n-SPoImj2FK2rhVvZGvzLY-XJgE7ZFiCrAW6wOzvgsS56pzAwHcwsnUk4WGdwUKUM_hY3Q",
-    "sell_order_count": "2",
+    "sell_order_count": "1",
     "buy_order_count": "160",
-    "lowest_sell_order": "489.35",
+    "lowest_sell_order": "483.99",
     "highest_buy_order": "368.00",
-    "date_modified": 1755339063018
+    "date_modified": 1755378606083
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Forest DDPAT (Battle-Scarred)",
@@ -3177,17 +3177,17 @@
     "buy_order_count": "94",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "305.05",
-    "date_modified": 1755339071256
+    "date_modified": 1755378614232
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Damascus Steel (Minimal Wear)",
     "item_nameid": 176045295,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KhsjwMrbQhWhE-_pmg-3O4rP5gVO8v11sa2GhLNCVcAU7M1jWr1a4xejv0MDp6Z7BziNg7HV25CrUmkG21xBEcKUx0lfgoPEy",
-    "sell_order_count": "2",
-    "buy_order_count": "70",
-    "lowest_sell_order": "789.87",
-    "highest_buy_order": "547.33",
-    "date_modified": 1755339079575
+    "sell_order_count": "1",
+    "buy_order_count": "69",
+    "lowest_sell_order": "794.24",
+    "highest_buy_order": "500.71",
+    "date_modified": 1755378622483
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Damascus Steel (Field-Tested)",
@@ -3197,7 +3197,7 @@
     "buy_order_count": "159",
     "lowest_sell_order": "849.00",
     "highest_buy_order": "548.20",
-    "date_modified": 1755339087709
+    "date_modified": 1755378630673
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Damascus Steel (Factory New)",
@@ -3206,18 +3206,18 @@
     "sell_order_count": "4",
     "buy_order_count": "188",
     "lowest_sell_order": "724.22",
-    "highest_buy_order": "614.67",
-    "date_modified": 1755339095886
+    "highest_buy_order": "611.47",
+    "date_modified": 1755378639050
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Crimson Web (Field-Tested)",
     "item_nameid": 176002726,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-DjsjjNrnCqWZU7Mxkh6eY8Njxiw3j-BZsYmCgJoDDI1I5Yg3ZqVm3wO_v0568vpTMnXo16CEm-z-DyFv9ID8s",
     "sell_order_count": "2",
-    "buy_order_count": "158",
+    "buy_order_count": "159",
     "lowest_sell_order": "867.16",
-    "highest_buy_order": "555.58",
-    "date_modified": 1755339104204
+    "highest_buy_order": "555.70",
+    "date_modified": 1755378647378
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Crimson Web (Battle-Scarred)",
@@ -3227,27 +3227,27 @@
     "buy_order_count": "77",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "467.36",
-    "date_modified": 1755339112436
+    "date_modified": 1755378655492
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Case Hardened (Minimal Wear)",
     "item_nameid": 176000558,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-Khsj7OrfUklRd4cJ5nqeW8dunjFewrkQ6amGncdKXdlc7NV7TrAXtxu3ojZG678nPnSEwvikh-z-DyNpbgGSB",
     "sell_order_count": "1",
-    "buy_order_count": "182",
+    "buy_order_count": "183",
     "lowest_sell_order": "900.00",
-    "highest_buy_order": "753.13",
-    "date_modified": 1755339120582
+    "highest_buy_order": "763.40",
+    "date_modified": 1755378663630
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Case Hardened (Field-Tested)",
     "item_nameid": 176000926,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-Khsj7OrfUklRc7cF4n-SP9t6g3VLgqkc6amCmJoWSdVc6ZVDRr1W_yb_u0Jbo6p-YyXQwuHMr5GGdwUJuLP4a5w",
     "sell_order_count": 0,
-    "buy_order_count": "137",
+    "buy_order_count": "138",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "607.62",
-    "date_modified": 1755339128838
+    "highest_buy_order": "607.63",
+    "date_modified": 1755378671799
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Case Hardened (Battle-Scarred)",
@@ -3257,47 +3257,47 @@
     "buy_order_count": "131",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "530.62",
-    "date_modified": 1755339136974
+    "date_modified": 1755378679918
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Boreal Forest (Minimal Wear)",
     "item_nameid": 176016868,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-DjsjyPKnUhX9u6spjj-jNyoD8j1yg5UtvYm70JIacd1M3Z1DT_wK9x7ruh8S8vczIzXBn6HR0s33cmhLkiE5SLrs4haF7aWA",
-    "sell_order_count": "2",
+    "sell_order_count": "3",
     "buy_order_count": "103",
-    "lowest_sell_order": "501.00",
+    "lowest_sell_order": "487.84",
     "highest_buy_order": "391.13",
-    "date_modified": 1755339145119
+    "date_modified": 1755378688051
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Boreal Forest (Field-Tested)",
     "item_nameid": 176002259,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-DjsjyPKnUhX9u6spjj-jNyoHwjF2hpl1lZz2nI4SSdQI3YwyEqwS3x7rp1MLou5TOmHtquXEg4nrVlxTiiUtFcKUx0hz3mdJd",
     "sell_order_count": "2",
-    "buy_order_count": "153",
+    "buy_order_count": "152",
     "lowest_sell_order": "433.84",
     "highest_buy_order": "368.85",
-    "date_modified": 1755339153566
+    "date_modified": 1755378696257
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Blue Steel (Minimal Wear)",
     "item_nameid": 176000513,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-Khsj2P67UklRd4cJ5nqeW94qj21HhqhJrYj_yLdSTJ1I9MlzZ81Hvwrrn05TtvcvJnSNluiYq-z-DyGpnGb5g",
     "sell_order_count": "1",
-    "buy_order_count": "152",
+    "buy_order_count": "151",
     "lowest_sell_order": "1185.60",
-    "highest_buy_order": "609.70",
-    "date_modified": 1755339161698
+    "highest_buy_order": "624.85",
+    "date_modified": 1755378704384
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Blue Steel (Factory New)",
     "item_nameid": 176038553,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-Khsj2P67UklRd4cJ5nqeW94qj21HhqhJrYj_yLdSTJ1I9MlzZ81Hvwrrn05TtvcvJnSNluiYq-z-DyGpnGb5g",
     "sell_order_count": 0,
-    "buy_order_count": "737",
+    "buy_order_count": "736",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "550.74",
-    "date_modified": 1755339169865
+    "highest_buy_order": "551.42",
+    "date_modified": 1755378712533
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife",
@@ -3306,8 +3306,8 @@
     "sell_order_count": "2",
     "buy_order_count": "438",
     "lowest_sell_order": "768.80",
-    "highest_buy_order": "611.00",
-    "date_modified": 1755339178207
+    "highest_buy_order": "610.85",
+    "date_modified": 1755378720692
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Urban Masked (Well-Worn)",
@@ -3317,37 +3317,37 @@
     "buy_order_count": "108",
     "lowest_sell_order": "201.09",
     "highest_buy_order": "130.56",
-    "date_modified": 1755339186361
+    "date_modified": 1755378728819
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Urban Masked (Minimal Wear)",
     "item_nameid": 176098789,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC59_8yJgIGbksjhIbnQmFRd4cJ5nqeVo9T33lXlqBY_amqlJI6cdABtZwrR-gK9lbrn1J-5v5SfzHM3uyUg-z-DyJFpZy8L",
-    "sell_order_count": "6",
-    "buy_order_count": "116",
-    "lowest_sell_order": "174.63",
-    "highest_buy_order": "131.92",
-    "date_modified": 1755339194505
+    "sell_order_count": "5",
+    "buy_order_count": "117",
+    "lowest_sell_order": "188.00",
+    "highest_buy_order": "132.25",
+    "date_modified": 1755378737202
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Urban Masked (Field-Tested)",
     "item_nameid": 176098166,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC59_8yJgIGbksjhIbnQmFRc7cF4n-SP9Nnw3lDs-xZlZGGlJYOccVc2NA6D8gfqwurmjZe1v8zKzCBquChwt2GdwUKZp6xJ3Q",
-    "sell_order_count": "2",
+    "sell_order_count": "3",
     "buy_order_count": "125",
-    "lowest_sell_order": "154.99",
-    "highest_buy_order": "116.85",
-    "date_modified": 1755339202650
+    "lowest_sell_order": "148.61",
+    "highest_buy_order": "117.08",
+    "date_modified": 1755378745353
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Urban Masked (Battle-Scarred)",
     "item_nameid": 176112755,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC59_8yJgIGbksjhIbnQmFRZ7cRnk6fC8Nin3QWyr0dlYjjwJIXAIwU7MlqE-VnqwrrtjcC96c6dnydquSAl-z-DyN23O9yF",
-    "sell_order_count": "4",
+    "sell_order_count": "3",
     "buy_order_count": "153",
-    "lowest_sell_order": "139.20",
+    "lowest_sell_order": "141.00",
     "highest_buy_order": "108.24",
-    "date_modified": 1755339210790
+    "date_modified": 1755378753493
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Ultraviolet (Well-Worn)",
@@ -3356,8 +3356,8 @@
     "sell_order_count": 0,
     "buy_order_count": "78",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "118.79",
-    "date_modified": 1755339218925
+    "highest_buy_order": "118.80",
+    "date_modified": 1755378761618
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Ultraviolet (Minimal Wear)",
@@ -3366,48 +3366,48 @@
     "sell_order_count": "2",
     "buy_order_count": "65",
     "lowest_sell_order": "216.47",
-    "highest_buy_order": "148.05",
-    "date_modified": 1755339227086
+    "highest_buy_order": "148.92",
+    "date_modified": 1755378769774
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Ultraviolet (Field-Tested)",
     "item_nameid": 176506553,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC59_9OJhJWZh_vxDLbUkmJE5Ysi2-yWpoisilDn-kRsZG3xJY6WdlQ4M1vY-wC5ybi61Jfq6ZzBynZnpGB8suME_fNt",
-    "sell_order_count": "2",
-    "buy_order_count": "100",
-    "lowest_sell_order": "192.20",
-    "highest_buy_order": "138.64",
-    "date_modified": 1755339235215
+    "sell_order_count": "3",
+    "buy_order_count": "102",
+    "lowest_sell_order": "191.10",
+    "highest_buy_order": "139.20",
+    "date_modified": 1755378777879
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Ultraviolet (Battle-Scarred)",
     "item_nameid": 176506791,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC59_9OJhJWZh_vxDLPUl31IpsMn3byU84ih3gTl8kpuam_1JIGXcVQ_NwmDqVG_xO_ph8S0u86Yz3V9-n51JumEXUc",
-    "sell_order_count": 0,
+    "sell_order_count": "1",
     "buy_order_count": "77",
-    "lowest_sell_order": "0.00",
+    "lowest_sell_order": "165.25",
     "highest_buy_order": "124.98",
-    "date_modified": 1755339243366
+    "date_modified": 1755378786012
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Tiger Tooth (Factory New)",
     "item_nameid": 176506392,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597dKJgImMkuXLPKnQmGxU18l4jeHVu9333AC2rRU9Y2igd9STegA2Yw3T8wW5xOrn1MS875rAzyZq7iIk537D30vgTiVyA-8",
     "sell_order_count": "2",
-    "buy_order_count": "145",
+    "buy_order_count": "144",
     "lowest_sell_order": "299.55",
-    "highest_buy_order": "242.20",
-    "date_modified": 1755339251622
+    "highest_buy_order": "241.70",
+    "date_modified": 1755378794244
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Stained (Well-Worn)",
     "item_nameid": 176097746,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2Jko-ZlPLwDLbUkmJE5Ysi0rGUpYiki1e3-EBvYzv7LYaUcQBvNFzWrgO3k-zmhZbp75TLmidqpGB8sud15uYh",
     "sell_order_count": "5",
-    "buy_order_count": "118",
+    "buy_order_count": "119",
     "lowest_sell_order": "149.90",
-    "highest_buy_order": "110.40",
-    "date_modified": 1755339259855
+    "highest_buy_order": "110.41",
+    "date_modified": 1755378802373
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Stained (Minimal Wear)",
@@ -3416,8 +3416,8 @@
     "sell_order_count": "5",
     "buy_order_count": "170",
     "lowest_sell_order": "201.76",
-    "highest_buy_order": "155.16",
-    "date_modified": 1755339268209
+    "highest_buy_order": "155.29",
+    "date_modified": 1755378810499
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Stained (Field-Tested)",
@@ -3427,7 +3427,7 @@
     "buy_order_count": "169",
     "lowest_sell_order": "186.58",
     "highest_buy_order": "152.60",
-    "date_modified": 1755339276362
+    "date_modified": 1755378818627
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Stained (Battle-Scarred)",
@@ -3437,7 +3437,7 @@
     "buy_order_count": "92",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "129.56",
-    "date_modified": 1755339291424
+    "date_modified": 1755378826869
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Slaughter (Minimal Wear)",
@@ -3447,7 +3447,7 @@
     "buy_order_count": "143",
     "lowest_sell_order": "280.60",
     "highest_buy_order": "240.90",
-    "date_modified": 1755339299578
+    "date_modified": 1755378834993
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Slaughter (Field-Tested)",
@@ -3457,7 +3457,7 @@
     "buy_order_count": "205",
     "lowest_sell_order": "275.58",
     "highest_buy_order": "235.35",
-    "date_modified": 1755339307731
+    "date_modified": 1755378843340
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Slaughter (Factory New)",
@@ -3467,7 +3467,7 @@
     "buy_order_count": "148",
     "lowest_sell_order": "382.14",
     "highest_buy_order": "300.07",
-    "date_modified": 1755339315867
+    "date_modified": 1755378851480
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Scorched (Well-Worn)",
@@ -3477,27 +3477,27 @@
     "buy_order_count": "94",
     "lowest_sell_order": "158.33",
     "highest_buy_order": "126.88",
-    "date_modified": 1755339324140
+    "date_modified": 1755378859636
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Scorched (Minimal Wear)",
     "item_nameid": 176097721,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC59_8yJkIGbh_vxDLfYkWNFpsMj3b-Vpd73iQfl-EI-NWGiLdWSdwI4Z1GEr1e8wb-9g5S9tMiYyiZ9-n51UTNvwRI",
     "sell_order_count": "4",
-    "buy_order_count": "103",
+    "buy_order_count": "102",
     "lowest_sell_order": "157.47",
-    "highest_buy_order": "119.02",
-    "date_modified": 1755339332262
+    "highest_buy_order": "121.41",
+    "date_modified": 1755378867899
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Scorched (Field-Tested)",
     "item_nameid": 176097766,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC59_8yJkIGbh_vxDLbUkmJE5Yt33bmV99T2jAfjrUM_YGDyLdOTdgQ_NQnWqADrxubs1Ja4ucnAm3BmpGB8sk1W9TL-",
-    "sell_order_count": "9",
-    "buy_order_count": "128",
+    "sell_order_count": "8",
+    "buy_order_count": "129",
     "lowest_sell_order": "137.78",
-    "highest_buy_order": "108.57",
-    "date_modified": 1755339340395
+    "highest_buy_order": "108.62",
+    "date_modified": 1755378876014
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Scorched (Battle-Scarred)",
@@ -3507,37 +3507,37 @@
     "buy_order_count": "132",
     "lowest_sell_order": "154.19",
     "highest_buy_order": "97.09",
-    "date_modified": 1755339348654
+    "date_modified": 1755378884186
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Safari Mesh (Well-Worn)",
     "item_nameid": 176098487,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC59_8yJmYWYn8jgMrXum25V4dB8xO2To4r2iQOw8hA4Zmv0INPGIVI9N13U_wK_krjsjJa97Zqbn3Rl7nU8pSGKPDzUqME",
     "sell_order_count": "4",
-    "buy_order_count": "106",
+    "buy_order_count": "105",
     "lowest_sell_order": "127.94",
     "highest_buy_order": "97.56",
-    "date_modified": 1755339356814
+    "date_modified": 1755378892320
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Safari Mesh (Minimal Wear)",
     "item_nameid": 176099412,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC59_8yJmYWYn8jgMrXummJW4NE_3u_F8d-iiVbi80o_am-hdtKVdA87Mw7ZrlHowe3shp6_upXNzndl7D5iuyhdN-7Nmw",
     "sell_order_count": "3",
-    "buy_order_count": "110",
-    "lowest_sell_order": "154.93",
-    "highest_buy_order": "101.09",
-    "date_modified": 1755339364944
+    "buy_order_count": "109",
+    "lowest_sell_order": "150.80",
+    "highest_buy_order": "101.20",
+    "date_modified": 1755378900452
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Safari Mesh (Field-Tested)",
     "item_nameid": 176097801,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC59_8yJmYWYn8jgMrXum25V4dB8xO2To4r2iQOw8hA4Zmv0INPGIVI9N13U_wK_krjsjJa97Zqbn3Rl7nU8pSGKPDzUqME",
-    "sell_order_count": "4",
+    "sell_order_count": "3",
     "buy_order_count": "122",
-    "lowest_sell_order": "123.99",
+    "lowest_sell_order": "124.81",
     "highest_buy_order": "105.83",
-    "date_modified": 1755339373097
+    "date_modified": 1755378908610
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Rust Coat (Battle-Scarred)",
@@ -3547,7 +3547,7 @@
     "buy_order_count": "120",
     "lowest_sell_order": "128.38",
     "highest_buy_order": "108.84",
-    "date_modified": 1755339381231
+    "date_modified": 1755378916764
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Night Stripe (Minimal Wear)",
@@ -3557,27 +3557,27 @@
     "buy_order_count": "134",
     "lowest_sell_order": "172.99",
     "highest_buy_order": "126.68",
-    "date_modified": 1755339389470
+    "date_modified": 1755378924876
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Night Stripe (Field-Tested)",
     "item_nameid": 176097635,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC59_8yJmomMn-PnJ6nYhm5u5cB1g_zMu9umjALm-0NpZ2v0I9XEdgRtNFnQ_lfqw-7mhJfousufyidg6XN0tHfD30vgFHpb-kQ",
-    "sell_order_count": "5",
-    "buy_order_count": "109",
-    "lowest_sell_order": "155.76",
+    "sell_order_count": "6",
+    "buy_order_count": "110",
+    "lowest_sell_order": "155.68",
     "highest_buy_order": "125.00",
-    "date_modified": 1755339397624
+    "date_modified": 1755378933022
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Marble Fade (Factory New)",
     "item_nameid": 176506643,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597dGJmYGZlfvxDL3Qkm5u5Mx2gv2P9tig3FXg_UJvNjz3LYGTdwY_aV3Q8wW_yLjphsDq6cnJzCY16ygk5mGdwUJ2qgRsNA",
     "sell_order_count": "10",
-    "buy_order_count": "140",
+    "buy_order_count": "138",
     "lowest_sell_order": "335.41",
-    "highest_buy_order": "292.07",
-    "date_modified": 1755339405761
+    "highest_buy_order": "292.30",
+    "date_modified": 1755378941158
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Well-Worn)",
@@ -3587,27 +3587,27 @@
     "buy_order_count": "102",
     "lowest_sell_order": "136.76",
     "highest_buy_order": "105.69",
-    "date_modified": 1755339413919
+    "date_modified": 1755378949264
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Minimal Wear)",
     "item_nameid": 176098037,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC595MWJkISbluPLP7LWnn8fsJQh2bHAoNisi1Ky_0Rsa2n1dtOcIFc9aV_T_gC-w-zuhpTpv5TNyWwj5HfOFiPsEg",
     "sell_order_count": "2",
-    "buy_order_count": "107",
+    "buy_order_count": "106",
     "lowest_sell_order": "144.40",
-    "highest_buy_order": "110.37",
-    "date_modified": 1755339422158
+    "highest_buy_order": "110.60",
+    "date_modified": 1755378957379
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Field-Tested)",
     "item_nameid": 176097724,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC595MWJkISbluPLPr7Vn35cpsAg37mYpYmkjAe2qURkMm-iJdfHJwI3N1uCrAC5k-i6hZe66Z_AnXJ9-n51jx1VaLM",
-    "sell_order_count": "4",
+    "sell_order_count": "3",
     "buy_order_count": "137",
     "lowest_sell_order": "135.58",
     "highest_buy_order": "114.17",
-    "date_modified": 1755339430295
+    "date_modified": 1755378965742
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Battle-Scarred)",
@@ -3617,17 +3617,17 @@
     "buy_order_count": "90",
     "lowest_sell_order": "138.83",
     "highest_buy_order": "112.94",
-    "date_modified": 1755339438534
+    "date_modified": 1755378974072
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Fade (Factory New)",
     "item_nameid": 176097921,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597d2JkoGPksj4OrzZgiUD65B02evD8d-s2lfsqhBvamumd9PAIFM3YQ6FqVLoleq6gZ7vtJ7P1zI97Qw5rMae",
-    "sell_order_count": "6",
-    "buy_order_count": "272",
+    "sell_order_count": "7",
+    "buy_order_count": "271",
     "lowest_sell_order": "429.24",
-    "highest_buy_order": "355.26",
-    "date_modified": 1755339446779
+    "highest_buy_order": "355.17",
+    "date_modified": 1755378982198
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Doppler (Minimal Wear)",
@@ -3637,47 +3637,47 @@
     "buy_order_count": "94",
     "lowest_sell_order": "1100.00",
     "highest_buy_order": "427.91",
-    "date_modified": 1755339455041
+    "date_modified": 1755378990343
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Doppler (Factory New)",
     "item_nameid": 176506544,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597dGJkI-bh_vxIYTBnmpC7ZZOhuDG_Zi7jlXm-UJkY23zcdTBI1JtYVnUrgDrye28gZe9tJvPn3Zk73Mr7SzVlwv330_Ek4zyMA",
-    "sell_order_count": "15",
+    "sell_order_count": "13",
     "buy_order_count": "174",
-    "lowest_sell_order": "504.94",
-    "highest_buy_order": "407.42",
-    "date_modified": 1755339463179
+    "lowest_sell_order": "513.51",
+    "highest_buy_order": "407.38",
+    "date_modified": 1755378998584
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Damascus Steel (Minimal Wear)",
     "item_nameid": 176506999,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2JkIGGluT3JqjummJW4NE_3bCQ9oqk3A3j_0E_Nm-ldY6TIAQ4YgzV_APrkO_thZHp7c-am3c17D5iuyh2TI3HiQ",
-    "sell_order_count": "4",
-    "buy_order_count": "75",
-    "lowest_sell_order": "164.29",
-    "highest_buy_order": "136.91",
-    "date_modified": 1755339471416
+    "sell_order_count": "3",
+    "buy_order_count": "74",
+    "lowest_sell_order": "173.55",
+    "highest_buy_order": "137.50",
+    "date_modified": 1755379006861
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Damascus Steel (Field-Tested)",
     "item_nameid": 176507009,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2JkIGGluT3Jqjum25V4dB8xO-Vo96s3Fex-UU9YWHwd4SVdANvYF3X-le_l7ju0J_tvcjLyHJhuCc8pSGK-RifTXc",
-    "sell_order_count": "4",
-    "buy_order_count": "79",
+    "sell_order_count": "5",
+    "buy_order_count": "80",
     "lowest_sell_order": "177.16",
-    "highest_buy_order": "130.61",
-    "date_modified": 1755339479679
+    "highest_buy_order": "130.64",
+    "date_modified": 1755379015109
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Damascus Steel (Factory New)",
     "item_nameid": 176507008,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2JkIGGluT3JqjummJW4NE_3bCQ9oqk3A3j_0E_Nm-ldY6TIAQ4YgzV_APrkO_thZHp7c-am3c17D5iuyh2TI3HiQ",
     "sell_order_count": "2",
-    "buy_order_count": "76",
+    "buy_order_count": "75",
     "lowest_sell_order": "219.00",
-    "highest_buy_order": "157.79",
-    "date_modified": 1755339487839
+    "highest_buy_order": "160.43",
+    "date_modified": 1755379023221
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Crimson Web (Well-Worn)",
@@ -3686,8 +3686,8 @@
     "sell_order_count": "3",
     "buy_order_count": "107",
     "lowest_sell_order": "226.58",
-    "highest_buy_order": "169.39",
-    "date_modified": 1755339496018
+    "highest_buy_order": "170.00",
+    "date_modified": 1755379031347
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Crimson Web (Minimal Wear)",
@@ -3696,58 +3696,58 @@
     "sell_order_count": "2",
     "buy_order_count": "126",
     "lowest_sell_order": "321.14",
-    "highest_buy_order": "236.99",
-    "date_modified": 1755339504285
+    "highest_buy_order": "235.99",
+    "date_modified": 1755379039623
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Crimson Web (Field-Tested)",
     "item_nameid": 176097920,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC595MWJg4WJhMj5Nr_Yg2Yfv5cm27qZo9ii2lWx_hVuaj31cdPAcQE2Z1jT_ATrybi91sDpvpidyGwj5HelqB08ag",
-    "sell_order_count": "2",
-    "buy_order_count": "319",
-    "lowest_sell_order": "240.50",
-    "highest_buy_order": "172.57",
-    "date_modified": 1755339512424
+    "sell_order_count": "3",
+    "buy_order_count": "320",
+    "lowest_sell_order": "237.60",
+    "highest_buy_order": "172.61",
+    "date_modified": 1755379047767
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Crimson Web (Battle-Scarred)",
     "item_nameid": 176098351,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC595MWJg4WJhMj8NrrHjyVXv8Qk2bmVpYmn3FLi8xFpMW3zJ9PAIABoM1CG_VDtlejs0J_tvM7J1zI97VjsWDRC",
-    "sell_order_count": "2",
+    "sell_order_count": "1",
     "buy_order_count": "138",
-    "lowest_sell_order": "251.64",
+    "lowest_sell_order": "256.27",
     "highest_buy_order": "159.59",
-    "date_modified": 1755339520632
+    "date_modified": 1755379055994
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Case Hardened (Well-Worn)",
     "item_nameid": 176098353,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2Jm4mHkvPLPr7Vn35cpsAp2bvDoIql3QPkqhVuamv6IteRc1dsZluEr1C9xe7uh5Dv7c_Pn3N9-n51LfLmuV0",
     "sell_order_count": "4",
-    "buy_order_count": "122",
+    "buy_order_count": "121",
     "lowest_sell_order": "231.93",
-    "highest_buy_order": "177.75",
-    "date_modified": 1755339528772
+    "highest_buy_order": "177.76",
+    "date_modified": 1755379064141
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Case Hardened (Minimal Wear)",
     "item_nameid": 176097814,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2Jm4mHkvPLP7LWnn8fvZckj7jAoI2g0AC1_hA-MG_1IteTcgY4YQzS_Vi4l-jp1sC1vZvPyGwj5HdDH7Pg6g",
     "sell_order_count": "5",
-    "buy_order_count": "136",
+    "buy_order_count": "137",
     "lowest_sell_order": "320.00",
-    "highest_buy_order": "201.19",
-    "date_modified": 1755339536904
+    "highest_buy_order": "203.46",
+    "date_modified": 1755379072257
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Case Hardened (Field-Tested)",
     "item_nameid": 176097897,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2Jm4mHkvPLPr7Vn35cpsAp2bvDoIql3QPkqhVuamv6IteRc1dsZluEr1C9xe7uh5Dv7c_Pn3N9-n51LfLmuV0",
-    "sell_order_count": "5",
-    "buy_order_count": "116",
-    "lowest_sell_order": "214.16",
-    "highest_buy_order": "181.67",
-    "date_modified": 1755339545538
+    "sell_order_count": "4",
+    "buy_order_count": "117",
+    "lowest_sell_order": "237.60",
+    "highest_buy_order": "183.95",
+    "date_modified": 1755379080413
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Case Hardened (Factory New)",
@@ -3757,17 +3757,17 @@
     "buy_order_count": "104",
     "lowest_sell_order": "633.33",
     "highest_buy_order": "315.93",
-    "date_modified": 1755339553789
+    "date_modified": 1755379088662
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Minimal Wear)",
     "item_nameid": 176100091,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC595MWJko-ZkuTgDLnehG5Q5Pp9g-7J4cLwjALt_kNrMm_1doaddlRqaFHV_wC7x-u61MXvuJ-amnJkviZ04X-PgVXp1pY2nuzO",
     "sell_order_count": "4",
-    "buy_order_count": "116",
+    "buy_order_count": "117",
     "lowest_sell_order": "144.59",
-    "highest_buy_order": "115.63",
-    "date_modified": 1755339561924
+    "highest_buy_order": "116.00",
+    "date_modified": 1755379096782
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Field-Tested)",
@@ -3777,47 +3777,47 @@
     "buy_order_count": "123",
     "lowest_sell_order": "128.46",
     "highest_buy_order": "113.82",
-    "date_modified": 1755339570273
+    "date_modified": 1755379104901
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Battle-Scarred)",
     "item_nameid": 176100029,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC595MWJko-ZkuTgDLnehG5Q5Pp5j-jX7MKmjVC1qERoYmv0IIGTcVJvaAvS8wO7kO66hpe57p_IyyEx7ygh5y3bgVXp1v9EQTz5",
     "sell_order_count": "1",
-    "buy_order_count": "110",
+    "buy_order_count": "111",
     "lowest_sell_order": "139.27",
-    "highest_buy_order": "96.34",
-    "date_modified": 1755339578419
+    "highest_buy_order": "98.39",
+    "date_modified": 1755379113168
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Blue Steel (Well-Worn)",
     "item_nameid": 176097849,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2JloyekvPLPr7Vn35cppJzjrCXp4isiVbg_BU4MTilLdeRIAQ_Ml7Z8wPrw--90Je1upTMznJ9-n51bHJtO9o",
-    "sell_order_count": "4",
+    "sell_order_count": "5",
     "buy_order_count": "109",
     "lowest_sell_order": "197.02",
     "highest_buy_order": "143.00",
-    "date_modified": 1755339586562
+    "date_modified": 1755379121279
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Blue Steel (Minimal Wear)",
     "item_nameid": 176098193,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2JloyekvPLP7LWnn8fsZR02O-ZpY3xjAbn_0ZvZG36d4KRdAY7Y1_ZrFm7ye7ngJO0u5icwWwj5Hetfi-2VA",
     "sell_order_count": "5",
-    "buy_order_count": "109",
+    "buy_order_count": "111",
     "lowest_sell_order": "197.31",
-    "highest_buy_order": "154.67",
-    "date_modified": 1755339594798
+    "highest_buy_order": "155.63",
+    "date_modified": 1755379129404
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Blue Steel (Field-Tested)",
     "item_nameid": 176100298,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2JloyekvPLPr7Vn35cppJzjrCXp4isiVbg_BU4MTilLdeRIAQ_Ml7Z8wPrw--90Je1upTMznJ9-n51bHJtO9o",
-    "sell_order_count": "6",
+    "sell_order_count": "5",
     "buy_order_count": "126",
-    "lowest_sell_order": "178.82",
-    "highest_buy_order": "145.07",
-    "date_modified": 1755339602953
+    "lowest_sell_order": "162.42",
+    "highest_buy_order": "145.26",
+    "date_modified": 1755379137563
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Blue Steel (Factory New)",
@@ -3827,27 +3827,27 @@
     "buy_order_count": "119",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "280.74",
-    "date_modified": 1755339611086
+    "date_modified": 1755379145669
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Blue Steel (Battle-Scarred)",
     "item_nameid": 176108870,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2JloyekvPLO77QgHIfuZYh3e3H89-i3lbnqRJtY2ChJNOdIwc_Zg2Bq1btw7vm05fu6ZrKyGwj5HfVY-XILw",
-    "sell_order_count": "3",
-    "buy_order_count": "107",
+    "sell_order_count": "2",
+    "buy_order_count": "106",
     "lowest_sell_order": "166.95",
     "highest_buy_order": "136.82",
-    "date_modified": 1755339619236
+    "date_modified": 1755379153807
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife",
     "item_nameid": 176097641,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaIAlp1fb3cjxM5c_4xYHaz6ChY7jTkzgJ6p0gjr6S9In231awrUBqYGj0JYPGJFI3ZQ2F8k_-n7nNhv9VGA",
     "sell_order_count": "12",
-    "buy_order_count": "210",
+    "buy_order_count": "209",
     "lowest_sell_order": "175.44",
     "highest_buy_order": "160.02",
-    "date_modified": 1755339627390
+    "date_modified": 1755379162061
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Urban Masked (Field-Tested)",
@@ -3857,7 +3857,7 @@
     "buy_order_count": "137",
     "lowest_sell_order": "316.66",
     "highest_buy_order": "289.11",
-    "date_modified": 1755339635540
+    "date_modified": 1755379170208
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Ultraviolet (Well-Worn)",
@@ -3867,7 +3867,7 @@
     "buy_order_count": "87",
     "lowest_sell_order": "445.06",
     "highest_buy_order": "263.73",
-    "date_modified": 1755339643787
+    "date_modified": 1755379178454
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Ultraviolet (Minimal Wear)",
@@ -3877,137 +3877,137 @@
     "buy_order_count": "108",
     "lowest_sell_order": "470.72",
     "highest_buy_order": "379.17",
-    "date_modified": 1755339651928
+    "date_modified": 1755379186753
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Ultraviolet (Field-Tested)",
     "item_nameid": 176043772,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh4-0h-LmI7fUqWZU7Mxkh6eQoI6l3lK1-xJkam2id4HGcFVtNVGD_gS8wuq71MDvu5iYynY3v3Ug-z-DyAOfICzf",
     "sell_order_count": "2",
-    "buy_order_count": "166",
+    "buy_order_count": "165",
     "lowest_sell_order": "371.24",
-    "highest_buy_order": "316.65",
-    "date_modified": 1755339660055
+    "highest_buy_order": "315.12",
+    "date_modified": 1755379195004
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Tiger Tooth (Factory New)",
     "item_nameid": 176043722,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlY60g_7zNqnumXlQ5sJ0teXI8oThxlK3rUZuZz2gINKTdlRoZlHZ_1Lsx-a5hJPuupXMmyFkvyEl7X-OlkepwUYbne5FSd4",
-    "sell_order_count": "4",
+    "sell_order_count": "5",
     "buy_order_count": "228",
-    "lowest_sell_order": "733.24",
+    "lowest_sell_order": "725.00",
     "highest_buy_order": "578.53",
-    "date_modified": 1755339668207
+    "date_modified": 1755379203136
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Stained (Well-Worn)",
     "item_nameid": 176011401,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0kfjmML7VqWZU7Mxkh6eUotSh0Q3g_EI9N2CmJ4HGcAdoYlDYqwLvyebnhZ7utcvOziQ3uykm-z-DyHmvP3Hv",
     "sell_order_count": "2",
-    "buy_order_count": "77",
+    "buy_order_count": "78",
     "lowest_sell_order": "390.00",
-    "highest_buy_order": "267.78",
-    "date_modified": 1755339676344
+    "highest_buy_order": "269.65",
+    "date_modified": 1755379211304
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Stained (Field-Tested)",
     "item_nameid": 176005696,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0kfjmML7VqWZU7Mxkh6eUotSh0Q3g_EI9N2CmJ4HGcAdoYlDYqwLvyebnhZ7utcvOziQ3uykm-z-DyHmvP3Hv",
     "sell_order_count": 0,
-    "buy_order_count": "110",
+    "buy_order_count": "109",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "289.82",
-    "date_modified": 1755339684484
+    "highest_buy_order": "289.46",
+    "date_modified": 1755379219437
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Stained (Factory New)",
     "item_nameid": 176017503,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0kfjmML7VqWdY781lxLnEpd6jiQTg_hBtYGuhJYbAc1dsaV3QrlC5we7u0JC4uJvJyiE37CA8pSGKs5Eh0CE",
-    "sell_order_count": "1",
+    "sell_order_count": 0,
     "buy_order_count": "84",
-    "lowest_sell_order": "428.31",
+    "lowest_sell_order": "0.00",
     "highest_buy_order": "326.32",
-    "date_modified": 1755339692622
+    "date_modified": 1755379227565
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Slaughter (Minimal Wear)",
     "item_nameid": 176003586,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlY20jfL2IbrummJW4NE_37qUo9-hjFHkqEtoMGjyJY6Ve1c5ZFzVrFnryOfs0cK_tZ_PyHJj6D5iuyhfIa0lkA",
     "sell_order_count": 0,
-    "buy_order_count": "160",
+    "buy_order_count": "158",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "588.16",
-    "date_modified": 1755339700819
+    "highest_buy_order": "588.19",
+    "date_modified": 1755379235848
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Scorched (Minimal Wear)",
     "item_nameid": 176001716,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh5C0k_bkI7fUqWdY781lxOiX89qiiwLg_kRkYmnyIdeRdFdsNwvTr1e6le_p05TutcmczXpkviY8pSGKYyV83kQ",
     "sell_order_count": "2",
-    "buy_order_count": "124",
+    "buy_order_count": "123",
     "lowest_sell_order": "459.97",
-    "highest_buy_order": "276.38",
-    "date_modified": 1755339708963
+    "highest_buy_order": "276.30",
+    "date_modified": 1755379243988
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Scorched (Field-Tested)",
     "item_nameid": 176000171,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh5C0k_bkI7fUqWZU7Mxkh6eYptWljQTj_kZsZGjzLYHEJwBsYVvU_FK7wbvv05677sifySM273Uq-z-DyCvWDDPp",
-    "sell_order_count": "3",
+    "sell_order_count": "4",
     "buy_order_count": "155",
-    "lowest_sell_order": "321.81",
-    "highest_buy_order": "246.60",
-    "date_modified": 1755339717117
+    "lowest_sell_order": "321.23",
+    "highest_buy_order": "245.00",
+    "date_modified": 1755379252106
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Safari Mesh (Field-Tested)",
     "item_nameid": 176001611,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh5C0mvLnO4TFl2Vu5cB1g_zMu9_xigS1_hE6YmmncYeRdFA8ZQ7Q8ljtlLzqgpK96pnAzSZquSl2t3rD30vg77VxOAg",
-    "sell_order_count": "3",
+    "sell_order_count": "4",
     "buy_order_count": "133",
-    "lowest_sell_order": "295.44",
+    "lowest_sell_order": "289.24",
     "highest_buy_order": "215.85",
-    "date_modified": 1755339725264
+    "date_modified": 1755379260379
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Safari Mesh (Battle-Scarred)",
     "item_nameid": 176011822,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh5C0mvLnO4TFl2Vu4MBwnPCP99n33QG3_ERoYmD7JICQc1VsZlCE-1K7xrzohJLttcmbzSM3uSBz7GGdwUJWxJjRsA",
-    "sell_order_count": "1",
+    "sell_order_count": 0,
     "buy_order_count": "83",
-    "lowest_sell_order": "397.97",
+    "lowest_sell_order": "0.00",
     "highest_buy_order": "204.53",
-    "date_modified": 1755339733404
+    "date_modified": 1755379268488
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Rust Coat (Battle-Scarred)",
     "item_nameid": 176043390,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0hOPxNrfunWVY7sBOguzA45W72wXn-ENtMjinIICTJwM6YV3W-Vi9k73mhZW16p3NzHRnsyNzsHrdmgv3309CdQ48_A",
-    "sell_order_count": "11",
+    "sell_order_count": "10",
     "buy_order_count": "182",
-    "lowest_sell_order": "312.89",
+    "lowest_sell_order": "319.20",
     "highest_buy_order": "282.10",
-    "date_modified": 1755339741742
+    "date_modified": 1755379276646
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Night Stripe (Minimal Wear)",
     "item_nameid": 176026854,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh5C0mf7zO6_CgnlY-MBOhuDG_Zi72APi8hdsMjrzItecIVc7ZFvYrAfswLi70cfvvczImnswsyVx7Xzdmgv3308DgDBjYQ",
-    "sell_order_count": "2",
+    "sell_order_count": "1",
     "buy_order_count": "105",
-    "lowest_sell_order": "468.06",
+    "lowest_sell_order": "640.00",
     "highest_buy_order": "296.16",
-    "date_modified": 1755339749885
+    "date_modified": 1755379284907
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Marble Fade (Factory New)",
     "item_nameid": 176044273,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlY20mvbmMbfUqW1Q7MBOhuDG_Zi70Vbm_kNoa2CiI46QegA-Z1uFqVO9xujpg5G1vsmbnXYx6ykr4CvVmgv3309NDWkpog",
-    "sell_order_count": "7",
-    "buy_order_count": "247",
-    "lowest_sell_order": "712.46",
-    "highest_buy_order": "643.65",
-    "date_modified": 1755339758012
+    "sell_order_count": "6",
+    "buy_order_count": "246",
+    "lowest_sell_order": "740.89",
+    "highest_buy_order": "643.58",
+    "date_modified": 1755379293053
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Forest DDPAT (Field-Tested)",
@@ -4017,27 +4017,27 @@
     "buy_order_count": "171",
     "lowest_sell_order": "284.86",
     "highest_buy_order": "244.66",
-    "date_modified": 1755339766247
+    "date_modified": 1755379301238
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Fade (Factory New)",
     "item_nameid": 176005915,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlYG0kfbwNoTdn2xZ_Isk2-iW99qh2wax_0ZtZ2HzLdKQcQ89MArSrFe8xbzogce5tM6dwHtmpGB8soikElfs",
-    "sell_order_count": "3",
+    "sell_order_count": "2",
     "buy_order_count": "315",
     "lowest_sell_order": "1066.06",
-    "highest_buy_order": "856.91",
-    "date_modified": 1755339774430
+    "highest_buy_order": "856.30",
+    "date_modified": 1755379309577
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Doppler (Factory New)",
     "item_nameid": 176043613,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlY20k_jkI7fUhFRB4MRij7r--YXygED6rRBlZmqlItCWcwU7NwrV81e8k7jo05O-78ufwXtiu3En53zcnEG2hgYMMLLKZPZ97A",
     "sell_order_count": "1",
-    "buy_order_count": "318",
+    "buy_order_count": "316",
     "lowest_sell_order": "1189.00",
-    "highest_buy_order": "956.72",
-    "date_modified": 1755339793910
+    "highest_buy_order": "951.54",
+    "date_modified": 1755379317694
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Damascus Steel (Field-Tested)",
@@ -4045,19 +4045,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0k_b5MqjSg3hu-Nd4meTAyoHwjF2hpl06NmumcoCTegQ-YV3R-lW6x-u60Ja6ucnJyyQ2siR37SrZzBW0105JcKUx0rHMwOTq",
     "sell_order_count": "2",
     "buy_order_count": "123",
-    "lowest_sell_order": "580.00",
+    "lowest_sell_order": "508.62",
     "highest_buy_order": "346.28",
-    "date_modified": 1755339802072
+    "date_modified": 1755379325815
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Damascus Steel (Factory New)",
     "item_nameid": 176043282,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0k_b5MqjSg3hu-Nd4meTAyoD8j1yg5UpkNT36doGSewM2NVGFrFi9lOe-0JG0uM7LyXVkuSMi4XjbnRS2gUlSLrs4cFbr10A",
-    "sell_order_count": "2",
+    "sell_order_count": "3",
     "buy_order_count": "162",
-    "lowest_sell_order": "496.17",
-    "highest_buy_order": "368.98",
-    "date_modified": 1755339810229
+    "lowest_sell_order": "470.72",
+    "highest_buy_order": "376.00",
+    "date_modified": 1755379334084
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Crimson Web (Field-Tested)",
@@ -4066,8 +4066,8 @@
     "sell_order_count": "4",
     "buy_order_count": "156",
     "lowest_sell_order": "533.85",
-    "highest_buy_order": "404.40",
-    "date_modified": 1755339818360
+    "highest_buy_order": "404.81",
+    "date_modified": 1755379342193
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Case Hardened (Well-Worn)",
@@ -4077,27 +4077,27 @@
     "buy_order_count": "139",
     "lowest_sell_order": "513.50",
     "highest_buy_order": "367.02",
-    "date_modified": 1755339826509
+    "date_modified": 1755379350333
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Case Hardened (Minimal Wear)",
     "item_nameid": 176001928,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0mP74Nr_ummJW4NE_3uuYrYmn2VKx-0Q_Yzv1cYGScwM6YV2F-lTox-y6h8TqtcvNyno26D5iuyiKjcAbMg",
     "sell_order_count": 0,
-    "buy_order_count": "149",
+    "buy_order_count": "148",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "440.13",
-    "date_modified": 1755339834762
+    "highest_buy_order": "438.27",
+    "date_modified": 1755379358661
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Case Hardened (Field-Tested)",
     "item_nameid": 176006159,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0mP74Nr_um25V4dB8xOuSoNqjjgTkrkI9azj0JteQcQBvYVzX-gK6xeq-0JbotZjIwXMyvCg8pSGK9qrjgtM",
     "sell_order_count": "2",
-    "buy_order_count": "132",
+    "buy_order_count": "133",
     "lowest_sell_order": "522.05",
-    "highest_buy_order": "408.22",
-    "date_modified": 1755339842894
+    "highest_buy_order": "408.26",
+    "date_modified": 1755379366864
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Boreal Forest (Field-Tested)",
@@ -4105,9 +4105,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJnJm0kfjmNqjFqWle-sBwhtbM8Ij8nVn6qURkYmz6cIHEcFc6aQ6B8li6ybjujcS6vsiam3tmv3Er5SzdzUe1gAYMMLL7LoSX2Q",
     "sell_order_count": "4",
     "buy_order_count": "149",
-    "lowest_sell_order": "290.99",
+    "lowest_sell_order": "286.71",
     "highest_buy_order": "235.56",
-    "date_modified": 1755339851137
+    "date_modified": 1755379375026
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Boreal Forest (Battle-Scarred)",
@@ -4117,17 +4117,17 @@
     "buy_order_count": "95",
     "lowest_sell_order": "305.16",
     "highest_buy_order": "202.81",
-    "date_modified": 1755339859395
+    "date_modified": 1755379383191
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Blue Steel (Well-Worn)",
     "item_nameid": 176000345,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0lfvhNr_um25V4dB8xOrD9t2t2QbsqUU_NzumIY-ccVBrMg6GqFDsxbu8gZ6-vZTIyHJksyM8pSGKI0d57sw",
-    "sell_order_count": 0,
-    "buy_order_count": "103",
-    "lowest_sell_order": "0.00",
-    "highest_buy_order": "341.59",
-    "date_modified": 1755339867521
+    "sell_order_count": "1",
+    "buy_order_count": "104",
+    "lowest_sell_order": "428.30",
+    "highest_buy_order": "341.61",
+    "date_modified": 1755379391531
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Blue Steel (Minimal Wear)",
@@ -4136,18 +4136,18 @@
     "sell_order_count": 0,
     "buy_order_count": "96",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "348.48",
-    "date_modified": 1755339875758
+    "highest_buy_order": "351.76",
+    "date_modified": 1755379399747
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Blue Steel (Field-Tested)",
     "item_nameid": 176000579,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0lfvhNr_um25V4dB8xOrD9t2t2QbsqUU_NzumIY-ccVBrMg6GqFDsxbu8gZ6-vZTIyHJksyM8pSGKI0d57sw",
-    "sell_order_count": "2",
-    "buy_order_count": "96",
-    "lowest_sell_order": "425.10",
-    "highest_buy_order": "364.59",
-    "date_modified": 1755339883942
+    "sell_order_count": 0,
+    "buy_order_count": "92",
+    "lowest_sell_order": "0.00",
+    "highest_buy_order": "299.01",
+    "date_modified": 1755379407884
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife",
@@ -4157,47 +4157,47 @@
     "buy_order_count": "366",
     "lowest_sell_order": "525.04",
     "highest_buy_order": "449.71",
-    "date_modified": 1755339892060
+    "date_modified": 1755379415987
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Urban Masked (Well-Worn)",
     "item_nameid": 176115440,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJh5C0g_bkNoTEhGlQ5vp8j-3I4IG7jFewqhVtMTihJNOVcFdrZFuC-lC-l7zsjZC775TOmiBj7ikrs3yIygv3309xGnVOPQ",
     "sell_order_count": "3",
-    "buy_order_count": "115",
+    "buy_order_count": "116",
     "lowest_sell_order": "348.70",
-    "highest_buy_order": "244.81",
-    "date_modified": 1755339900211
+    "highest_buy_order": "247.11",
+    "date_modified": 1755379424092
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Urban Masked (Minimal Wear)",
     "item_nameid": 176106375,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJh5C0g_bkNoTEhGlQ5vp9g-7J4cKnjgfm-hVoMD_0JNSSdlc7ZV_Z_wW9kOu9hMLotZ7KzHc2vyYqs3-OgVXp1koz0YSf",
     "sell_order_count": "1",
-    "buy_order_count": "109",
+    "buy_order_count": "107",
     "lowest_sell_order": "545.28",
-    "highest_buy_order": "289.86",
-    "date_modified": 1755339908475
+    "highest_buy_order": "289.94",
+    "date_modified": 1755379432265
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Urban Masked (Field-Tested)",
     "item_nameid": 176098162,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJh5C0g_bkNoTEhGlQ5vp8j-3I4IG7jFewqhVtMTihJNOVcFdrZFuC-lC-l7zsjZC775TOmiBj7ikrs3yIygv3309xGnVOPQ",
     "sell_order_count": "4",
-    "buy_order_count": "120",
+    "buy_order_count": "122",
     "lowest_sell_order": "312.38",
-    "highest_buy_order": "257.79",
-    "date_modified": 1755339916715
+    "highest_buy_order": "290.98",
+    "date_modified": 1755379440374
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Urban Masked (Battle-Scarred)",
     "item_nameid": 176098011,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJh5C0g_bkNoTEhGlQ5vp5j-jX7MKh3wKw-xZpZmimLYOUI1c9aQmDrFm_wLru0Me1tJSanHRhu3J34HePgVXp1jMedoo3",
     "sell_order_count": "2",
-    "buy_order_count": "107",
-    "lowest_sell_order": "390.62",
-    "highest_buy_order": "210.33",
-    "date_modified": 1755339924958
+    "buy_order_count": "108",
+    "lowest_sell_order": "395.95",
+    "highest_buy_order": "210.38",
+    "date_modified": 1755379448506
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Ultraviolet (Minimal Wear)",
@@ -4206,8 +4206,8 @@
     "sell_order_count": 0,
     "buy_order_count": "98",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "452.30",
-    "date_modified": 1755339933099
+    "highest_buy_order": "452.41",
+    "date_modified": 1755379456689
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Ultraviolet (Field-Tested)",
@@ -4217,37 +4217,37 @@
     "buy_order_count": "83",
     "lowest_sell_order": "475.19",
     "highest_buy_order": "431.79",
-    "date_modified": 1755339941361
+    "date_modified": 1755379464891
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Ultraviolet (Battle-Scarred)",
     "item_nameid": 176507262,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJh4-0h-LmI7fUqWNU6dNoxLzD8dSl3Abn80BlN2n6cdCUd1A-MF-ErAO7kLrsjZ-9uMmazCNgunU8pSGKbl3i424",
     "sell_order_count": 0,
-    "buy_order_count": "69",
+    "buy_order_count": "68",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "301.19",
-    "date_modified": 1755339949618
+    "highest_buy_order": "299.83",
+    "date_modified": 1755379473049
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Tiger Tooth (Factory New)",
     "item_nameid": 176506826,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlY60g_7zNqnumXlQ5sJ0teXI8oThxgK3rUdqZj-hLISUdgNtaF6DqwC_kLzvhpHvuZnMziZnv3F27XqLzBWpwUYbRABbpl4",
-    "sell_order_count": "3",
+    "sell_order_count": "2",
     "buy_order_count": "167",
     "lowest_sell_order": "972.81",
     "highest_buy_order": "757.00",
-    "date_modified": 1755339957764
+    "date_modified": 1755379481212
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Stained (Minimal Wear)",
     "item_nameid": 176099273,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0kfjmML7VqWdY781lxOqUodWljQfh_BFtNW7yIY7AIAM2N1DVrgLok-ru05Hp7Z7MwHdqvHQ8pSGKJ2upJwA",
-    "sell_order_count": "2",
+    "sell_order_count": "1",
     "buy_order_count": "134",
-    "lowest_sell_order": "517.50",
+    "lowest_sell_order": "524.58",
     "highest_buy_order": "426.25",
-    "date_modified": 1755339987991
+    "date_modified": 1755379489318
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Stained (Field-Tested)",
@@ -4257,7 +4257,7 @@
     "buy_order_count": "109",
     "lowest_sell_order": "470.02",
     "highest_buy_order": "392.06",
-    "date_modified": 1755339996243
+    "date_modified": 1755379497561
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Stained (Battle-Scarred)",
@@ -4267,7 +4267,7 @@
     "buy_order_count": "112",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "355.05",
-    "date_modified": 1755340004621
+    "date_modified": 1755379505854
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Slaughter (Field-Tested)",
@@ -4277,47 +4277,47 @@
     "buy_order_count": "161",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "745.54",
-    "date_modified": 1755340012886
+    "date_modified": 1755379513971
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Slaughter (Factory New)",
     "item_nameid": 176097791,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlY20jfL2IbrummJW4NE_jLGTodum0VHs_Us6Zm33JIOUdFU2YFmF_FO4w-rp0J64tJvLzCdmuj5iuyjHroyfRA",
     "sell_order_count": "2",
-    "buy_order_count": "500",
+    "buy_order_count": "501",
     "lowest_sell_order": "1281.87",
-    "highest_buy_order": "936.51",
-    "date_modified": 1755340021144
+    "highest_buy_order": "938.63",
+    "date_modified": 1755379522086
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Scorched (Field-Tested)",
     "item_nameid": 176097569,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJh5C0k_bkI7fUqWZU7Mxkh6fAp42k2lbs_0c5NmygI4bEIwQ_NFjYqQS-k--7jJK0tZnKm3Nms3Mq-z-DyOU68_E8",
     "sell_order_count": "2",
-    "buy_order_count": "117",
+    "buy_order_count": "116",
     "lowest_sell_order": "287.59",
     "highest_buy_order": "270.43",
-    "date_modified": 1755340029289
+    "date_modified": 1755379530393
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Safari Mesh (Well-Worn)",
     "item_nameid": 176098377,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJh5C0mvLnO4TFl2Vu5cB1g_zMu9vw0VXsqkBtZmvwJ4HBI1dqMw3Yqwe8krrrjcPv7ZXJyHdj7yZx4HjD30vgvWCEwIY",
     "sell_order_count": 0,
-    "buy_order_count": "54",
+    "buy_order_count": "53",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "210.29",
-    "date_modified": 1755340037418
+    "highest_buy_order": "211.46",
+    "date_modified": 1755379538541
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Safari Mesh (Field-Tested)",
     "item_nameid": 176097719,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJh5C0mvLnO4TFl2Vu5cB1g_zMu9vw0VXsqkBtZmvwJ4HBI1dqMw3Yqwe8krrrjcPv7ZXJyHdj7yZx4HjD30vgvWCEwIY",
     "sell_order_count": "4",
-    "buy_order_count": "366",
+    "buy_order_count": "367",
     "lowest_sell_order": "271.23",
-    "highest_buy_order": "222.55",
-    "date_modified": 1755340045567
+    "highest_buy_order": "222.64",
+    "date_modified": 1755379546646
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Safari Mesh (Battle-Scarred)",
@@ -4326,8 +4326,8 @@
     "sell_order_count": 0,
     "buy_order_count": "106",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "205.08",
-    "date_modified": 1755340053840
+    "highest_buy_order": "205.62",
+    "date_modified": 1755379554906
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Rust Coat (Well-Worn)",
@@ -4337,17 +4337,17 @@
     "buy_order_count": "73",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "294.44",
-    "date_modified": 1755340061987
+    "date_modified": 1755379563171
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Rust Coat (Battle-Scarred)",
     "item_nameid": 176506832,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0hOPxNrfunWVY7sBOguzA45W70QPtqEJrNz_wLNWTd1dvNAvW-VLol7q70Z69vZ7KmnEx7yBw4y3emQv330-z6mB-jA",
-    "sell_order_count": "3",
-    "buy_order_count": "107",
-    "lowest_sell_order": "339.20",
-    "highest_buy_order": "289.26",
-    "date_modified": 1755340070134
+    "sell_order_count": "5",
+    "buy_order_count": "108",
+    "lowest_sell_order": "309.00",
+    "highest_buy_order": "289.29",
+    "date_modified": 1755379571303
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Night Stripe (Well-Worn)",
@@ -4357,7 +4357,7 @@
     "buy_order_count": "52",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "275.42",
-    "date_modified": 1755340078476
+    "date_modified": 1755379579555
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Night Stripe (Minimal Wear)",
@@ -4366,8 +4366,8 @@
     "sell_order_count": 0,
     "buy_order_count": "88",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "343.88",
-    "date_modified": 1755340086632
+    "highest_buy_order": "343.71",
+    "date_modified": 1755379587662
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Night Stripe (Battle-Scarred)",
@@ -4377,17 +4377,17 @@
     "buy_order_count": "97",
     "lowest_sell_order": "308.14",
     "highest_buy_order": "268.72",
-    "date_modified": 1755340095639
+    "date_modified": 1755379595787
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Marble Fade (Factory New)",
     "item_nameid": 176507185,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlY20mvbmMbfUqW1Q7MBOhuDG_Zi73AKw_kE_YmH2IYLEIwVoYl3W-1S-x7_mgcPv6ZTIy3Vk6yZ05n6Jlwv330_oqr3y4w",
-    "sell_order_count": "5",
+    "sell_order_count": "2",
     "buy_order_count": "173",
-    "lowest_sell_order": "1126.00",
+    "lowest_sell_order": "1214.77",
     "highest_buy_order": "993.00",
-    "date_modified": 1755340103779
+    "date_modified": 1755379604047
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Forest DDPAT (Minimal Wear)",
@@ -4396,18 +4396,18 @@
     "sell_order_count": "1",
     "buy_order_count": "103",
     "lowest_sell_order": "342.33",
-    "highest_buy_order": "226.00",
-    "date_modified": 1755340111945
+    "highest_buy_order": "224.94",
+    "date_modified": 1755379612217
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Forest DDPAT (Field-Tested)",
     "item_nameid": 176097850,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJnJm0k_PkMq_um25V4dB8xLiVpd33igXnqEZrYzr3JIeUcwY5aAvU_ljolOru0J-_v52dz3Ri6SE8pSGKkbXdf-s",
     "sell_order_count": "1",
-    "buy_order_count": "130",
+    "buy_order_count": "129",
     "lowest_sell_order": "287.39",
-    "highest_buy_order": "233.79",
-    "date_modified": 1755340120199
+    "highest_buy_order": "233.62",
+    "date_modified": 1755379620364
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Forest DDPAT (Battle-Scarred)",
@@ -4417,17 +4417,17 @@
     "buy_order_count": "112",
     "lowest_sell_order": "344.47",
     "highest_buy_order": "214.67",
-    "date_modified": 1755340128338
+    "date_modified": 1755379628516
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Doppler (Factory New)",
     "item_nameid": 176507170,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlY20k_jkI7fUhFRB4MRij7r--YXygED6_hFkNm77coWTegJoY1-E_APtlLzr08Dq7snKz3ti7iV04yvbmkS10wYMMLIrHiDHVw",
-    "sell_order_count": "1",
+    "sell_order_count": 0,
     "buy_order_count": "374",
-    "lowest_sell_order": "1740.13",
+    "lowest_sell_order": "0.00",
     "highest_buy_order": "1500.00",
-    "date_modified": 1755340136493
+    "date_modified": 1755379636726
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Damascus Steel (Well-Worn)",
@@ -4437,7 +4437,7 @@
     "buy_order_count": "85",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "383.06",
-    "date_modified": 1755340144816
+    "date_modified": 1755379645055
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Damascus Steel (Field-Tested)",
@@ -4447,7 +4447,7 @@
     "buy_order_count": "1,115",
     "lowest_sell_order": "512.86",
     "highest_buy_order": "419.02",
-    "date_modified": 1755340152954
+    "date_modified": 1755379653208
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Damascus Steel (Factory New)",
@@ -4457,7 +4457,7 @@
     "buy_order_count": "74",
     "lowest_sell_order": "690.00",
     "highest_buy_order": "503.28",
-    "date_modified": 1755340162373
+    "date_modified": 1755379661333
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Crimson Web (Minimal Wear)",
@@ -4466,18 +4466,18 @@
     "sell_order_count": "1",
     "buy_order_count": "141",
     "lowest_sell_order": "1125.01",
-    "highest_buy_order": "826.00",
-    "date_modified": 1755340170514
+    "highest_buy_order": "827.00",
+    "date_modified": 1755379669459
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Crimson Web (Field-Tested)",
     "item_nameid": 176097584,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJnJm0gPL2IITck29Y_cg_2OuQ89mj0QywrUY4ZW-gLIGWdgdrMFGG_VC4lezn0Z-77sucyHZisj5iuyhHYT7xZA",
     "sell_order_count": "2",
-    "buy_order_count": "178",
+    "buy_order_count": "179",
     "lowest_sell_order": "835.94",
     "highest_buy_order": "632.99",
-    "date_modified": 1755340178659
+    "date_modified": 1755379677608
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Crimson Web (Battle-Scarred)",
@@ -4487,7 +4487,7 @@
     "buy_order_count": "580",
     "lowest_sell_order": "719.76",
     "highest_buy_order": "474.34",
-    "date_modified": 1755340186806
+    "date_modified": 1755379685872
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Case Hardened (Well-Worn)",
@@ -4495,29 +4495,29 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0mP74Nr_um25V4dB8xOzH8N6kiVfiqUJqNj-lLIPBd1VraVyG-1jqyL3s0ZbttZzLnCA3vyY8pSGKKtrDBRI",
     "sell_order_count": "4",
     "buy_order_count": "142",
-    "lowest_sell_order": "1070.78",
+    "lowest_sell_order": "1069.00",
     "highest_buy_order": "420.00",
-    "date_modified": 1755340195049
+    "date_modified": 1755379694054
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Case Hardened (Minimal Wear)",
     "item_nameid": 176098197,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0mP74Nr_ummJW4NE_jrCRoYin3QPs-EpoYzvxcI_HcVc4Mg3S8wS4k7vq0JG8uMjLynJqvj5iuyhPAbAUnQ",
     "sell_order_count": "1",
-    "buy_order_count": "196",
+    "buy_order_count": "194",
     "lowest_sell_order": "1114.77",
-    "highest_buy_order": "651.14",
-    "date_modified": 1755340203296
+    "highest_buy_order": "651.32",
+    "date_modified": 1755379702357
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Case Hardened (Field-Tested)",
     "item_nameid": 176097691,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0mP74Nr_um25V4dB8xOzH8N6kiVfiqUJqNj-lLIPBd1VraVyG-1jqyL3s0ZbttZzLnCA3vyY8pSGKKtrDBRI",
     "sell_order_count": "3",
-    "buy_order_count": "145",
+    "buy_order_count": "146",
     "lowest_sell_order": "628.76",
-    "highest_buy_order": "487.84",
-    "date_modified": 1755340211482
+    "highest_buy_order": "494.70",
+    "date_modified": 1755379710471
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Boreal Forest (Minimal Wear)",
@@ -4527,67 +4527,67 @@
     "buy_order_count": "102",
     "lowest_sell_order": "320.33",
     "highest_buy_order": "241.33",
-    "date_modified": 1755340219723
+    "date_modified": 1755379718620
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Boreal Forest (Field-Tested)",
     "item_nameid": 176097869,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJnJm0kfjmNqjFqWle-sBwhtbM8Ij8nVn6_UU-ZT3xJoOVdQc2Nw7Q81i_ye-815_ptczMzXtnvHIi4HreykS1gwYMMLJsIos_Ug",
     "sell_order_count": "2",
-    "buy_order_count": "115",
+    "buy_order_count": "114",
     "lowest_sell_order": "282.15",
-    "highest_buy_order": "244.33",
-    "date_modified": 1755340227862
+    "highest_buy_order": "239.62",
+    "date_modified": 1755379727562
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Boreal Forest (Battle-Scarred)",
     "item_nameid": 176097788,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJnJm0kfjmNqjFqWle-sBwhtbJ8I3jkRrh8kY9azyndYSQJgc-N1DR-1m4kuvuh5btu5jAyHdqsyQntH7dmUa3n1gSOXPAjAip",
     "sell_order_count": "4",
-    "buy_order_count": "107",
+    "buy_order_count": "106",
     "lowest_sell_order": "345.00",
-    "highest_buy_order": "212.20",
-    "date_modified": 1755340236030
+    "highest_buy_order": "213.07",
+    "date_modified": 1755379735666
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Blue Steel (Well-Worn)",
     "item_nameid": 176097652,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0lfvhNr_um25V4dB8xL6U99z3ilXhrUY9MGyico6cegQ-ZQ3RrFLox-3t0ZHov5WfnSMy7ic8pSGKNtqGJ3k",
     "sell_order_count": "1",
-    "buy_order_count": "116",
+    "buy_order_count": "115",
     "lowest_sell_order": "523.25",
-    "highest_buy_order": "422.54",
-    "date_modified": 1755340244272
+    "highest_buy_order": "422.76",
+    "date_modified": 1755379743790
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Blue Steel (Minimal Wear)",
     "item_nameid": 176098651,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0lfvhNr_ummJW4NE_jrnE89ml0AbkqkA6Y2nxLIbGdQ9vYV7V_Vi-k-jtjJa5uMycmnZlvz5iuyjAPkq86w",
-    "sell_order_count": "1",
+    "sell_order_count": 0,
     "buy_order_count": "146",
-    "lowest_sell_order": "1027.01",
-    "highest_buy_order": "482.46",
-    "date_modified": 1755340252511
+    "lowest_sell_order": "0.00",
+    "highest_buy_order": "482.85",
+    "date_modified": 1755379752157
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Blue Steel (Field-Tested)",
     "item_nameid": 176097759,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0lfvhNr_um25V4dB8xL6U99z3ilXhrUY9MGyico6cegQ-ZQ3RrFLox-3t0ZHov5WfnSMy7ic8pSGKNtqGJ3k",
     "sell_order_count": 0,
-    "buy_order_count": "137",
+    "buy_order_count": "136",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "444.44",
-    "date_modified": 1755340260761
+    "date_modified": 1755379760378
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Blue Steel (Battle-Scarred)",
     "item_nameid": 176097239,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0lfvhNr_unm5Q_tw_jLDHpoj23FHl80ZoNmv3d4LAcQE8N1_R-APrkO_oh5e875_JwHJqvj5iuyiq5NTG2A",
     "sell_order_count": "1",
-    "buy_order_count": "127",
+    "buy_order_count": "128",
     "lowest_sell_order": "590.53",
-    "highest_buy_order": "391.39",
-    "date_modified": 1755340269004
+    "highest_buy_order": "392.58",
+    "date_modified": 1755379768488
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife",
@@ -4597,7 +4597,7 @@
     "buy_order_count": "347",
     "lowest_sell_order": "694.00",
     "highest_buy_order": "668.39",
-    "date_modified": 1755340277147
+    "date_modified": 1755379776667
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Urban Masked (Well-Worn)",
@@ -4607,27 +4607,27 @@
     "buy_order_count": "91",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "105.68",
-    "date_modified": 1755340285409
+    "date_modified": 1755379784871
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Urban Masked (Minimal Wear)",
     "item_nameid": 67447367,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOilZCOqOLmMbrfqWdY781lxL6Yrdnz2wfn-RBqZ2r3dtXGdAdqNV-B-1W6we7tgMDtvc-YmHVhuCI8pSGKIarl7zc",
     "sell_order_count": "2",
-    "buy_order_count": "71",
+    "buy_order_count": "72",
     "lowest_sell_order": "230.00",
-    "highest_buy_order": "97.03",
-    "date_modified": 1755340294588
+    "highest_buy_order": "97.10",
+    "date_modified": 1755379793031
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Urban Masked (Field-Tested)",
     "item_nameid": 67125971,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOilZCOqOLmMbrfqWZU7Mxkh6fC9N3x2g3t_0A-a2mgIYOTdAM4aVGE_lW_xey7jMLt6ciazCdl7iEk-z-DyM4W1EZv",
     "sell_order_count": "3",
-    "buy_order_count": "159",
+    "buy_order_count": "158",
     "lowest_sell_order": "139.00",
     "highest_buy_order": "104.03",
-    "date_modified": 1755340302721
+    "date_modified": 1755379801192
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Ultraviolet (Well-Worn)",
@@ -4636,68 +4636,68 @@
     "sell_order_count": 0,
     "buy_order_count": "110",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "97.08",
-    "date_modified": 1755340310872
+    "highest_buy_order": "97.24",
+    "date_modified": 1755379809358
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Ultraviolet (Minimal Wear)",
     "item_nameid": 175884483,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR4-OmgZKbm_LLP7LWnn8f7ZIj37jE8Yijigay-xJpY2yhJdTBdVQ8YF3WrgC5x7rugZK-6pXBzWwj5Hf7T5iMZg",
     "sell_order_count": "2",
-    "buy_order_count": "142",
+    "buy_order_count": "143",
     "lowest_sell_order": "215.00",
     "highest_buy_order": "154.58",
-    "date_modified": 1755340319120
+    "date_modified": 1755379817598
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Ultraviolet (Field-Tested)",
     "item_nameid": 175880406,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR4-OmgZKbm_LLPr7Vn35cpsdzj7CZ892siVDk8hA4amvzctCSclVtYQnTqFm3k72-1pXoupvKyXV9-n51SWQXNAg",
-    "sell_order_count": "4",
+    "sell_order_count": "3",
     "buy_order_count": "185",
-    "lowest_sell_order": "129.54",
+    "lowest_sell_order": "137.05",
     "highest_buy_order": "117.41",
-    "date_modified": 1755340327265
+    "date_modified": 1755379825756
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Ultraviolet (Battle-Scarred)",
     "item_nameid": 175882091,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR4-OmgZKbm_LLO77QgHIfsZUi3-qRrdqs3wLs8kNpMTihIo6QIANqMF_X_Ve8kOjmhJ-5upXOmmwj5Hdslj2fmQ",
     "sell_order_count": "2",
-    "buy_order_count": "128",
+    "buy_order_count": "127",
     "lowest_sell_order": "138.00",
     "highest_buy_order": "116.70",
-    "date_modified": 1755340335424
+    "date_modified": 1755379833882
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Tiger Tooth (Minimal Wear)",
     "item_nameid": 175885515,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4uOinYeOhcj7IbrfkW5u5Mx2gv2PpNSl31HnqRdsZj36LNLGcQY6ZVyErFnvyOfqgpW8tc7PyXRkvSNw4mGdwUJnfQjSKQ",
     "sell_order_count": "1",
-    "buy_order_count": "115",
+    "buy_order_count": "114",
     "lowest_sell_order": "286.51",
     "highest_buy_order": "211.48",
-    "date_modified": 1755340343675
+    "date_modified": 1755379842022
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Tiger Tooth (Factory New)",
     "item_nameid": 175881186,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4uOinYeOhcj7IbrfkW5u5Mx2gv2PpNSl31HnqRdsZj36LNLGcQY6ZVyErFnvyOfqgpW8tc7PyXRkvSNw4mGdwUJnfQjSKQ",
-    "sell_order_count": "9",
-    "buy_order_count": "198",
-    "lowest_sell_order": "224.22",
+    "sell_order_count": "10",
+    "buy_order_count": "199",
+    "lowest_sell_order": "222.52",
     "highest_buy_order": "187.16",
-    "date_modified": 1755340351816
+    "date_modified": 1755379850278
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Stained (Well-Worn)",
     "item_nameid": 67237350,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eOwm5KIkvPLPr7Vn35cppEj07CY84-h2AW28kRpZ26gcYCUIAJqN12Fr1TvwOm80Ja86MzMynV9-n51E661uGY",
     "sell_order_count": "3",
-    "buy_order_count": "114",
+    "buy_order_count": "115",
     "lowest_sell_order": "196.27",
     "highest_buy_order": "117.61",
-    "date_modified": 1755340360169
+    "date_modified": 1755379858437
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Stained (Minimal Wear)",
@@ -4707,17 +4707,17 @@
     "buy_order_count": "125",
     "lowest_sell_order": "160.09",
     "highest_buy_order": "122.75",
-    "date_modified": 1755340368427
+    "date_modified": 1755379866581
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Stained (Field-Tested)",
     "item_nameid": 67137495,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eOwm5KIkvPLPr7Vn35cppEj07CY84-h2AW28kRpZ26gcYCUIAJqN12Fr1TvwOm80Ja86MzMynV9-n51E661uGY",
     "sell_order_count": "2",
-    "buy_order_count": "127",
+    "buy_order_count": "126",
     "lowest_sell_order": "171.48",
     "highest_buy_order": "114.92",
-    "date_modified": 1755340376560
+    "date_modified": 1755379874730
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Stained (Battle-Scarred)",
@@ -4727,7 +4727,7 @@
     "buy_order_count": "125",
     "lowest_sell_order": "138.27",
     "highest_buy_order": "104.21",
-    "date_modified": 1755340384710
+    "date_modified": 1755379882873
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Slaughter (Field-Tested)",
@@ -4736,8 +4736,8 @@
     "sell_order_count": "3",
     "buy_order_count": "80",
     "lowest_sell_order": "423.63",
-    "highest_buy_order": "149.87",
-    "date_modified": 1755340392857
+    "highest_buy_order": "156.36",
+    "date_modified": 1755379891008
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Slaughter (Factory New)",
@@ -4747,7 +4747,7 @@
     "buy_order_count": "205",
     "lowest_sell_order": "288.30",
     "highest_buy_order": "216.69",
-    "date_modified": 1755340400992
+    "date_modified": 1755379899202
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Scorched (Well-Worn)",
@@ -4757,7 +4757,7 @@
     "buy_order_count": "142",
     "lowest_sell_order": "157.96",
     "highest_buy_order": "95.00",
-    "date_modified": 1755340409163
+    "date_modified": 1755379907352
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Scorched (Minimal Wear)",
@@ -4767,17 +4767,17 @@
     "buy_order_count": "95",
     "lowest_sell_order": "160.61",
     "highest_buy_order": "119.87",
-    "date_modified": 1755340417419
+    "date_modified": 1755379915471
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Scorched (Field-Tested)",
     "item_nameid": 67566528,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLPr7Vn35cppcii7qXrYmg2AXgrhZpZ2v0d9KUelI_NFyC_ATvkLzthZa46J_Ayyd9-n51yJXplpk",
     "sell_order_count": "5",
-    "buy_order_count": "207",
+    "buy_order_count": "206",
     "lowest_sell_order": "140.00",
     "highest_buy_order": "107.18",
-    "date_modified": 1755340425560
+    "date_modified": 1755379923618
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Safari Mesh (Well-Worn)",
@@ -4787,7 +4787,7 @@
     "buy_order_count": "111",
     "lowest_sell_order": "116.68",
     "highest_buy_order": "98.40",
-    "date_modified": 1755340433819
+    "date_modified": 1755379931759
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Safari Mesh (Minimal Wear)",
@@ -4797,17 +4797,17 @@
     "buy_order_count": "133",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "96.37",
-    "date_modified": 1755340446063
+    "date_modified": 1755379940020
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Safari Mesh (Field-Tested)",
     "item_nameid": 67149393,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OO7kZODqOP1PYTck29Y_cg_j--RoN-h2VWx-UBuNW76dY7GcVNrN17Zrlbsl-7sjMW57c7AyHVgsz5iuyjCK3qA7w",
     "sell_order_count": "5",
-    "buy_order_count": "259",
+    "buy_order_count": "258",
     "lowest_sell_order": "107.08",
     "highest_buy_order": "95.84",
-    "date_modified": 1755340454200
+    "date_modified": 1755379948169
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Rust Coat (Well-Worn)",
@@ -4817,7 +4817,7 @@
     "buy_order_count": "114",
     "lowest_sell_order": "127.94",
     "highest_buy_order": "98.41",
-    "date_modified": 1755340462465
+    "date_modified": 1755379956348
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Rust Coat (Battle-Scarred)",
@@ -4825,9 +4825,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eOlgIWOm8j_PbLXk1RZ7cRnk6fE8N-h2AGy-BBtNW6iJ47GJ1Q8NA7Q-VPrwufrhce86pifwHth6yMk-z-DyLh5ka54",
     "sell_order_count": "9",
     "buy_order_count": "245",
-    "lowest_sell_order": "109.21",
+    "lowest_sell_order": "103.34",
     "highest_buy_order": "92.71",
-    "date_modified": 1755340470605
+    "date_modified": 1755379964469
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Night (Well-Worn)",
@@ -4837,7 +4837,7 @@
     "buy_order_count": "157",
     "lowest_sell_order": "206.68",
     "highest_buy_order": "106.04",
-    "date_modified": 1755340478734
+    "date_modified": 1755379972623
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Night (Minimal Wear)",
@@ -4847,77 +4847,77 @@
     "buy_order_count": "117",
     "lowest_sell_order": "201.25",
     "highest_buy_order": "109.75",
-    "date_modified": 1755340486912
+    "date_modified": 1755379980736
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Night (Field-Tested)",
     "item_nameid": 67457382,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR4-O4nYeDg8j5Nr_Yg2YfuZUi27GS8Img3VDlrUJuYm3zctTBcAdtN1jUrwK-xe-8jJPo6szPmmwj5Hfe0K-ZNQ",
-    "sell_order_count": 0,
+    "sell_order_count": "1",
     "buy_order_count": "197",
-    "lowest_sell_order": "0.00",
-    "highest_buy_order": "106.90",
-    "date_modified": 1755340495056
+    "lowest_sell_order": "175.74",
+    "highest_buy_order": "107.01",
+    "date_modified": 1755379989356
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Marble Fade (Factory New)",
     "item_nameid": 175881613,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eO7lZKJm_LLNbrVk1Rd4cJ5nqfDrd733FDlqUBpNTzyd4_HegBoYFuB-gS3wuzr0JO77ZWdmnJlsyB0-z-DyNdYtA-k",
-    "sell_order_count": "9",
+    "sell_order_count": "10",
     "buy_order_count": "239",
-    "lowest_sell_order": "264.90",
+    "lowest_sell_order": "264.45",
     "highest_buy_order": "232.24",
-    "date_modified": 1755340503186
+    "date_modified": 1755379997532
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Lore (Well-Worn)",
     "item_nameid": 176263602,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJB-eOmgZODqPv7Ib7um25V4dB8xL2V9NrwjAbi_kZrMW73JYeTJ1U8aVHZrFG-k7y9jMXtu8ibyHY3vSA8pSGK_-dllGc",
     "sell_order_count": "5",
-    "buy_order_count": "109",
+    "buy_order_count": "110",
     "lowest_sell_order": "185.00",
-    "highest_buy_order": "133.24",
-    "date_modified": 1755340511444
+    "highest_buy_order": "133.25",
+    "date_modified": 1755380005704
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Lore (Minimal Wear)",
     "item_nameid": 176263369,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJB-eOmgZODqPv7Ib7ummJW4NE_ieuZoNmk3Vay-BI6NWymJIacI1Q5ZFCE-VHtxujog57p7cmamHAxvz5iuyilMBNf_A",
     "sell_order_count": "4",
-    "buy_order_count": "142",
+    "buy_order_count": "143",
     "lowest_sell_order": "196.83",
-    "highest_buy_order": "164.16",
-    "date_modified": 1755340519571
+    "highest_buy_order": "164.99",
+    "date_modified": 1755380013816
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Lore (Field-Tested)",
     "item_nameid": 176263315,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJB-eOmgZODqPv7Ib7um25V4dB8xL2V9NrwjAbi_kZrMW73JYeTJ1U8aVHZrFG-k7y9jMXtu8ibyHY3vSA8pSGK_-dllGc",
-    "sell_order_count": "5",
+    "sell_order_count": "4",
     "buy_order_count": "159",
-    "lowest_sell_order": "179.72",
-    "highest_buy_order": "139.40",
-    "date_modified": 1755340527704
+    "lowest_sell_order": "181.99",
+    "highest_buy_order": "139.68",
+    "date_modified": 1755380022069
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Lore (Factory New)",
     "item_nameid": 176263825,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJB-eOmgZODqPv7Ib7ummJW4NE_ieuZoNmk3Vay-BI6NWymJIacI1Q5ZFCE-VHtxujog57p7cmamHAxvz5iuyilMBNf_A",
-    "sell_order_count": "1",
+    "sell_order_count": "2",
     "buy_order_count": "129",
-    "lowest_sell_order": "367.39",
+    "lowest_sell_order": "364.84",
     "highest_buy_order": "297.45",
-    "date_modified": 1755340535970
+    "date_modified": 1755380030222
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Lore (Battle-Scarred)",
     "item_nameid": 176263802,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJB-eOmgZODqPv7Ib7unm5Q_tw_2bGRo9miiQTi_BZvNm3ycIKTclVtYlHRqVe_kuy60MW8v5ibzSdg7D5iuygcf6YYOA",
     "sell_order_count": "2",
-    "buy_order_count": "122",
+    "buy_order_count": "121",
     "lowest_sell_order": "179.72",
-    "highest_buy_order": "125.78",
-    "date_modified": 1755340544098
+    "highest_buy_order": "125.95",
+    "date_modified": 1755380038471
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Gamma Doppler (Minimal Wear)",
@@ -4926,8 +4926,8 @@
     "sell_order_count": 0,
     "buy_order_count": "157",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "225.09",
-    "date_modified": 1755340552237
+    "highest_buy_order": "225.18",
+    "date_modified": 1755380046667
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Gamma Doppler (Factory New)",
@@ -4935,49 +4935,49 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eOxlY2GlsjwPKvBmm5D19V5i_rEp7P5gVO8v11uZGyndY7Bc1NoNFiC-lC6xe3q0Me76JydzSZh63Eg5HvZzBW1iRpOcKUx0nAjM6f5",
     "sell_order_count": "8",
     "buy_order_count": "305",
-    "lowest_sell_order": "274.96",
+    "lowest_sell_order": "274.90",
     "highest_buy_order": "236.72",
-    "date_modified": 1755340560504
+    "date_modified": 1755380054986
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Freehand (Well-Worn)",
     "item_nameid": 176275362,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eO7lZKAkvPLJqvuzztu5cB1g_zMu47z3ALk-ERlNz-md4GVJwI6aQmG_FS3l-y7hsPt6M_InSBr6HJ24ynD30vgZJP9vzM",
-    "sell_order_count": 0,
+    "sell_order_count": "2",
     "buy_order_count": "69",
-    "lowest_sell_order": "0.00",
+    "lowest_sell_order": "147.91",
     "highest_buy_order": "112.41",
-    "date_modified": 1755340568663
+    "date_modified": 1755380063108
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Freehand (Minimal Wear)",
     "item_nameid": 176263963,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eO7lZKAkvPLJqvuzztu5Mx2gv2P99jz0AGyrUJoYW70IoWdIQ5sYV_Zrge-w-nr1pG8vZTBziRk7yJwsWGdwUJxuOAg0g",
     "sell_order_count": "4",
-    "buy_order_count": "95",
+    "buy_order_count": "97",
     "lowest_sell_order": "157.74",
-    "highest_buy_order": "120.55",
-    "date_modified": 1755340576803
+    "highest_buy_order": "121.92",
+    "date_modified": 1755380071281
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Freehand (Field-Tested)",
     "item_nameid": 176263289,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eO7lZKAkvPLJqvuzztu5cB1g_zMu47z3ALk-ERlNz-md4GVJwI6aQmG_FS3l-y7hsPt6M_InSBr6HJ24ynD30vgZJP9vzM",
     "sell_order_count": "8",
-    "buy_order_count": "156",
-    "lowest_sell_order": "135.70",
+    "buy_order_count": "155",
+    "lowest_sell_order": "143.75",
     "highest_buy_order": "126.08",
-    "date_modified": 1755340585164
+    "date_modified": 1755380079549
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Freehand (Factory New)",
     "item_nameid": 176263232,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eO7lZKAkvPLJqvuzztu5Mx2gv2P99jz0AGyrUJoYW70IoWdIQ5sYV_Zrge-w-nr1pG8vZTBziRk7yJwsWGdwUJxuOAg0g",
     "sell_order_count": "9",
-    "buy_order_count": "178",
+    "buy_order_count": "179",
     "lowest_sell_order": "172.50",
     "highest_buy_order": "146.39",
-    "date_modified": 1755340593302
+    "date_modified": 1755380087876
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Forest DDPAT (Well-Worn)",
@@ -4987,7 +4987,7 @@
     "buy_order_count": "59",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "109.74",
-    "date_modified": 1755340601546
+    "date_modified": 1755380096032
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Forest DDPAT (Minimal Wear)",
@@ -4997,17 +4997,17 @@
     "buy_order_count": "172",
     "lowest_sell_order": "145.49",
     "highest_buy_order": "114.13",
-    "date_modified": 1755340609720
+    "date_modified": 1755380104154
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Forest DDPAT (Field-Tested)",
     "item_nameid": 67183040,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOykJCKg8j5Nr_Yg2Yf68Enj7zE8Y2ii1fm_kpkZWjxIICcJAE3ZwzUr1S6w-3ogMC4tMvImmwj5HdwxVatTg",
-    "sell_order_count": "4",
-    "buy_order_count": "161",
+    "sell_order_count": "5",
+    "buy_order_count": "155",
     "lowest_sell_order": "128.23",
-    "highest_buy_order": "102.76",
-    "date_modified": 1755340617862
+    "highest_buy_order": "102.53",
+    "date_modified": 1755380112372
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Forest DDPAT (Battle-Scarred)",
@@ -5017,7 +5017,7 @@
     "buy_order_count": "164",
     "lowest_sell_order": "189.00",
     "highest_buy_order": "110.37",
-    "date_modified": 1755340626011
+    "date_modified": 1755380120653
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Fade (Factory New)",
@@ -5025,9 +5025,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD7eOwlYSOqPv9NLPF2DNX7Mcn3r7F9tqj0APm-UM6N2qid47GcQQ5Y1nY-FS2xuvrg5O16MjXiSw0BdoeL0U",
     "sell_order_count": "11",
     "buy_order_count": "383",
-    "lowest_sell_order": "385.13",
+    "lowest_sell_order": "363.74",
     "highest_buy_order": "297.46",
-    "date_modified": 1755340634272
+    "date_modified": 1755380128774
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Doppler (Factory New)",
@@ -5037,17 +5037,17 @@
     "buy_order_count": "472",
     "lowest_sell_order": "333.78",
     "highest_buy_order": "299.38",
-    "date_modified": 1755340642401
+    "date_modified": 1755380136924
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Damascus Steel (Field-Tested)",
     "item_nameid": 175882773,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eOylY2KhPThIISIxlRc7cF4n-SP8d-tiVDm_hU4NWqldYGVJg9sYgyC_VDrybzohZG4uJ-ayXtqvXIitGGdwUI5hxLjjg",
     "sell_order_count": "5",
-    "buy_order_count": "161",
+    "buy_order_count": "162",
     "lowest_sell_order": "151.28",
     "highest_buy_order": "119.86",
-    "date_modified": 1755340650559
+    "date_modified": 1755380145073
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Damascus Steel (Factory New)",
@@ -5056,8 +5056,8 @@
     "sell_order_count": "2",
     "buy_order_count": "154",
     "lowest_sell_order": "246.15",
-    "highest_buy_order": "153.32",
-    "date_modified": 1755340658740
+    "highest_buy_order": "154.88",
+    "date_modified": 1755380153207
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Damascus Steel (Battle-Scarred)",
@@ -5067,7 +5067,7 @@
     "buy_order_count": "92",
     "lowest_sell_order": "141.70",
     "highest_buy_order": "114.50",
-    "date_modified": 1755340666892
+    "date_modified": 1755380161342
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Crimson Web (Well-Worn)",
@@ -5077,7 +5077,7 @@
     "buy_order_count": "126",
     "lowest_sell_order": "193.81",
     "highest_buy_order": "126.84",
-    "date_modified": 1755340675228
+    "date_modified": 1755380169493
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Crimson Web (Minimal Wear)",
@@ -5087,27 +5087,27 @@
     "buy_order_count": "189",
     "lowest_sell_order": "243.11",
     "highest_buy_order": "169.40",
-    "date_modified": 1755340683502
+    "date_modified": 1755380177630
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Crimson Web (Battle-Scarred)",
     "item_nameid": 67265352,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOhkYKYqP_xMq3I2D5XsMQnjr_CrN6m3gXg_ko4Yjymd4CdewBsZQvU_QXswezog8S0tZrXiSw0VWXWNxY",
-    "sell_order_count": "4",
+    "sell_order_count": "3",
     "buy_order_count": "130",
     "lowest_sell_order": "186.01",
     "highest_buy_order": "143.87",
-    "date_modified": 1755340691747
+    "date_modified": 1755380185764
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Case Hardened (Well-Worn)",
     "item_nameid": 67172252,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO5nYyOk8j5Nr_Yg2Yfu8Mi3L3F8Ynx0ADlrUo9YDz2coSWcFVoYQqCrAW_wr3rgsPquM7JzWwj5HcESgS04w",
-    "sell_order_count": "1",
-    "buy_order_count": "142",
-    "lowest_sell_order": "266.69",
-    "highest_buy_order": "157.25",
-    "date_modified": 1755340699881
+    "sell_order_count": "2",
+    "buy_order_count": "140",
+    "lowest_sell_order": "245.88",
+    "highest_buy_order": "157.39",
+    "date_modified": 1755380194040
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Case Hardened (Minimal Wear)",
@@ -5117,27 +5117,27 @@
     "buy_order_count": "133",
     "lowest_sell_order": "267.03",
     "highest_buy_order": "200.91",
-    "date_modified": 1755340708057
+    "date_modified": 1755380202197
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Case Hardened (Field-Tested)",
     "item_nameid": 67395920,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO5nYyOk8j5Nr_Yg2Yfu8Mi3L3F8Ynx0ADlrUo9YDz2coSWcFVoYQqCrAW_wr3rgsPquM7JzWwj5HcESgS04w",
     "sell_order_count": "3",
-    "buy_order_count": "139",
+    "buy_order_count": "141",
     "lowest_sell_order": "207.00",
     "highest_buy_order": "168.38",
-    "date_modified": 1755340716209
+    "date_modified": 1755380210316
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Case Hardened (Battle-Scarred)",
     "item_nameid": 67327223,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO5nYyOk8j8NrrHjyUHusEn3euXod6l2AWyrhJkN2iicYDAd1c7ZQzW81W5yby90JPo75jO1zI97fDjmRGV",
     "sell_order_count": "2",
-    "buy_order_count": "160",
+    "buy_order_count": "159",
     "lowest_sell_order": "255.00",
-    "highest_buy_order": "155.31",
-    "date_modified": 1755340724367
+    "highest_buy_order": "155.29",
+    "date_modified": 1755380218452
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Bright Water (Minimal Wear)",
@@ -5147,27 +5147,27 @@
     "buy_order_count": "133",
     "lowest_sell_order": "129.41",
     "highest_buy_order": "103.20",
-    "date_modified": 1755340732511
+    "date_modified": 1755380226598
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Bright Water (Field-Tested)",
     "item_nameid": 176263230,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eO5l4WKmcj_PbLXk1QIuPp8j-3I4IG7i1fi_EY4Zm7wJY_DIQE_aVzXq1a6l7rugMXptZ3OynJq6CIj4Snfywv3308YedXjkw",
     "sell_order_count": "6",
-    "buy_order_count": "213",
-    "lowest_sell_order": "117.43",
-    "highest_buy_order": "102.81",
-    "date_modified": 1755340740661
+    "buy_order_count": "217",
+    "lowest_sell_order": "110.68",
+    "highest_buy_order": "102.82",
+    "date_modified": 1755380234700
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Bright Water (Factory New)",
     "item_nameid": 176263490,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eO5l4WKmcj_PbLXk1QIuPp9g-7J4cKs2AO3-kM4Mmn2JoeXJwA6ZF7SqFe9w-7vhsO1vZvKzHJkuiQk4HffgVXp1t1ydBAx",
     "sell_order_count": "12",
-    "buy_order_count": "111",
-    "lowest_sell_order": "156.00",
-    "highest_buy_order": "111.25",
-    "date_modified": 1755340748784
+    "buy_order_count": "112",
+    "lowest_sell_order": "155.90",
+    "highest_buy_order": "111.34",
+    "date_modified": 1755380242871
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Boreal Forest (Well-Worn)",
@@ -5177,7 +5177,7 @@
     "buy_order_count": "115",
     "lowest_sell_order": "526.71",
     "highest_buy_order": "96.78",
-    "date_modified": 1755340757029
+    "date_modified": 1755380251008
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Boreal Forest (Minimal Wear)",
@@ -5187,17 +5187,17 @@
     "buy_order_count": "131",
     "lowest_sell_order": "137.79",
     "highest_buy_order": "103.53",
-    "date_modified": 1755340765176
+    "date_modified": 1755380259136
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Boreal Forest (Field-Tested)",
     "item_nameid": 67380978,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOwm5KOhOPLMbTDk2pd18h0juDU-MKijQPk_RZtYGz3IdPHJwc3Y1nS_1HtkOm6hZK86JuYzyBlsiJw4HaLgVXp1gzMSmM_",
     "sell_order_count": "6",
-    "buy_order_count": "168",
+    "buy_order_count": "167",
     "lowest_sell_order": "127.00",
-    "highest_buy_order": "97.76",
-    "date_modified": 1755340773341
+    "highest_buy_order": "97.66",
+    "date_modified": 1755380267307
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Boreal Forest (Battle-Scarred)",
@@ -5207,17 +5207,17 @@
     "buy_order_count": "156",
     "lowest_sell_order": "150.00",
     "highest_buy_order": "91.00",
-    "date_modified": 1755340781582
+    "date_modified": 1755380275477
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Blue Steel (Well-Worn)",
     "item_nameid": 67309533,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO0mJWOk8j5Nr_Yg2YfvZYi3rmW99rz2Aeyrkc4MW3ycYeTI1I3ZAyG_Fa6xeru0ZXtu5XBwGwj5HclWi76bw",
     "sell_order_count": "3",
-    "buy_order_count": "119",
+    "buy_order_count": "118",
     "lowest_sell_order": "172.50",
-    "highest_buy_order": "121.87",
-    "date_modified": 1755340789726
+    "highest_buy_order": "121.95",
+    "date_modified": 1755380283598
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Blue Steel (Minimal Wear)",
@@ -5226,18 +5226,18 @@
     "sell_order_count": "4",
     "buy_order_count": "119",
     "lowest_sell_order": "295.00",
-    "highest_buy_order": "132.44",
-    "date_modified": 1755340798036
+    "highest_buy_order": "132.11",
+    "date_modified": 1755380291854
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Blue Steel (Field-Tested)",
     "item_nameid": 67546869,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO0mJWOk8j5Nr_Yg2YfvZYi3rmW99rz2Aeyrkc4MW3ycYeTI1I3ZAyG_Fa6xeru0ZXtu5XBwGwj5HclWi76bw",
-    "sell_order_count": "3",
+    "sell_order_count": "1",
     "buy_order_count": "120",
-    "lowest_sell_order": "145.32",
+    "lowest_sell_order": "172.50",
     "highest_buy_order": "123.21",
-    "date_modified": 1755340806380
+    "date_modified": 1755380300120
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Blue Steel (Battle-Scarred)",
@@ -5247,7 +5247,7 @@
     "buy_order_count": "144",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "128.46",
-    "date_modified": 1755340814528
+    "date_modified": 1755380308260
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Black Laminate (Well-Worn)",
@@ -5257,27 +5257,27 @@
     "buy_order_count": "164",
     "lowest_sell_order": "117.79",
     "highest_buy_order": "98.90",
-    "date_modified": 1755340822661
+    "date_modified": 1755380316545
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Black Laminate (Minimal Wear)",
     "item_nameid": 176263657,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPX4MrjaqWdQ5cx_i_3EyoD8j1yg5UBlMG2iddOdc1c6YlnZ-1fvlO7p1JftuJ7Nynox6ykn7CneykPk1UtSLrs4ncvnNVY",
     "sell_order_count": "2",
-    "buy_order_count": "109",
+    "buy_order_count": "108",
     "lowest_sell_order": "147.22",
-    "highest_buy_order": "110.47",
-    "date_modified": 1755340831050
+    "highest_buy_order": "110.41",
+    "date_modified": 1755380324766
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Black Laminate (Field-Tested)",
     "item_nameid": 176263375,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPX4MrjaqWdQ5cx_i_3EyoHwjF2hpl1qNWihJYCWc1BtYwyCr1e6xry60JTtuJvOmyA1viFw5SzeykDk1xkdcKUx0nxlQlle",
-    "sell_order_count": "9",
-    "buy_order_count": "170",
-    "lowest_sell_order": "123.13",
-    "highest_buy_order": "103.29",
-    "date_modified": 1755340839193
+    "sell_order_count": "8",
+    "buy_order_count": "171",
+    "lowest_sell_order": "131.70",
+    "highest_buy_order": "103.31",
+    "date_modified": 1755380332867
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Black Laminate (Factory New)",
@@ -5287,37 +5287,37 @@
     "buy_order_count": "104",
     "lowest_sell_order": "238.78",
     "highest_buy_order": "159.07",
-    "date_modified": 1755340847334
+    "date_modified": 1755380341111
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Black Laminate (Battle-Scarred)",
     "item_nameid": 176263298,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPX4MrjaqWdQ5cx_i_3EyoTwiUKt5UBuYGqiJI_BJwM3YQuCqQe_xbzt0Zfv6ZnNyiEy6yUhs3zdnRWw1EtSLrs46ya-TVw",
-    "sell_order_count": "4",
-    "buy_order_count": "130",
-    "lowest_sell_order": "118.97",
+    "sell_order_count": "3",
+    "buy_order_count": "129",
+    "lowest_sell_order": "121.99",
     "highest_buy_order": "98.00",
-    "date_modified": 1755340855578
+    "date_modified": 1755380349272
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Autotronic (Minimal Wear)",
     "item_nameid": 176263441,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPbhJ7TFhGRf4cZOhuDG_Zi72lXi8xU4MjzwIY6QegU5ZQ2DrgW_wOfrh8XovpSdnCAxuSIq4niMnQv330_cMK5ARQ",
-    "sell_order_count": "4",
-    "buy_order_count": "115",
+    "sell_order_count": "3",
+    "buy_order_count": "114",
     "lowest_sell_order": "186.58",
-    "highest_buy_order": "135.49",
-    "date_modified": 1755340863800
+    "highest_buy_order": "138.04",
+    "date_modified": 1755380357379
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Autotronic (Field-Tested)",
     "item_nameid": 176263266,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPbhJ7TFhGRf4cZOh-zF_Jn4xgzi_xBvZz-lcYWWJw88NQzV8wS4yO2-0JG-uszOn3E3siNx4nqIlxKpwUYb9OX8aQo",
     "sell_order_count": "4",
-    "buy_order_count": "180",
-    "lowest_sell_order": "145.49",
-    "highest_buy_order": "122.37",
-    "date_modified": 1755340871926
+    "buy_order_count": "181",
+    "lowest_sell_order": "139.20",
+    "highest_buy_order": "122.55",
+    "date_modified": 1755380365624
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Autotronic (Factory New)",
@@ -5327,67 +5327,67 @@
     "buy_order_count": "151",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "256.75",
-    "date_modified": 1755340880097
+    "date_modified": 1755380373742
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Autotronic (Battle-Scarred)",
     "item_nameid": 176263658,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPbhJ7TFhGRf4cZOguzA45W72lLj_0U4YTv0LdORdg9sNw3Y-Ve8kOi91MLuvcmbmHJm63Qk4CnUnQv3308LDxjbtw",
-    "sell_order_count": "5",
-    "buy_order_count": "136",
-    "lowest_sell_order": "148.84",
-    "highest_buy_order": "116.00",
-    "date_modified": 1755340888242
+    "sell_order_count": "7",
+    "buy_order_count": "137",
+    "lowest_sell_order": "148.25",
+    "highest_buy_order": "116.04",
+    "date_modified": 1755380381878
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers",
     "item_nameid": 67210729,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaIAlp1fb3YShR5JKzzdeJz6OiMO6HlGoDvZIn2rnDoNn00APnqUFoZ2v2J4SUJAM2YFrS5BHglvHkDogk",
     "sell_order_count": "6",
-    "buy_order_count": "347",
-    "lowest_sell_order": "193.51",
-    "highest_buy_order": "154.97",
-    "date_modified": 1755340896478
+    "buy_order_count": "346",
+    "lowest_sell_order": "180.82",
+    "highest_buy_order": "154.99",
+    "date_modified": 1755380390160
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Urban Masked (Minimal Wear)",
     "item_nameid": 176101818,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJR_OOilZCOqOLmMbrfqWdY781lxOyRo9Ws3Q3t8kdqY26id9OQdwA6aArV-1e-xrjog5-16JScmCNh73E8pSGKZ9ReCNQ",
-    "sell_order_count": "3",
+    "sell_order_count": "4",
     "buy_order_count": "104",
-    "lowest_sell_order": "286.48",
-    "highest_buy_order": "145.44",
-    "date_modified": 1755340904962
+    "lowest_sell_order": "250.70",
+    "highest_buy_order": "145.49",
+    "date_modified": 1755380398276
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Urban Masked (Field-Tested)",
     "item_nameid": 176097764,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJR_OOilZCOqOLmMbrfqWZU7Mxkh6eQpI-n3gGx_UtsNWD6JNKQcAdtaQ3Z-Fm2lL_ogMK7tZ7Jmnowsyki-z-DyCqSa_9z",
-    "sell_order_count": "8",
-    "buy_order_count": "189",
+    "sell_order_count": "9",
+    "buy_order_count": "186",
     "lowest_sell_order": "141.34",
     "highest_buy_order": "121.62",
-    "date_modified": 1755340913288
+    "date_modified": 1755380406403
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Urban Masked (Battle-Scarred)",
     "item_nameid": 176109884,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJR_OOilZCOqOLmMbrfqWNU6dNoxLmXotj30FDl-ko5ZmimLdfBJFc3Y1mC-QDvxevm15Ttu8jMznpqsnQ8pSGK3j1Txh8",
     "sell_order_count": "1",
-    "buy_order_count": "134",
+    "buy_order_count": "128",
     "lowest_sell_order": "141.70",
-    "highest_buy_order": "112.77",
-    "date_modified": 1755340921427
+    "highest_buy_order": "94.13",
+    "date_modified": 1755380414632
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Ultraviolet (Well-Worn)",
     "item_nameid": 176506601,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJR4-OmgZKbm_LLNbrdlWNY58tOh-zF_Jn4xg22qEJsZ2v0JtSRclU_N1nV-gW_xOrn1sLu6ZuYyCEyvSVw43_dnBGpwUYbyP9sU_k",
     "sell_order_count": 0,
-    "buy_order_count": "74",
+    "buy_order_count": "73",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "127.28",
-    "date_modified": 1755340929651
+    "date_modified": 1755380422801
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Ultraviolet (Minimal Wear)",
@@ -5396,18 +5396,18 @@
     "sell_order_count": "1",
     "buy_order_count": "89",
     "lowest_sell_order": "221.41",
-    "highest_buy_order": "159.33",
-    "date_modified": 1755340937795
+    "highest_buy_order": "159.53",
+    "date_modified": 1755380431050
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Ultraviolet (Field-Tested)",
     "item_nameid": 176506840,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJR4-OmgZKbm_LLNbrdlWNY58tOh-zF_Jn4xg22qEJsZ2v0JtSRclU_N1nV-gW_xOrn1sLu6ZuYyCEyvSVw43_dnBGpwUYbyP9sU_k",
     "sell_order_count": "1",
-    "buy_order_count": "88",
+    "buy_order_count": "91",
     "lowest_sell_order": "190.00",
-    "highest_buy_order": "137.37",
-    "date_modified": 1755340945921
+    "highest_buy_order": "137.61",
+    "date_modified": 1755380439356
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Ultraviolet (Factory New)",
@@ -5417,17 +5417,17 @@
     "buy_order_count": "89",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "204.77",
-    "date_modified": 1755340954146
+    "date_modified": 1755380447497
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Tiger Tooth (Factory New)",
     "item_nameid": 176506603,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD4uOinYeOhcj7IbrfkW5u5Mx2gv2P9ojzigDk80ptZGj2d9OddFA-MgmG-FC_ye3qjZTp7szAzSNlvygisGGdwULp1NcHEQ",
-    "sell_order_count": "5",
+    "sell_order_count": "6",
     "buy_order_count": "126",
     "lowest_sell_order": "286.71",
     "highest_buy_order": "261.71",
-    "date_modified": 1755340962379
+    "date_modified": 1755380455673
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Stained (Well-Worn)",
@@ -5436,38 +5436,38 @@
     "sell_order_count": "4",
     "buy_order_count": "118",
     "lowest_sell_order": "161.00",
-    "highest_buy_order": "124.02",
-    "date_modified": 1755340970819
+    "highest_buy_order": "124.17",
+    "date_modified": 1755380463893
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Stained (Minimal Wear)",
     "item_nameid": 176097614,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eOwm5KIkvPLP7LWnn8f65Uj3erEp42m2lDkrkFvYWmhJtSWIFc5MlmErADql-y-gJK4v5jKwGwj5HeIPtvrAA",
     "sell_order_count": "5",
-    "buy_order_count": "118",
+    "buy_order_count": "117",
     "lowest_sell_order": "189.00",
     "highest_buy_order": "135.32",
-    "date_modified": 1755340979137
+    "date_modified": 1755380472046
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Stained (Field-Tested)",
     "item_nameid": 176098029,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eOwm5KIkvPLPr7Vn35cpsAh0rjC8Yn23AfhqRZvN2GicIaTdFU8NA2B_la7xua5gp_vu8vJwHZ9-n51urX6SWw",
     "sell_order_count": "3",
-    "buy_order_count": "114",
+    "buy_order_count": "112",
     "lowest_sell_order": "172.00",
     "highest_buy_order": "130.27",
-    "date_modified": 1755340987278
+    "date_modified": 1755380480410
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Slaughter (Minimal Wear)",
     "item_nameid": 176097774,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD4eOskYKZlsj4OrzZgiUAucMg2rGQ897wjQ3t-BBuZGzxLNSRcgM2Ml7T-lS7l-vqg8W-vMyb1zI97e7qb5Sq",
     "sell_order_count": "3",
-    "buy_order_count": "141",
+    "buy_order_count": "140",
     "lowest_sell_order": "384.84",
-    "highest_buy_order": "269.59",
-    "date_modified": 1755340995416
+    "highest_buy_order": "267.64",
+    "date_modified": 1755380488692
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Slaughter (Factory New)",
@@ -5475,19 +5475,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD4eOskYKZlsj4OrzZgiUAucMg2rGQ897wjQ3t-BBuZGzxLNSRcgM2Ml7T-lS7l-vqg8W-vMyb1zI97e7qb5Sq",
     "sell_order_count": "4",
     "buy_order_count": "164",
-    "lowest_sell_order": "404.94",
+    "lowest_sell_order": "403.91",
     "highest_buy_order": "318.41",
-    "date_modified": 1755341003665
+    "date_modified": 1755380496861
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Scorched (Minimal Wear)",
     "item_nameid": 176097546,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJR_OOylZCbm_LLP7LWnn8fsZwl0uvCoNSt0QG2qEY-ZD2mcNLAcANqMA6BrgDqw-zpgZ687p2fy2wj5HdKRh0FEA",
     "sell_order_count": "5",
-    "buy_order_count": "132",
+    "buy_order_count": "129",
     "lowest_sell_order": "170.40",
-    "highest_buy_order": "117.31",
-    "date_modified": 1755341011826
+    "highest_buy_order": "117.34",
+    "date_modified": 1755380505003
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Scorched (Field-Tested)",
@@ -5496,8 +5496,8 @@
     "sell_order_count": "6",
     "buy_order_count": "92",
     "lowest_sell_order": "145.68",
-    "highest_buy_order": "111.27",
-    "date_modified": 1755341019952
+    "highest_buy_order": "106.85",
+    "date_modified": 1755380513268
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Scorched (Factory New)",
@@ -5507,27 +5507,27 @@
     "buy_order_count": "34",
     "lowest_sell_order": "352.17",
     "highest_buy_order": "235.35",
-    "date_modified": 1755341028195
+    "date_modified": 1755380521398
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Scorched (Battle-Scarred)",
     "item_nameid": 176097632,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJR_OOylZCbm_LLO77QgHIf6sRwjrCU9o-hi1XsqEpsMmqlJYKccAU3Yl6B_gDvlO3vhJfo6M6azmwj5HckoYGSPg",
-    "sell_order_count": "1",
-    "buy_order_count": "132",
+    "sell_order_count": "2",
+    "buy_order_count": "131",
     "lowest_sell_order": "129.30",
     "highest_buy_order": "101.23",
-    "date_modified": 1755341036347
+    "date_modified": 1755380529520
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Safari Mesh (Well-Worn)",
     "item_nameid": 176101642,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJR_OO7kZODqOP1PYTck29Y_cg_j7uXpoqijAa28ko4MWzxIY-ddFM9ZF_Z_Va9wOy71564vsvLzXJn7j5iuyjOerHjcg",
     "sell_order_count": "2",
-    "buy_order_count": "84",
+    "buy_order_count": "85",
     "lowest_sell_order": "171.31",
-    "highest_buy_order": "100.41",
-    "date_modified": 1755341044502
+    "highest_buy_order": "100.46",
+    "date_modified": 1755380537767
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Safari Mesh (Field-Tested)",
@@ -5537,37 +5537,37 @@
     "buy_order_count": "159",
     "lowest_sell_order": "120.00",
     "highest_buy_order": "105.30",
-    "date_modified": 1755341052831
+    "date_modified": 1755380545882
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Safari Mesh (Battle-Scarred)",
     "item_nameid": 176098482,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJR_OO7kZODqOP1PYTZk2pH8Yt03euVpdynjFfgrkJsamn3IdWcJAQ4Z1_T-gC3w73rgpa5upvPwXdlpGB8sivZ8ykc",
     "sell_order_count": 0,
-    "buy_order_count": "95",
+    "buy_order_count": "96",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "92.54",
-    "date_modified": 1755341061057
+    "highest_buy_order": "92.88",
+    "date_modified": 1755380553999
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Rust Coat (Well-Worn)",
     "item_nameid": 176506808,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eOlgIWOm8j_PbLXk1Rc7cF4n-SPpNj321XnqEU-Ymj2JtSUIwc9MA3UqAW9yenq1JW1vJ6ayXoyuiUh5WGdwULCOiHRTg",
-    "sell_order_count": "2",
+    "sell_order_count": "1",
     "buy_order_count": "76",
-    "lowest_sell_order": "203.71",
+    "lowest_sell_order": "213.95",
     "highest_buy_order": "120.00",
-    "date_modified": 1755341069205
+    "date_modified": 1755380562248
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Rust Coat (Battle-Scarred)",
     "item_nameid": 176506676,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eOlgIWOm8j_PbLXk1RZ7cRnk6fFpNug0QK2-BJpNW-nJITAJ1Q5ZAyC-AK9yOm9gcW1vMjBn3Ni6ylw-z-DyEFijBA-",
-    "sell_order_count": "13",
+    "sell_order_count": "12",
     "buy_order_count": "115",
-    "lowest_sell_order": "125.99",
-    "highest_buy_order": "112.38",
-    "date_modified": 1755341077358
+    "lowest_sell_order": "131.19",
+    "highest_buy_order": "118.96",
+    "date_modified": 1755380570384
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Night Stripe (Minimal Wear)",
@@ -5576,38 +5576,38 @@
     "sell_order_count": "4",
     "buy_order_count": "97",
     "lowest_sell_order": "181.39",
-    "highest_buy_order": "137.59",
-    "date_modified": 1755341085526
+    "highest_buy_order": "137.62",
+    "date_modified": 1755380578567
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Night Stripe (Field-Tested)",
     "item_nameid": 176099479,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJR_OO4nYeDg-TgIbLBk1Rc7cF4n-SP9In22VLiqhc9N2nyd46UcVNvMF-E_wW8xL_rhMC8tJ3KznBnvnMq5WGdwUKrsRlHpA",
-    "sell_order_count": "9",
+    "sell_order_count": "7",
     "buy_order_count": "134",
-    "lowest_sell_order": "141.34",
-    "highest_buy_order": "119.05",
-    "date_modified": 1755341093740
+    "lowest_sell_order": "139.20",
+    "highest_buy_order": "119.11",
+    "date_modified": 1755380586817
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Night Stripe (Battle-Scarred)",
     "item_nameid": 176097532,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJR_OO4nYeDg-TgIbLBk1RZ7cRnk6fCpIii3gay_hdsY2r6LNPAIAQ_NFHZq1DvwO3v1sO_uZWan3pr6Cl0-z-DyCoEYJcO",
-    "sell_order_count": "3",
+    "sell_order_count": "2",
     "buy_order_count": "121",
-    "lowest_sell_order": "159.55",
+    "lowest_sell_order": "161.00",
     "highest_buy_order": "113.34",
-    "date_modified": 1755341101972
+    "date_modified": 1755380595033
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Marble Fade (Factory New)",
     "item_nameid": 176506432,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD4eO7lZKJm_LLNbrVk1Rd4cJ5nqfFp9Wl2wK3-kBrYWCgJYeWdAM9M16G_lXvx-rs05O7tMnPyndluSUl-z-DyI_H58wf",
-    "sell_order_count": "6",
+    "sell_order_count": "7",
     "buy_order_count": "178",
-    "lowest_sell_order": "336.22",
+    "lowest_sell_order": "330.00",
     "highest_buy_order": "305.72",
-    "date_modified": 1755341110121
+    "date_modified": 1755380603155
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Forest DDPAT (Well-Worn)",
@@ -5615,59 +5615,59 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOykJCKg8j5Nr_Yg2YfucYl2LmUpo6hi1Hm-0JlMW3wJtSSelI-Y1mCr1e9ye_ojJK87Z_JzGwj5Hf4rxrolw",
     "sell_order_count": "4",
     "buy_order_count": "95",
-    "lowest_sell_order": "113.85",
+    "lowest_sell_order": "121.99",
     "highest_buy_order": "103.58",
-    "date_modified": 1755341118247
+    "date_modified": 1755380611477
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Forest DDPAT (Minimal Wear)",
     "item_nameid": 176097711,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOykJCKg8j4OrzZgiVVu8Byi7yQ9tz03Qe38xBtMGylJ4SQJAA2NV3S8la4wLu5g5-9uZrK1zI97VYiU8xM",
-    "sell_order_count": "2",
-    "buy_order_count": "98",
-    "lowest_sell_order": "190.00",
-    "highest_buy_order": "118.77",
-    "date_modified": 1755341126491
+    "sell_order_count": "3",
+    "buy_order_count": "97",
+    "lowest_sell_order": "182.02",
+    "highest_buy_order": "118.38",
+    "date_modified": 1755380619634
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Forest DDPAT (Field-Tested)",
     "item_nameid": 176097685,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOykJCKg8j5Nr_Yg2YfucYl2LmUpo6hi1Hm-0JlMW3wJtSSelI-Y1mCr1e9ye_ojJK87Z_JzGwj5Hf4rxrolw",
-    "sell_order_count": "6",
-    "buy_order_count": "143",
+    "sell_order_count": "5",
+    "buy_order_count": "144",
     "lowest_sell_order": "120.00",
-    "highest_buy_order": "106.76",
-    "date_modified": 1755341134661
+    "highest_buy_order": "109.20",
+    "date_modified": 1755380627749
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Forest DDPAT (Battle-Scarred)",
     "item_nameid": 176097824,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOykJCKg8j8NrrHjyVVuZMljr-WrNum3VXm-EE5ZWH2cdTAIQI5YwvU_VC9kujogp-57ZzL1zI97a3hmdbB",
     "sell_order_count": "5",
-    "buy_order_count": "132",
+    "buy_order_count": "131",
     "lowest_sell_order": "133.83",
-    "highest_buy_order": "97.60",
-    "date_modified": 1755341142938
+    "highest_buy_order": "98.58",
+    "date_modified": 1755380636204
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Fade (Factory New)",
     "item_nameid": 176097738,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD7eOwlYSOqPv9NLPF2DlQ6sEl07iW9IqijVXirRdvYDz1J9eRewI5aV7Z_wS7lefrh5e6usnXiSw0LweZKdw",
     "sell_order_count": "8",
-    "buy_order_count": "293",
-    "lowest_sell_order": "468.54",
-    "highest_buy_order": "374.85",
-    "date_modified": 1755341151079
+    "buy_order_count": "294",
+    "lowest_sell_order": "516.83",
+    "highest_buy_order": "380.32",
+    "date_modified": 1755380644337
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Doppler (Factory New)",
     "item_nameid": 176506583,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD4eOym5Cbm_LmDKvZl3hUu_p9g-7J4cKnjVe180ptNmugLdKTdgZoaF7RrFO2ye_q1JG1tJqYwSdg7nZwt3_VgVXp1hX6Dja-",
-    "sell_order_count": "6",
+    "sell_order_count": "7",
     "buy_order_count": "184",
     "lowest_sell_order": "554.13",
     "highest_buy_order": "448.86",
-    "date_modified": 1755341159223
+    "date_modified": 1755380652486
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Damascus Steel (Minimal Wear)",
@@ -5675,19 +5675,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eOylY2KhPThIITdn2xZ_It02eqTpY6mjASxrkVtYziicI-VJwM6YQrTrFi5xOjpgJLvvpibwXNnpGB8somXgmsJ",
     "sell_order_count": "4",
     "buy_order_count": "81",
-    "lowest_sell_order": "190.44",
-    "highest_buy_order": "136.91",
-    "date_modified": 1755341167367
+    "lowest_sell_order": "190.00",
+    "highest_buy_order": "137.78",
+    "date_modified": 1755380660911
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Damascus Steel (Factory New)",
     "item_nameid": 176506609,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eOylY2KhPThIITdn2xZ_It02eqTpY6mjASxrkVtYziicI-VJwM6YQrTrFi5xOjpgJLvvpibwXNnpGB8somXgmsJ",
     "sell_order_count": "5",
-    "buy_order_count": "81",
+    "buy_order_count": "83",
     "lowest_sell_order": "206.66",
-    "highest_buy_order": "173.00",
-    "date_modified": 1755341175583
+    "highest_buy_order": "171.17",
+    "date_modified": 1755380669147
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Damascus Steel (Battle-Scarred)",
@@ -5697,17 +5697,17 @@
     "buy_order_count": "65",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "112.10",
-    "date_modified": 1755341183762
+    "date_modified": 1755380677254
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Crimson Web (Well-Worn)",
     "item_nameid": 176109141,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOhkYKYqPrxN7LEmyUHv8Yoi7-Yo9ii3QG2-hdlZjyiJ46SJFQ-Z16F-Ve6lem90ZO4vZud1zI97XVumMpc",
-    "sell_order_count": "3",
+    "sell_order_count": "4",
     "buy_order_count": "101",
-    "lowest_sell_order": "251.30",
+    "lowest_sell_order": "246.27",
     "highest_buy_order": "180.02",
-    "date_modified": 1755341192007
+    "date_modified": 1755380685414
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Crimson Web (Minimal Wear)",
@@ -5717,7 +5717,7 @@
     "buy_order_count": "256",
     "lowest_sell_order": "535.38",
     "highest_buy_order": "240.47",
-    "date_modified": 1755341200266
+    "date_modified": 1755380693549
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Crimson Web (Field-Tested)",
@@ -5727,47 +5727,47 @@
     "buy_order_count": "156",
     "lowest_sell_order": "238.78",
     "highest_buy_order": "201.39",
-    "date_modified": 1755341208640
+    "date_modified": 1755380701705
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Crimson Web (Battle-Scarred)",
     "item_nameid": 176100443,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOhkYKYqP_xMq3I2DwDuZIi2b2Xooml2Ffj_0puajjyd4SXc1BoNFmBrlC6l-u6hZ_vu5XXiSw0F2y2tcs",
     "sell_order_count": "1",
-    "buy_order_count": "112",
+    "buy_order_count": "111",
     "lowest_sell_order": "278.41",
-    "highest_buy_order": "162.18",
-    "date_modified": 1755341216775
+    "highest_buy_order": "162.28",
+    "date_modified": 1755380709952
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Case Hardened (Well-Worn)",
     "item_nameid": 176098059,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eO5nYyOk8j5Nr_Yg2YfsJYl2eyTrdzxiwKwr0BkZz2gd4OTcFA7M17YqVXrxOvo1Je_uZ_Ky2wj5HeQqZN2VA",
-    "sell_order_count": "2",
-    "buy_order_count": "145",
+    "sell_order_count": "1",
+    "buy_order_count": "144",
     "lowest_sell_order": "287.50",
-    "highest_buy_order": "202.77",
-    "date_modified": 1755341225017
+    "highest_buy_order": "202.69",
+    "date_modified": 1755380718091
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Case Hardened (Minimal Wear)",
     "item_nameid": 176098335,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eO5nYyOk8j4OrzZgiVSu8ZziL7Eptn0jALn_xZsZjz0ddXEdAU3MlzRrFDoxuzrg5C1u5ma1zI97QBr5GNc",
-    "sell_order_count": "4",
-    "buy_order_count": "132",
+    "sell_order_count": "3",
+    "buy_order_count": "133",
     "lowest_sell_order": "307.85",
-    "highest_buy_order": "249.51",
-    "date_modified": 1755341233212
+    "highest_buy_order": "249.63",
+    "date_modified": 1755380726208
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Case Hardened (Field-Tested)",
     "item_nameid": 176104734,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eO5nYyOk8j5Nr_Yg2YfsJYl2eyTrdzxiwKwr0BkZz2gd4OTcFA7M17YqVXrxOvo1Je_uZ_Ky2wj5HeQqZN2VA",
-    "sell_order_count": "5",
-    "buy_order_count": "130",
-    "lowest_sell_order": "265.00",
-    "highest_buy_order": "190.59",
-    "date_modified": 1755341241357
+    "sell_order_count": "4",
+    "buy_order_count": "131",
+    "lowest_sell_order": "258.24",
+    "highest_buy_order": "191.02",
+    "date_modified": 1755380734386
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Case Hardened (Battle-Scarred)",
@@ -5777,7 +5777,7 @@
     "buy_order_count": "129",
     "lowest_sell_order": "254.33",
     "highest_buy_order": "176.67",
-    "date_modified": 1755341249735
+    "date_modified": 1755380742534
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Boreal Forest (Minimal Wear)",
@@ -5787,27 +5787,27 @@
     "buy_order_count": "106",
     "lowest_sell_order": "205.41",
     "highest_buy_order": "143.08",
-    "date_modified": 1755341257893
+    "date_modified": 1755380750671
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Boreal Forest (Field-Tested)",
     "item_nameid": 176097762,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOwm5KOhOPLMbTDk2pd18h0juDU-MKm2gfn_BdkZWHyLdOWJ1U_Yw2Br1a-x-fngJG17pnMnXBl7HRxsCqPgVXp1uDpGA7Y",
-    "sell_order_count": "6",
-    "buy_order_count": "137",
+    "sell_order_count": "7",
+    "buy_order_count": "135",
     "lowest_sell_order": "147.77",
-    "highest_buy_order": "113.63",
-    "date_modified": 1755341266016
+    "highest_buy_order": "109.62",
+    "date_modified": 1755380758800
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Boreal Forest (Battle-Scarred)",
     "item_nameid": 176101441,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOwm5KOhOPLMbTDk2pd1810i__Yu4j02Va18hZsNjjwcI-SJ1VtZwzUrAK6xbrq1JbotZ_AmCNn7HNwsSnD30vgDuFRpHc",
     "sell_order_count": "2",
-    "buy_order_count": "128",
+    "buy_order_count": "130",
     "lowest_sell_order": "214.16",
-    "highest_buy_order": "106.50",
-    "date_modified": 1755341274360
+    "highest_buy_order": "107.59",
+    "date_modified": 1755380766943
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Blue Steel (Well-Worn)",
@@ -5816,28 +5816,28 @@
     "sell_order_count": "1",
     "buy_order_count": "101",
     "lowest_sell_order": "194.94",
-    "highest_buy_order": "148.81",
-    "date_modified": 1755341282511
+    "highest_buy_order": "149.01",
+    "date_modified": 1755380775064
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Blue Steel (Minimal Wear)",
     "item_nameid": 176097689,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eO0mJWOk8j4OrzZgiVT7ZwljuiS99ym3AXmrRBlNz-iJdCXIAVsZlHQ-FHtxufrgZ6478vM1zI97eNUwU4D",
-    "sell_order_count": "6",
+    "sell_order_count": "5",
     "buy_order_count": "132",
     "lowest_sell_order": "213.95",
-    "highest_buy_order": "168.82",
-    "date_modified": 1755341290841
+    "highest_buy_order": "168.90",
+    "date_modified": 1755380783309
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Blue Steel (Field-Tested)",
     "item_nameid": 176097567,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eO0mJWOk8j5Nr_Yg2Yf6ZIm3b7Epd6ijAfs_UJpYDv1J4OTIAA3MAnUrAC9w7znjJe8vpWczmwj5Hd2YW2d1g",
     "sell_order_count": "5",
-    "buy_order_count": "144",
+    "buy_order_count": "143",
     "lowest_sell_order": "196.83",
-    "highest_buy_order": "168.28",
-    "date_modified": 1755341299087
+    "highest_buy_order": "168.27",
+    "date_modified": 1755380791511
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Blue Steel (Factory New)",
@@ -5847,7 +5847,7 @@
     "buy_order_count": "109",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "264.34",
-    "date_modified": 1755341307592
+    "date_modified": 1755380799815
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Blue Steel (Battle-Scarred)",
@@ -5857,17 +5857,17 @@
     "buy_order_count": "123",
     "lowest_sell_order": "190.29",
     "highest_buy_order": "154.94",
-    "date_modified": 1755341315738
+    "date_modified": 1755380807983
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife",
     "item_nameid": 176097585,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaIAlp1fb3cjJQ6JLjltCJlK-hY-6FxmkD7MYo0rzDotTwjVGwrRE_Mjv2IdWQe1U7YgnS5BHglm863vsF",
-    "sell_order_count": "13",
-    "buy_order_count": "235",
+    "sell_order_count": "14",
+    "buy_order_count": "236",
     "lowest_sell_order": "171.17",
-    "highest_buy_order": "155.77",
-    "date_modified": 1755341323982
+    "highest_buy_order": "155.87",
+    "date_modified": 1755380816130
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Urban Masked (Field-Tested)",
@@ -5876,38 +5876,38 @@
     "sell_order_count": "6",
     "buy_order_count": "149",
     "lowest_sell_order": "244.99",
-    "highest_buy_order": "189.21",
-    "date_modified": 1755341332128
+    "highest_buy_order": "189.49",
+    "date_modified": 1755380824247
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Urban Masked (Battle-Scarred)",
     "item_nameid": 176098005,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-flufxDK7DlGpf1810i__Yu9qtjVC3rxE_amugddTAdFRtYwnQrgTrkr3p1pe-7Z-czCdnuyVw5HvD30vgYHM77eE",
     "sell_order_count": "1",
-    "buy_order_count": "127",
-    "lowest_sell_order": "195.50",
-    "highest_buy_order": "162.97",
-    "date_modified": 1755341340265
+    "buy_order_count": "129",
+    "lowest_sell_order": "189.99",
+    "highest_buy_order": "167.86",
+    "date_modified": 1755380832391
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Ultraviolet (Minimal Wear)",
     "item_nameid": 176508659,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlm7-bguXkP77ummJW4NE_jOrE99-h0ASxrURka2H0coXDJ1RqZ1nVrli9krjohZK5757IzHc16D5iuygZ9mjroQ",
-    "sell_order_count": "2",
+    "sell_order_count": "1",
     "buy_order_count": "69",
-    "lowest_sell_order": "341.98",
+    "lowest_sell_order": "471.19",
     "highest_buy_order": "309.46",
-    "date_modified": 1755341348600
+    "date_modified": 1755380840662
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Ultraviolet (Field-Tested)",
     "item_nameid": 176506919,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlm7-bguXkP77um25V4dB8xLiSpt-h3QbkqhFvNz-lIoTEdlVoNVyB8lPqx7_n0cLtuJTBy3FruSI8pSGKIJFPEIQ",
-    "sell_order_count": "3",
-    "buy_order_count": "84",
-    "lowest_sell_order": "269.60",
-    "highest_buy_order": "252.55",
-    "date_modified": 1755341356743
+    "sell_order_count": "2",
+    "buy_order_count": "83",
+    "lowest_sell_order": "295.44",
+    "highest_buy_order": "250.52",
+    "date_modified": 1755380848818
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Ultraviolet (Battle-Scarred)",
@@ -5917,17 +5917,17 @@
     "buy_order_count": "70",
     "lowest_sell_order": "247.86",
     "highest_buy_order": "204.39",
-    "date_modified": 1755341364886
+    "date_modified": 1755380857069
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Tiger Tooth (Factory New)",
     "item_nameid": 176506396,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3mr-fnvDxIYTehGpf78BOhuDG_Zi73VXg-hc_ZGn7I9eSdAY5Zw7V_QO5l7u5jMS0vM-YzXdkuCcm53-ImQv330_pe6oU-A",
-    "sell_order_count": "2",
+    "sell_order_count": "3",
     "buy_order_count": "159",
-    "lowest_sell_order": "631.75",
+    "lowest_sell_order": "621.05",
     "highest_buy_order": "481.82",
-    "date_modified": 1755341373139
+    "date_modified": 1755380865192
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Stained (Field-Tested)",
@@ -5937,27 +5937,27 @@
     "buy_order_count": "107",
     "lowest_sell_order": "482.32",
     "highest_buy_order": "268.34",
-    "date_modified": 1755341381278
+    "date_modified": 1755380873346
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Stained (Battle-Scarred)",
     "item_nameid": 176098830,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-NmOX3Nr_unm5Q_tw_3e3C8Nrz3lDiqEI-Y2ihdYHHcA45aAyB8gC8kLjsh5Hu6JWdwHtjvz5iuygIgcRgDA",
     "sell_order_count": "2",
-    "buy_order_count": "110",
+    "buy_order_count": "109",
     "lowest_sell_order": "269.60",
-    "highest_buy_order": "223.19",
-    "date_modified": 1755341389443
+    "highest_buy_order": "223.36",
+    "date_modified": 1755380881484
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Slaughter (Minimal Wear)",
     "item_nameid": 176097712,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3mb-RkvXmMoTdn2xZ_Ity2b6T9NzzigewrUM4MWnzdYDBcwc7aF2GrFW8wb3vhJK-6JTLzCBhpGB8sno8Ty4-",
-    "sell_order_count": "1",
+    "sell_order_count": "3",
     "buy_order_count": "132",
-    "lowest_sell_order": "767.01",
-    "highest_buy_order": "465.36",
-    "date_modified": 1755341397690
+    "lowest_sell_order": "738.15",
+    "highest_buy_order": "465.70",
+    "date_modified": 1755380889621
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Slaughter (Field-Tested)",
@@ -5967,7 +5967,7 @@
     "buy_order_count": "80",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "471.07",
-    "date_modified": 1755341405835
+    "date_modified": 1755380897908
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Slaughter (Factory New)",
@@ -5977,7 +5977,7 @@
     "buy_order_count": "173",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "535.00",
-    "date_modified": 1755341413964
+    "date_modified": 1755380906163
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Scorched (Field-Tested)",
@@ -5985,9 +5985,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-PlufkP77um25V4dB8xLjFpImj3VbirUpkNzjxcYSQdlA2ZF3Q_FS8lL-5hMW96Z6cznI27nI8pSGKrG3OiPA",
     "sell_order_count": "1",
     "buy_order_count": "119",
-    "lowest_sell_order": "234.27",
+    "lowest_sell_order": "220.72",
     "highest_buy_order": "182.85",
-    "date_modified": 1755341422208
+    "date_modified": 1755380914279
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Scorched (Battle-Scarred)",
@@ -5997,7 +5997,7 @@
     "buy_order_count": "69",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "164.33",
-    "date_modified": 1755341430368
+    "date_modified": 1755380922402
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Safari Mesh (Well-Worn)",
