@@ -29973,11 +29973,11 @@
     "hash_name": "FAMAS | Waters of Nephthys (Field-Tested)",
     "item_nameid": 176369908,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JnI-HmMj7ML7QmFRc7cF4n-SP99ul3Vfs-UpoZWqmJdXBdVQ2NQvZ8lHolO66hMC_tJyazCEy7CIi52GdwUKzTrf7zg",
-    "sell_order_count": "33",
-    "buy_order_count": "5,408",
+    "sell_order_count": "32",
+    "buy_order_count": "5,416",
     "lowest_sell_order": "36.17",
-    "highest_buy_order": "35.62",
-    "date_modified": 1757133221150
+    "highest_buy_order": "35.67",
+    "date_modified": 1757172445689
   },
   {
     "hash_name": "FAMAS | Sundown (Well-Worn)",
@@ -29987,27 +29987,27 @@
     "buy_order_count": "175",
     "lowest_sell_order": "247.87",
     "highest_buy_order": "124.59",
-    "date_modified": 1757133229465
+    "date_modified": 1757172454094
   },
   {
     "hash_name": "FAMAS | Rapid Eye Movement (Well-Worn)",
     "item_nameid": 176288495,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JhoGbnvPLNqLUhVRc7cF4n-SP8Iin2wHj_0BrYTvzcNOcJwJsNVrZqAe7lLjr15-57pXPyXEw6yB342GdwULvfaJXeg",
-    "sell_order_count": "873",
-    "buy_order_count": "14,879",
-    "lowest_sell_order": "1.09",
+    "sell_order_count": "897",
+    "buy_order_count": "15,012",
+    "lowest_sell_order": "1.05",
     "highest_buy_order": "0.99",
-    "date_modified": 1757133237602
+    "date_modified": 1757172462247
   },
   {
     "hash_name": "FAMAS | Cyanospatter (Well-Worn)",
     "item_nameid": 2385813,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf2-r3YzhH6uO7kYSCgvq6Y77TxDMB6ZMji7_HoInw3gTsqUQ4NjiiItSRcgZtaV6E-lK3leru04j84sqL2odS0w",
-    "sell_order_count": "451",
-    "buy_order_count": "24,935",
+    "sell_order_count": "494",
+    "buy_order_count": "24,939",
     "lowest_sell_order": "0.10",
     "highest_buy_order": "0.08",
-    "date_modified": 1757133245959
+    "date_modified": 1757172470426
   },
   {
     "hash_name": "DreamHack 2014 Overpass Souvenir Package",
@@ -30017,7 +30017,7 @@
     "buy_order_count": "105",
     "lowest_sell_order": "1694.20",
     "highest_buy_order": "290.00",
-    "date_modified": 1757133254122
+    "date_modified": 1757172478568
   },
   {
     "hash_name": "Desert Eagle | Sunset Storm 壱 (Minimal Wear)",
@@ -30026,18 +30026,18 @@
     "sell_order_count": "2",
     "buy_order_count": "164",
     "lowest_sell_order": "750.00",
-    "highest_buy_order": "528.90",
-    "date_modified": 1757133262415
+    "highest_buy_order": "533.97",
+    "date_modified": 1757172486708
   },
   {
     "hash_name": "Desert Eagle | Pilot (Factory New)",
     "item_nameid": 14971873,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTi1L4NOiq4SOlvD4NoTdn2xZ_Itzju-VrN7x2FHi_xJsZmv3JtSWJANrMF7T_wS4lb3t05W8vZ-bn3YypGB8sgFn0NKC",
     "sell_order_count": "5",
-    "buy_order_count": "156",
+    "buy_order_count": "157",
     "lowest_sell_order": "245.06",
     "highest_buy_order": "172.04",
-    "date_modified": 1757133270861
+    "date_modified": 1757172494869
   },
   {
     "hash_name": "Desert Eagle | Blaze (Minimal Wear)",
@@ -30047,7 +30047,7 @@
     "buy_order_count": "501",
     "lowest_sell_order": "1389.00",
     "highest_buy_order": "848.72",
-    "date_modified": 1757133279187
+    "date_modified": 1757172503013
   },
   {
     "hash_name": "CZ75-Auto | Framework (Battle-Scarred)",
@@ -30057,46 +30057,46 @@
     "buy_order_count": "6,291",
     "lowest_sell_order": "1.09",
     "highest_buy_order": "0.76",
-    "date_modified": 1757133287333
+    "date_modified": 1757172511157
   },
   {
     "hash_name": "Austin 2025 Contenders Sticker Capsule",
     "item_nameid": 176516644,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7hlNIIs_rBVJXwPRUvf_h52GHF5mJBBSiamxIgRr1uH3YTxB5-O3gZPZx6WhDLjemH9U5sF0mPqP8djziwe180RuMj-lJIXEIFc3ZQrX-1G5k-fpgcO5tJ2bzXNg7ygl42GdwUIGi3ipMg",
-    "sell_order_count": "14,631",
-    "buy_order_count": "215,576",
-    "lowest_sell_order": "0.26",
-    "highest_buy_order": "0.25",
-    "date_modified": 1757133295631
+    "sell_order_count": "13,503",
+    "buy_order_count": "214,485",
+    "lowest_sell_order": "0.25",
+    "highest_buy_order": "0.24",
+    "date_modified": 1757172519310
   },
   {
     "hash_name": "AUG | Lil' Pig (Well-Worn)",
     "item_nameid": 176461285,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFABz7P_BfS1L6-O3gYe0mvLwOq7c2DNS6ZJyjL6RodmtjgLl_0VsYG37IYHBJ1c_Nw3Z_1O6l7rug5O8vZvXiSw0DPN7YL8",
     "sell_order_count": "2",
-    "buy_order_count": "2,085",
+    "buy_order_count": "2,057",
     "lowest_sell_order": "27.39",
-    "highest_buy_order": "18.33",
-    "date_modified": 1757133303957
+    "highest_buy_order": "18.42",
+    "date_modified": 1757172527464
   },
   {
     "hash_name": "AUG | Copperhead (Minimal Wear)",
     "item_nameid": 1321746,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957PDHYS1H_tSzlYS0m_7zO6-fl2hTvcMk3b_Ap9yg2QDjqBdsZmmid4DEewY_ZgvS-VLsxr_pgMLttYOJlyV7LtwYfQ",
-    "sell_order_count": "3",
-    "buy_order_count": "79",
+    "sell_order_count": "4",
+    "buy_order_count": "80",
     "lowest_sell_order": "196.15",
-    "highest_buy_order": "104.05",
-    "date_modified": 1757133312267
+    "highest_buy_order": "104.14",
+    "date_modified": 1757172535705
   },
   {
     "hash_name": "AK-47 | Panthera onca (Factory New)",
     "item_nameid": 176209814,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJI7dujlZK0m_7zO6-fk21X7ZAp273DoNXz2wfiqBdtZmnzI47GJABsNFHV-1Lskurrh8O5voOJlyVD-NChGw",
     "sell_order_count": "2",
-    "buy_order_count": "668",
+    "buy_order_count": "667",
     "lowest_sell_order": "933.06",
     "highest_buy_order": "592.85",
-    "date_modified": 1757133320551
+    "date_modified": 1757172543998
   }
 ]
