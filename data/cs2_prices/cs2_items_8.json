@@ -18004,10 +18004,10 @@
     "item_nameid": 176097082,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73ci9b_8i3mIyCjfLwDLzDk25f1810i__Yu9Wj3wW3-BZpZz2gI4GQJgVvYAzV_FXrl-vm15-5vJufnyBrsyQg5XnD30vgt9YQc8k",
     "sell_order_count": "2",
-    "buy_order_count": "885",
+    "buy_order_count": "886",
     "lowest_sell_order": "210.00",
-    "highest_buy_order": "142.20",
-    "date_modified": 1757824460469
+    "highest_buy_order": "142.22",
+    "date_modified": 1757863636805
   },
   {
     "hash_name": "CZ75-Auto | Emerald (Minimal Wear)",
@@ -18017,147 +18017,147 @@
     "buy_order_count": "332",
     "lowest_sell_order": "64.00",
     "highest_buy_order": "52.49",
-    "date_modified": 1757824468779
+    "date_modified": 1757863645151
   },
   {
     "hash_name": "CZ75-Auto | Emerald (Factory New)",
     "item_nameid": 49419411,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v33dDBH_t26kL-HnvD8J_WDkzNUsZ0k37nApo-g3gPsqUBsa2n7cYKRdg8_N1GF-lfsxum618W6ot2Xnn5j1JpH",
-    "sell_order_count": "56",
-    "buy_order_count": "1,748",
-    "lowest_sell_order": "59.81",
-    "highest_buy_order": "58.81",
-    "date_modified": 1757824476966
+    "sell_order_count": "55",
+    "buy_order_count": "1,740",
+    "lowest_sell_order": "62.62",
+    "highest_buy_order": "61.81",
+    "date_modified": 1757863653447
   },
   {
     "hash_name": "CZ75-Auto | Eco (Well-Worn)",
     "item_nameid": 175999956,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueOzl4-0mvLwOq7c2G8AsJ0m2ujDrdms3lXk-RA_YGqlcdPGclU4Y17Z_VW6k-nvjZ-0uZTXiSw0MkKClsM",
-    "sell_order_count": "157",
-    "buy_order_count": "10,636",
-    "lowest_sell_order": "0.59",
+    "sell_order_count": "158",
+    "buy_order_count": "10,591",
+    "lowest_sell_order": "0.58",
     "highest_buy_order": "0.57",
-    "date_modified": 1757824485140
+    "date_modified": 1757863661817
   },
   {
     "hash_name": "CZ75-Auto | Eco (Minimal Wear)",
     "item_nameid": 175999939,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueOzl4-0m_7zO6-fxDpTsZVy3O2ToIik21bg8xE9YTvxJ4WTIVA4ZlCFqVTtl-u9gZC76YOJlyVHb_iUOw",
-    "sell_order_count": "49",
-    "buy_order_count": "15,690",
-    "lowest_sell_order": "2.16",
+    "sell_order_count": "64",
+    "buy_order_count": "15,586",
+    "lowest_sell_order": "2.12",
     "highest_buy_order": "1.87",
-    "date_modified": 1757824493315
+    "date_modified": 1757863670189
   },
   {
     "hash_name": "CZ75-Auto | Eco (Field-Tested)",
     "item_nameid": 175999912,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueOzl4-0mvLwOq7c2G8AsJ0m2ujDrdms3lXk-RA_YGqlcdPGclU4Y17Z_VW6k-nvjZ-0uZTXiSw0MkKClsM",
-    "sell_order_count": "164",
-    "buy_order_count": "23,877",
-    "lowest_sell_order": "0.80",
-    "highest_buy_order": "0.78",
-    "date_modified": 1757824501516
+    "sell_order_count": "168",
+    "buy_order_count": "23,875",
+    "lowest_sell_order": "0.78",
+    "highest_buy_order": "0.76",
+    "date_modified": 1757863678341
   },
   {
     "hash_name": "CZ75-Auto | Eco (Factory New)",
     "item_nameid": 175999935,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueOzl4-0m_7zO6-fxDpTsZVy3O2ToIik21bg8xE9YTvxJ4WTIVA4ZlCFqVTtl-u9gZC76YOJlyVHb_iUOw",
-    "sell_order_count": "31",
-    "buy_order_count": "9,098",
-    "lowest_sell_order": "5.99",
+    "sell_order_count": "33",
+    "buy_order_count": "9,086",
+    "lowest_sell_order": "5.75",
     "highest_buy_order": "5.33",
-    "date_modified": 1757824509843
+    "date_modified": 1757863686498
   },
   {
     "hash_name": "CZ75-Auto | Eco (Battle-Scarred)",
     "item_nameid": 175999951,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueOzl4-0n_L1JaKflzIF6cd30rCRo4rzjVLh-hVoMmmndYCXdFA7ZQ7R_Vfrw-u5hJLvu4OJlyW34AHneQ",
-    "sell_order_count": "86",
-    "buy_order_count": "10,805",
-    "lowest_sell_order": "0.54",
+    "sell_order_count": "79",
+    "buy_order_count": "10,795",
+    "lowest_sell_order": "0.57",
     "highest_buy_order": "0.52",
-    "date_modified": 1757824517990
+    "date_modified": 1757863694630
   },
   {
     "hash_name": "CZ75-Auto | Distressed (Well-Worn)",
     "item_nameid": 176118297,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTck29Y_cg_i-zCpd73jlfs-0U4Mjv2JI6cIQ8-Z1mFq1Tvkum8hcK9vpTPn3oyuz5iuyjUlukq0g",
-    "sell_order_count": "214",
-    "buy_order_count": "35,912",
-    "lowest_sell_order": "0.13",
+    "sell_order_count": "224",
+    "buy_order_count": "35,913",
+    "lowest_sell_order": "0.12",
     "highest_buy_order": "0.11",
-    "date_modified": 1757824526140
+    "date_modified": 1757863702980
   },
   {
     "hash_name": "CZ75-Auto | Distressed (Minimal Wear)",
     "item_nameid": 176118304,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTdn2xZ_IsjjOvA99Wmiwyy80Rrazz7IdPDegA2YgzVq1jqwO3pgpO9upqdyHQypGB8sgPmJ9t5",
-    "sell_order_count": "109",
-    "buy_order_count": "57,519",
-    "lowest_sell_order": "0.20",
+    "sell_order_count": "132",
+    "buy_order_count": "57,517",
+    "lowest_sell_order": "0.21",
     "highest_buy_order": "0.19",
-    "date_modified": 1757824534359
+    "date_modified": 1757863711115
   },
   {
     "hash_name": "CZ75-Auto | Distressed (Field-Tested)",
     "item_nameid": 176118285,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTck29Y_cg_i-zCpd73jlfs-0U4Mjv2JI6cIQ8-Z1mFq1Tvkum8hcK9vpTPn3oyuz5iuyjUlukq0g",
-    "sell_order_count": "145",
-    "buy_order_count": "98,886",
-    "lowest_sell_order": "0.30",
-    "highest_buy_order": "0.29",
-    "date_modified": 1757824542536
+    "sell_order_count": "206",
+    "buy_order_count": "98,782",
+    "lowest_sell_order": "0.27",
+    "highest_buy_order": "0.25",
+    "date_modified": 1757863719266
   },
   {
     "hash_name": "CZ75-Auto | Distressed (Factory New)",
     "item_nameid": 176118390,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTdn2xZ_IsjjOvA99Wmiwyy80Rrazz7IdPDegA2YgzVq1jqwO3pgpO9upqdyHQypGB8sgPmJ9t5",
-    "sell_order_count": "42",
-    "buy_order_count": "16,638",
-    "lowest_sell_order": "0.53",
-    "highest_buy_order": "0.46",
-    "date_modified": 1757824550687
+    "sell_order_count": "45",
+    "buy_order_count": "16,625",
+    "lowest_sell_order": "0.51",
+    "highest_buy_order": "0.47",
+    "date_modified": 1757863727417
   },
   {
     "hash_name": "CZ75-Auto | Distressed (Battle-Scarred)",
     "item_nameid": 176118332,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTZk2pH8Yso3e-YoNij0AGw_RFuYzugdtPHdFJoZVzX-QPrxr3o08W4uJ7KmnFmpGB8svVt3Aa7",
-    "sell_order_count": "139",
-    "buy_order_count": "38,898",
-    "lowest_sell_order": "0.13",
-    "highest_buy_order": "0.12",
-    "date_modified": 1757824558849
+    "sell_order_count": "198",
+    "buy_order_count": "38,950",
+    "lowest_sell_order": "0.11",
+    "highest_buy_order": "0.10",
+    "date_modified": 1757863735738
   },
   {
     "hash_name": "CZ75-Auto | Crimson Web (Well-Worn)",
     "item_nameid": 6821548,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf2-r3ZjhA_-O7kYSCgvq6MeuClDpSuccj3erDpt6t3APkqkE4NjvzLIDAe1dsZl-C-1Lvw-zn1oj84so3KaF8AA",
-    "sell_order_count": "46",
-    "buy_order_count": "2,392",
+    "sell_order_count": "47",
+    "buy_order_count": "2,389",
     "lowest_sell_order": "0.95",
     "highest_buy_order": "0.92",
-    "date_modified": 1757824566998
+    "date_modified": 1757863743876
   },
   {
     "hash_name": "CZ75-Auto | Crimson Web (Minimal Wear)",
     "item_nameid": 6821040,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf2-r3ZjhA_-O6nYeDg7n3a-jVkzsJ7Zcg0-qZoN_0i1DsqhVuZ2uhcYSUdQQ-MwzV_AO-wLvum9bi647NHLbz",
-    "sell_order_count": "107",
+    "sell_order_count": "101",
     "buy_order_count": "5,870",
-    "lowest_sell_order": "1.38",
+    "lowest_sell_order": "1.41",
     "highest_buy_order": "1.27",
-    "date_modified": 1757824575168
+    "date_modified": 1757863752071
   },
   {
     "hash_name": "CZ75-Auto | Crimson Web (Field-Tested)",
     "item_nameid": 6821039,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf2-r3ZjhA_-O7kYSCgvq6MeuClDpSuccj3erDpt6t3APkqkE4NjvzLIDAe1dsZl-C-1Lvw-zn1oj84so3KaF8AA",
     "sell_order_count": "147",
-    "buy_order_count": "9,307",
+    "buy_order_count": "9,306",
     "lowest_sell_order": "0.87",
     "highest_buy_order": "0.86",
-    "date_modified": 1757824583375
+    "date_modified": 1757863760401
   },
   {
     "hash_name": "CZ75-Auto | Crimson Web (Factory New)",
@@ -18167,287 +18167,287 @@
     "buy_order_count": "254",
     "lowest_sell_order": "13.65",
     "highest_buy_order": "11.22",
-    "date_modified": 1757824591728
+    "date_modified": 1757863768544
   },
   {
     "hash_name": "CZ75-Auto | Crimson Web (Battle-Scarred)",
     "item_nameid": 6821038,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf2-r3ZjhA_-O-kYGdjrmlYLqAwj0Avpwj0r2X9I333gaw8xU_Z2D0d9LDdAI-ZwnZ_1Lvxrztm9bi653AnJ9i",
-    "sell_order_count": "50",
-    "buy_order_count": "1,958",
+    "sell_order_count": "95",
+    "buy_order_count": "1,952",
     "lowest_sell_order": "0.87",
     "highest_buy_order": "0.86",
-    "date_modified": 1757824599897
+    "date_modified": 1757863776715
   },
   {
     "hash_name": "CZ75-Auto | Copper Fiber (Well-Worn)",
     "item_nameid": 176506149,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73cjxQ7tO4q4aClfLmDLjLwT5u5cB1g_zMu4qmiwayr0FsMWjyIIDBIAFsNQmG-gO9kujo05O4753OyHRkuicmsHrD30vg40nLdi4",
-    "sell_order_count": "41",
-    "buy_order_count": "35,750",
-    "lowest_sell_order": "0.13",
+    "sell_order_count": "45",
+    "buy_order_count": "35,853",
+    "lowest_sell_order": "0.11",
     "highest_buy_order": "0.10",
-    "date_modified": 1757824608194
+    "date_modified": 1757863785022
   },
   {
     "hash_name": "CZ75-Auto | Copper Fiber (Minimal Wear)",
     "item_nameid": 176506277,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73cjxQ7tO4q4aClfLmDLjLwT5u5Mx2gv2P9NrzjQbl-EdvYWz7INWQcwFsaFGDq1Toxbq8gZW9u5rNnXpkuiUh5mGdwULr-4jNwA",
-    "sell_order_count": "151",
-    "buy_order_count": "43,051",
-    "lowest_sell_order": "0.24",
+    "sell_order_count": "152",
+    "buy_order_count": "44,068",
+    "lowest_sell_order": "0.26",
     "highest_buy_order": "0.23",
-    "date_modified": 1757824616365
+    "date_modified": 1757863793159
   },
   {
     "hash_name": "CZ75-Auto | Copper Fiber (Field-Tested)",
     "item_nameid": 176506135,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73cjxQ7tO4q4aClfLmDLjLwT5u5cB1g_zMu4qmiwayr0FsMWjyIIDBIAFsNQmG-gO9kujo05O4753OyHRkuicmsHrD30vg40nLdi4",
-    "sell_order_count": "1,258",
-    "buy_order_count": "66,576",
-    "lowest_sell_order": "0.12",
-    "highest_buy_order": "0.11",
-    "date_modified": 1757824624515
+    "sell_order_count": "1,077",
+    "buy_order_count": "66,963",
+    "lowest_sell_order": "0.13",
+    "highest_buy_order": "0.12",
+    "date_modified": 1757863801294
   },
   {
     "hash_name": "CZ75-Auto | Copper Fiber (Factory New)",
     "item_nameid": 176506146,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73cjxQ7tO4q4aClfLmDLjLwT5u5Mx2gv2P9NrzjQbl-EdvYWz7INWQcwFsaFGDq1Toxbq8gZW9u5rNnXpkuiUh5mGdwULr-4jNwA",
-    "sell_order_count": "300",
-    "buy_order_count": "29,404",
+    "sell_order_count": "313",
+    "buy_order_count": "29,313",
     "lowest_sell_order": "0.78",
     "highest_buy_order": "0.64",
-    "date_modified": 1757824632720
+    "date_modified": 1757863809623
   },
   {
     "hash_name": "CZ75-Auto | Copper Fiber (Battle-Scarred)",
     "item_nameid": 176506281,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73cjxQ7tO4q4aClfLmDLjLwT5u4MBwnPCP99Wm0Ffl_BFtNz3yddWSe1A6ZV-G-gXsl7rrhcS5u8mdzScwuycg5WGdwUKYgCAJew",
-    "sell_order_count": "228",
-    "buy_order_count": "37,643",
+    "sell_order_count": "230",
+    "buy_order_count": "37,640",
     "lowest_sell_order": "0.09",
     "highest_buy_order": "0.07",
-    "date_modified": 1757824641029
+    "date_modified": 1757863817770
   },
   {
     "hash_name": "CZ75-Auto | Circaetus (Well-Worn)",
     "item_nameid": 176240943,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueOhnImZm-D9Pb_um25V4dB8xL-Tp96m2Q21qhdvajihLI-Qe1NvMwnQqVXqk7q5jJK97p3Ay3ZrvHY8pSGKgRSgG0k",
-    "sell_order_count": "187",
-    "buy_order_count": "44,572",
+    "sell_order_count": "204",
+    "buy_order_count": "44,499",
     "lowest_sell_order": "0.18",
     "highest_buy_order": "0.17",
-    "date_modified": 1757824649197
+    "date_modified": 1757863825909
   },
   {
     "hash_name": "CZ75-Auto | Circaetus (Minimal Wear)",
     "item_nameid": 176240953,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueOhnImZm-D9Pb_ummJW4NE_27mT8Nqh2Va38hdlZm_2JtKXJldqMwyE8gLskry5gsW_vMjIwCNquj5iuyjwL4ARYQ",
-    "sell_order_count": "227",
-    "buy_order_count": "58,891",
-    "lowest_sell_order": "0.31",
-    "highest_buy_order": "0.30",
-    "date_modified": 1757824657355
+    "sell_order_count": "199",
+    "buy_order_count": "58,530",
+    "lowest_sell_order": "0.35",
+    "highest_buy_order": "0.29",
+    "date_modified": 1757863834189
   },
   {
     "hash_name": "CZ75-Auto | Circaetus (Field-Tested)",
     "item_nameid": 176240927,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueOhnImZm-D9Pb_um25V4dB8xL-Tp96m2Q21qhdvajihLI-Qe1NvMwnQqVXqk7q5jJK97p3Ay3ZrvHY8pSGKgRSgG0k",
-    "sell_order_count": "786",
-    "buy_order_count": "136,603",
-    "lowest_sell_order": "0.24",
+    "sell_order_count": "757",
+    "buy_order_count": "136,946",
+    "lowest_sell_order": "0.26",
     "highest_buy_order": "0.23",
-    "date_modified": 1757824665556
+    "date_modified": 1757863842325
   },
   {
     "hash_name": "CZ75-Auto | Circaetus (Factory New)",
     "item_nameid": 176240932,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueOhnImZm-D9Pb_ummJW4NE_27mT8Nqh2Va38hdlZm_2JtKXJldqMwyE8gLskry5gsW_vMjIwCNquj5iuyjwL4ARYQ",
-    "sell_order_count": "50",
-    "buy_order_count": "19,204",
-    "lowest_sell_order": "0.80",
+    "sell_order_count": "53",
+    "buy_order_count": "18,803",
+    "lowest_sell_order": "0.82",
     "highest_buy_order": "0.73",
-    "date_modified": 1757824673712
+    "date_modified": 1757863850475
   },
   {
     "hash_name": "CZ75-Auto | Circaetus (Battle-Scarred)",
     "item_nameid": 176240961,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueOhnImZm-D9Pb_unm5Q_tw_ieuV8Iql2VGy-EY5Nm6gIdfDIwE-NQuB-QTvl-7vjMLp6JTKmHUy7z5iuyh6rrJdCQ",
-    "sell_order_count": "442",
-    "buy_order_count": "53,114",
-    "lowest_sell_order": "0.17",
+    "sell_order_count": "393",
+    "buy_order_count": "53,010",
+    "lowest_sell_order": "0.18",
     "highest_buy_order": "0.16",
-    "date_modified": 1757824681892
+    "date_modified": 1757863858762
   },
   {
     "hash_name": "CZ75-Auto | Chalice (Factory New)",
     "item_nameid": 14953232,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73YzJb7dCJmImMn-O6NrmExjoE6Zx027zArN73jgK1-0U9ZWihJoaSIQ82Z1-B-Fe8l-2-1Ij84srni6G65Q",
-    "sell_order_count": "8",
-    "buy_order_count": "862",
+    "sell_order_count": "9",
+    "buy_order_count": "863",
     "lowest_sell_order": "684.79",
-    "highest_buy_order": "564.92",
-    "date_modified": 1757824690071
+    "highest_buy_order": "564.94",
+    "date_modified": 1757863866896
   },
   {
     "hash_name": "CZ75-Auto | Army Sheen (Minimal Wear)",
     "item_nameid": 49419388,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73cC9P9eOlnImFksj4OrzZgiVSu8cl3uuY89ys3FW2r0Q-ZTr6I4CRcQc6YVGE_QS_kObn0MO_6JrO1zI97V4EwwYQ",
-    "sell_order_count": "95",
+    "sell_order_count": "106",
     "buy_order_count": "30,096",
-    "lowest_sell_order": "2.99",
+    "lowest_sell_order": "2.96",
     "highest_buy_order": "2.73",
-    "date_modified": 1757824698223
+    "date_modified": 1757863875024
   },
   {
     "hash_name": "CZ75-Auto | Army Sheen (Field-Tested)",
     "item_nameid": 49419425,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73cC9P9eOlnImFksj5Nr_Yg2YfsMN0jr3A8dugjgfsqEQ6Z2nyco6Vd1doZFzZq1O8yO280cO0uc_Nn2wj5HdkmnizBg",
-    "sell_order_count": "37",
-    "buy_order_count": "4,724",
-    "lowest_sell_order": "2.82",
-    "highest_buy_order": "2.25",
-    "date_modified": 1757824706381
+    "sell_order_count": "36",
+    "buy_order_count": "4,726",
+    "lowest_sell_order": "2.53",
+    "highest_buy_order": "2.31",
+    "date_modified": 1757863883329
   },
   {
     "hash_name": "CZ75-Auto | Army Sheen (Factory New)",
     "item_nameid": 49419367,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73cC9P9eOlnImFksj4OrzZgiVSu8cl3uuY89ys3FW2r0Q-ZTr6I4CRcQc6YVGE_QS_kObn0MO_6JrO1zI97V4EwwYQ",
-    "sell_order_count": "48",
-    "buy_order_count": "5,917",
-    "lowest_sell_order": "5.55",
-    "highest_buy_order": "4.95",
-    "date_modified": 1757824714556
+    "sell_order_count": "43",
+    "buy_order_count": "5,927",
+    "lowest_sell_order": "6.99",
+    "highest_buy_order": "4.96",
+    "date_modified": 1757863891465
   },
   {
     "hash_name": "CS:GO Weapon Case 3",
     "item_nameid": 6820494,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsRVx4MwFo5fSnf15k0KGacG0UtYXnzdTdkq-gariGlDgHvMcmjryZotqg2wCxrUVtfSmtc20v4quI",
-    "sell_order_count": "1,020",
-    "buy_order_count": "100,843",
-    "lowest_sell_order": "9.31",
-    "highest_buy_order": "7.82",
-    "date_modified": 1757824722710
+    "sell_order_count": "1,028",
+    "buy_order_count": "100,842",
+    "lowest_sell_order": "9.09",
+    "highest_buy_order": "7.74",
+    "date_modified": 1757863899602
   },
   {
     "hash_name": "CS:GO Weapon Case 2",
     "item_nameid": 1913364,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsRVx4MwFo5PT8elUwgKKZJmtEvo_kxITZk6StNe-Fz2pTu8Aj3eqVpIqgjVfjrRI9fSmtc1Nw-Kh3",
-    "sell_order_count": "830",
-    "buy_order_count": "98,468",
-    "lowest_sell_order": "13.74",
-    "highest_buy_order": "11.85",
-    "date_modified": 1757824730892
+    "sell_order_count": "864",
+    "buy_order_count": "98,475",
+    "lowest_sell_order": "13.22",
+    "highest_buy_order": "11.67",
+    "date_modified": 1757863907888
   },
   {
     "hash_name": "CS:GO Weapon Case",
     "item_nameid": 1275323,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsRVx4MwFo5_T3eAQ3i6DMIW0X7ojiwoHax6egMOKGxj4G68Nz3-jCp4itjFWx-ktqfSmtcwqVx6sT",
-    "sell_order_count": "660",
-    "buy_order_count": "53,859",
-    "lowest_sell_order": "113.25",
-    "highest_buy_order": "100.78",
-    "date_modified": 1757824739043
+    "sell_order_count": "693",
+    "buy_order_count": "53,828",
+    "lowest_sell_order": "106.87",
+    "highest_buy_order": "100.00",
+    "date_modified": 1757863916112
   },
   {
     "hash_name": "CS:GO Patch Pack",
     "item_nameid": 176112401,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1xgJgxoprumIFcxnaKeIGpGvYjnzYbbwvOkMriBlDxSu5Z10ryS89-h3Azt-xVoY2nwJIaLMlhpqHx2GCs",
-    "sell_order_count": "896",
-    "buy_order_count": "20,062",
+    "sell_order_count": "880",
+    "buy_order_count": "20,140",
     "lowest_sell_order": "1.52",
     "highest_buy_order": "1.31",
-    "date_modified": 1757824747208
+    "date_modified": 1757863924268
   },
   {
     "hash_name": "CS:GO Graffiti Box",
     "item_nameid": 171085342,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQE1mJB1oprumIDh20v_edAIToorlxYXfx6GnYr6CxzkI6cYiju2QoI3xjgaxrhA_N2D1INSQcQc6aFDOug_pDymuGn4",
-    "sell_order_count": "78",
-    "buy_order_count": "4,976",
-    "lowest_sell_order": "1.04",
-    "highest_buy_order": "0.85",
-    "date_modified": 1757824755516
+    "sell_order_count": "71",
+    "buy_order_count": "4,887",
+    "lowest_sell_order": "1.06",
+    "highest_buy_order": "0.84",
+    "date_modified": 1757863932538
   },
   {
     "hash_name": "CS:GO Case Key",
     "item_nameid": 1274951,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUlrBpNQ0LvROW-0vDYVkQ6d1QFsO2kKAYzhPDJd2wUtd61l9HZlqfxZe2HwDtUscYo0r6WodWn2RqkpRRDMuS_sw",
-    "sell_order_count": "48",
+    "sell_order_count": "47",
     "buy_order_count": "12,119",
     "lowest_sell_order": "9.50",
     "highest_buy_order": "7.67",
-    "date_modified": 1757824763667
+    "date_modified": 1757863940669
   },
   {
     "hash_name": "CS:GO Capsule Key",
     "item_nameid": 6683760,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUhvRJeR0nCeOe_1tvWbFZxPEoGt-72fQJiivWeJ2sSvt3uktTcxfbwNenQkGoHuJUj3biRoNqm3wS35QMyNL4TTAx3",
-    "sell_order_count": "21",
-    "buy_order_count": "10,702",
-    "lowest_sell_order": "6.00",
-    "highest_buy_order": "5.08",
-    "date_modified": 1757824771819
+    "sell_order_count": "22",
+    "buy_order_count": "10,703",
+    "lowest_sell_order": "5.99",
+    "highest_buy_order": "5.09",
+    "date_modified": 1757863948834
   },
   {
     "hash_name": "CS20 Sticker Capsule",
     "item_nameid": 176091755,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDbI219792mh5WHkrn1NeLTwTxSu8QmiLvEptumiwW1rRE-MGD1JI_AIAA7ZliCqAS9wOzsm9bi65vhLWPP",
-    "sell_order_count": "605",
-    "buy_order_count": "29,058",
-    "lowest_sell_order": "0.94",
-    "highest_buy_order": "0.83",
-    "date_modified": 1757824780119
+    "sell_order_count": "491",
+    "buy_order_count": "29,231",
+    "lowest_sell_order": "0.99",
+    "highest_buy_order": "0.94",
+    "date_modified": 1757863957204
   },
   {
     "hash_name": "CS20 Case Key",
     "item_nameid": 176091766,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOiejxZVRigqHKdThDuIjkxNKIk_P2Y-nVkjhQ68Eiju3A94qn31fm-EE9YGntZNjCxfU42Ps",
-    "lowest_sell_order": "32.92",
+    "lowest_sell_order": "32.00",
     "highest_buy_order": "19.98",
-    "date_modified": 1757824788282,
-    "sell_order_count": "17",
+    "date_modified": 1757863965338,
+    "sell_order_count": "22",
     "buy_order_count": "23,349"
   },
   {
     "hash_name": "CS20 Case",
     "item_nameid": 176091756,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU0naHKIj9D7oTgl4LelaGnMuqIwDgFusR337HCpYmhiwzm8ktqMjv2INKLMlhprbp6CTE",
-    "lowest_sell_order": "1.73",
-    "highest_buy_order": "1.64",
-    "date_modified": 1757824796459,
-    "sell_order_count": "20,409",
-    "buy_order_count": "1,309,243"
+    "lowest_sell_order": "1.72",
+    "highest_buy_order": "1.69",
+    "date_modified": 1757863973628,
+    "sell_order_count": "20,018",
+    "buy_order_count": "1,308,097"
   },
   {
     "hash_name": "Crasswater The Forgotten | Guerrilla Warfare",
     "item_nameid": 176262887,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztDu4WvPgln3_b3YzxL6Nmkq5aKhf71Pa_T2GgH7MEji77C9tnw2QDi_kFtMmv0cYeSe1JqYgmBrwS4kOjp15Lp6cvXiSw0Q-2v8Wk",
-    "sell_order_count": "188",
+    "sell_order_count": "176",
     "buy_order_count": "8,106",
-    "lowest_sell_order": "68.38",
-    "highest_buy_order": "65.34",
-    "date_modified": 1757824804746
+    "lowest_sell_order": "71.34",
+    "highest_buy_order": "68.78",
+    "date_modified": 1757863981983
   },
   {
     "hash_name": "Copper Lambda Pin",
     "item_nameid": 176116888,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFAZsyuv3IW8Mv93hwdeNxPTwYOzTkz8Iu5Nz2euY942t2Qfl-xFlNWyhJdOVJwI_NEaQpAbmkVeJdg",
-    "sell_order_count": "22",
-    "buy_order_count": "2,718",
-    "lowest_sell_order": "6.79",
-    "highest_buy_order": "5.81",
-    "date_modified": 1757824812905
+    "sell_order_count": "21",
+    "buy_order_count": "2,719",
+    "lowest_sell_order": "6.67",
+    "highest_buy_order": "5.83",
+    "date_modified": 1757863990357
   },
   {
     "hash_name": "Copenhagen 2024 Viewer Pass + 3 Souvenir Tokens",
     "item_nameid": 176421047,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fV-Oh6N_aUFZxKDsF5ujxFBdhwOD3YTxB55K0kNbflvGmZuvSlTwIucN32-iR8NmniQWy_UA9Nj31JNDAJlc2ZVrT5BHglveXR16h",
-    "sell_order_count": "22",
-    "buy_order_count": "6,412",
-    "lowest_sell_order": "44.20",
+    "sell_order_count": "21",
+    "buy_order_count": "6,411",
+    "lowest_sell_order": "46.98",
     "highest_buy_order": "37.58",
-    "date_modified": 1757824821061
+    "date_modified": 1757863998530
   },
   {
     "hash_name": "Copenhagen 2024 Viewer Pass",
@@ -18457,147 +18457,147 @@
     "buy_order_count": "4,921",
     "lowest_sell_order": "44.41",
     "highest_buy_order": "42.24",
-    "date_modified": 1757824829353
+    "date_modified": 1757864006871
   },
   {
     "hash_name": "Copenhagen 2024 Vertigo Souvenir Package",
     "item_nameid": 176421552,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUE18d1QF4oW1OQht3MzMdAJU6c6inYeE2a7xN7mFwzsA6Zcji-vFpt_wiVHs_0I5Ym6gd4CQcFQ-Y1nUqQC-kLzxxcjry7bbBKU",
-    "sell_order_count": "151",
+    "sell_order_count": "201",
     "buy_order_count": "50,394",
-    "lowest_sell_order": "3.16",
+    "lowest_sell_order": "3.13",
     "highest_buy_order": "2.90",
-    "date_modified": 1757824837510
+    "date_modified": 1757864015002
   },
   {
     "hash_name": "Copenhagen 2024 Overpass Souvenir Package",
     "item_nameid": 176421554,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUE18d1QF4oW1OQht3MzMdAJN-tmkhIGYhLn2Zr7QzjsEsJInieiUpNz23VLh80pkZ2jyJ9eQcwU_YFjSq1O_wLu5m9bi62b58b43",
-    "sell_order_count": "916",
-    "buy_order_count": "50,583",
-    "lowest_sell_order": "2.20",
+    "sell_order_count": "906",
+    "buy_order_count": "50,582",
+    "lowest_sell_order": "2.21",
     "highest_buy_order": "2.00",
-    "date_modified": 1757824845712
+    "date_modified": 1757864023337
   },
   {
     "hash_name": "Copenhagen 2024 Nuke Souvenir Package",
     "item_nameid": 176421555,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUE18d1QF4oW1OQht3MzMdAJM-dez2tCNw6CgZb-Jzj0Ju8cl3bGT9N720Aa3_0pvZj_0IY6Xd1dvMA7VqViggbC4ncEVSFs",
-    "sell_order_count": "135",
-    "buy_order_count": "43,303",
-    "lowest_sell_order": "3.01",
-    "highest_buy_order": "2.68",
-    "date_modified": 1757824853868
+    "sell_order_count": "124",
+    "buy_order_count": "43,295",
+    "lowest_sell_order": "2.88",
+    "highest_buy_order": "2.31",
+    "date_modified": 1757864031625
   },
   {
     "hash_name": "Copenhagen 2024 Mirage Souvenir Package",
     "item_nameid": 176421550,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUE18d1QF4oW1OQht3MzMdAJP5c63k4XFx_KmNe2EwWoE65Eojr6VpYqijAG3qUI9YDrzIY-ccAM3Y1_S8gW7kvCv28FVLWhaFA",
-    "sell_order_count": "842",
-    "buy_order_count": "90,663",
+    "sell_order_count": "835",
+    "buy_order_count": "90,652",
     "lowest_sell_order": "2.90",
-    "highest_buy_order": "2.80",
-    "date_modified": 1757824862051
+    "highest_buy_order": "2.77",
+    "date_modified": 1757864039765
   },
   {
     "hash_name": "Copenhagen 2024 Legends Sticker Capsule",
     "item_nameid": 176421950,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDYeW8SvoiJmIWMkvnwIPWGkGkIsZ1w3b2RoY3z2Qax_BdvZW6lLICddA9tYArX-VC2xLu90MPuot2Xnn7dQ7ES",
-    "sell_order_count": "6,701",
-    "buy_order_count": "353,702",
-    "lowest_sell_order": "0.72",
-    "highest_buy_order": "0.70",
-    "date_modified": 1757824870216
+    "sell_order_count": "7,587",
+    "buy_order_count": "353,605",
+    "lowest_sell_order": "0.64",
+    "highest_buy_order": "0.61",
+    "date_modified": 1757864047905
   },
   {
     "hash_name": "Copenhagen 2024 Legends Autograph Capsule",
     "item_nameid": 176421953,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDYeW8SvoiJk5KEgufLP77Wk2VV-4t1ie2T8N6k3VDhrRdqNm3zctSXc1RvYQyEqATrlO-8g5G_vZ_Mm3tmpGB8srcVd-M5",
-    "sell_order_count": "9,623",
-    "buy_order_count": "239,438",
-    "lowest_sell_order": "0.43",
-    "highest_buy_order": "0.42",
-    "date_modified": 1757824878386
+    "sell_order_count": "9,725",
+    "buy_order_count": "238,873",
+    "lowest_sell_order": "0.42",
+    "highest_buy_order": "0.37",
+    "date_modified": 1757864056079
   },
   {
     "hash_name": "Copenhagen 2024 Inferno Souvenir Package",
     "item_nameid": 176421674,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUE18d1QF4oW1OQht3MzMdAJL4tqzho6E2aalNbnXkDgBup0li7uR8Nmk3gTh-Eo5Njz1JIeQcgRsNwqE81Hol-rxxcjrZQj9Rn8",
-    "sell_order_count": "134",
-    "buy_order_count": "33,867",
-    "lowest_sell_order": "2.41",
-    "highest_buy_order": "2.30",
-    "date_modified": 1757824886574
+    "sell_order_count": "139",
+    "buy_order_count": "33,860",
+    "lowest_sell_order": "2.32",
+    "highest_buy_order": "2.26",
+    "date_modified": 1757864064367
   },
   {
     "hash_name": "Copenhagen 2024 Contenders Sticker Capsule",
     "item_nameid": 176421949,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDYeW8SvoiJl4-Fg_L6N77DhSVUv8ByibnHrdmkiVfh-UBlYTj1J9fEdgA-ZFzY-1fslLvrgp-1usvO1zI97SlQJk_3",
-    "sell_order_count": "5,480",
-    "buy_order_count": "418,586",
-    "lowest_sell_order": "0.77",
-    "highest_buy_order": "0.76",
-    "date_modified": 1757824894732
+    "sell_order_count": "6,987",
+    "buy_order_count": "418,430",
+    "lowest_sell_order": "0.65",
+    "highest_buy_order": "0.63",
+    "date_modified": 1757864072551
   },
   {
     "hash_name": "Copenhagen 2024 Contenders Autograph Capsule",
     "item_nameid": 176421951,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDYeW8SvoiJk5KEgufLMLTfgm5f7MBjmaeRoI6h3lW28hZpZTuicY6cIwc4ZQ3Q-Vm9yLy-h8K4u8ubyiFh6yEr-z-DyIuQfIzl",
-    "sell_order_count": "7,688",
-    "buy_order_count": "223,797",
-    "lowest_sell_order": "0.28",
-    "highest_buy_order": "0.26",
-    "date_modified": 1757824902886
+    "sell_order_count": "8,157",
+    "buy_order_count": "221,911",
+    "lowest_sell_order": "0.25",
+    "highest_buy_order": "0.24",
+    "date_modified": 1757864080848
   },
   {
     "hash_name": "Copenhagen 2024 Champions Autograph Capsule",
     "item_nameid": 176423375,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDYeW8SvoiJk5KEgufLMLPQm3tY58tixOrEo9Sl3lblrxJpZjv2IIeRd1M9NVvW-1O6xO3t08S1uMnByndj6XE8pSGKPVCY3OQ",
-    "sell_order_count": "2,154",
-    "buy_order_count": "118,647",
-    "lowest_sell_order": "0.30",
-    "highest_buy_order": "0.28",
-    "date_modified": 1757824911048
+    "sell_order_count": "2,104",
+    "buy_order_count": "118,591",
+    "lowest_sell_order": "0.31",
+    "highest_buy_order": "0.30",
+    "date_modified": 1757864088996
   },
   {
     "hash_name": "Copenhagen 2024 Challengers Sticker Capsule",
     "item_nameid": 176421952,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDYeW8SvoiJl4iKm_vxPbzUhHgfsJAk0u-So4qs0Qfj8hVrN230II-SdFJoYljT-AS3kOa6h8K_vM_BzGwj5Hdm4fMLQA",
-    "sell_order_count": "3,311",
-    "buy_order_count": "284,823",
-    "lowest_sell_order": "0.84",
-    "highest_buy_order": "0.76",
-    "date_modified": 1757824919194
+    "sell_order_count": "4,196",
+    "buy_order_count": "284,843",
+    "lowest_sell_order": "0.72",
+    "highest_buy_order": "0.71",
+    "date_modified": 1757864097133
   },
   {
     "hash_name": "Copenhagen 2024 Challengers Autograph Capsule",
     "item_nameid": 176421954,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDYeW8SvoiJk5KEgufLMLPQmmdU5sJ0mPqP8N6liwW3_0A_Mmj2JoKRdlc4ZwyF_ATsw7i5gcLovJzMyHdgv3Qk42GdwUJWCoc48A",
-    "sell_order_count": "5,796",
-    "buy_order_count": "192,253",
-    "lowest_sell_order": "0.29",
-    "highest_buy_order": "0.27",
-    "date_modified": 1757824927490
+    "sell_order_count": "5,738",
+    "buy_order_count": "191,970",
+    "lowest_sell_order": "0.27",
+    "highest_buy_order": "0.26",
+    "date_modified": 1757864105461
   },
   {
     "hash_name": "Copenhagen 2024 Anubis Souvenir Package",
     "item_nameid": 176421553,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUE18d1QF4oW1OQht3MzMdAJD4sm0nZPFk6atMuKJzjlSsZR3i-_C9NrziwW3rxZkZDygIdeQJFc8NVmF81G_kPCv28Gp_pBD0A",
     "sell_order_count": "126",
-    "buy_order_count": "60,975",
+    "buy_order_count": "60,974",
     "lowest_sell_order": "3.54",
     "highest_buy_order": "3.23",
-    "date_modified": 1757824935647
+    "date_modified": 1757864113612
   },
   {
     "hash_name": "Copenhagen 2024 Ancient Souvenir Package",
     "item_nameid": 176421551,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUE18d1QF4oW1OQht3MzMdAJD4t-_kY6f2fX3NezUkGhVvpEmjrqR8Nzx0Qe1r0JpY23xcYHAdVRtN1rY-AS_w-fxxcjrH-8AWfI",
-    "sell_order_count": "161",
-    "buy_order_count": "61,368",
-    "lowest_sell_order": "2.92",
-    "highest_buy_order": "2.71",
-    "date_modified": 1757824943949
+    "sell_order_count": "163",
+    "buy_order_count": "61,450",
+    "lowest_sell_order": "2.84",
+    "highest_buy_order": "2.66",
+    "date_modified": 1757864121749
   },
   {
     "hash_name": "Community Sticker Capsule 1 Key",
@@ -18607,47 +18607,47 @@
     "buy_order_count": "9,699",
     "lowest_sell_order": "7.01",
     "highest_buy_order": "4.80",
-    "date_modified": 1757824952245
+    "date_modified": 1757864130078
   },
   {
     "hash_name": "Community Sticker Capsule 1",
     "item_nameid": 8987868,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDHfDBX4tWijdDa2a-iZ-2ClT8J6ZMo2uqY8Yql0AHn_kJsMjyhLdCRcQQ5ZAqBq1PqxefxxcjruizdAMI",
-    "sell_order_count": "544",
-    "buy_order_count": "17,156",
-    "lowest_sell_order": "2.33",
-    "highest_buy_order": "2.00",
-    "date_modified": 1757824960426
+    "sell_order_count": "572",
+    "buy_order_count": "17,125",
+    "lowest_sell_order": "2.14",
+    "highest_buy_order": "1.96",
+    "date_modified": 1757864138206
   },
   {
     "hash_name": "Community Graffiti Box 1",
     "item_nameid": 171085313,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQE1mJB1oprumIDhj3P7FZDNL-MWJxc7SzqelN-_VkD8CsMMmi-uQ8YqmigDt-BJsZWqnLIbGIw48ZlnR_1S-366x0hw5olnZ",
-    "sell_order_count": "1,489",
-    "buy_order_count": "3,083",
-    "lowest_sell_order": "0.74",
-    "highest_buy_order": "0.72",
-    "date_modified": 1757824968579
+    "sell_order_count": "1,510",
+    "buy_order_count": "3,023",
+    "lowest_sell_order": "0.77",
+    "highest_buy_order": "0.71",
+    "date_modified": 1757864146394
   },
   {
     "hash_name": "Community Capsule 2018",
     "item_nameid": 175966710,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDHfDAQvI3uq9DaqPT1I6jEmm4f68R32ruZpNTzjQDk_EpuazzwcdWUdQU6Zl6FrlK6lbq-hMO6vJ2bm2wj5HfVqNDQsQ",
-    "sell_order_count": "289",
-    "buy_order_count": "6,442",
+    "sell_order_count": "285",
+    "buy_order_count": "6,441",
     "lowest_sell_order": "0.89",
     "highest_buy_order": "0.80",
-    "date_modified": 1757824976751
+    "date_modified": 1757864154745
   },
   {
     "hash_name": "Combine Helmet Pin",
     "item_nameid": 176116872,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFAZsyuv3IWUM6dm3wYSJwfKmML6HkjtVv8dw2L2X94j031HmqUFvYGD3coOSJgA4N0aQpAZwamivMg",
-    "sell_order_count": "34",
-    "buy_order_count": "3,992",
-    "lowest_sell_order": "5.37",
+    "sell_order_count": "37",
+    "buy_order_count": "3,990",
+    "lowest_sell_order": "4.63",
     "highest_buy_order": "4.40",
-    "date_modified": 1757824984900
+    "date_modified": 1757864162928
   },
   {
     "hash_name": "Cologne 2016 Train Souvenir Package",
@@ -18657,7 +18657,7 @@
     "buy_order_count": "284",
     "lowest_sell_order": "33.35",
     "highest_buy_order": "22.70",
-    "date_modified": 1757824993048
+    "date_modified": 1757864171222
   },
   {
     "hash_name": "Cologne 2016 Overpass Souvenir Package",
@@ -18667,7 +18667,7 @@
     "buy_order_count": "226",
     "lowest_sell_order": "106.37",
     "highest_buy_order": "74.00",
-    "date_modified": 1757825001352
+    "date_modified": 1757864179357
   },
   {
     "hash_name": "Cologne 2016 Nuke Souvenir Package",
@@ -18677,7 +18677,7 @@
     "buy_order_count": "240",
     "lowest_sell_order": "80.00",
     "highest_buy_order": "64.75",
-    "date_modified": 1757825009510
+    "date_modified": 1757864187515
   },
   {
     "hash_name": "Cologne 2016 Mirage Souvenir Package",
@@ -18686,18 +18686,18 @@
     "sell_order_count": "10",
     "buy_order_count": "121",
     "lowest_sell_order": "62.33",
-    "highest_buy_order": "27.75",
-    "date_modified": 1757825017664
+    "highest_buy_order": "27.80",
+    "date_modified": 1757864195852
   },
   {
     "hash_name": "Cologne 2016 Legends (Holo-Foil)",
     "item_nameid": 157485796,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDHfTJF4tnkxNHdqKelfeyAxT8AsJAljLiYoo7wigyxrxc4MWqicNOQJAJrMlCFq1O7k7jugMOi_MOedI-b88c",
     "sell_order_count": "29",
-    "buy_order_count": "571",
-    "lowest_sell_order": "48.00",
-    "highest_buy_order": "42.93",
-    "date_modified": 1757825025828
+    "buy_order_count": "580",
+    "lowest_sell_order": "46.00",
+    "highest_buy_order": "42.48",
+    "date_modified": 1757864204175
   },
   {
     "hash_name": "Cologne 2016 Dust II Souvenir Package",
@@ -18707,7 +18707,7 @@
     "buy_order_count": "98",
     "lowest_sell_order": "127.47",
     "highest_buy_order": "40.45",
-    "date_modified": 1757825033985
+    "date_modified": 1757864212308
   },
   {
     "hash_name": "Cologne 2016 Cobblestone Souvenir Package",
@@ -18717,17 +18717,17 @@
     "buy_order_count": "1,103",
     "lowest_sell_order": "1720.00",
     "highest_buy_order": "1494.77",
-    "date_modified": 1757825042155
+    "date_modified": 1757864220464
   },
   {
     "hash_name": "Cologne 2016 Challengers (Holo-Foil)",
     "item_nameid": 157485908,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDHfTJF4tnkxNHdqKemfeLUwD1Susck2rzDoYj20Qfn_xdra2v3IoSUdQI4YgqG-wS_xezrg5Ci_MOexJHJZWE",
-    "sell_order_count": "18",
-    "buy_order_count": "701",
-    "lowest_sell_order": "55.00",
+    "sell_order_count": "17",
+    "buy_order_count": "711",
+    "lowest_sell_order": "55.51",
     "highest_buy_order": "45.82",
-    "date_modified": 1757825050313
+    "date_modified": 1757864228800
   },
   {
     "hash_name": "Cologne 2016 Cache Souvenir Package",
@@ -18737,27 +18737,27 @@
     "buy_order_count": "90",
     "lowest_sell_order": "69.18",
     "highest_buy_order": "42.89",
-    "date_modified": 1757825058470
+    "date_modified": 1757864237118
   },
   {
     "hash_name": "Collectible Pins Capsule Series 3",
     "item_nameid": 175970591,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1R6NjtEs6isLhRfgL2acmkQu4vuktGIzqWnMe6JlT5SsZMh27uZodrzilG3qkBlMmv6IoSQbEZgNvrBL7z7",
-    "sell_order_count": "186",
+    "sell_order_count": "189",
     "buy_order_count": "1,676",
     "lowest_sell_order": "8.77",
     "highest_buy_order": "8.00",
-    "date_modified": 1757825066619
+    "date_modified": 1757864245259
   },
   {
     "hash_name": "Collectible Pins Capsule Series 2",
     "item_nameid": 170165264,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1R6NjtEs6isLhRfgb2RJzhB6IqzldnekaWgYO2HlWoI6pEgjLiZoI_x2layrUA9Y2midoaVbEZgNpv4tTbC",
-    "sell_order_count": "22",
-    "buy_order_count": "949",
+    "sell_order_count": "21",
+    "buy_order_count": "948",
     "lowest_sell_order": "9.60",
     "highest_buy_order": "8.13",
-    "date_modified": 1757825074804
+    "date_modified": 1757864253578
   },
   {
     "hash_name": "Collectible Pins Capsule Series 1",
@@ -18765,599 +18765,599 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1R6NjtEs6isLhRfgr3MJW5Gu4vlkIPfzvKtYuqExDoHscEm0-rH9o2i2FXj_RJrNj_0d4aTbEZgNilpEO0l",
     "sell_order_count": "35",
     "buy_order_count": "1,368",
-    "lowest_sell_order": "9.48",
+    "lowest_sell_order": "9.43",
     "highest_buy_order": "8.20",
-    "date_modified": 1757825082955
+    "date_modified": 1757864261706
   },
   {
     "hash_name": "Col. Mangos Dabisi | Guerrilla Warfare",
     "item_nameid": 176263146,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztDu4WvPgln3_b3YzxL6Nmkq5aKhf71Pa_V2G0E7JMkju2Wpd332ge1qRY_Y23wcY-UewE5aAzQqAftk-vmgMC-uZrXiSw0kJphTlw",
-    "sell_order_count": "76",
-    "buy_order_count": "5,591",
-    "lowest_sell_order": "41.93",
-    "highest_buy_order": "39.82",
-    "date_modified": 1757825091139
+    "sell_order_count": "75",
+    "buy_order_count": "5,605",
+    "lowest_sell_order": "43.56",
+    "highest_buy_order": "40.06",
+    "date_modified": 1757864269852
   },
   {
     "hash_name": "Cobblestone Pin",
     "item_nameid": 170165266,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFARv0fHEdC5W49Kz2oWIzvTyY-2DwjwC7JAojLHArdv0igXsqhc-MG6icIHAIVQ7NwqB-wWggbC4d1t4Le0",
-    "sell_order_count": "29",
-    "buy_order_count": "513",
-    "lowest_sell_order": "9.32",
-    "highest_buy_order": "8.12",
-    "date_modified": 1757825099459
+    "sell_order_count": "28",
+    "buy_order_count": "518",
+    "lowest_sell_order": "9.97",
+    "highest_buy_order": "8.20",
+    "date_modified": 1757864278224
   },
   {
     "hash_name": "Cmdr. Mae 'Dead Cold' Jamison | SWAT",
     "item_nameid": 176209157,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaOBBhx8zecC9L7dKikc7dkqOmMujUwzhVvMMh2--Qo9v0jFHn_BdsajihI9KUdVdvNAzY-FC4366x0k_AGm7S",
-    "sell_order_count": "154",
-    "buy_order_count": "9,770",
-    "lowest_sell_order": "30.65",
-    "highest_buy_order": "29.05",
-    "date_modified": 1757825107618
+    "sell_order_count": "143",
+    "buy_order_count": "9,797",
+    "lowest_sell_order": "34.09",
+    "highest_buy_order": "31.13",
+    "date_modified": 1757864286365
   },
   {
     "hash_name": "Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman",
     "item_nameid": 176262679,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaLw521uH3ZzxQ5d24gILFlaSiMu3UkDkJ7sYm0rHEpNv30Qe2_RI5NT_zJY-Ucg4-NQ7Uqwe3wfCv28E7EBraGA",
-    "sell_order_count": "62",
-    "buy_order_count": "4,566",
-    "lowest_sell_order": "64.06",
+    "sell_order_count": "66",
+    "buy_order_count": "4,573",
+    "lowest_sell_order": "62.99",
     "highest_buy_order": "61.08",
-    "date_modified": 1757825115798
+    "date_modified": 1757864294513
   },
   {
     "hash_name": "Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman",
     "item_nameid": 176262930,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaLw521uH3ZzxQ5d24gIHFkvaiNumCkzgG6pwoib3A89-s3wOx-0poMm_0cIXAcAFsMAmBqAfvx_Cv28GKJK2Ngg",
-    "sell_order_count": "38",
-    "buy_order_count": "3,623",
-    "lowest_sell_order": "75.12",
-    "highest_buy_order": "70.54",
-    "date_modified": 1757825123983
+    "sell_order_count": "36",
+    "buy_order_count": "3,637",
+    "lowest_sell_order": "76.88",
+    "highest_buy_order": "70.26",
+    "date_modified": 1757864302840
   },
   {
     "hash_name": "CMB Pin",
     "item_nameid": 176116877,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFAZsyuv3IW4M6IXlzNPelaOlN77Vxj4AscF13-jD9tus2gHiqEpqZWv0ctSQJw5sMEaQpAbS4RNigQ",
-    "sell_order_count": "22",
-    "buy_order_count": "4,310",
-    "lowest_sell_order": "5.06",
-    "highest_buy_order": "4.16",
-    "date_modified": 1757825132167
+    "sell_order_count": "28",
+    "buy_order_count": "4,311",
+    "lowest_sell_order": "4.69",
+    "highest_buy_order": "4.56",
+    "date_modified": 1757864310980
   },
   {
     "hash_name": "Clutch Case Key",
     "item_nameid": 175966709,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOiev8ZV9k0fWRdT4Q6oXvltbTz6OjZb_VkDpS65xyj7uX9o2t2gPg_xJqZjvtZNjC9vhle1c",
-    "sell_order_count": "60",
+    "sell_order_count": "62",
     "buy_order_count": "28,714",
-    "lowest_sell_order": "17.10",
+    "lowest_sell_order": "17.08",
     "highest_buy_order": "13.62",
-    "date_modified": 1757825140338
+    "date_modified": 1757864319146
   },
   {
     "hash_name": "Clutch Case",
     "item_nameid": 175966708,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY5naqQIz4R7Yjix9bZkvKiZrmAzzlTu5AoibiT8d_x21Wy8hY_MWz1doSLMlhpM3FKbNs",
-    "sell_order_count": "47,745",
-    "buy_order_count": "4,093,547",
-    "lowest_sell_order": "1.16",
-    "highest_buy_order": "1.09",
-    "date_modified": 1757825148701
+    "sell_order_count": "48,311",
+    "buy_order_count": "4,090,918",
+    "lowest_sell_order": "1.15",
+    "highest_buy_order": "1.12",
+    "date_modified": 1757864327426
   },
   {
     "hash_name": "Civil Protection Pin",
     "item_nameid": 176116887,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFAZsyuv3IWkMtN7gwoWPwPP3YrqBwzxV7Z0g0-rHrI_ziwXsqEFtNz_3IYaQclNrMEaQpAbiSCHXZw",
-    "sell_order_count": "19",
-    "buy_order_count": "2,514",
-    "lowest_sell_order": "16.96",
+    "sell_order_count": "17",
+    "buy_order_count": "2,515",
+    "lowest_sell_order": "16.99",
     "highest_buy_order": "15.54",
-    "date_modified": 1757825156871
+    "date_modified": 1757864335563
   },
   {
     "hash_name": "City 17 Pin",
     "item_nameid": 176116895,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFAZsyuv3IGwM7t-1x4KOxfGsNeKGxDJQvp0hjLqQo4-siVHk8xE5YzuhcYadcFU8YEaQpAaXHWxq2Q",
-    "sell_order_count": "29",
-    "buy_order_count": "4,057",
-    "lowest_sell_order": "4.15",
-    "highest_buy_order": "3.51",
-    "date_modified": 1757825165027
+    "sell_order_count": "28",
+    "buy_order_count": "4,056",
+    "lowest_sell_order": "4.20",
+    "highest_buy_order": "3.83",
+    "date_modified": 1757864343702
   },
   {
     "hash_name": "Chroma Pin",
     "item_nameid": 170170466,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFARowfzFcHMbuInmxYHdlvWkZ-3XxT9X7pFzjruUpdSn3wPh_Rc_YDj3JNXGdAU_fxiOrXe15n6O",
-    "sell_order_count": "9",
+    "sell_order_count": "12",
     "buy_order_count": "304",
-    "lowest_sell_order": "16.11",
+    "lowest_sell_order": "14.26",
     "highest_buy_order": "13.81",
-    "date_modified": 1757825173203
+    "date_modified": 1757864352071
   },
   {
     "hash_name": "Chroma Case Key",
     "item_nameid": 29205214,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOiezrLVYygaCYdDlB79_mwdKIlq-tY-LUlzgB6sYm27-W8dvx0Vey_0ZrY3ezetEQGWlygA",
-    "sell_order_count": "63",
-    "buy_order_count": "14,832",
-    "lowest_sell_order": "18.31",
+    "sell_order_count": "62",
+    "buy_order_count": "14,831",
+    "lowest_sell_order": "17.87",
     "highest_buy_order": "14.41",
-    "date_modified": 1757825181355
+    "date_modified": 1757864360231
   },
   {
     "hash_name": "Chroma Case",
     "item_nameid": 29205213,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFEuh_KQJTtEuI63xIXbxqOtauyClTMEsJV1jruS89T3iQKx_BBqa2j3JpjVLFH1xpp0EQ",
-    "sell_order_count": "3,421",
-    "buy_order_count": "309,616",
-    "lowest_sell_order": "5.95",
-    "highest_buy_order": "5.46",
-    "date_modified": 1757825189646
+    "sell_order_count": "3,604",
+    "buy_order_count": "309,774",
+    "lowest_sell_order": "5.75",
+    "highest_buy_order": "5.47",
+    "date_modified": 1757864368366
   },
   {
     "hash_name": "Chroma 3 Case Key",
     "item_nameid": 149853530,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOiev3ZV851qOaJ28RvInuxIWPw_WtMr-Gkz0FvZwh27mU8Yqm3APir0VrYm3tZNjC3MZhHzk",
-    "sell_order_count": "90",
+    "sell_order_count": "86",
     "buy_order_count": "12,854",
-    "lowest_sell_order": "18.31",
+    "lowest_sell_order": "18.51",
     "highest_buy_order": "15.00",
-    "date_modified": 1757825197812
+    "date_modified": 1757864376688
   },
   {
     "hash_name": "Chroma 3 Case",
     "item_nameid": 149865785,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYynaSdJGhE74y0wNWIw_OlNuvXkDpSuZQmi--SrN-h3gey-Uo6YWmlIoCLMlhplhFFvwI",
-    "sell_order_count": "16,446",
-    "buy_order_count": "1,094,501",
-    "lowest_sell_order": "4.28",
-    "highest_buy_order": "4.25",
-    "date_modified": 1757825205984
+    "sell_order_count": "16,977",
+    "buy_order_count": "1,092,084",
+    "lowest_sell_order": "3.92",
+    "highest_buy_order": "3.91",
+    "date_modified": 1757864384833
   },
   {
     "hash_name": "Chroma 2 Case Key",
     "item_nameid": 40091993,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUxuxpJSXPbQv2S1MDeXkh6LBBOie3rKFRh16PKd2pDvozixtSOwaP2ar7SlzIA6sEo2rHCpdyhjAGxr0A6MHezetG0RZXdTA",
     "sell_order_count": "69",
-    "buy_order_count": "19,099",
-    "lowest_sell_order": "16.07",
+    "buy_order_count": "19,097",
+    "lowest_sell_order": "15.61",
     "highest_buy_order": "12.62",
-    "date_modified": 1757825214132
+    "date_modified": 1757864393167
   },
   {
     "hash_name": "Chroma 2 Case",
     "item_nameid": 40091990,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFAuhqSaKWtEu43mxtbbk6b1a77Twm4Iu8Yl3bCU9Imii1Xt80M5MmD7JZjVLFH-6VnQJQ",
-    "sell_order_count": "12,090",
-    "buy_order_count": "820,938",
-    "lowest_sell_order": "4.78",
-    "highest_buy_order": "4.23",
-    "date_modified": 1757825222306
+    "sell_order_count": "12,603",
+    "buy_order_count": "822,048",
+    "lowest_sell_order": "4.16",
+    "highest_buy_order": "4.11",
+    "date_modified": 1757864401439
   },
   {
     "hash_name": "Chicken Capsule",
     "item_nameid": 176058881,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDAeD5J6dKJl4GbhOL4NvWHxm9VsZ13ie2ToIih3gHs_0VqZD_2J4TAclBsaA7Y8gfsxOu-hJe6ot2Xnuoj7nNf",
-    "sell_order_count": "293",
-    "buy_order_count": "13,779",
+    "sell_order_count": "301",
+    "buy_order_count": "13,829",
     "lowest_sell_order": "0.94",
     "highest_buy_order": "0.84",
-    "date_modified": 1757825230590
+    "date_modified": 1757864409577
   },
   {
     "hash_name": "Chem-Haz Specialist | SWAT",
     "item_nameid": 176209362,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaOBBhx8zecC9L7dKins6Olq7wN7rSkzMCv51yjO2To9Sh0QXhr0FuYzj0JtfAew83M1DX_1Pq366x0jY3td4U",
-    "sell_order_count": "130",
-    "buy_order_count": "14,683",
-    "lowest_sell_order": "19.64",
-    "highest_buy_order": "18.99",
-    "date_modified": 1757825238749
+    "sell_order_count": "111",
+    "buy_order_count": "14,672",
+    "lowest_sell_order": "21.36",
+    "highest_buy_order": "19.23",
+    "date_modified": 1757864417758
   },
   {
     "hash_name": "Chem-Haz Capitaine | Gendarmerie Nationale",
     "item_nameid": 176262965,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaLAJu1_LafDhQ5dmJgoGZnvb6J7mfkj4BusN32evErNSm2gfl-xY6Y27zJoLDdAc4MwqCrwDtwrrrhJ6_7YOJlyXNMh79ZQ",
-    "sell_order_count": "130",
+    "sell_order_count": "114",
     "buy_order_count": "9,138",
-    "lowest_sell_order": "35.90",
-    "highest_buy_order": "33.60",
-    "date_modified": 1757825247079
+    "lowest_sell_order": "39.41",
+    "highest_buy_order": "36.13",
+    "date_modified": 1757864426093
   },
   {
     "hash_name": "Chef d'Escadron Rouchard | Gendarmerie Nationale",
     "item_nameid": 176262893,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaLAJu1_LafDhQ5dmJgoGZnvb6J7ifkG5Qu5ch07uXpNyi2gyy_kc_MW37doSRdVU5NQmF-le9lb_sh8DpuIOJlyWdFPgjMA",
-    "sell_order_count": "81",
-    "buy_order_count": "5,259",
-    "lowest_sell_order": "55.89",
-    "highest_buy_order": "54.80",
-    "date_modified": 1757825255280
+    "sell_order_count": "62",
+    "buy_order_count": "5,265",
+    "lowest_sell_order": "57.75",
+    "highest_buy_order": "57.16",
+    "date_modified": 1757864434386
   },
   {
     "hash_name": "Charm | Whittle Knife",
     "item_nameid": 176460459,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibmxIAlp1fb3ZjJN6JLhkYTSwKClYu_UwmkG7ZUp3LrFpNr0iw22-0RrZD-iItXDew4-NVHW5BHglnO5_XjL",
-    "sell_order_count": "2,876",
-    "buy_order_count": "48,781",
-    "lowest_sell_order": "0.36",
-    "highest_buy_order": "0.35",
-    "date_modified": 1757825263449
+    "sell_order_count": "2,820",
+    "buy_order_count": "48,493",
+    "lowest_sell_order": "0.35",
+    "highest_buy_order": "0.34",
+    "date_modified": 1757864442710
   },
   {
     "hash_name": "Charm | Titeenium AWP",
     "item_nameid": 176460445,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuyOzhzw_zHf3MU6Yy1w9LSz6KhYuqElD8Bv50njL3Do4iliQPt-RdtNWmhcdKTcVM6fxiOrZx3IiXH",
-    "sell_order_count": "445",
-    "buy_order_count": "16,062",
-    "lowest_sell_order": "9.01",
-    "highest_buy_order": "8.83",
-    "date_modified": 1757825271734
+    "sell_order_count": "452",
+    "buy_order_count": "16,111",
+    "lowest_sell_order": "9.00",
+    "highest_buy_order": "8.99",
+    "date_modified": 1757864451027
   },
   {
     "hash_name": "Charm | That's Bananas",
     "item_nameid": 176460636,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ97t24lY6K2aOjZe7TxW9U68Qp3LmV8diijAbh_RFvNz_1cNDDegBrY1yB_Fm-l-fxxcjroRR2m78",
-    "sell_order_count": "638",
-    "buy_order_count": "20,795",
-    "lowest_sell_order": "2.71",
-    "highest_buy_order": "2.69",
-    "date_modified": 1757825279921
+    "sell_order_count": "674",
+    "buy_order_count": "20,748",
+    "lowest_sell_order": "2.43",
+    "highest_buy_order": "2.35",
+    "date_modified": 1757864459162
   },
   {
     "hash_name": "Charm | Stitch-Loaded",
     "item_nameid": 176460450,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZia-2Ozh50uHGP2sV6dm1zILcwPatZr2Hkz1VvpNwiL2W9o2sjg3n-RY4Y2ulLIOcIA8gIQaHL6W44wM",
-    "sell_order_count": "4,709",
-    "buy_order_count": "64,205",
+    "sell_order_count": "4,762",
+    "buy_order_count": "60,227",
     "lowest_sell_order": "0.18",
     "highest_buy_order": "0.17",
-    "date_modified": 1757825288214
+    "date_modified": 1757864467293
   },
   {
     "hash_name": "Charm | Semi-Precious",
     "item_nameid": 176460740,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZia6uJQ5m1szLYyRR-N262tPTxvSka-mFwj1SsJcj2bmYpI32igzs-UE9Y2jzLIDGc1Q7Zg2ErlaggbC4q4_SvSA",
-    "sell_order_count": "420",
-    "buy_order_count": "14,077",
-    "lowest_sell_order": "29.00",
-    "highest_buy_order": "28.26",
-    "date_modified": 1757825296380
+    "sell_order_count": "415",
+    "buy_order_count": "14,081",
+    "lowest_sell_order": "29.90",
+    "highest_buy_order": "28.35",
+    "date_modified": 1757864475604
   },
   {
     "hash_name": "Charm | POP Art",
     "item_nameid": 176460583,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibfxKlZz7PDHfDRBoo3mkIWNwKL1YuyHx2oF7ccoiejE94qliQGxqkVtZm-gINLAe1Q3aArOug_pDU67KKw",
-    "sell_order_count": "492",
-    "buy_order_count": "22,546",
-    "lowest_sell_order": "1.78",
-    "highest_buy_order": "1.75",
-    "date_modified": 1757825304530
+    "sell_order_count": "538",
+    "buy_order_count": "22,739",
+    "lowest_sell_order": "1.72",
+    "highest_buy_order": "1.68",
+    "date_modified": 1757864483761
   },
   {
     "hash_name": "Charm | Pocket AWP",
     "item_nameid": 176460447,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuyOzhw3_LbZTRBotrjkIKOwKD3NurXwWoJuJJy2LGZ84j3jA3i-BBvajihJ4CQdgQ-NVDOug_pRs5oC0Y",
-    "sell_order_count": "4,215",
-    "buy_order_count": "51,218",
-    "lowest_sell_order": "0.31",
-    "highest_buy_order": "0.30",
-    "date_modified": 1757825312689
+    "sell_order_count": "4,105",
+    "buy_order_count": "51,949",
+    "lowest_sell_order": "0.32",
+    "highest_buy_order": "0.28",
+    "date_modified": 1757864492054
   },
   {
     "hash_name": "Charm | Pinch O' Salt",
     "item_nameid": 176460516,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ9_927q5OKm-PtfeuElWoE65VyibyYpdvziwaxqhc6ZmCiJ4fAcwZrZAqC81ntwezmhcSi_MOey7jwJBo",
-    "sell_order_count": "3,185",
-    "buy_order_count": "42,828",
-    "lowest_sell_order": "0.47",
+    "sell_order_count": "3,080",
+    "buy_order_count": "44,454",
+    "lowest_sell_order": "0.46",
     "highest_buy_order": "0.43",
-    "date_modified": 1757825320863
+    "date_modified": 1757864500382
   },
   {
     "hash_name": "Charm | Lil' Whiskers",
     "item_nameid": 176460596,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ9792i2oHYkfGjMu3TlTwJvpNz3rHApYr32FLj80Y5NWHxLNOWcgNoNQzVqQKggbC4YlxHE5Q",
-    "sell_order_count": "644",
-    "buy_order_count": "23,935",
-    "lowest_sell_order": "1.98",
-    "highest_buy_order": "1.95",
-    "date_modified": 1757825329037
+    "sell_order_count": "698",
+    "buy_order_count": "24,034",
+    "lowest_sell_order": "1.95",
+    "highest_buy_order": "1.93",
+    "date_modified": 1757864508668
   },
   {
     "hash_name": "Charm | Lil' Teacup",
     "item_nameid": 176460734,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ9_927q5SEnvvxfePQl2oBvpRy0rCSpYn3igTl_EE-Zj2hJILGJAY9MguB_wW8krvq056i_MOehm57vKc",
-    "sell_order_count": "477",
-    "buy_order_count": "19,046",
-    "lowest_sell_order": "3.48",
-    "highest_buy_order": "3.34",
-    "date_modified": 1757825337194
+    "sell_order_count": "478",
+    "buy_order_count": "19,006",
+    "lowest_sell_order": "3.38",
+    "highest_buy_order": "3.23",
+    "date_modified": 1757864516809
   },
   {
     "hash_name": "Charm | Lil' Squirt",
     "item_nameid": 176460536,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibfxKlZz7ODbP24X6o3lkdHSxaKkMe2CxDMHuJcljLmX9Nzz2lW1_kdtZW2mINOUIQUgIQaHwKfODuU",
-    "sell_order_count": "268",
-    "buy_order_count": "13,376",
-    "lowest_sell_order": "6.68",
-    "highest_buy_order": "6.51",
-    "date_modified": 1757825345479
+    "sell_order_count": "259",
+    "buy_order_count": "13,249",
+    "lowest_sell_order": "6.58",
+    "highest_buy_order": "6.49",
+    "date_modified": 1757864525101
   },
   {
     "hash_name": "Charm | Lil' Squatch",
     "item_nameid": 176460467,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ97tWxko-Eg7n3MbnUxTNV6cYmiOjC8Y6h3lfjr0ttYWHxcdSQIA88ZA7Zr1Lrlevrm9bi60fB9W3P",
-    "sell_order_count": "426",
-    "buy_order_count": "24,906",
-    "lowest_sell_order": "1.15",
-    "highest_buy_order": "1.12",
-    "date_modified": 1757825353642
+    "sell_order_count": "402",
+    "buy_order_count": "24,831",
+    "lowest_sell_order": "1.12",
+    "highest_buy_order": "1.05",
+    "date_modified": 1757864533233
   },
   {
     "hash_name": "Charm | Lil' SAS",
     "item_nameid": 176460489,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ9_92l2tmKzqH1ZO2IkjlXucQp3e2RpY6j3QbtqRE9Y2igLNKTIVQ3aAzZrACggbC43jslZJw",
-    "sell_order_count": "2,526",
-    "buy_order_count": "52,153",
-    "lowest_sell_order": "0.63",
-    "highest_buy_order": "0.62",
-    "date_modified": 1757825361805
+    "sell_order_count": "2,644",
+    "buy_order_count": "52,874",
+    "lowest_sell_order": "0.62",
+    "highest_buy_order": "0.61",
+    "date_modified": 1757864541438
   },
   {
     "hash_name": "Charm | Lil' Sandy",
     "item_nameid": 176460626,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ9792iloWKlP-6Me2Dz2kF6pB3juyQpdun3VKx-hJkMmrxJ9SSIwFvZF_W_lTql-jr04j84soS5V7AgA",
-    "sell_order_count": "501",
-    "buy_order_count": "22,811",
-    "lowest_sell_order": "1.40",
+    "sell_order_count": "536",
+    "buy_order_count": "22,903",
+    "lowest_sell_order": "1.39",
     "highest_buy_order": "1.38",
-    "date_modified": 1757825369999
+    "date_modified": 1757864549761
   },
   {
     "hash_name": "Charm | Lil' Monster",
     "item_nameid": 176460511,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ94dO4h5SOhbmlNb_VlGpQuZUhi7yRpIii2VbsqEs9MGn2IdeQJwc7NFDUrFO4x-_um9bi6wVbiqWJ",
-    "sell_order_count": "231",
-    "buy_order_count": "12,781",
-    "lowest_sell_order": "13.99",
-    "highest_buy_order": "13.62",
-    "date_modified": 1757825378153
+    "sell_order_count": "224",
+    "buy_order_count": "12,690",
+    "lowest_sell_order": "13.66",
+    "highest_buy_order": "13.31",
+    "date_modified": 1757864557903
   },
   {
     "hash_name": "Charm | Lil' Crass",
     "item_nameid": 176460496,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ968mzhomHm_a6a7jXlWkHv5ch3OqTp9vz2A3i-hFlZjyndY6UJgRoZVGFrAK2xue90Ij84som2UC0KQ",
-    "sell_order_count": "3,262",
-    "buy_order_count": "49,617",
-    "lowest_sell_order": "0.35",
-    "highest_buy_order": "0.34",
-    "date_modified": 1757825386318
+    "sell_order_count": "3,373",
+    "buy_order_count": "49,249",
+    "lowest_sell_order": "0.34",
+    "highest_buy_order": "0.32",
+    "date_modified": 1757864566044
   },
   {
     "hash_name": "Charm | Lil' Cap Gun",
     "item_nameid": 176460429,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZia6gKF5f0PLYP2wQtIzlktGNz6GnY7nUwD4FvpEo3b6ZpN6t3FewqEZoYjr2d4-VdgAgIQaH7w8lIQU",
-    "sell_order_count": "4,319",
-    "buy_order_count": "64,277",
+    "sell_order_count": "4,114",
+    "buy_order_count": "64,367",
     "lowest_sell_order": "0.16",
     "highest_buy_order": "0.15",
-    "date_modified": 1757825394609
+    "date_modified": 1757864574330
   },
   {
     "hash_name": "Charm | Lil' Ava",
     "item_nameid": 176460471,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ97cq32obZkqbxa-3UxzII7sYg0-uY942n3wXlrRA5YDvyLYGWcgc9Zg6Br1WggbC4N7FJJLQ",
-    "sell_order_count": "2,554",
-    "buy_order_count": "44,066",
-    "lowest_sell_order": "0.34",
-    "highest_buy_order": "0.32",
-    "date_modified": 1757825402761
+    "sell_order_count": "2,620",
+    "buy_order_count": "44,732",
+    "lowest_sell_order": "0.32",
+    "highest_buy_order": "0.31",
+    "date_modified": 1757864582480
   },
   {
     "hash_name": "Charm | Hot Wurst",
     "item_nameid": 176460745,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ9-8mkh5TFlKanZr6CkmoGupVy27uR8Imm0FGw-0BvNmulcdScJw9vNFiDrAfqkPCv28G2cNl4_Q",
-    "sell_order_count": "72",
-    "buy_order_count": "11,749",
-    "lowest_sell_order": "35.89",
-    "highest_buy_order": "33.81",
-    "date_modified": 1757825410930
+    "sell_order_count": "68",
+    "buy_order_count": "11,728",
+    "lowest_sell_order": "35.61",
+    "highest_buy_order": "33.93",
+    "date_modified": 1757864590619
   },
   {
     "hash_name": "Charm | Hot Sauce",
     "item_nameid": 176460495,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ9_927q4OKg_T8JqufxG4JsZEijryQo9uj2gbh_kc9YmzwIY-We1U6NFiC-1S4wu7mg8C9vYOJlyXb9EAkEg",
-    "sell_order_count": "2,665",
-    "buy_order_count": "47,879",
-    "lowest_sell_order": "0.40",
-    "highest_buy_order": "0.39",
-    "date_modified": 1757825419234
+    "sell_order_count": "2,794",
+    "buy_order_count": "49,035",
+    "lowest_sell_order": "0.39",
+    "highest_buy_order": "0.38",
+    "date_modified": 1757864598921
   },
   {
     "hash_name": "Charm | Hot Howl",
     "item_nameid": 176460525,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ95NOhmM6OlK-mNr6ClzIDuMB33bnErNWhjVW3_xZtam33JtSTIAQ9ZFmBq1Pt366x0gF3Wyzi",
-    "sell_order_count": "124",
+    "sell_order_count": "123",
     "buy_order_count": "11,838",
-    "lowest_sell_order": "56.14",
-    "highest_buy_order": "52.26",
-    "date_modified": 1757825427413
+    "lowest_sell_order": "55.17",
+    "highest_buy_order": "52.00",
+    "date_modified": 1757864607078
   },
   {
     "hash_name": "Charm | Hot Hands",
     "item_nameid": 176460486,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZia6gKF5f3vLPfDwMvo-1zIHZlqHwYuKHxz9UvJx3jLnEo9_30Qy2rhFqa27zItCQcAFsMEaQpAb0Heri0w",
-    "sell_order_count": "355",
-    "buy_order_count": "23,683",
-    "lowest_sell_order": "1.70",
-    "highest_buy_order": "1.66",
-    "date_modified": 1757825435569
+    "sell_order_count": "353",
+    "buy_order_count": "23,608",
+    "lowest_sell_order": "1.68",
+    "highest_buy_order": "1.65",
+    "date_modified": 1757864615217
   },
   {
     "hash_name": "Charm | Glamour Shot",
     "item_nameid": 176460673,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZia-2Ozhq1uTNfXNGu4q1xIGJx66kZ-iGkjtT6pUi0u-YrN_w3ga2-UZrZDryJdKSdABrfxiOrSca5a58",
-    "sell_order_count": "530",
-    "buy_order_count": "20,342",
-    "lowest_sell_order": "2.15",
-    "highest_buy_order": "2.02",
-    "date_modified": 1757825443744
+    "sell_order_count": "563",
+    "buy_order_count": "20,280",
+    "lowest_sell_order": "1.99",
+    "highest_buy_order": "1.89",
+    "date_modified": 1757864623501
   },
   {
     "hash_name": "Charm | Disco MAC",
     "item_nameid": 176460642,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibekKFYw7PTEeClW6c74xdCOxPbyN--Gl2hU65d1iO2Z9Nmk0Ve3_BJoMWv3ddOWIA47ZF_U-U_-n7l_dDqz9Q",
-    "sell_order_count": "728",
-    "buy_order_count": "25,066",
-    "lowest_sell_order": "1.54",
-    "highest_buy_order": "1.50",
-    "date_modified": 1757825451905
+    "sell_order_count": "697",
+    "buy_order_count": "25,098",
+    "lowest_sell_order": "1.64",
+    "highest_buy_order": "1.62",
+    "date_modified": 1757864631636
   },
   {
     "hash_name": "Charm | Diner Dog",
     "item_nameid": 176460696,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ9_927q5ODlufxferXxTxUuZMmi7uSo9qh2wTi-EtlMmD1J9SWewU4ZFjR8ge_w-bphcWi_MOekIoMHCo",
-    "sell_order_count": "160",
-    "buy_order_count": "13,504",
-    "lowest_sell_order": "8.51",
-    "highest_buy_order": "7.90",
-    "date_modified": 1757825460064
+    "sell_order_count": "165",
+    "buy_order_count": "13,478",
+    "lowest_sell_order": "8.24",
+    "highest_buy_order": "7.94",
+    "date_modified": 1757864639771
   },
   {
     "hash_name": "Charm | Die-cast AK",
     "item_nameid": 176460594,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFA1l3__RP2savoW0kNHZkaanYbmEzzxQvcR127rEpN6i2ASw-hU-a22mIo6dIQYgIQaH0ZmweWw",
-    "sell_order_count": "1,648",
-    "buy_order_count": "26,008",
-    "lowest_sell_order": "7.53",
-    "highest_buy_order": "7.52",
-    "date_modified": 1757825468293
+    "sell_order_count": "1,611",
+    "buy_order_count": "26,086",
+    "lowest_sell_order": "7.55",
+    "highest_buy_order": "7.53",
+    "date_modified": 1757864648134
   },
   {
     "hash_name": "Charm | Diamond Dog",
     "item_nameid": 176460466,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ9_927q4SClvr7Pb-fkzNQ7JElj7vHooqm3AGxqRBqMGHzcIGWJw5qM13Z8lS9w-m-jJG-u4OJlyVokOEzYA",
-    "sell_order_count": "219",
-    "buy_order_count": "13,696",
-    "lowest_sell_order": "20.82",
-    "highest_buy_order": "19.98",
-    "date_modified": 1757825476446
+    "sell_order_count": "240",
+    "buy_order_count": "13,745",
+    "lowest_sell_order": "19.70",
+    "highest_buy_order": "19.35",
+    "date_modified": 1757864656269
   },
   {
     "hash_name": "Charm | Chicken Lil'",
     "item_nameid": 176460586,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ979S_l4uOmbmgMLnQlW5XuZEj3e2XrIqniVDh-xdtMDzyIYLGegc3YArV-gDrlO28m9bi6-ZF8Nw2",
-    "sell_order_count": "571",
-    "buy_order_count": "23,143",
-    "lowest_sell_order": "2.20",
-    "highest_buy_order": "2.18",
-    "date_modified": 1757825484616
+    "sell_order_count": "606",
+    "buy_order_count": "23,057",
+    "lowest_sell_order": "2.00",
+    "highest_buy_order": "1.99",
+    "date_modified": 1757864664425
   },
   {
     "hash_name": "Charm | Big Kev",
     "item_nameid": 176460505,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSQUXDVO2j0MPaXVY7Lgdou7O2OA5u1P_BfzZ959mg2oLdw_KmN-3VzzkJ68Ah2O-Y8dz3ilXg-ERvazz3JYSWJlVsYAzTrlCggbC4HTVolNk",
-    "sell_order_count": "2,480",
-    "buy_order_count": "81,688",
-    "lowest_sell_order": "0.38",
-    "highest_buy_order": "0.37",
-    "date_modified": 1757825492946
+    "sell_order_count": "2,367",
+    "buy_order_count": "81,701",
+    "lowest_sell_order": "0.37",
+    "highest_buy_order": "0.36",
+    "date_modified": 1757864672750
   },
   {
     "hash_name": "Charm | Backsplash",
     "item_nameid": 176460485,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibekKFYw7OfBfTgMtdq1kYKIxaGjN-PTxWkF7ZB13L6Z9t-tjgPh8hc6MW36J9TGIwI5ZEaQpAYS66Di9g",
-    "sell_order_count": "7,613",
-    "buy_order_count": "64,875",
+    "sell_order_count": "7,378",
+    "buy_order_count": "64,893",
     "lowest_sell_order": "0.16",
     "highest_buy_order": "0.15",
-    "date_modified": 1757825501115
+    "date_modified": 1757864681049
   },
   {
     "hash_name": "Charm | Baby's AK",
     "item_nameid": 176460579,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibuuFAVhwPaGImwR6tiwwNDcz_akYr_VlzsAscF12uiTodij2w2x80Y4Y2vxdoDAdhh-Pw_srEH5mQ",
-    "sell_order_count": "1,353",
-    "buy_order_count": "52,140",
+    "sell_order_count": "1,160",
+    "buy_order_count": "52,924",
     "lowest_sell_order": "0.53",
     "highest_buy_order": "0.52",
-    "date_modified": 1757825509329
+    "date_modified": 1757864689177
   },
   {
     "hash_name": "Charm | Baby Karat T",
     "item_nameid": 176460545,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZia6uJQ5m1szPfjFGoti1kNbdkaLyY-iEzmgGuJAg373F8NWkige2rkNtY2vyJ9fAe1NoNQnOug_pU2_zPxk",
     "sell_order_count": "106",
-    "buy_order_count": "11,392",
-    "lowest_sell_order": "39.28",
-    "highest_buy_order": "37.33",
-    "date_modified": 1757825517512
+    "buy_order_count": "11,398",
+    "lowest_sell_order": "38.64",
+    "highest_buy_order": "36.01",
+    "date_modified": 1757864697480
   },
   {
     "hash_name": "Charm | Baby Karat CT",
     "item_nameid": 176460590,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXI5BVcJos7pwgSW0nRV-uj6J6cWF5LMhRZibmxIAlp1fb3djJO6JLnktOPkfagYb-BkjoIvZEiiLjFpNSk2Ffl_hY6YTv7IYGXJg9qYVjZ5BHglgjcAo2m",
-    "sell_order_count": "132",
-    "buy_order_count": "12,284",
-    "lowest_sell_order": "24.79",
-    "highest_buy_order": "23.09",
-    "date_modified": 1757825525658
+    "sell_order_count": "124",
+    "buy_order_count": "12,305",
+    "lowest_sell_order": "25.82",
+    "highest_buy_order": "25.00",
+    "date_modified": 1757864705620
   },
   {
     "hash_name": "Canals Pin",
     "item_nameid": 175970593,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFARh3fLEYnMVuovjloPawqWkMOmClz4B6Zwk2e-T89qijAyy_RU-azj0I4OUI1RrfxiOrb7fv4Dp",
-    "sell_order_count": "68",
-    "buy_order_count": "13,158",
-    "lowest_sell_order": "3.41",
+    "sell_order_count": "69",
+    "buy_order_count": "13,152",
+    "lowest_sell_order": "3.54",
     "highest_buy_order": "3.03",
-    "date_modified": 1757825533832
+    "date_modified": 1757864713954
   },
   {
     "hash_name": "Cache Pin",
     "item_nameid": 170170467,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFARh0PvNP2kXu47vwIKJz66sZr2IlDkE7pJw3uqVodmk0QLt-BU6YGrxcdTEdgQgIQaHRn9uE2s",
     "sell_order_count": "40",
-    "buy_order_count": "392",
-    "lowest_sell_order": "20.53",
-    "highest_buy_order": "18.01",
-    "date_modified": 1757825542119
+    "buy_order_count": "390",
+    "lowest_sell_order": "21.32",
+    "highest_buy_order": "18.24",
+    "date_modified": 1757864722369
   },
   {
     "hash_name": "Buckshot | NSWC SEAL",
     "item_nameid": 176096519,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaOBM27OXJYzRD4six2oXbxvGiYO-EwT4Cv8FyiLrA89rxjQft-0RkYD2ld9OVcVU_Nw7Q81aggbC4Bjl0YJg",
-    "sell_order_count": "302",
-    "buy_order_count": "64,413",
-    "lowest_sell_order": "11.70",
-    "highest_buy_order": "10.99",
-    "date_modified": 1757825550290
+    "sell_order_count": "311",
+    "buy_order_count": "64,467",
+    "lowest_sell_order": "13.00",
+    "highest_buy_order": "12.50",
+    "date_modified": 1757864730505
   },
   {
     "hash_name": "Brigadier General Pin",
     "item_nameid": 175970597,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFAVy2vTJdTRH_uOxkY6Ohfb4fe-JlzhTuMN33bzCodmnjlCw80BuZzz7cYHBelU6MwvZrwO-xuq905Si_MOe1hiynec",
-    "sell_order_count": "38",
-    "buy_order_count": "487",
-    "lowest_sell_order": "16.46",
-    "highest_buy_order": "14.41",
-    "date_modified": 1757825558455
+    "sell_order_count": "35",
+    "buy_order_count": "489",
+    "lowest_sell_order": "16.99",
+    "highest_buy_order": "14.91",
+    "date_modified": 1757864738654
   },
   {
     "hash_name": "Bravo Pin",
     "item_nameid": 170165303,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFAVy0uXHP25GtYTvkoLek6X2N-OGlWgIucF0iLqVrNuj2Va2_EJvMWzxcYfAc1AgIQaHsK0CuAU",
     "sell_order_count": "43",
-    "buy_order_count": "2,262",
-    "lowest_sell_order": "4.30",
-    "highest_buy_order": "3.80",
-    "date_modified": 1757825566619
+    "buy_order_count": "2,264",
+    "lowest_sell_order": "4.14",
+    "highest_buy_order": "3.81",
+    "date_modified": 1757864746954
   },
   {
     "hash_name": "Boston 2018 Train Souvenir Package",
@@ -19367,37 +19367,37 @@
     "buy_order_count": "3,013",
     "lowest_sell_order": "26.47",
     "highest_buy_order": "13.86",
-    "date_modified": 1757825574806
+    "date_modified": 1757864755274
   },
   {
     "hash_name": "Boston 2018 Returning Challengers Autograph Capsule",
     "item_nameid": 175945107,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHHYilN4o7mxdi0kOX7JqvulWNQ5Ml0hO7E55-72FHjrxdramn2I9OdIAM7Y13Z_VC7lb-6hZG8uM7MmnswvXYnsXfamgv33091Y64WxQ",
-    "sell_order_count": "114",
-    "buy_order_count": "7,622",
-    "lowest_sell_order": "15.84",
-    "highest_buy_order": "13.59",
-    "date_modified": 1757825582971
+    "sell_order_count": "115",
+    "buy_order_count": "7,612",
+    "lowest_sell_order": "15.71",
+    "highest_buy_order": "13.58",
+    "date_modified": 1757864763430
   },
   {
     "hash_name": "Boston 2018 Returning Challengers (Holo-Foil)",
     "item_nameid": 175945323,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHHYilN4o7mxdi0lP_1P7fUmGxU-tY_jLrF94jz3wW38hJsajr0d4SUe1A-N13Q-VW9xu_qhMLo6Zydznc3vz5iuyi7p2ixww",
-    "sell_order_count": "21",
-    "buy_order_count": "3,024",
-    "lowest_sell_order": "54.68",
+    "sell_order_count": "23",
+    "buy_order_count": "3,023",
+    "lowest_sell_order": "52.81",
     "highest_buy_order": "45.82",
-    "date_modified": 1757825591277
+    "date_modified": 1757864771588
   },
   {
     "hash_name": "Boston 2018 Overpass Souvenir Package",
     "item_nameid": 175956444,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUVJnMQtZ5Or0czhwwfzFfgJG6eO5goWZh_bnIPWBxj4D6ZAo3bqQ9Nus2Qbl-RI-Y2vycIPDdFBsN1DT8wXslOnv15Xuot2XnhpgfFWY",
-    "sell_order_count": "23",
-    "buy_order_count": "2,097",
+    "sell_order_count": "24",
+    "buy_order_count": "2,098",
     "lowest_sell_order": "54.16",
-    "highest_buy_order": "36.07",
-    "date_modified": 1757825599564
+    "highest_buy_order": "36.08",
+    "date_modified": 1757864779926
   },
   {
     "hash_name": "Boston 2018 Nuke Souvenir Package",
@@ -19407,37 +19407,37 @@
     "buy_order_count": "1,436",
     "lowest_sell_order": "66.65",
     "highest_buy_order": "53.60",
-    "date_modified": 1757825607732
+    "date_modified": 1757864788078
   },
   {
     "hash_name": "Boston 2018 Mirage Souvenir Package",
     "item_nameid": 175956389,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUVJnMQtZ5Or0czhwwfzFfgJG6eO7nZKKkPK6YO7SxW4FsJBz2u-YoNmg2QWwqhBpZj31coLEegc5MF3XrwC9lby6gIj84sqN4sVeZQ",
-    "sell_order_count": "33",
+    "sell_order_count": "30",
     "buy_order_count": "3,255",
-    "lowest_sell_order": "23.69",
+    "lowest_sell_order": "25.42",
     "highest_buy_order": "19.15",
-    "date_modified": 1757825615925
+    "date_modified": 1757864796442
   },
   {
     "hash_name": "Boston 2018 Minor Challengers with Flash Gaming Autograph Capsule",
     "item_nameid": 175951523,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHHYilN4o7mxdi0kOX7JqvulWRf_MB_juzT5rPzhFP6_EFsYm2mJoSTdwY5ZQyErgfrk-7t1pG778vPynNivil3sXfclkPh1wYMMLIFG2n7_Q",
-    "sell_order_count": "40",
+    "sell_order_count": "41",
     "buy_order_count": "5,946",
-    "lowest_sell_order": "22.17",
+    "lowest_sell_order": "22.08",
     "highest_buy_order": "18.70",
-    "date_modified": 1757825624080
+    "date_modified": 1757864804579
   },
   {
     "hash_name": "Boston 2018 Minor Challengers with Flash Gaming (Holo-Foil)",
     "item_nameid": 175951472,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHHYilN4o7mxdi0lPj6J77fkm5D-_p3hu6P94ik3Ae1rRc9MW71cYSWewZoZFrS81fqyO_v0JW07Z2fnCFq6yQksGGdwULLEHgFvg",
     "sell_order_count": "34",
-    "buy_order_count": "2,853",
-    "lowest_sell_order": "45.89",
-    "highest_buy_order": "36.82",
-    "date_modified": 1757825632287
+    "buy_order_count": "2,854",
+    "lowest_sell_order": "44.59",
+    "highest_buy_order": "35.56",
+    "date_modified": 1757864812743
   },
   {
     "hash_name": "Boston 2018 Minor Challengers Autograph Capsule",
@@ -19445,9 +19445,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHHYilN4o7mxdi0kOX7JqvulWRf_MB_juzT5sKkjVKy_Uc_ZjjycdLDIQU-NV6EqwW_wrrrgZbvvZ3OyiZluCgis32LgVXp1u2ZbG5Y",
     "sell_order_count": "5",
     "buy_order_count": "3,977",
-    "lowest_sell_order": "293.43",
+    "lowest_sell_order": "321.97",
     "highest_buy_order": "189.44",
-    "date_modified": 1757825640579
+    "date_modified": 1757864821040
   },
   {
     "hash_name": "Boston 2018 Minor Challengers (Holo-Foil)",
@@ -19456,8 +19456,8 @@
     "sell_order_count": "9",
     "buy_order_count": "2,170",
     "lowest_sell_order": "162.87",
-    "highest_buy_order": "136.25",
-    "date_modified": 1757825648744
+    "highest_buy_order": "136.42",
+    "date_modified": 1757864829184
   },
   {
     "hash_name": "Boston 2018 Legends Autograph Capsule",
@@ -19467,7 +19467,7 @@
     "buy_order_count": "5,026",
     "lowest_sell_order": "187.00",
     "highest_buy_order": "145.76",
-    "date_modified": 1757825656891
+    "date_modified": 1757864837320
   },
   {
     "hash_name": "Boston 2018 Legends (Holo-Foil)",
@@ -19477,7 +19477,7 @@
     "buy_order_count": "2,087",
     "lowest_sell_order": "340.52",
     "highest_buy_order": "208.42",
-    "date_modified": 1757825665062
+    "date_modified": 1757864845613
   },
   {
     "hash_name": "Boston 2018 Inferno Souvenir Package",
@@ -19485,19 +19485,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUVJnMQtZ5Or0czhwwfzFfgJG6eO_moaOhfn7fb7TkzgC7ZIo0-uRotrx2wzg-RFsYTuncNLGew5sZlDTrwC-l-u80JKi_MOePGgtVF0",
     "sell_order_count": "38",
     "buy_order_count": "3,069",
-    "lowest_sell_order": "19.98",
+    "lowest_sell_order": "18.53",
     "highest_buy_order": "16.01",
-    "date_modified": 1757825673210
+    "date_modified": 1757864853742
   },
   {
     "hash_name": "Boston 2018 Cobblestone Souvenir Package",
     "item_nameid": 175956544,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUVJnMQtZ5Or0czhwwfzFfgJG6eO1loKHkrnyZ-yDxmkEsZcm3ejDpNrxiQHk8xVrZWH3IdCdd1A7NQ6F-gW3lbjpm9bi60dNUHL_",
-    "sell_order_count": "2",
-    "buy_order_count": "2,203",
-    "lowest_sell_order": "1750.00",
-    "highest_buy_order": "1494.77",
-    "date_modified": 1757825681369
+    "sell_order_count": "3",
+    "buy_order_count": "2,201",
+    "lowest_sell_order": "1495.00",
+    "highest_buy_order": "1324.37",
+    "date_modified": 1757864862070
   },
   {
     "hash_name": "Boston 2018 Cache Souvenir Package",
@@ -19507,17 +19507,17 @@
     "buy_order_count": "2,299",
     "lowest_sell_order": "34.65",
     "highest_buy_order": "26.08",
-    "date_modified": 1757825689523
+    "date_modified": 1757864870366
   },
   {
     "hash_name": "Boston 2018 Attending Legends Autograph Capsule",
     "item_nameid": 175956721,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHHYilN4o7mxdi0kOX7Jqvumm5W7ct1mdbP4Zq72AHg80s-Nm7wINCdewNtZ1rR_QO4xu6-gMC6vc7Om3Nqs3V35XnenAv330_GpgijxA",
-    "sell_order_count": "48",
+    "sell_order_count": "46",
     "buy_order_count": "8,382",
-    "lowest_sell_order": "12.94",
+    "lowest_sell_order": "13.16",
     "highest_buy_order": "9.91",
-    "date_modified": 1757825697670
+    "date_modified": 1757864878515
   },
   {
     "hash_name": "Boston 2018 Attending Legends (Holo-Foil)",
@@ -19527,67 +19527,67 @@
     "buy_order_count": "1,925",
     "lowest_sell_order": "40.34",
     "highest_buy_order": "29.72",
-    "date_modified": 1757825705822
+    "date_modified": 1757864886797
   },
   {
     "hash_name": "Bloody Darryl The Strapped | The Professionals",
     "item_nameid": 176262928,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztDu4W1OQhm1uDbeDJM7dCJgoGZkaK6ZL-IlTkIucd0i7nCrdit3VHi_kNqamumddXGdQU6aAmB_Ae2l7rsg4j84soH6Xf_HQ",
-    "sell_order_count": "135",
-    "buy_order_count": "7,545",
-    "lowest_sell_order": "98.23",
-    "highest_buy_order": "93.68",
-    "date_modified": 1757825714003
+    "sell_order_count": "114",
+    "buy_order_count": "7,582",
+    "lowest_sell_order": "106.52",
+    "highest_buy_order": "104.45",
+    "date_modified": 1757864895090
   },
   {
     "hash_name": "Bloodhound Pin",
     "item_nameid": 170165290,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFAVs3PzMeTJX4tj4w9nTwqfxNbrQlTID6ZJ32e3ApI6n3Qbt-kduNW_0IICTIFNqYFuC_E_-n7lShcM7Tw",
-    "sell_order_count": "39",
+    "sell_order_count": "36",
     "buy_order_count": "655",
-    "lowest_sell_order": "7.99",
-    "highest_buy_order": "6.49",
-    "date_modified": 1757825722161
+    "lowest_sell_order": "8.05",
+    "highest_buy_order": "6.52",
+    "date_modified": 1757864903403
   },
   {
     "hash_name": "Blackwolf | Sabre",
     "item_nameid": 176096539,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztDu4WnKgtr0v33ZzxQ5d24gIrFz_KmNe3SwjkJv8Zyi7vEp9Xw3VXsqRU6MWuhco7GcVVoYVvT_FHvlPCv28Gc8lE3eg",
-    "sell_order_count": "279",
-    "buy_order_count": "60,491",
-    "lowest_sell_order": "15.22",
-    "highest_buy_order": "14.41",
-    "date_modified": 1757825730336
+    "sell_order_count": "212",
+    "buy_order_count": "60,607",
+    "lowest_sell_order": "17.52",
+    "highest_buy_order": "16.88",
+    "date_modified": 1757864911545
   },
   {
     "hash_name": "Black Mesa Pin",
     "item_nameid": 176116876,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFAZsyuv3IWsMuN6zl4PdwKamZe2BkjNQu5xziOqYoNij2g3k-xdpYjqgJIKccARsMkaQpAZilmI7Ow",
     "sell_order_count": "26",
-    "buy_order_count": "3,394",
+    "buy_order_count": "3,395",
     "lowest_sell_order": "6.12",
-    "highest_buy_order": "4.91",
-    "date_modified": 1757825738526
+    "highest_buy_order": "4.95",
+    "date_modified": 1757864919877
   },
   {
     "hash_name": "Bio-Haz Specialist | SWAT",
     "item_nameid": 176209464,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaOBBhx8zecC9L7dKinM7fwab3Z-qBx2gC7pV02ujH9Nmj31DhqEs4YWilJoLAdwQ9NFnT-1Ds366x0skl501U",
-    "sell_order_count": "128",
-    "buy_order_count": "20,916",
-    "lowest_sell_order": "21.63",
-    "highest_buy_order": "21.22",
-    "date_modified": 1757825746703
+    "sell_order_count": "109",
+    "buy_order_count": "20,911",
+    "lowest_sell_order": "23.59",
+    "highest_buy_order": "22.02",
+    "date_modified": 1757864928015
   },
   {
     "hash_name": "Bestiary Capsule",
     "item_nameid": 170165267,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYilL7c6vq4OKh-ThP76flThT7ZQk2rySrNX3iQDi_EJuZm6hdtDGcgI6aFjZ-ljsyL_qhJPv6YOJlyUdAXQqRA",
-    "sell_order_count": "424",
-    "buy_order_count": "4,361",
+    "sell_order_count": "419",
+    "buy_order_count": "4,412",
     "lowest_sell_order": "0.94",
-    "highest_buy_order": "0.80",
-    "date_modified": 1757825754873
+    "highest_buy_order": "0.82",
+    "date_modified": 1757864936149
   },
   {
     "hash_name": "Berlin 2019 Viewer Pass + 3 Souvenir Tokens",
@@ -19597,17 +19597,17 @@
     "buy_order_count": "1,585",
     "lowest_sell_order": "93.90",
     "highest_buy_order": "51.79",
-    "date_modified": 1757825763039
+    "date_modified": 1757864944486
   },
   {
     "hash_name": "Berlin 2019 Viewer Pass",
     "item_nameid": 176079645,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fVPCsxcPSV1lxNztHv7muLgpfgaOZKAJS7c-l2tCNlaWnZOuCxGoA6pEi3u2R9tn0iQSx_UVpYGD3LNKUegE9Yl7V_FmggbC4TV2QPJU",
-    "sell_order_count": "35",
-    "buy_order_count": "4,121",
-    "lowest_sell_order": "20.50",
-    "highest_buy_order": "18.47",
-    "date_modified": 1757825771187
+    "sell_order_count": "36",
+    "buy_order_count": "4,122",
+    "lowest_sell_order": "20.36",
+    "highest_buy_order": "18.48",
+    "date_modified": 1757864952634
   },
   {
     "hash_name": "Berlin 2019 Vertigo Souvenir Package",
@@ -19615,9 +19615,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUVhmKQ1Z5Or0cjhwwfzFfgJG6eOgkZKfnvD7feyHwm8G6ZR33ryU9N-njgKy-UtpZWind4SXIVRoaVvVrgToxrzrjZei_MOejztJ0A4",
     "sell_order_count": "79",
     "buy_order_count": "4,282",
-    "lowest_sell_order": "14.16",
+    "lowest_sell_order": "14.14",
     "highest_buy_order": "11.22",
-    "date_modified": 1757825779357
+    "date_modified": 1757864960957
   },
   {
     "hash_name": "Berlin 2019 Train Souvenir Package",
@@ -19627,47 +19627,47 @@
     "buy_order_count": "3,576",
     "lowest_sell_order": "14.17",
     "highest_buy_order": "12.70",
-    "date_modified": 1757825787520
+    "date_modified": 1757864969255
   },
   {
     "hash_name": "Berlin 2019 Returning Challengers Autograph Capsule",
     "item_nameid": 176079729,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0kOX7JqvulWNQ5Ml0hO7E55-731fjrkU6NW-mINeUIVc4ZV3X-VC-xb3ojJTq6ZrIwSBh6yhz4Xjdywv330-4zf1YeQ",
-    "sell_order_count": "2,040",
-    "buy_order_count": "38,164",
-    "lowest_sell_order": "1.24",
-    "highest_buy_order": "1.19",
-    "date_modified": 1757825795708
+    "sell_order_count": "2,030",
+    "buy_order_count": "38,155",
+    "lowest_sell_order": "1.28",
+    "highest_buy_order": "1.18",
+    "date_modified": 1757864977408
   },
   {
     "hash_name": "Berlin 2019 Returning Challengers (Holo-Foil)",
     "item_nameid": 176079894,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0lP_1P7fUmGxU-tY_27iUoI7321Hk8ko-YD2gLdLHJwU-NFCE-gO2kLzsgJW7vpzPyXBi6T5iuyjNNpzpWg",
-    "sell_order_count": "777",
-    "buy_order_count": "9,007",
-    "lowest_sell_order": "4.00",
-    "highest_buy_order": "3.41",
-    "date_modified": 1757825803874
+    "sell_order_count": "859",
+    "buy_order_count": "8,952",
+    "lowest_sell_order": "3.35",
+    "highest_buy_order": "3.10",
+    "date_modified": 1757864985700
   },
   {
     "hash_name": "Berlin 2019 Overpass Souvenir Package",
     "item_nameid": 176081617,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUVhmKQ1Z5Or0cjhwwfzFfgJG6eO5goWZh_bnIPWBxjlTuJMn2-ySpNvxilW3-RJpYmihLYaVI1U-Mg7V-QfsyLvtjZa9ot2XnpzAlCkH",
-    "sell_order_count": "117",
-    "buy_order_count": "4,247",
+    "sell_order_count": "119",
+    "buy_order_count": "4,248",
     "lowest_sell_order": "12.42",
-    "highest_buy_order": "9.70",
-    "date_modified": 1757825812057
+    "highest_buy_order": "9.71",
+    "date_modified": 1757864993997
   },
   {
     "hash_name": "Berlin 2019 Nuke Souvenir Package",
     "item_nameid": 176081656,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUVhmKQ1Z5Or0cjhwwfzFfgJG6eO4gYuO2fOhMLjTkzsIu8Eh0-uVooin2ATjrhBqYmqnJYaRcVJrMw2Dr1K8yLzxxcjrNL980ec",
-    "sell_order_count": "25",
+    "sell_order_count": "27",
     "buy_order_count": "2,190",
-    "lowest_sell_order": "12.45",
+    "lowest_sell_order": "12.42",
     "highest_buy_order": "10.89",
-    "date_modified": 1757825820229
+    "date_modified": 1757865002161
   },
   {
     "hash_name": "Berlin 2019 Mirage Souvenir Package",
@@ -19675,49 +19675,49 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUVhmKQ1Z5Or0cjhwwfzFfgJG6eO7nZKKkPK6YuvSxjoC6ZIlj7vCptj22lfh-hA4ZGj7J46cdVQ_N1uG81G5xLzthIj84sr4Wvclww",
     "sell_order_count": "15",
     "buy_order_count": "3,224",
-    "lowest_sell_order": "25.44",
+    "lowest_sell_order": "23.00",
     "highest_buy_order": "16.83",
-    "date_modified": 1757825828391
+    "date_modified": 1757865010328
   },
   {
     "hash_name": "Berlin 2019 Minor Challengers Autograph Capsule",
     "item_nameid": 176079788,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0kOX7JqvulWRf_MB_juzT5sL3iVGxqERlZ2r0cY-WewQ8ZF7SqAXvwri71sK9v5TAyHNqs3Mj5HqPgVXp1vkVsfBs",
-    "sell_order_count": "1,361",
-    "buy_order_count": "42,105",
-    "lowest_sell_order": "2.30",
-    "highest_buy_order": "2.22",
-    "date_modified": 1757825836679
+    "sell_order_count": "1,277",
+    "buy_order_count": "42,039",
+    "lowest_sell_order": "2.36",
+    "highest_buy_order": "2.20",
+    "date_modified": 1757865018504
   },
   {
     "hash_name": "Berlin 2019 Minor Challengers (Holo-Foil)",
     "item_nameid": 176079683,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0lPj6J77fkm5D-4so3bjDpN-k3w2yrkI6ZTyndo7Eewc3NV6Drlbsxuy9hpa6vsmfyycypGB8suuDYvF_",
-    "sell_order_count": "330",
-    "buy_order_count": "15,811",
-    "lowest_sell_order": "2.58",
-    "highest_buy_order": "2.03",
-    "date_modified": 1757825844833
+    "sell_order_count": "314",
+    "buy_order_count": "15,792",
+    "lowest_sell_order": "2.57",
+    "highest_buy_order": "1.98",
+    "date_modified": 1757865026639
   },
   {
     "hash_name": "Berlin 2019 Legends Autograph Capsule",
     "item_nameid": 176079684,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0kOX7Jqvumm5W7ct1mafF946sjFLm8xJqNjrydtTAdQRrZgrW_QW2kru-h8C87szOmiQ3uSMn-z-DyMDJHlIp",
-    "sell_order_count": "2,205",
-    "buy_order_count": "42,861",
-    "lowest_sell_order": "1.51",
+    "sell_order_count": "2,094",
+    "buy_order_count": "42,884",
+    "lowest_sell_order": "1.49",
     "highest_buy_order": "1.28",
-    "date_modified": 1757825852982
+    "date_modified": 1757865034771
   },
   {
     "hash_name": "Berlin 2019 Legends (Holo-Foil)",
     "item_nameid": 176079643,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0m_LzNrXVhSUCu5ch2bvC9on03wfl-0FsY2n6J9PDcwVoMl6DrlO_kOfohce5uJrP1zI97TMT-c_9",
-    "sell_order_count": "1,889",
-    "buy_order_count": "11,902",
-    "lowest_sell_order": "2.89",
-    "highest_buy_order": "2.60",
-    "date_modified": 1757825861148
+    "sell_order_count": "1,931",
+    "buy_order_count": "11,880",
+    "lowest_sell_order": "2.85",
+    "highest_buy_order": "2.26",
+    "date_modified": 1757865043097
   },
   {
     "hash_name": "Berlin 2019 Inferno Souvenir Package",
@@ -19727,187 +19727,187 @@
     "buy_order_count": "3,295",
     "lowest_sell_order": "10.20",
     "highest_buy_order": "8.00",
-    "date_modified": 1757825869299
+    "date_modified": 1757865051247
   },
   {
     "hash_name": "Berlin 2019 Dust II Souvenir Package",
     "item_nameid": 176081613,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUVhmKQ1Z5Or0cjhwwfzFfgJG6eOygZOfxbmgZuiGxztQ68Ek37zC9tin2wTlrRA6MGD3LNeQIFI7Yg7Q8gO8krvqm9bi6yRcaE1x",
-    "sell_order_count": "37",
+    "sell_order_count": "38",
     "buy_order_count": "2,593",
     "lowest_sell_order": "14.42",
     "highest_buy_order": "13.58",
-    "date_modified": 1757825877467
+    "date_modified": 1757865059390
   },
   {
     "hash_name": "Battlefield 2042 Sticker Capsule",
     "item_nameid": 176277350,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHOI20WvuO1lZCYgvvxfbqFxDwFv8F00uqW8d3xiwPsrUtvMmD7IoaWcQY2Zl7YrFe_wL260MKi_MOePiOsZeo",
-    "sell_order_count": "133",
-    "buy_order_count": "20,538",
-    "lowest_sell_order": "0.96",
+    "sell_order_count": "171",
+    "buy_order_count": "20,540",
+    "lowest_sell_order": "0.93",
     "highest_buy_order": "0.78",
-    "date_modified": 1757825885622
+    "date_modified": 1757865067708
   },
   {
     "hash_name": "Baggage Pin",
     "item_nameid": 170167787,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFAVh1PTJdjgMut20ldGOxaHya-iGxj1U6px3iLqR9t3w2ALtqUc4ZjqhcNWTIwE2Z0aQpAZchlhB3Q",
-    "sell_order_count": "62",
-    "buy_order_count": "3,267",
-    "lowest_sell_order": "3.36",
-    "highest_buy_order": "3.29",
-    "date_modified": 1757825893771
+    "sell_order_count": "52",
+    "buy_order_count": "3,263",
+    "lowest_sell_order": "3.56",
+    "highest_buy_order": "3.08",
+    "date_modified": 1757865075869
   },
   {
     "hash_name": "B Squadron Officer | SAS",
     "item_nameid": 176096497,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaOAZz7OXJYzRD4siw2tCIwaXyNemJkD1UuJcn3rDFptT32QHmr0M4YGqnJNWcdQQ5aFuDrFSggbC49GD8Whc",
-    "sell_order_count": "342",
-    "buy_order_count": "42,088",
-    "lowest_sell_order": "21.53",
-    "highest_buy_order": "20.60",
-    "date_modified": 1757825901925
+    "sell_order_count": "326",
+    "buy_order_count": "42,047",
+    "lowest_sell_order": "23.48",
+    "highest_buy_order": "22.84",
+    "date_modified": 1757865084042
   },
   {
     "hash_name": "AWP | Worm God (Well-Worn)",
     "item_nameid": 40092039,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZx7PLfYQJW-9W4kb-GkvP9JrafkDMB7JYi2byRotik2gPs_0Y_a27ycIKcdwA2YVqG8wLvxO2705a5tYOJlyVepNPmuQ",
-    "sell_order_count": "182",
-    "buy_order_count": "22,993",
-    "lowest_sell_order": "2.34",
-    "highest_buy_order": "1.96",
-    "date_modified": 1757825910226
+    "sell_order_count": "187",
+    "buy_order_count": "22,994",
+    "lowest_sell_order": "2.18",
+    "highest_buy_order": "2.03",
+    "date_modified": 1757865092181
   },
   {
     "hash_name": "AWP | Worm God (Minimal Wear)",
     "item_nameid": 40092036,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZx7PLfYQJW-9W4kb-HnvD8J_XUlzwFuZMgjLjCrIik3wS1_kpvZ2uhLY_AdwRqZlrS8we3k7_vgZa0ot2XntSQs7PA",
-    "sell_order_count": "1,243",
-    "buy_order_count": "73,843",
-    "lowest_sell_order": "2.54",
+    "sell_order_count": "1,240",
+    "buy_order_count": "73,870",
+    "lowest_sell_order": "2.67",
     "highest_buy_order": "2.24",
-    "date_modified": 1757825918389
+    "date_modified": 1757865100321
   },
   {
     "hash_name": "AWP | Worm God (Field-Tested)",
     "item_nameid": 40092005,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZx7PLfYQJW-9W4kb-GkvP9JrafkDMB7JYi2byRotik2gPs_0Y_a27ycIKcdwA2YVqG8wLvxO2705a5tYOJlyVepNPmuQ",
-    "sell_order_count": "1,458",
-    "buy_order_count": "64,777",
-    "lowest_sell_order": "1.78",
-    "highest_buy_order": "1.67",
-    "date_modified": 1757825926542
+    "sell_order_count": "1,450",
+    "buy_order_count": "64,557",
+    "lowest_sell_order": "1.72",
+    "highest_buy_order": "1.65",
+    "date_modified": 1757865108623
   },
   {
     "hash_name": "AWP | Worm God (Factory New)",
     "item_nameid": 40092022,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZx7PLfYQJW-9W4kb-HnvD8J_XUlzwFuZMgjLjCrIik3wS1_kpvZ2uhLY_AdwRqZlrS8we3k7_vgZa0ot2XntSQs7PA",
-    "sell_order_count": "347",
-    "buy_order_count": "86,996",
-    "lowest_sell_order": "5.55",
+    "sell_order_count": "355",
+    "buy_order_count": "86,971",
+    "lowest_sell_order": "5.54",
     "highest_buy_order": "5.52",
-    "date_modified": 1757825934860
+    "date_modified": 1757865116897
   },
   {
     "hash_name": "AWP | Wildfire (Well-Worn)",
     "item_nameid": 176091968,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJV5dCykomZksj5Nr_Yg2YfvpMm3-uZ8d2jjVax80tkMm_xIoSXcgRtZgyC_Ae4w-q-hMPp7pSazmwj5Hc-mUutYg",
     "sell_order_count": "14",
-    "buy_order_count": "1,241",
+    "buy_order_count": "1,245",
     "lowest_sell_order": "51.25",
-    "highest_buy_order": "45.55",
-    "date_modified": 1757825943036
+    "highest_buy_order": "45.90",
+    "date_modified": 1757865125050
   },
   {
     "hash_name": "AWP | Wildfire (Minimal Wear)",
     "item_nameid": 176091907,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJV5dCykomZksj4OrzZgiUGsJZ10-yQotTz3AGx_xJuZDj0cISUe1JsZ1zUrlm3kum9jJXt6ZvP1zI97ZbSJAKr",
-    "sell_order_count": "39",
-    "buy_order_count": "2,428",
-    "lowest_sell_order": "94.01",
-    "highest_buy_order": "85.28",
-    "date_modified": 1757825951189
+    "sell_order_count": "42",
+    "buy_order_count": "2,422",
+    "lowest_sell_order": "93.53",
+    "highest_buy_order": "85.17",
+    "date_modified": 1757865133269
   },
   {
     "hash_name": "AWP | Wildfire (Field-Tested)",
     "item_nameid": 176091823,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJV5dCykomZksj5Nr_Yg2YfvpMm3-uZ8d2jjVax80tkMm_xIoSXcgRtZgyC_Ae4w-q-hMPp7pSazmwj5Hc-mUutYg",
-    "sell_order_count": "86",
-    "buy_order_count": "4,991",
-    "lowest_sell_order": "54.13",
+    "sell_order_count": "98",
+    "buy_order_count": "4,980",
+    "lowest_sell_order": "52.87",
     "highest_buy_order": "50.84",
-    "date_modified": 1757825959350
+    "date_modified": 1757865141561
   },
   {
     "hash_name": "AWP | Wildfire (Factory New)",
     "item_nameid": 176091926,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJV5dCykomZksj4OrzZgiUGsJZ10-yQotTz3AGx_xJuZDj0cISUe1JsZ1zUrlm3kum9jJXt6ZvP1zI97ZbSJAKr",
-    "sell_order_count": "19",
-    "buy_order_count": "1,890",
-    "lowest_sell_order": "357.90",
+    "sell_order_count": "17",
+    "buy_order_count": "1,885",
+    "lowest_sell_order": "371.00",
     "highest_buy_order": "335.93",
-    "date_modified": 1757825967499
+    "date_modified": 1757865149721
   },
   {
     "hash_name": "AWP | Wildfire (Battle-Scarred)",
     "item_nameid": 176091848,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJV5dCykomZksj8NrrHjyUFu8cjiLvEooms3gPkqUFlMjylcIaUcA9oZF6Cr1Tvk7y7156_tJ7M1zI97ZV9Cz6j",
-    "sell_order_count": "36",
-    "buy_order_count": "2,579",
-    "lowest_sell_order": "45.72",
-    "highest_buy_order": "44.57",
-    "date_modified": 1757825975699
+    "sell_order_count": "39",
+    "buy_order_count": "2,590",
+    "lowest_sell_order": "45.60",
+    "highest_buy_order": "44.81",
+    "date_modified": 1757865157928
   },
   {
     "hash_name": "AWP | Sun in Leo (Well-Worn)",
     "item_nameid": 49431008,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OnHdTRD746JmYWPnuL5fbiEzzpUuZZz3-jDpo6tjA3l8xduMmn2II6WclNsMlmDrFa5xurpjJ6i_MOeJnnKBmo",
     "sell_order_count": "19",
-    "buy_order_count": "3,538",
+    "buy_order_count": "3,539",
     "lowest_sell_order": "22.86",
-    "highest_buy_order": "21.07",
-    "date_modified": 1757825983855
+    "highest_buy_order": "21.11",
+    "date_modified": 1757865166321
   },
   {
     "hash_name": "AWP | Sun in Leo (Minimal Wear)",
     "item_nameid": 49419439,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OnHdTRD746JmImMn-O6Yr7VlThUu8F3jLvFp9_33lXg_EQ9amDwI4-VJANqZgrXqQDsl-7sjIj84spc5ywyww",
-    "sell_order_count": "278",
-    "buy_order_count": "8,426",
-    "lowest_sell_order": "30.49",
-    "highest_buy_order": "28.15",
-    "date_modified": 1757825992027
+    "sell_order_count": "276",
+    "buy_order_count": "8,420",
+    "lowest_sell_order": "33.14",
+    "highest_buy_order": "29.48",
+    "date_modified": 1757865174475
   },
   {
     "hash_name": "AWP | Sun in Leo (Field-Tested)",
     "item_nameid": 49419447,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OnHdTRD746JmYWPnuL5fbiEzzpUuZZz3-jDpo6tjA3l8xduMmn2II6WclNsMlmDrFa5xurpjJ6i_MOeJnnKBmo",
-    "sell_order_count": "270",
-    "buy_order_count": "12,781",
-    "lowest_sell_order": "22.00",
-    "highest_buy_order": "21.76",
-    "date_modified": 1757826000192
+    "sell_order_count": "276",
+    "buy_order_count": "12,754",
+    "lowest_sell_order": "22.50",
+    "highest_buy_order": "21.59",
+    "date_modified": 1757865182739
   },
   {
     "hash_name": "AWP | Sun in Leo (Factory New)",
     "item_nameid": 49419469,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OnHdTRD746JmImMn-O6Yr7VlThUu8F3jLvFp9_33lXg_EQ9amDwI4-VJANqZgrXqQDsl-7sjIj84spc5ywyww",
-    "sell_order_count": "179",
-    "buy_order_count": "4,991",
-    "lowest_sell_order": "73.75",
-    "highest_buy_order": "71.77",
-    "date_modified": 1757826008383
+    "sell_order_count": "177",
+    "buy_order_count": "5,007",
+    "lowest_sell_order": "78.81",
+    "highest_buy_order": "70.26",
+    "date_modified": 1757865191070
   },
   {
     "hash_name": "AWP | Sun in Leo (Battle-Scarred)",
     "item_nameid": 49431024,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OnHdTRD746JnIWKge66MrmDk21Q7J0o3bvCrI_32gO3qkI4Mmn0JdWSclU6Z1yE-Fi8k7_p04j84sqsiRVKZA",
-    "sell_order_count": "13",
-    "buy_order_count": "3,263",
+    "sell_order_count": "14",
+    "buy_order_count": "3,267",
     "lowest_sell_order": "22.48",
-    "highest_buy_order": "20.35",
-    "date_modified": 1757826016541
+    "highest_buy_order": "20.41",
+    "date_modified": 1757865199216
   },
   {
     "hash_name": "AWP | Snake Camo (Well-Worn)",
@@ -19917,17 +19917,17 @@
     "buy_order_count": "410",
     "lowest_sell_order": "130.52",
     "highest_buy_order": "108.94",
-    "date_modified": 1757826024771
+    "date_modified": 1757865207368
   },
   {
     "hash_name": "AWP | Snake Camo (Minimal Wear)",
     "item_nameid": 1321903,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FBRw7ODGcDZH09C_k4if2fOnMbqJwzkA6sMj0-iW9N723AexqhJrMmr6IIfBcwA_YQ7V81jrlLzxxcjrtWn6J3g",
-    "sell_order_count": "3",
+    "sell_order_count": "4",
     "buy_order_count": "433",
-    "lowest_sell_order": "184.24",
+    "lowest_sell_order": "130.00",
     "highest_buy_order": "116.78",
-    "date_modified": 1757826032947
+    "date_modified": 1757865215525
   },
   {
     "hash_name": "AWP | Snake Camo (Field-Tested)",
@@ -19935,9 +19935,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FBRw7ODGcDZH09GzkImemrn2YurXkm8A6sZzjL-X8d703lHs8kJrNmHzdYeTJgY2ZlmE8lm7k-3vm9bi60mgiaDa",
     "sell_order_count": "16",
     "buy_order_count": "462",
-    "lowest_sell_order": "127.00",
+    "lowest_sell_order": "126.00",
     "highest_buy_order": "101.61",
-    "date_modified": 1757826041261
+    "date_modified": 1757865223858
   },
   {
     "hash_name": "AWP | Snake Camo (Factory New)",
@@ -19947,7 +19947,7 @@
     "buy_order_count": "383",
     "lowest_sell_order": "346.91",
     "highest_buy_order": "211.71",
-    "date_modified": 1757826049413
+    "date_modified": 1757865231987
   },
   {
     "hash_name": "AWP | Snake Camo (Battle-Scarred)",
@@ -19957,277 +19957,277 @@
     "buy_order_count": "440",
     "lowest_sell_order": "123.77",
     "highest_buy_order": "105.01",
-    "date_modified": 1757826057716
+    "date_modified": 1757865240268
   },
   {
     "hash_name": "AWP | Silk Tiger (Well-Worn)",
     "item_nameid": 176209444,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7OfBdjhQ_-O0mJWOqPrxN7LEmyUC65Eo2u-RpN-m0VLlrRJkYDz6JdOQcQE3NV3TrFK5wO3m0ZXu786c1zI97da6kp1g",
     "sell_order_count": "1",
-    "buy_order_count": "425",
+    "buy_order_count": "426",
     "lowest_sell_order": "300.28",
-    "highest_buy_order": "179.58",
-    "date_modified": 1757826065962
+    "highest_buy_order": "179.59",
+    "date_modified": 1757865248398
   },
   {
     "hash_name": "AWP | Silk Tiger (Minimal Wear)",
     "item_nameid": 176209571,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7OfBdjhQ_-O0mJWOqPv9NLPF2GkE68Eh3LrHp9imjgHi-ks-Zz-gddXDIFA-MlHV_FS-yenthpS7uczXiSw0Zbclmow",
-    "sell_order_count": "3",
+    "sell_order_count": "4",
     "buy_order_count": "410",
-    "lowest_sell_order": "459.08",
+    "lowest_sell_order": "380.00",
     "highest_buy_order": "359.45",
-    "date_modified": 1757826074135
+    "date_modified": 1757865256545
   },
   {
     "hash_name": "AWP | Silk Tiger (Field-Tested)",
     "item_nameid": 176209626,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7OfBdjhQ_-O0mJWOqPrxN7LEmyUC65Eo2u-RpN-m0VLlrRJkYDz6JdOQcQE3NV3TrFK5wO3m0ZXu786c1zI97da6kp1g",
     "sell_order_count": "4",
-    "buy_order_count": "442",
+    "buy_order_count": "444",
     "lowest_sell_order": "234.26",
-    "highest_buy_order": "179.46",
-    "date_modified": 1757826082312
+    "highest_buy_order": "180.52",
+    "date_modified": 1757865264832
   },
   {
     "hash_name": "AWP | Silk Tiger (Factory New)",
     "item_nameid": 176209792,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7OfBdjhQ_-O0mJWOqPv9NLPF2GkE68Eh3LrHp9imjgHi-ks-Zz-gddXDIFA-MlHV_FS-yenthpS7uczXiSw0Zbclmow",
     "sell_order_count": "4",
-    "buy_order_count": "663",
-    "lowest_sell_order": "1030.37",
-    "highest_buy_order": "701.44",
-    "date_modified": 1757826090487
+    "buy_order_count": "665",
+    "lowest_sell_order": "936.65",
+    "highest_buy_order": "703.08",
+    "date_modified": 1757865273139
   },
   {
     "hash_name": "AWP | Safari Mesh (Well-Worn)",
     "item_nameid": 2383815,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FBRw7P7NYjV9-N24q42Ok_7hPvWAlTgBupwk0-3H8Nil3lLt_UBlYWnxI4WSdAU8NVyDr1S8w-a-g5O0ot2Xns69tUxy",
-    "sell_order_count": "2,474",
-    "buy_order_count": "130,464",
-    "lowest_sell_order": "0.13",
+    "sell_order_count": "2,691",
+    "buy_order_count": "130,422",
+    "lowest_sell_order": "0.14",
     "highest_buy_order": "0.12",
-    "date_modified": 1757826098690
+    "date_modified": 1757865281291
   },
   {
     "hash_name": "AWP | Safari Mesh (Minimal Wear)",
     "item_nameid": 2384379,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FBRw7P7NYjV9-N24q4yCkP_gfe3VxDlXvJ0j2LnDrdrz3ADj_Es5YGvzcNeXcFBqZFnX-VjskOa8hpWi_MOe6ZWlJUE",
-    "sell_order_count": "4,581",
-    "buy_order_count": "191,707",
+    "sell_order_count": "4,612",
+    "buy_order_count": "191,654",
     "lowest_sell_order": "0.25",
     "highest_buy_order": "0.21",
-    "date_modified": 1757826106995
+    "date_modified": 1757865289428
   },
   {
     "hash_name": "AWP | Safari Mesh (Field-Tested)",
     "item_nameid": 2384117,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FBRw7P7NYjV9-N24q42Ok_7hPvWAlTgBupwk0-3H8Nil3lLt_UBlYWnxI4WSdAU8NVyDr1S8w-a-g5O0ot2Xns69tUxy",
-    "sell_order_count": "12,639",
-    "buy_order_count": "432,144",
+    "sell_order_count": "12,473",
+    "buy_order_count": "431,768",
     "lowest_sell_order": "0.13",
     "highest_buy_order": "0.12",
-    "date_modified": 1757826115156
+    "date_modified": 1757865297573
   },
   {
     "hash_name": "AWP | Safari Mesh (Factory New)",
     "item_nameid": 2386436,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FBRw7P7NYjV9-N24q4yCkP_gfe3VxDlXvJ0j2LnDrdrz3ADj_Es5YGvzcNeXcFBqZFnX-VjskOa8hpWi_MOe6ZWlJUE",
-    "sell_order_count": "102",
-    "buy_order_count": "16,057",
-    "lowest_sell_order": "5.26",
+    "sell_order_count": "99",
+    "buy_order_count": "16,029",
+    "lowest_sell_order": "5.12",
     "highest_buy_order": "4.89",
-    "date_modified": 1757826123320
+    "date_modified": 1757865305713
   },
   {
     "hash_name": "AWP | Safari Mesh (Battle-Scarred)",
     "item_nameid": 2384458,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FBRw7P7NYjV9-N24q4iOluHtfb-Jl2oE6ZYh2r6UptmhjFHirxY9Zjqgd9SdcwU5ZA2EqFW3lO26h5Wi_MOeU-h4Woo",
-    "sell_order_count": "5,492",
-    "buy_order_count": "319,157",
+    "sell_order_count": "5,499",
+    "buy_order_count": "318,982",
     "lowest_sell_order": "0.16",
     "highest_buy_order": "0.15",
-    "date_modified": 1757826131603
+    "date_modified": 1757865314011
   },
   {
     "hash_name": "AWP | Redline (Well-Worn)",
     "item_nameid": 3456488,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB496klb-GkvP9Jrafxj0Iu5wh3r6V8I2i2QK3-0JlNW_0IYbAcQ5qN1-Dr1i-we27hJW_7oOJlyW4ZaUDog",
-    "sell_order_count": "18",
-    "buy_order_count": "521",
-    "lowest_sell_order": "65.00",
+    "sell_order_count": "20",
+    "buy_order_count": "525",
+    "lowest_sell_order": "63.45",
     "highest_buy_order": "57.34",
-    "date_modified": 1757826139773
+    "date_modified": 1757865322153
   },
   {
     "hash_name": "AWP | Redline (Minimal Wear)",
     "item_nameid": 3443450,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB496klb-HnvD8J_WFzjlVvp0gi77Ept2kiwC3_UdtNjvxIYfGd1U8Z1DSrlW5wbzt0MW0ot2XnmqouyHn",
-    "sell_order_count": "134",
-    "buy_order_count": "2,374",
-    "lowest_sell_order": "145.20",
-    "highest_buy_order": "141.04",
-    "date_modified": 1757826147941
+    "sell_order_count": "141",
+    "buy_order_count": "2,376",
+    "lowest_sell_order": "142.02",
+    "highest_buy_order": "138.40",
+    "date_modified": 1757865330289
   },
   {
     "hash_name": "AWP | Redline (Field-Tested)",
     "item_nameid": 3440921,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB496klb-GkvP9Jrafxj0Iu5wh3r6V8I2i2QK3-0JlNW_0IYbAcQ5qN1-Dr1i-we27hJW_7oOJlyW4ZaUDog",
-    "sell_order_count": "272",
-    "buy_order_count": "4,244",
-    "lowest_sell_order": "47.84",
-    "highest_buy_order": "45.45",
-    "date_modified": 1757826156103
+    "sell_order_count": "271",
+    "buy_order_count": "4,258",
+    "lowest_sell_order": "46.95",
+    "highest_buy_order": "45.20",
+    "date_modified": 1757865338558
   },
   {
     "hash_name": "AWP | Printstream (Well-Worn)",
     "item_nameid": 176506216,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZ3w8zYYzRM-M-ihoWKmsj5Nr_Yg2Yf6p0n2OzCpIql3gbt-kJlZGnzJ4XAIFM4ZQ7V8wK2yO68g5Pu7pvNzmwj5HeziYMobA",
-    "sell_order_count": "123",
-    "buy_order_count": "2,448",
-    "lowest_sell_order": "40.62",
-    "highest_buy_order": "37.08",
-    "date_modified": 1757826164250
+    "sell_order_count": "130",
+    "buy_order_count": "2,471",
+    "lowest_sell_order": "40.97",
+    "highest_buy_order": "36.81",
+    "date_modified": 1757865346865
   },
   {
     "hash_name": "AWP | Printstream (Minimal Wear)",
     "item_nameid": 176506253,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZ3w8zYYzRM-M-ihoWKmsj4OrzZgiUHscYiib6Q8Nj02QWw_EtsMjyhd9LEIFM3MgzX_lXvxLvr05Lt6smc1zI97QkMXi74",
-    "sell_order_count": "82",
-    "buy_order_count": "2,757",
-    "lowest_sell_order": "129.85",
-    "highest_buy_order": "124.73",
-    "date_modified": 1757826172439
+    "sell_order_count": "80",
+    "buy_order_count": "2,731",
+    "lowest_sell_order": "126.74",
+    "highest_buy_order": "123.24",
+    "date_modified": 1757865355047
   },
   {
     "hash_name": "AWP | Printstream (Field-Tested)",
     "item_nameid": 176506177,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZ3w8zYYzRM-M-ihoWKmsj5Nr_Yg2Yf6p0n2OzCpIql3gbt-kJlZGnzJ4XAIFM4ZQ7V8wK2yO68g5Pu7pvNzmwj5HeziYMobA",
-    "sell_order_count": "226",
-    "buy_order_count": "3,719",
-    "lowest_sell_order": "57.23",
-    "highest_buy_order": "56.39",
-    "date_modified": 1757826180602
+    "sell_order_count": "234",
+    "buy_order_count": "3,699",
+    "lowest_sell_order": "56.35",
+    "highest_buy_order": "55.67",
+    "date_modified": 1757865363186
   },
   {
     "hash_name": "AWP | Printstream (Factory New)",
     "item_nameid": 176506164,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZ3w8zYYzRM-M-ihoWKmsj4OrzZgiUHscYiib6Q8Nj02QWw_EtsMjyhd9LEIFM3MgzX_lXvxLvr05Lt6smc1zI97QkMXi74",
-    "sell_order_count": "19",
-    "buy_order_count": "2,599",
-    "lowest_sell_order": "380.00",
-    "highest_buy_order": "336.50",
-    "date_modified": 1757826188788
+    "sell_order_count": "23",
+    "buy_order_count": "2,597",
+    "lowest_sell_order": "374.58",
+    "highest_buy_order": "337.01",
+    "date_modified": 1757865371529
   },
   {
     "hash_name": "AWP | Printstream (Battle-Scarred)",
     "item_nameid": 176506229,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZ3w8zYYzRM-M-ihoWKmsj8NrrHjyVS6Zxy2r_Hp4322Qbl-0E4Yz-gdYCSelQ-N1vX_1G_xb3n1MTttcma1zI97XIulxH8",
-    "sell_order_count": "118",
-    "buy_order_count": "2,573",
-    "lowest_sell_order": "36.89",
-    "highest_buy_order": "36.31",
-    "date_modified": 1757826196951
+    "sell_order_count": "120",
+    "buy_order_count": "2,583",
+    "lowest_sell_order": "35.89",
+    "highest_buy_order": "35.77",
+    "date_modified": 1757865379688
   },
   {
     "hash_name": "AWP | POP AWP (Well-Worn)",
     "item_nameid": 176262674,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OfNcjVM48u3hr-ZgPXLPr7Vn35cppJz3rnDpNmtjQDh8xZlYj2idtKWJ1dvNAmBrlXqxO-9g5a76syczHR9-n51jQ25K74",
-    "sell_order_count": "15",
-    "buy_order_count": "12,940",
-    "lowest_sell_order": "6.86",
-    "highest_buy_order": "6.61",
-    "date_modified": 1757826205130
+    "sell_order_count": "18",
+    "buy_order_count": "12,946",
+    "lowest_sell_order": "6.87",
+    "highest_buy_order": "6.52",
+    "date_modified": 1757865387849
   },
   {
     "hash_name": "AWP | POP AWP (Minimal Wear)",
     "item_nameid": 176262758,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OfNcjVM48u3hr-ZgPXLP7LWnn8fucN0juyUo9ul3wTs-0NrYWryIYOVcgJoZl3X_QXsyLrshcfptJjKzWwj5Hf-YsT3MQ",
-    "sell_order_count": "71",
-    "buy_order_count": "33,469",
-    "lowest_sell_order": "14.41",
+    "sell_order_count": "84",
+    "buy_order_count": "33,462",
+    "lowest_sell_order": "12.56",
     "highest_buy_order": "12.21",
-    "date_modified": 1757826213290
+    "date_modified": 1757865396003
   },
   {
     "hash_name": "AWP | POP AWP (Field-Tested)",
     "item_nameid": 176262624,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OfNcjVM48u3hr-ZgPXLPr7Vn35cppJz3rnDpNmtjQDh8xZlYj2idtKWJ1dvNAmBrlXqxO-9g5a76syczHR9-n51jQ25K74",
-    "sell_order_count": "57",
-    "buy_order_count": "37,256",
-    "lowest_sell_order": "9.78",
-    "highest_buy_order": "8.82",
-    "date_modified": 1757826221451
+    "sell_order_count": "63",
+    "buy_order_count": "37,253",
+    "lowest_sell_order": "8.76",
+    "highest_buy_order": "8.20",
+    "date_modified": 1757865404137
   },
   {
     "hash_name": "AWP | POP AWP (Factory New)",
     "item_nameid": 176262723,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OfNcjVM48u3hr-ZgPXLP7LWnn8fucN0juyUo9ul3wTs-0NrYWryIYOVcgJoZl3X_QXsyLrshcfptJjKzWwj5Hf-YsT3MQ",
-    "sell_order_count": "118",
+    "sell_order_count": "106",
     "buy_order_count": "21,196",
-    "lowest_sell_order": "39.70",
-    "highest_buy_order": "39.28",
-    "date_modified": 1757826229617
+    "lowest_sell_order": "43.13",
+    "highest_buy_order": "38.67",
+    "date_modified": 1757865412506
   },
   {
     "hash_name": "AWP | Pit Viper (Well-Worn)",
     "item_nameid": 2389665,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957ODGcDZH_9e_mr-GkvP9JrafxzhVusMg3rGZoYqi3FXmqEFsN2igJYSTJwRsYAnS_lDswu3t1J-0uoOJlyW_nX5i-A",
     "sell_order_count": "216",
-    "buy_order_count": "27,886",
-    "lowest_sell_order": "0.92",
+    "buy_order_count": "27,904",
+    "lowest_sell_order": "0.93",
     "highest_buy_order": "0.81",
-    "date_modified": 1757826237810
+    "date_modified": 1757865420639
   },
   {
     "hash_name": "AWP | Pit Viper (Minimal Wear)",
     "item_nameid": 2386041,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957ODGcDZH_9e_mr-HnvD8J_WEwD1VvZVwibjHo96hiw2w_RBvNjjxcY-UI1c8NAnT81Dsk-67hsO8ot2XnntkeF4i",
-    "sell_order_count": "916",
-    "buy_order_count": "86,141",
-    "lowest_sell_order": "1.92",
-    "highest_buy_order": "1.88",
-    "date_modified": 1757826245967
+    "sell_order_count": "941",
+    "buy_order_count": "85,863",
+    "lowest_sell_order": "1.95",
+    "highest_buy_order": "1.87",
+    "date_modified": 1757865428782
   },
   {
     "hash_name": "AWP | Pit Viper (Field-Tested)",
     "item_nameid": 2384371,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957ODGcDZH_9e_mr-GkvP9JrafxzhVusMg3rGZoYqi3FXmqEFsN2igJYSTJwRsYAnS_lDswu3t1J-0uoOJlyW_nX5i-A",
-    "sell_order_count": "1,599",
-    "buy_order_count": "157,641",
-    "lowest_sell_order": "0.58",
+    "sell_order_count": "1,578",
+    "buy_order_count": "158,012",
+    "lowest_sell_order": "0.55",
     "highest_buy_order": "0.52",
-    "date_modified": 1757826254142
+    "date_modified": 1757865437131
   },
   {
     "hash_name": "AWP | Pit Viper (Battle-Scarred)",
     "item_nameid": 2390551,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957ODGcDZH_9e_mr-DkvbiKvWIkj1S6ZF1377E99yj0QexqhVoZWvxJ9PHclVoYluFrge9lLu5hZS7ot2Xnm3Um42L",
-    "sell_order_count": "257",
-    "buy_order_count": "23,158",
-    "lowest_sell_order": "0.54",
-    "highest_buy_order": "0.53",
-    "date_modified": 1757826262305
+    "sell_order_count": "250",
+    "buy_order_count": "23,141",
+    "lowest_sell_order": "0.55",
+    "highest_buy_order": "0.54",
+    "date_modified": 1757865445286
   },
   {
     "hash_name": "AWP | Pink DDPAT (Well-Worn)",
     "item_nameid": 14953257,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957PfMYTxW08y_mou0mvLwOq7c2GkA65Uli-2Xpdqg2wfkrhVlNT32LYWWd1M5M1uF_FS8xby815e-tJ3XiSw0o2XlOc0",
     "sell_order_count": "11",
-    "buy_order_count": "471",
-    "lowest_sell_order": "29.51",
-    "highest_buy_order": "25.15",
-    "date_modified": 1757826270475
+    "buy_order_count": "474",
+    "lowest_sell_order": "27.46",
+    "highest_buy_order": "25.33",
+    "date_modified": 1757865453416
   },
   {
     "hash_name": "AWP | Pink DDPAT (Minimal Wear)",
     "item_nameid": 14959394,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957PfMYTxW08y_mou0m_7zO6-flTkI7Z0m3r7E8Yms2lG2-xU9N277JYOXewA-YwrWqVa4xurvjZC9v4OJlyXuvXkxHg",
-    "sell_order_count": "21",
-    "buy_order_count": "875",
-    "lowest_sell_order": "54.69",
+    "sell_order_count": "19",
+    "buy_order_count": "870",
+    "lowest_sell_order": "54.68",
     "highest_buy_order": "47.38",
-    "date_modified": 1757826278643
+    "date_modified": 1757865461602
   },
   {
     "hash_name": "AWP | Pink DDPAT (Field-Tested)",
@@ -20236,528 +20236,528 @@
     "sell_order_count": "35",
     "buy_order_count": "1,721",
     "lowest_sell_order": "29.00",
-    "highest_buy_order": "28.75",
-    "date_modified": 1757826286795
+    "highest_buy_order": "28.95",
+    "date_modified": 1757865469751
   },
   {
     "hash_name": "AWP | Pink DDPAT (Factory New)",
     "item_nameid": 14999168,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957PfMYTxW08y_mou0m_7zO6-flTkI7Z0m3r7E8Yms2lG2-xU9N277JYOXewA-YwrWqVa4xurvjZC9v4OJlyXuvXkxHg",
     "sell_order_count": "2",
-    "buy_order_count": "473",
+    "buy_order_count": "472",
     "lowest_sell_order": "162.29",
-    "highest_buy_order": "131.05",
-    "date_modified": 1757826294981
+    "highest_buy_order": "130.53",
+    "date_modified": 1757865477884
   },
   {
     "hash_name": "AWP | Pink DDPAT (Battle-Scarred)",
     "item_nameid": 14953227,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957PfMYTxW08y_mou0n_L1JaKflWpQuJN137vF89zz2Fe380s_ZWGnI9edI1c3Y1zYq1Pqwee-0Z-87YOJlyU1catDHA",
-    "sell_order_count": "15",
-    "buy_order_count": "583",
+    "sell_order_count": "16",
+    "buy_order_count": "585",
     "lowest_sell_order": "30.49",
-    "highest_buy_order": "26.71",
-    "date_modified": 1757826303202
+    "highest_buy_order": "26.77",
+    "date_modified": 1757865486222
   },
   {
     "hash_name": "AWP | Phobos (Well-Worn)",
     "item_nameid": 156162309,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJS5NO0m5O0mvLwOq7c2G5UvsMo377D89in3wO3-UM_Nm30JYaccAI3YQ7XqVTtwuu9hMS-vJjXiSw0Waxutb0",
-    "sell_order_count": "164",
-    "buy_order_count": "14,984",
-    "lowest_sell_order": "3.39",
-    "highest_buy_order": "3.25",
-    "date_modified": 1757826311362
+    "sell_order_count": "166",
+    "buy_order_count": "14,940",
+    "lowest_sell_order": "3.15",
+    "highest_buy_order": "3.13",
+    "date_modified": 1757865494419
   },
   {
     "hash_name": "AWP | Phobos (Minimal Wear)",
     "item_nameid": 156113424,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJS5NO0m5O0m_7zO6-fxz0JvZIh2L7C9tug3wHj-EJuMjj1I4eUIwBvZQuE_wXrkuy50Z-8uIOJlyXcu9Pn3A",
-    "sell_order_count": "771",
-    "buy_order_count": "64,693",
-    "lowest_sell_order": "2.26",
-    "highest_buy_order": "2.16",
-    "date_modified": 1757826319515
+    "sell_order_count": "765",
+    "buy_order_count": "64,754",
+    "lowest_sell_order": "2.43",
+    "highest_buy_order": "2.14",
+    "date_modified": 1757865502558
   },
   {
     "hash_name": "AWP | Phobos (Field-Tested)",
     "item_nameid": 156113446,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJS5NO0m5O0mvLwOq7c2G5UvsMo377D89in3wO3-UM_Nm30JYaccAI3YQ7XqVTtwuu9hMS-vJjXiSw0Waxutb0",
-    "sell_order_count": "856",
-    "buy_order_count": "59,237",
-    "lowest_sell_order": "1.75",
-    "highest_buy_order": "1.70",
-    "date_modified": 1757826327730
+    "sell_order_count": "842",
+    "buy_order_count": "59,183",
+    "lowest_sell_order": "1.79",
+    "highest_buy_order": "1.66",
+    "date_modified": 1757865510730
   },
   {
     "hash_name": "AWP | Phobos (Factory New)",
     "item_nameid": 156113450,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJS5NO0m5O0m_7zO6-fxz0JvZIh2L7C9tug3wHj-EJuMjj1I4eUIwBvZQuE_wXrkuy50Z-8uIOJlyXcu9Pn3A",
-    "sell_order_count": "219",
-    "buy_order_count": "56,667",
-    "lowest_sell_order": "7.56",
-    "highest_buy_order": "7.45",
-    "date_modified": 1757826335899
+    "sell_order_count": "214",
+    "buy_order_count": "56,714",
+    "lowest_sell_order": "7.33",
+    "highest_buy_order": "6.95",
+    "date_modified": 1757865518892
   },
   {
     "hash_name": "AWP | PAW (Well-Worn)",
     "item_nameid": 175999960,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJS7cumlZe0mvLwOq7c2D8D7sQli7GXrd2i2FW2r0Y_MDr7coWXJgM3YQqE-FW3xLvthse76ZnXiSw0Dp2Yjv0",
-    "sell_order_count": "94",
-    "buy_order_count": "17,105",
-    "lowest_sell_order": "2.11",
+    "sell_order_count": "96",
+    "buy_order_count": "17,157",
+    "lowest_sell_order": "1.95",
     "highest_buy_order": "1.79",
-    "date_modified": 1757826344092
+    "date_modified": 1757865527242
   },
   {
     "hash_name": "AWP | PAW (Minimal Wear)",
     "item_nameid": 175999982,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJS7cumlZe0m_7zO6-fx2oH7JYkiO-Z9or3jAbtr0VkZmz0IIOdcANsM1jT81a-yefqgZC1v4OJlyUJgMft6w",
-    "sell_order_count": "366",
-    "buy_order_count": "81,986",
-    "lowest_sell_order": "3.74",
+    "sell_order_count": "371",
+    "buy_order_count": "82,009",
+    "lowest_sell_order": "3.53",
     "highest_buy_order": "2.99",
-    "date_modified": 1757826352412
+    "date_modified": 1757865535528
   },
   {
     "hash_name": "AWP | PAW (Field-Tested)",
     "item_nameid": 175999897,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJS7cumlZe0mvLwOq7c2D8D7sQli7GXrd2i2FW2r0Y_MDr7coWXJgM3YQqE-FW3xLvthse76ZnXiSw0Dp2Yjv0",
-    "sell_order_count": "815",
-    "buy_order_count": "60,168",
-    "lowest_sell_order": "1.79",
+    "sell_order_count": "808",
+    "buy_order_count": "60,205",
+    "lowest_sell_order": "1.73",
     "highest_buy_order": "1.65",
-    "date_modified": 1757826360568
+    "date_modified": 1757865543674
   },
   {
     "hash_name": "AWP | PAW (Factory New)",
     "item_nameid": 175999945,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJS7cumlZe0m_7zO6-fx2oH7JYkiO-Z9or3jAbtr0VkZmz0IIOdcANsM1jT81a-yefqgZC1v4OJlyUJgMft6w",
-    "sell_order_count": "308",
-    "buy_order_count": "52,771",
-    "lowest_sell_order": "8.06",
-    "highest_buy_order": "8.00",
-    "date_modified": 1757826368730
+    "sell_order_count": "307",
+    "buy_order_count": "52,648",
+    "lowest_sell_order": "8.02",
+    "highest_buy_order": "7.95",
+    "date_modified": 1757865551825
   },
   {
     "hash_name": "AWP | PAW (Battle-Scarred)",
     "item_nameid": 176000010,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJS7cumlZe0n_L1JaKfkzoEvsRz2OjDptjz2Q3j8hZsNT-gJdSQclI3YFzWqQDokurs1JW-7YOJlyWryFKpAw",
-    "sell_order_count": "101",
-    "buy_order_count": "14,731",
-    "lowest_sell_order": "1.72",
-    "highest_buy_order": "1.56",
-    "date_modified": 1757826376907
+    "sell_order_count": "104",
+    "buy_order_count": "14,729",
+    "lowest_sell_order": "1.73",
+    "highest_buy_order": "1.61",
+    "date_modified": 1757865559974
   },
   {
     "hash_name": "AWP | Oni Taiji (Well-Worn)",
     "item_nameid": 175896464,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK7dK4jYG0mvLwOq7c2DIDvJ0oiO-Rrdugi1e2rRZrZDiiJ47HJ1NqY1mB_wDrybjs0564u5jXiSw0W5U1Yj4",
     "sell_order_count": "6",
-    "buy_order_count": "826",
+    "buy_order_count": "827",
     "lowest_sell_order": "196.58",
     "highest_buy_order": "180.69",
-    "date_modified": 1757826385061
+    "date_modified": 1757865568113
   },
   {
     "hash_name": "AWP | Oni Taiji (Minimal Wear)",
     "item_nameid": 175896452,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK7dK4jYG0m_7zO6-fkDxS68Ny27qTpoqj3Vfj-xVvMT_zII7BI1BtaA6D-AfowOvqhpXuu4OJlyVvClpuDw",
-    "sell_order_count": "7",
+    "sell_order_count": "8",
     "buy_order_count": "1,154",
-    "lowest_sell_order": "456.71",
-    "highest_buy_order": "390.15",
-    "date_modified": 1757826393229
+    "lowest_sell_order": "438.00",
+    "highest_buy_order": "404.83",
+    "date_modified": 1757865576283
   },
   {
     "hash_name": "AWP | Oni Taiji (Field-Tested)",
     "item_nameid": 175896410,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK7dK4jYG0mvLwOq7c2DIDvJ0oiO-Rrdugi1e2rRZrZDiiJ47HJ1NqY1mB_wDrybjs0564u5jXiSw0W5U1Yj4",
-    "sell_order_count": "7",
-    "buy_order_count": "1,058",
+    "sell_order_count": "8",
+    "buy_order_count": "1,057",
     "lowest_sell_order": "303.00",
     "highest_buy_order": "264.79",
-    "date_modified": 1757826401408
+    "date_modified": 1757865584411
   },
   {
     "hash_name": "AWP | Oni Taiji (Factory New)",
     "item_nameid": 175896429,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK7dK4jYG0m_7zO6-fkDxS68Ny27qTpoqj3Vfj-xVvMT_zII7BI1BtaA6D-AfowOvqhpXuu4OJlyVvClpuDw",
-    "sell_order_count": "9",
-    "buy_order_count": "1,506",
-    "lowest_sell_order": "850.00",
-    "highest_buy_order": "729.98",
-    "date_modified": 1757826409557
+    "sell_order_count": "10",
+    "buy_order_count": "1,504",
+    "lowest_sell_order": "767.89",
+    "highest_buy_order": "728.58",
+    "date_modified": 1757865592545
   },
   {
     "hash_name": "AWP | Oni Taiji (Battle-Scarred)",
     "item_nameid": 175896505,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK7dK4jYG0n_L1JaKfkmoBvMN0ju-RrIjw2Vbl8hBkYm3zcIaQJlM7MFnY_QXsk-y6gMK_vIOJlyUuMeCFdw",
     "sell_order_count": "4",
-    "buy_order_count": "827",
+    "buy_order_count": "828",
     "lowest_sell_order": "198.14",
     "highest_buy_order": "169.74",
-    "date_modified": 1757826417704
+    "date_modified": 1757865600857
   },
   {
     "hash_name": "AWP | Neo-Noir (Well-Worn)",
     "item_nameid": 176024884,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJM6dO4m4mZqPrxN7LEmyVVsJAijL7D8I2njAzlqkY9Nm_ycYadewY2Z1zX8lPsyO3tjZW_vpmY1zI97fJZpdj_",
     "sell_order_count": "36",
-    "buy_order_count": "886",
-    "lowest_sell_order": "22.21",
-    "highest_buy_order": "21.89",
-    "date_modified": 1757826426025
+    "buy_order_count": "882",
+    "lowest_sell_order": "23.50",
+    "highest_buy_order": "21.78",
+    "date_modified": 1757865609148
   },
   {
     "hash_name": "AWP | Neo-Noir (Minimal Wear)",
     "item_nameid": 176024886,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJM6dO4m4mZqPv9NLPF2DpSsJVyiLmRot73jFbt-xJtMjr2cYKRIVBrNVuD-lO4k-a515butJzXiSw01PxfcRM",
-    "sell_order_count": "125",
-    "buy_order_count": "3,063",
-    "lowest_sell_order": "28.33",
-    "highest_buy_order": "28.76",
-    "date_modified": 1757826434183
+    "sell_order_count": "119",
+    "buy_order_count": "2,953",
+    "lowest_sell_order": "30.64",
+    "highest_buy_order": "28.46",
+    "date_modified": 1757865617313
   },
   {
     "hash_name": "AWP | Neo-Noir (Field-Tested)",
     "item_nameid": 176024828,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJM6dO4m4mZqPrxN7LEmyVVsJAijL7D8I2njAzlqkY9Nm_ycYadewY2Z1zX8lPsyO3tjZW_vpmY1zI97fJZpdj_",
-    "sell_order_count": "148",
-    "buy_order_count": "5,074",
-    "lowest_sell_order": "24.61",
-    "highest_buy_order": "23.49",
-    "date_modified": 1757826442472
+    "sell_order_count": "152",
+    "buy_order_count": "5,037",
+    "lowest_sell_order": "24.34",
+    "highest_buy_order": "23.17",
+    "date_modified": 1757865625606
   },
   {
     "hash_name": "AWP | Neo-Noir (Factory New)",
     "item_nameid": 176024845,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJM6dO4m4mZqPv9NLPF2DpSsJVyiLmRot73jFbt-xJtMjr2cYKRIVBrNVuD-lO4k-a515butJzXiSw01PxfcRM",
-    "sell_order_count": "121",
-    "buy_order_count": "2,939",
-    "lowest_sell_order": "63.21",
-    "highest_buy_order": "62.83",
-    "date_modified": 1757826450758
+    "sell_order_count": "128",
+    "buy_order_count": "2,936",
+    "lowest_sell_order": "63.25",
+    "highest_buy_order": "63.17",
+    "date_modified": 1757865633891
   },
   {
     "hash_name": "AWP | Neo-Noir (Battle-Scarred)",
     "item_nameid": 176024906,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJM6dO4m4mZqP_xMq3I2G4H650k3LzF9tmkiw2w-0Fpam6ldoWUcgQ4Y1_T81S-lO67hsW06ZvXiSw03C0UhR8",
-    "sell_order_count": "28",
-    "buy_order_count": "784",
-    "lowest_sell_order": "22.24",
-    "highest_buy_order": "21.20",
-    "date_modified": 1757826458925
+    "sell_order_count": "31",
+    "buy_order_count": "782",
+    "lowest_sell_order": "21.36",
+    "highest_buy_order": "20.94",
+    "date_modified": 1757865642032
   },
   {
     "hash_name": "AWP | Mortis (Well-Worn)",
     "item_nameid": 175966874,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJG6d2inL-GkvP9JraflGlSuMFw2LnF9N6t0Fa1_BE4YGygdY7HcgI8NA7X_lPqwOa615C5v4OJlyWpC_Ptrg",
-    "sell_order_count": "45",
-    "buy_order_count": "21,464",
-    "lowest_sell_order": "3.92",
-    "highest_buy_order": "3.16",
-    "date_modified": 1757826467103
+    "sell_order_count": "52",
+    "buy_order_count": "21,500",
+    "lowest_sell_order": "3.54",
+    "highest_buy_order": "3.17",
+    "date_modified": 1757865650385
   },
   {
     "hash_name": "AWP | Mortis (Minimal Wear)",
     "item_nameid": 175966812,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJG6d2inL-HnvD8J_WDkjpT65Fwj-iZ9IqjjVK2_ktvYW32I4WdIQc_Zw7Yq1LoxOq6jZ66ot2XnlWA3I1y",
-    "sell_order_count": "191",
-    "buy_order_count": "76,786",
-    "lowest_sell_order": "4.65",
+    "sell_order_count": "192",
+    "buy_order_count": "76,779",
+    "lowest_sell_order": "4.69",
     "highest_buy_order": "4.37",
-    "date_modified": 1757826475400
+    "date_modified": 1757865658680
   },
   {
     "hash_name": "AWP | Mortis (Field-Tested)",
     "item_nameid": 175966828,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJG6d2inL-GkvP9JraflGlSuMFw2LnF9N6t0Fa1_BE4YGygdY7HcgI8NA7X_lPqwOa615C5v4OJlyWpC_Ptrg",
-    "sell_order_count": "1,155",
-    "buy_order_count": "97,953",
-    "lowest_sell_order": "2.65",
-    "highest_buy_order": "2.34",
-    "date_modified": 1757826483600
+    "sell_order_count": "1,165",
+    "buy_order_count": "97,829",
+    "lowest_sell_order": "2.37",
+    "highest_buy_order": "2.33",
+    "date_modified": 1757865666815
   },
   {
     "hash_name": "AWP | Mortis (Factory New)",
     "item_nameid": 175966822,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJG6d2inL-HnvD8J_WDkjpT65Fwj-iZ9IqjjVK2_ktvYW32I4WdIQc_Zw7Yq1LoxOq6jZ66ot2XnlWA3I1y",
-    "sell_order_count": "112",
-    "buy_order_count": "14,786",
-    "lowest_sell_order": "21.53",
-    "highest_buy_order": "21.40",
-    "date_modified": 1757826491753
+    "sell_order_count": "119",
+    "buy_order_count": "14,749",
+    "lowest_sell_order": "20.73",
+    "highest_buy_order": "20.60",
+    "date_modified": 1757865675173
   },
   {
     "hash_name": "AWP | Mortis (Battle-Scarred)",
     "item_nameid": 175966888,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJG6d2inL-DkvbiKvXQwD9UucEh3OvCotzx31K18xBkYD-gJITGdQU3Yg7T-ADtwLjs0ZC9ot2XniOb6ZV_",
-    "sell_order_count": "204",
-    "buy_order_count": "26,516",
+    "sell_order_count": "205",
+    "buy_order_count": "26,556",
     "lowest_sell_order": "2.90",
-    "highest_buy_order": "2.60",
-    "date_modified": 1757826500053
+    "highest_buy_order": "2.64",
+    "date_modified": 1757865683302
   },
   {
     "hash_name": "AWP | Man-o'-war (Minimal Wear)",
     "item_nameid": 29205260,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-HnvD8J_XTxjkJ7JZ00u2U8Yr33wfiqEprYG3zIICVIFBtMg7Q_we_wOfvgcW_ot2Xng0w4MfF",
-    "sell_order_count": "102",
-    "buy_order_count": "4,214",
-    "lowest_sell_order": "99.88",
-    "highest_buy_order": "94.08",
-    "date_modified": 1757826508383
+    "sell_order_count": "103",
+    "buy_order_count": "4,222",
+    "lowest_sell_order": "104.08",
+    "highest_buy_order": "99.17",
+    "date_modified": 1757865691628
   },
   {
     "hash_name": "AWP | Man-o'-war (Field-Tested)",
     "item_nameid": 29211157,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-GkvP9JrafxT5TucEhj-uSpNujjgPk80tuMm33ItCRcwRrMg3T_wS5lLzo08Tu7oOJlyUYbJwUOA",
     "sell_order_count": "20",
-    "buy_order_count": "1,250",
-    "lowest_sell_order": "61.07",
-    "highest_buy_order": "56.29",
-    "date_modified": 1757826516556
+    "buy_order_count": "1,246",
+    "lowest_sell_order": "61.03",
+    "highest_buy_order": "56.27",
+    "date_modified": 1757865699927
   },
   {
     "hash_name": "AWP | LongDog (Well-Worn)",
     "item_nameid": 176506228,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZ3w8zEfjNF6NOxq42Ok_7hPvWHxTwCv50h2LuTot3w2wzj-0M4Zz-lJNfBdQ87Z13Y-1a_lO7q1Mfvot2XnqQU34PJ",
-    "sell_order_count": "10",
-    "buy_order_count": "1,403",
+    "sell_order_count": "9",
+    "buy_order_count": "1,407",
     "lowest_sell_order": "118.45",
-    "highest_buy_order": "109.91",
-    "date_modified": 1757826524731
+    "highest_buy_order": "103.44",
+    "date_modified": 1757865708061
   },
   {
     "hash_name": "AWP | LongDog (Minimal Wear)",
     "item_nameid": 176506345,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZ3w8zEfjNF6NOxq4yCkP_gfemDkjJXv5Zw07uXporz2VLm_0M4MG_wJ4SWd1RsYVHR_gPvx-e60JSi_MOeuKXj99c",
-    "sell_order_count": "11",
-    "buy_order_count": "1,479",
-    "lowest_sell_order": "390.00",
-    "highest_buy_order": "320.11",
-    "date_modified": 1757826533058
+    "sell_order_count": "12",
+    "buy_order_count": "1,477",
+    "lowest_sell_order": "371.57",
+    "highest_buy_order": "321.13",
+    "date_modified": 1757865716199
   },
   {
     "hash_name": "AWP | LongDog (Field-Tested)",
     "item_nameid": 176506241,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZ3w8zEfjNF6NOxq42Ok_7hPvWHxTwCv50h2LuTot3w2wzj-0M4Zz-lJNfBdQ87Z13Y-1a_lO7q1Mfvot2XnqQU34PJ",
-    "sell_order_count": "6",
-    "buy_order_count": "1,488",
-    "lowest_sell_order": "206.59",
+    "sell_order_count": "7",
+    "buy_order_count": "1,485",
+    "lowest_sell_order": "186.62",
     "highest_buy_order": "179.35",
-    "date_modified": 1757826541216
+    "date_modified": 1757865724355
   },
   {
     "hash_name": "AWP | LongDog (Factory New)",
     "item_nameid": 176506491,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZ3w8zEfjNF6NOxq4yCkP_gfemDkjJXv5Zw07uXporz2VLm_0M4MG_wJ4SWd1RsYVHR_gPvx-e60JSi_MOeuKXj99c",
     "sell_order_count": "2",
-    "buy_order_count": "1,417",
+    "buy_order_count": "1,418",
     "lowest_sell_order": "1338.51",
-    "highest_buy_order": "874.93",
-    "date_modified": 1757826549497
+    "highest_buy_order": "893.41",
+    "date_modified": 1757865732521
   },
   {
     "hash_name": "AWP | LongDog (Battle-Scarred)",
     "item_nameid": 176506242,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZ3w8zEfjNF6NOxq4iOluHtfbjXwDIHuZMki7CRodWn3lfgqUdrYmqncoWTIAA6ZV7W_gS5yOm6jJKi_MOeGYQsnmE",
-    "sell_order_count": "7",
-    "buy_order_count": "1,431",
+    "sell_order_count": "8",
+    "buy_order_count": "1,433",
     "lowest_sell_order": "94.25",
-    "highest_buy_order": "87.00",
-    "date_modified": 1757826557658
+    "highest_buy_order": "88.00",
+    "date_modified": 1757865740670
   },
   {
     "hash_name": "AWP | Lightning Strike (Minimal Wear)",
     "item_nameid": 1321799,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7P_BdjVW4tW4k7-KgOfLP7LWnn8fsJEh0uuR9I6m3gbi_Uppamn2d4CTcVc4NFDZ_Qe4x-rmgMPtuZucnGwj5He2etKLyw",
     "sell_order_count": 0,
-    "buy_order_count": "785",
+    "buy_order_count": "786",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "586.79",
-    "date_modified": 1757826565823
+    "highest_buy_order": "587.21",
+    "date_modified": 1757865749007
   },
   {
     "hash_name": "AWP | Lightning Strike (Factory New)",
     "item_nameid": 1321439,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7P_BdjVW4tW4k7-KgOfLP7LWnn8fsJEh0uuR9I6m3gbi_Uppamn2d4CTcVc4NFDZ_Qe4x-rmgMPtuZucnGwj5He2etKLyw",
-    "sell_order_count": "21",
-    "buy_order_count": "1,930",
-    "lowest_sell_order": "770.00",
-    "highest_buy_order": "739.48",
-    "date_modified": 1757826574000
+    "sell_order_count": "19",
+    "buy_order_count": "1,928",
+    "lowest_sell_order": "794.58",
+    "highest_buy_order": "735.42",
+    "date_modified": 1757865757166
   },
   {
     "hash_name": "AWP | Hyper Beast (Well-Worn)",
     "item_nameid": 49399562,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tck29Y_cg_jrGYrNSl0VGwrUJpMW77cIGdcFQ8YwvSrlS-lO3sjcC178vKz3syvT5iuyhKfAjUdQ",
-    "sell_order_count": "73",
-    "buy_order_count": "1,748",
-    "lowest_sell_order": "25.38",
-    "highest_buy_order": "24.34",
-    "date_modified": 1757826582170
+    "sell_order_count": "74",
+    "buy_order_count": "1,744",
+    "lowest_sell_order": "25.36",
+    "highest_buy_order": "24.38",
+    "date_modified": 1757865765338
   },
   {
     "hash_name": "AWP | Hyper Beast (Minimal Wear)",
     "item_nameid": 49399560,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tdn2xZ_Ism3OyTptqh2Q3t8kU6ZGr0do6cIwNvMwyD-wK-xezn05O06Z3KznVhpGB8spT0CWMl",
-    "sell_order_count": "69",
-    "buy_order_count": "1,898",
+    "sell_order_count": "72",
+    "buy_order_count": "1,904",
     "lowest_sell_order": "67.07",
-    "highest_buy_order": "60.17",
-    "date_modified": 1757826590340
+    "highest_buy_order": "58.72",
+    "date_modified": 1757865773472
   },
   {
     "hash_name": "AWP | Hyper Beast (Field-Tested)",
     "item_nameid": 49365701,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tck29Y_cg_jrGYrNSl0VGwrUJpMW77cIGdcFQ8YwvSrlS-lO3sjcC178vKz3syvT5iuyhKfAjUdQ",
-    "sell_order_count": "139",
-    "buy_order_count": "2,792",
-    "lowest_sell_order": "33.05",
+    "sell_order_count": "148",
+    "buy_order_count": "2,791",
+    "lowest_sell_order": "29.50",
     "highest_buy_order": "28.35",
-    "date_modified": 1757826598660
+    "date_modified": 1757865781667
   },
   {
     "hash_name": "AWP | Hyper Beast (Factory New)",
     "item_nameid": 49419354,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tdn2xZ_Ism3OyTptqh2Q3t8kU6ZGr0do6cIwNvMwyD-wK-xezn05O06Z3KznVhpGB8spT0CWMl",
-    "sell_order_count": "25",
-    "buy_order_count": "1,452",
-    "lowest_sell_order": "332.73",
-    "highest_buy_order": "329.70",
-    "date_modified": 1757826606813
+    "sell_order_count": "21",
+    "buy_order_count": "1,429",
+    "lowest_sell_order": "345.00",
+    "highest_buy_order": "325.70",
+    "date_modified": 1757865789805
   },
   {
     "hash_name": "AWP | Hyper Beast (Battle-Scarred)",
     "item_nameid": 49359124,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4TZk2pH8Yt3jO-Zpd6kiwzg8xdrNT_yLI-VJgFqNAzQ_FPqkurr0JS66pyby3o3pGB8soDNmhjx",
     "sell_order_count": "64",
-    "buy_order_count": "2,143",
-    "lowest_sell_order": "23.89",
-    "highest_buy_order": "23.77",
-    "date_modified": 1757826614996
+    "buy_order_count": "2,131",
+    "lowest_sell_order": "24.91",
+    "highest_buy_order": "23.36",
+    "date_modified": 1757865798147
   },
   {
     "hash_name": "AWP | Green Energy (Well-Worn)",
     "item_nameid": 176505090,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR11szCZDBS09C_moW0mvLwOq7c2DtQ6ZYh3O-Sp4mk3wzj_EBra2DxcISXIwY_YwmG-Ae7kOe515TuvcnXiSw0r1Ef6qo",
-    "sell_order_count": "29",
-    "buy_order_count": "7,092",
-    "lowest_sell_order": "28.38",
-    "highest_buy_order": "24.46",
-    "date_modified": 1757826623290
+    "sell_order_count": "28",
+    "buy_order_count": "7,099",
+    "lowest_sell_order": "28.49",
+    "highest_buy_order": "24.54",
+    "date_modified": 1757865806302
   },
   {
     "hash_name": "AWP | Green Energy (Minimal Wear)",
     "item_nameid": 176504852,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR11szCZDBS09C_moW0m_7zO6-fz2hUvpYl0uySpdmiiwftqBVlNmj6do-SIAU7aQzUq1a4wO_n08C574OJlyVebQtdZA",
-    "sell_order_count": "92",
-    "buy_order_count": "8,285",
-    "lowest_sell_order": "84.52",
-    "highest_buy_order": "80.29",
-    "date_modified": 1757826631477
+    "sell_order_count": "101",
+    "buy_order_count": "8,282",
+    "lowest_sell_order": "80.41",
+    "highest_buy_order": "79.28",
+    "date_modified": 1757865814478
   },
   {
     "hash_name": "AWP | Green Energy (Field-Tested)",
     "item_nameid": 176504708,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR11szCZDBS09C_moW0mvLwOq7c2DtQ6ZYh3O-Sp4mk3wzj_EBra2DxcISXIwY_YwmG-Ae7kOe515TuvcnXiSw0r1Ef6qo",
-    "sell_order_count": "235",
-    "buy_order_count": "5,748",
-    "lowest_sell_order": "33.40",
-    "highest_buy_order": "32.11",
-    "date_modified": 1757826639633
+    "sell_order_count": "242",
+    "buy_order_count": "5,768",
+    "lowest_sell_order": "33.58",
+    "highest_buy_order": "31.56",
+    "date_modified": 1757865822803
   },
   {
     "hash_name": "AWP | Green Energy (Factory New)",
     "item_nameid": 176505062,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR11szCZDBS09C_moW0m_7zO6-fz2hUvpYl0uySpdmiiwftqBVlNmj6do-SIAU7aQzUq1a4wO_n08C574OJlyVebQtdZA",
-    "sell_order_count": "34",
-    "buy_order_count": "9,465",
-    "lowest_sell_order": "254.41",
-    "highest_buy_order": "243.05",
-    "date_modified": 1757826647801
+    "sell_order_count": "35",
+    "buy_order_count": "9,456",
+    "lowest_sell_order": "254.40",
+    "highest_buy_order": "221.03",
+    "date_modified": 1757865830956
   },
   {
     "hash_name": "AWP | Green Energy (Battle-Scarred)",
     "item_nameid": 176504859,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR11szCZDBS09C_moW0n_L1JaKfkDgD7JB1j-3FoN6i2A22qBBuYG30IYbBdANrNA2C-wS8wui9gZe-74OJlyUT6o-nfg",
-    "sell_order_count": "65",
-    "buy_order_count": "9,883",
-    "lowest_sell_order": "21.75",
-    "highest_buy_order": "21.33",
-    "date_modified": 1757826655994
+    "sell_order_count": "64",
+    "buy_order_count": "9,877",
+    "lowest_sell_order": "22.39",
+    "highest_buy_order": "21.36",
+    "date_modified": 1757865839114
   },
   {
     "hash_name": "AWP | Graphite (Minimal Wear)",
     "item_nameid": 1547758,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PDaZDBS4NmJlpKKgfjLP7LWnn8f7cMl2-uTptqkjgSx_kNvNmmgI4-TcFRtaVyFrlLow-_nhJW9vpTLy2wj5Hfw3aKhng",
-    "sell_order_count": "8",
-    "buy_order_count": "566",
-    "lowest_sell_order": "223.99",
-    "highest_buy_order": "178.30",
-    "date_modified": 1757826664180
+    "sell_order_count": "6",
+    "buy_order_count": "565",
+    "lowest_sell_order": "241.50",
+    "highest_buy_order": "178.36",
+    "date_modified": 1757865847247
   },
   {
     "hash_name": "AWP | Graphite (Factory New)",
     "item_nameid": 1546551,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PDaZDBS4NmJlpKKgfjLP7LWnn8f7cMl2-uTptqkjgSx_kNvNmmgI4-TcFRtaVyFrlLow-_nhJW9vpTLy2wj5Hfw3aKhng",
-    "sell_order_count": "37",
-    "buy_order_count": "1,633",
-    "lowest_sell_order": "254.93",
-    "highest_buy_order": "246.75",
-    "date_modified": 1757826672389
+    "sell_order_count": "36",
+    "buy_order_count": "1,631",
+    "lowest_sell_order": "251.19",
+    "highest_buy_order": "220.40",
+    "date_modified": 1757865855383
   },
   {
     "hash_name": "AWP | Fever Dream (Well-Worn)",
     "item_nameid": 175880402,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJS_8W1nI-bluP8DLbUkmJE5Yt3ibGS89ut3QO1_EA4YzunLYHAewc3MgrQ-Vi-w-3t0ZXq7prPy3djpGB8sh_n24f0",
-    "sell_order_count": "30",
-    "buy_order_count": "6,803",
-    "lowest_sell_order": "14.58",
-    "highest_buy_order": "13.59",
-    "date_modified": 1757826680562
+    "sell_order_count": "34",
+    "buy_order_count": "6,810",
+    "lowest_sell_order": "14.51",
+    "highest_buy_order": "13.81",
+    "date_modified": 1757865863531
   },
   {
     "hash_name": "AWP | Fever Dream (Minimal Wear)",
     "item_nameid": 175880386,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJS_8W1nI-bluP8DLfYkWNFpsAh3bjE8Nqi2QLl_xdtYz3xcYCRc1I2MwzV_gK-yL-7jZfovZjNynR9-n5190ooeH8",
-    "sell_order_count": "147",
-    "buy_order_count": "16,147",
-    "lowest_sell_order": "18.78",
+    "sell_order_count": "148",
+    "buy_order_count": "16,120",
+    "lowest_sell_order": "19.90",
     "highest_buy_order": "18.76",
-    "date_modified": 1757826688716
+    "date_modified": 1757865871940
   },
   {
     "hash_name": "AWP | Fever Dream (Field-Tested)",
     "item_nameid": 175880269,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJS_8W1nI-bluP8DLbUkmJE5Yt3ibGS89ut3QO1_EA4YzunLYHAewc3MgrQ-Vi-w-3t0ZXq7prPy3djpGB8sh_n24f0",
-    "sell_order_count": "184",
-    "buy_order_count": "21,487",
-    "lowest_sell_order": "15.33",
+    "sell_order_count": "183",
+    "buy_order_count": "21,473",
+    "lowest_sell_order": "15.20",
     "highest_buy_order": "14.32",
-    "date_modified": 1757826697019
+    "date_modified": 1757865880083
   },
   {
     "hash_name": "AWP | Fever Dream (Factory New)",
     "item_nameid": 175880321,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJS_8W1nI-bluP8DLfYkWNFpsAh3bjE8Nqi2QLl_xdtYz3xcYCRc1I2MwzV_gK-yL-7jZfovZjNynR9-n5190ooeH8",
-    "sell_order_count": "101",
-    "buy_order_count": "9,240",
-    "lowest_sell_order": "49.11",
-    "highest_buy_order": "47.52",
-    "date_modified": 1757826705189
+    "sell_order_count": "116",
+    "buy_order_count": "9,206",
+    "lowest_sell_order": "44.42",
+    "highest_buy_order": "46.29",
+    "date_modified": 1757865888235
   },
   {
     "hash_name": "AWP | Fever Dream (Battle-Scarred)",
     "item_nameid": 175880411,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJS_8W1nI-bluP8DLPUl31IppMoiOzEp9SljQLn-UJoY2qgIYKUcw88aQnWrwK9xenojZ676c7NnSZ9-n51s5BE88Y",
-    "sell_order_count": "49",
-    "buy_order_count": "7,682",
+    "sell_order_count": "47",
+    "buy_order_count": "7,665",
     "lowest_sell_order": "13.53",
-    "highest_buy_order": "13.39",
-    "date_modified": 1757826713348
+    "highest_buy_order": "13.40",
+    "date_modified": 1757865896538
   },
   {
     "hash_name": "AWP | Fade (Factory New)",
@@ -20765,239 +20765,239 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZh7PLfYQJE7dizq4yCkP_gfezXxj0IvJBy2rrH9NSh2VXs80VsYWGnd9SWcAFoaFCEqVa7wu3oh5Gi_MOeScxOzqI",
     "sell_order_count": "4",
     "buy_order_count": "3,676",
-    "lowest_sell_order": "1423.31",
+    "lowest_sell_order": "1537.26",
     "highest_buy_order": "1295.74",
-    "date_modified": 1757826721517
+    "date_modified": 1757865904674
   },
   {
     "hash_name": "AWP | Exoskeleton (Well-Worn)",
     "item_nameid": 176209379,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJH9NOln4WHkuP7PYTck29Y_cg_j--Q8I2h2A3t_BBvNmD1cIHBJg8-Ml3S-VHsxLzq0ZTqvpnPwXMxuD5iuyjWgw-E6w",
     "sell_order_count": "146",
-    "buy_order_count": "35,983",
-    "lowest_sell_order": "4.07",
+    "buy_order_count": "35,985",
+    "lowest_sell_order": "4.05",
     "highest_buy_order": "3.68",
-    "date_modified": 1757826729692
+    "date_modified": 1757865912828
   },
   {
     "hash_name": "AWP | Exoskeleton (Minimal Wear)",
     "item_nameid": 176209298,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJH9NOln4WHkuP7PYTdn2xZ_Isli73A9I-n2wbk-kptZGDydtPAcQM4ZgnXr1G9wu7o0ZK-6pqby3tqpGB8si-uzZjZ",
-    "sell_order_count": "112",
-    "buy_order_count": "60,930",
-    "lowest_sell_order": "8.64",
-    "highest_buy_order": "8.59",
-    "date_modified": 1757826737870
+    "sell_order_count": "121",
+    "buy_order_count": "60,898",
+    "lowest_sell_order": "8.62",
+    "highest_buy_order": "8.33",
+    "date_modified": 1757865920968
   },
   {
     "hash_name": "AWP | Exoskeleton (Field-Tested)",
     "item_nameid": 176209246,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJH9NOln4WHkuP7PYTck29Y_cg_j--Q8I2h2A3t_BBvNmD1cIHBJg8-Ml3S-VHsxLzq0ZTqvpnPwXMxuD5iuyjWgw-E6w",
-    "sell_order_count": "212",
-    "buy_order_count": "80,171",
-    "lowest_sell_order": "5.20",
+    "sell_order_count": "219",
+    "buy_order_count": "80,077",
+    "lowest_sell_order": "4.88",
     "highest_buy_order": "4.51",
-    "date_modified": 1757826746203
+    "date_modified": 1757865929157
   },
   {
     "hash_name": "AWP | Exoskeleton (Factory New)",
     "item_nameid": 176209300,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJH9NOln4WHkuP7PYTdn2xZ_Isli73A9I-n2wbk-kptZGDydtPAcQM4ZgnXr1G9wu7o0ZK-6pqby3tqpGB8si-uzZjZ",
-    "sell_order_count": "83",
-    "buy_order_count": "9,568",
-    "lowest_sell_order": "41.86",
-    "highest_buy_order": "40.31",
-    "date_modified": 1757826754360
+    "sell_order_count": "77",
+    "buy_order_count": "9,538",
+    "lowest_sell_order": "40.99",
+    "highest_buy_order": "40.32",
+    "date_modified": 1757865937441
   },
   {
     "hash_name": "AWP | Exoskeleton (Battle-Scarred)",
     "item_nameid": 176209244,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJH9NOln4WHkuP7PYTZk2pH8Ysl37mV842sjgHnr0c4MWH7I9SXIANoZVmBrgO2leru18W7vsnBwSA2pGB8sr86uHYm",
-    "sell_order_count": "187",
-    "buy_order_count": "28,641",
-    "lowest_sell_order": "3.56",
+    "sell_order_count": "179",
+    "buy_order_count": "28,647",
+    "lowest_sell_order": "3.85",
     "highest_buy_order": "3.50",
-    "date_modified": 1757826762542
+    "date_modified": 1757865945573
   },
   {
     "hash_name": "AWP | Elite Build (Well-Worn)",
     "item_nameid": 139654851,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJP7c-ikZKSqPrxN7LEmyUBuJ1w2L-Wpo-nilGxqUtra2mgJ9eWdFVvM1GCqQTtyL3vjZ617cvB1zI97dHMLMVi",
-    "sell_order_count": "60",
-    "buy_order_count": "4,488",
-    "lowest_sell_order": "16.84",
-    "highest_buy_order": "16.04",
-    "date_modified": 1757826770835
+    "sell_order_count": "56",
+    "buy_order_count": "4,487",
+    "lowest_sell_order": "17.84",
+    "highest_buy_order": "16.02",
+    "date_modified": 1757865953714
   },
   {
     "hash_name": "AWP | Elite Build (Minimal Wear)",
     "item_nameid": 139654813,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJP7c-ikZKSqPv9NLPF2G4JvcMojLqS946l3QTm_kRuMj_7JIWUIAc6MwzQ-lXtxuvujcTuvJrXiSw0Bx3wqAY",
-    "sell_order_count": "35",
-    "buy_order_count": "3,499",
-    "lowest_sell_order": "34.17",
-    "highest_buy_order": "32.71",
-    "date_modified": 1757826779010
+    "sell_order_count": "37",
+    "buy_order_count": "3,482",
+    "lowest_sell_order": "33.48",
+    "highest_buy_order": "32.17",
+    "date_modified": 1757865961863
   },
   {
     "hash_name": "AWP | Elite Build (Field-Tested)",
     "item_nameid": 139654825,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJP7c-ikZKSqPrxN7LEmyUBuJ1w2L-Wpo-nilGxqUtra2mgJ9eWdFVvM1GCqQTtyL3vjZ617cvB1zI97dHMLMVi",
     "sell_order_count": "150",
-    "buy_order_count": "7,582",
-    "lowest_sell_order": "19.98",
-    "highest_buy_order": "19.38",
-    "date_modified": 1757826787208
+    "buy_order_count": "7,547",
+    "lowest_sell_order": "18.79",
+    "highest_buy_order": "18.74",
+    "date_modified": 1757865970156
   },
   {
     "hash_name": "AWP | Elite Build (Factory New)",
     "item_nameid": 139673204,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJP7c-ikZKSqPv9NLPF2G4JvcMojLqS946l3QTm_kRuMj_7JIWUIAc6MwzQ-lXtxuvujcTuvJrXiSw0Bx3wqAY",
-    "sell_order_count": "18",
-    "buy_order_count": "1,755",
-    "lowest_sell_order": "141.63",
-    "highest_buy_order": "128.85",
-    "date_modified": 1757826795505
+    "sell_order_count": "24",
+    "buy_order_count": "1,731",
+    "lowest_sell_order": "117.08",
+    "highest_buy_order": "105.13",
+    "date_modified": 1757865978304
   },
   {
     "hash_name": "AWP | Elite Build (Battle-Scarred)",
     "item_nameid": 139655733,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJP7c-ikZKSqP_xMq3I2D0Gu8Rw3rmZ8IqljA3l_kA5ZGmiJIaXJgI3YFqG_lO5l-zmjcTvvZjXiSw02qq6VU8",
-    "sell_order_count": "65",
-    "buy_order_count": "6,249",
-    "lowest_sell_order": "15.69",
-    "highest_buy_order": "15.59",
-    "date_modified": 1757826803662
+    "sell_order_count": "62",
+    "buy_order_count": "6,215",
+    "lowest_sell_order": "15.57",
+    "highest_buy_order": "15.44",
+    "date_modified": 1757865986445
   },
   {
     "hash_name": "AWP | Electric Hive (Well-Worn)",
     "item_nameid": 3444584,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957PvBZzh94dmynZWG2fGjMeuCkm1V7ZV03u_D9N6n3wbs_UJoYm6lLYKddwRtaAuF-gLokOjxxcjrDLTvzgI",
-    "sell_order_count": "6",
+    "sell_order_count": "5",
     "buy_order_count": "354",
     "lowest_sell_order": "47.77",
-    "highest_buy_order": "44.41",
-    "date_modified": 1757826811824
+    "highest_buy_order": "44.40",
+    "date_modified": 1757865994580
   },
   {
     "hash_name": "AWP | Electric Hive (Minimal Wear)",
     "item_nameid": 3440917,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957PvBZzh94NWxnJTFw6KhN7-Fkj8G7Zci3euQ8dyn3QXlqhdtNjrzIYeSJFc2Zl_Z_VK6w_Cv28FVf1mVgw",
-    "sell_order_count": "77",
-    "buy_order_count": "1,284",
+    "sell_order_count": "76",
+    "buy_order_count": "1,280",
     "lowest_sell_order": "44.42",
-    "highest_buy_order": "40.96",
-    "date_modified": 1757826820115
+    "highest_buy_order": "38.92",
+    "date_modified": 1757866002943
   },
   {
     "hash_name": "AWP | Electric Hive (Field-Tested)",
     "item_nameid": 3443462,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957PvBZzh94dmynZWG2fGjMeuCkm1V7ZV03u_D9N6n3wbs_UJoYm6lLYKddwRtaAuF-gLokOjxxcjrDLTvzgI",
-    "sell_order_count": "90",
-    "buy_order_count": "2,030",
-    "lowest_sell_order": "42.25",
-    "highest_buy_order": "41.52",
-    "date_modified": 1757826828269
+    "sell_order_count": "91",
+    "buy_order_count": "2,024",
+    "lowest_sell_order": "41.74",
+    "highest_buy_order": "40.84",
+    "date_modified": 1757866011146
   },
   {
     "hash_name": "AWP | Electric Hive (Factory New)",
     "item_nameid": 3442131,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957PvBZzh94NWxnJTFw6KhN7-Fkj8G7Zci3euQ8dyn3QXlqhdtNjrzIYeSJFc2Zl_Z_VK6w_Cv28FVf1mVgw",
-    "sell_order_count": "76",
-    "buy_order_count": "1,168",
-    "lowest_sell_order": "105.00",
-    "highest_buy_order": "104.68",
-    "date_modified": 1757826836582
+    "sell_order_count": "77",
+    "buy_order_count": "1,155",
+    "lowest_sell_order": "103.00",
+    "highest_buy_order": "102.23",
+    "date_modified": 1757866019455
   },
   {
     "hash_name": "AWP | Duality (Well-Worn)",
     "item_nameid": 176359774,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJO5dG0m7-Ymfb_NoTck29Y_cg_2e3HrIjwjFWxrhI6Mm30JtOdIQNqaQ2C8lm6x7ztgpK-6s-cwXpm6D5iuygfY0gFfw",
-    "sell_order_count": "214",
-    "buy_order_count": "19,180",
-    "lowest_sell_order": "2.62",
-    "highest_buy_order": "2.23",
-    "date_modified": 1757826844885
+    "sell_order_count": "211",
+    "buy_order_count": "19,203",
+    "lowest_sell_order": "2.61",
+    "highest_buy_order": "2.22",
+    "date_modified": 1757866027643
   },
   {
     "hash_name": "AWP | Duality (Minimal Wear)",
     "item_nameid": 176359766,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJO5dG0m7-Ymfb_NoTdn2xZ_Ism0rGT94qkjgXg-0M-YG73dYSTIQRqM1CB_gTolbq6jMDpuZvBzSZjpGB8sq7SymFz",
-    "sell_order_count": "436",
-    "buy_order_count": "17,597",
-    "lowest_sell_order": "4.94",
+    "sell_order_count": "427",
+    "buy_order_count": "17,661",
+    "lowest_sell_order": "5.35",
     "highest_buy_order": "4.69",
-    "date_modified": 1757826853039
+    "date_modified": 1757866035780
   },
   {
     "hash_name": "AWP | Duality (Field-Tested)",
     "item_nameid": 176359763,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJO5dG0m7-Ymfb_NoTck29Y_cg_2e3HrIjwjFWxrhI6Mm30JtOdIQNqaQ2C8lm6x7ztgpK-6s-cwXpm6D5iuygfY0gFfw",
-    "sell_order_count": "1,639",
-    "buy_order_count": "60,522",
-    "lowest_sell_order": "2.18",
-    "highest_buy_order": "1.87",
-    "date_modified": 1757826861194
+    "sell_order_count": "1,650",
+    "buy_order_count": "60,544",
+    "lowest_sell_order": "2.19",
+    "highest_buy_order": "1.84",
+    "date_modified": 1757866044127
   },
   {
     "hash_name": "AWP | Duality (Factory New)",
     "item_nameid": 176359764,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJO5dG0m7-Ymfb_NoTdn2xZ_Ism0rGT94qkjgXg-0M-YG73dYSTIQRqM1CB_gTolbq6jMDpuZvBzSZjpGB8sq7SymFz",
-    "sell_order_count": "70",
-    "buy_order_count": "10,566",
-    "lowest_sell_order": "21.11",
-    "highest_buy_order": "20.50",
-    "date_modified": 1757826869515
+    "sell_order_count": "82",
+    "buy_order_count": "10,614",
+    "lowest_sell_order": "20.97",
+    "highest_buy_order": "19.52",
+    "date_modified": 1757866052468
   },
   {
     "hash_name": "AWP | Duality (Battle-Scarred)",
     "item_nameid": 176359765,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJO5dG0m7-Ymfb_NoTZk2pH8YsoiLCQo9qmigew8hBsY2-iIoeRIVU4MFmC_AXqkOq51pTo6JSYzCYwpGB8sgvrpTA_",
-    "sell_order_count": "512",
-    "buy_order_count": "22,832",
-    "lowest_sell_order": "1.65",
-    "highest_buy_order": "1.53",
-    "date_modified": 1757826877672
+    "sell_order_count": "510",
+    "buy_order_count": "22,902",
+    "lowest_sell_order": "1.87",
+    "highest_buy_order": "1.54",
+    "date_modified": 1757866060614
   },
   {
     "hash_name": "AWP | Crakow! (Well-Worn)",
     "item_nameid": 176460633,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PzedC9S7c-lq4OZlvz7JITQgXtu5cB1g_zMu9yg2wDmqUtvYWGnI4TBewM4NVvS-AK7wr_r05656JydznE1vHIk4nfD30vgI-YcH7c",
-    "sell_order_count": "59",
-    "buy_order_count": "2,806",
+    "sell_order_count": "64",
+    "buy_order_count": "2,808",
     "lowest_sell_order": "29.47",
-    "highest_buy_order": "25.96",
-    "date_modified": 1757826885825
+    "highest_buy_order": "25.90",
+    "date_modified": 1757866068899
   },
   {
     "hash_name": "AWP | Crakow! (Minimal Wear)",
     "item_nameid": 176460551,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PzedC9S7c-lq4OZlvz7JITQgXtu5Mx2gv2P8N-niQWy-Rdva2r3ctTHegI3ZlvVr1Tol-7rgcPq7pSawSExvCEi5GGdwUJdgGvVMg",
-    "sell_order_count": "47",
-    "buy_order_count": "2,487",
-    "lowest_sell_order": "86.28",
-    "highest_buy_order": "79.69",
-    "date_modified": 1757826893999
+    "sell_order_count": "53",
+    "buy_order_count": "2,482",
+    "lowest_sell_order": "82.93",
+    "highest_buy_order": "77.00",
+    "date_modified": 1757866077096
   },
   {
     "hash_name": "AWP | Crakow! (Field-Tested)",
     "item_nameid": 176460470,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PzedC9S7c-lq4OZlvz7JITQgXtu5cB1g_zMu9yg2wDmqUtvYWGnI4TBewM4NVvS-AK7wr_r05656JydznE1vHIk4nfD30vgI-YcH7c",
-    "sell_order_count": "97",
-    "buy_order_count": "4,131",
-    "lowest_sell_order": "46.87",
-    "highest_buy_order": "44.76",
-    "date_modified": 1757826902173
+    "sell_order_count": "103",
+    "buy_order_count": "4,146",
+    "lowest_sell_order": "45.26",
+    "highest_buy_order": "44.57",
+    "date_modified": 1757866085250
   },
   {
     "hash_name": "AWP | Crakow! (Factory New)",
     "item_nameid": 176461016,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PzedC9S7c-lq4OZlvz7JITQgXtu5Mx2gv2P8N-niQWy-Rdva2r3ctTHegI3ZlvVr1Tol-7rgcPq7pSawSExvCEi5GGdwUJdgGvVMg",
-    "sell_order_count": "13",
+    "sell_order_count": "15",
     "buy_order_count": "1,540",
     "lowest_sell_order": "216.33",
-    "highest_buy_order": "190.00",
-    "date_modified": 1757826910348
+    "highest_buy_order": "200.00",
+    "date_modified": 1757866093399
   },
   {
     "hash_name": "AWP | Crakow! (Battle-Scarred)",
