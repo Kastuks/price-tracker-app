@@ -30003,11 +30003,11 @@
     "hash_name": "USP-S | Black Lotus (Battle-Scarred)",
     "item_nameid": 176262707,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8j2P7rSnVRd59FkmdbJ8I3jkRrn_RJlMGD0IdTAcQE-M1uGq1S5kri7gJC1vJ7Am3Nl7HEl7XuOzBDln1gSOdOgc2Wo",
-    "sell_order_count": "299",
-    "buy_order_count": "38,567",
-    "lowest_sell_order": "0.98",
-    "highest_buy_order": "0.97",
-    "date_modified": 1760080178851
+    "sell_order_count": "292",
+    "buy_order_count": "38,630",
+    "lowest_sell_order": "1.00",
+    "highest_buy_order": "0.93",
+    "date_modified": 1760120004939
   },
   {
     "hash_name": "USP-S | Ancient Visions (Well-Worn)",
@@ -30017,7 +30017,7 @@
     "buy_order_count": "4,461",
     "lowest_sell_order": "99.99",
     "highest_buy_order": "59.25",
-    "date_modified": 1760080187008
+    "date_modified": 1760120013273
   },
   {
     "hash_name": "USP-S | Ancient Visions (Minimal Wear)",
@@ -30027,66 +30027,66 @@
     "buy_order_count": "1,023",
     "lowest_sell_order": "137.77",
     "highest_buy_order": "60.86",
-    "date_modified": 1760080195154
+    "date_modified": 1760120021558
   },
   {
     "hash_name": "USP-S | Ancient Visions (Factory New)",
     "item_nameid": 176209558,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq4GFlP7xPa_ulHlY781lteXI8oThxg3n_hVqN22icI-VcQE2NArVqAK_yerqhcfquZzOn3NkunMn533elxKpwUYb4Ry-6Uk",
-    "sell_order_count": "6",
-    "buy_order_count": "1,111",
-    "lowest_sell_order": "322.08",
-    "highest_buy_order": "110.55",
-    "date_modified": 1760080203299
+    "sell_order_count": "9",
+    "buy_order_count": "1,112",
+    "lowest_sell_order": "229.88",
+    "highest_buy_order": "121.14",
+    "date_modified": 1760120029882
   },
   {
     "hash_name": "USP-S | Alpine Camo (Well-Worn)",
     "item_nameid": 176460762,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09ull4i0leX9NLPFqWhQ5cpOn_rRyoHwjF2hpl04MGH2dYeQewZqYFmC_Ae7kO3sgJO06JmaznUxvSV04ynel0axhkpNcKUx0jasJoRN",
-    "sell_order_count": "143",
-    "buy_order_count": "6,648",
-    "lowest_sell_order": "1.49",
+    "sell_order_count": "109",
+    "buy_order_count": "6,687",
+    "lowest_sell_order": "1.50",
     "highest_buy_order": "1.27",
-    "date_modified": 1760080211471
+    "date_modified": 1760120038090
   },
   {
     "hash_name": "USP-S | Alpine Camo (Minimal Wear)",
     "item_nameid": 176460538,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09ull4i0leX9NLPFqWhQ5cpOn_rRyoD8j1yg5UQ4aj31JdWQdAE5YQ3X_gTtwebthZC9vM6YyXBqsiYjsXrcmBe2iRBSLrs41qzNxL4",
-    "sell_order_count": "256",
-    "buy_order_count": "22,331",
-    "lowest_sell_order": "2.38",
-    "highest_buy_order": "2.21",
-    "date_modified": 1760080219618
+    "sell_order_count": "269",
+    "buy_order_count": "22,257",
+    "lowest_sell_order": "2.27",
+    "highest_buy_order": "2.16",
+    "date_modified": 1760120046463
   },
   {
     "hash_name": "USP-S | Alpine Camo (Field-Tested)",
     "item_nameid": 176460436,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09ull4i0leX9NLPFqWhQ5cpOn_rRyoHwjF2hpl04MGH2dYeQewZqYFmC_Ae7kO3sgJO06JmaznUxvSV04ynel0axhkpNcKUx0jasJoRN",
-    "sell_order_count": "1,063",
-    "buy_order_count": "51,091",
+    "sell_order_count": "960",
+    "buy_order_count": "50,927",
     "lowest_sell_order": "1.17",
-    "highest_buy_order": "1.09",
-    "date_modified": 1760080227771
+    "highest_buy_order": "1.10",
+    "date_modified": 1760120054776
   },
   {
     "hash_name": "USP-S | Alpine Camo (Factory New)",
     "item_nameid": 176460444,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09ull4i0leX9NLPFqWhQ5cpOn_rRyoD8j1yg5UQ4aj31JdWQdAE5YQ3X_gTtwebthZC9vM6YyXBqsiYjsXrcmBe2iRBSLrs41qzNxL4",
-    "sell_order_count": "344",
-    "buy_order_count": "18,041",
-    "lowest_sell_order": "8.94",
-    "highest_buy_order": "8.93",
-    "date_modified": 1760080235943
+    "sell_order_count": "335",
+    "buy_order_count": "18,091",
+    "lowest_sell_order": "8.87",
+    "highest_buy_order": "8.67",
+    "date_modified": 1760120062955
   },
   {
     "hash_name": "USP-S | Alpine Camo (Battle-Scarred)",
     "item_nameid": 176460646,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09ull4i0leX9NLPFqWhQ5cpOn_rRyoTwiUKt5UplN271LI7BdQA8ZQzSq1DqlbvuhsO5vcvKyyZnu3Nw7CvUmB2w1RBSLrs4hCc_zns",
-    "sell_order_count": "234",
-    "buy_order_count": "17,881",
-    "lowest_sell_order": "0.88",
-    "highest_buy_order": "0.77",
-    "date_modified": 1760080244108
+    "sell_order_count": "227",
+    "buy_order_count": "18,004",
+    "lowest_sell_order": "0.84",
+    "highest_buy_order": "0.80",
+    "date_modified": 1760120071122
   }
 ]
