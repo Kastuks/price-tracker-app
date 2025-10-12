@@ -25613,11 +25613,11 @@
     "hash_name": "AK-47 | Predator (Factory New)",
     "item_nameid": 1321507,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-HnvD8J_XTzzMA7JYk27-Tpdqt3lW1_xI-az3zItCRdFdoMF_R8gXok-rvgMO-ot2XnjwxNBNA",
-    "sell_order_count": "7",
-    "buy_order_count": "424",
+    "sell_order_count": "6",
+    "buy_order_count": "421",
     "lowest_sell_order": "95.72",
     "highest_buy_order": "65.98",
-    "date_modified": 1760241128489
+    "date_modified": 1760279379452
   },
   {
     "hash_name": "AK-47 | Predator (Battle-Scarred)",
@@ -25626,108 +25626,108 @@
     "sell_order_count": "65",
     "buy_order_count": "1,645",
     "lowest_sell_order": "16.50",
-    "highest_buy_order": "14.53",
-    "date_modified": 1760241136873
+    "highest_buy_order": "14.50",
+    "date_modified": 1760279387715
   },
   {
     "hash_name": "AK-47 | Point Disarray (Well-Worn)",
     "item_nameid": 84454681,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV08y5nY6fqPP9ILrDhGpI18h0juDU-MKt2wHs-kduYj3ycNWTJlI8ZgqE81S_kr-7gZHttZTJmCZk6CZwsH-OgVXp1vQ2jVgn",
     "sell_order_count": "39",
-    "buy_order_count": "2,371",
-    "lowest_sell_order": "14.53",
-    "highest_buy_order": "13.48",
-    "date_modified": 1760241145212
+    "buy_order_count": "2,372",
+    "lowest_sell_order": "14.76",
+    "highest_buy_order": "13.43",
+    "date_modified": 1760279395992
   },
   {
     "hash_name": "AK-47 | Point Disarray (Minimal Wear)",
     "item_nameid": 84454619,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV08y5nY6fqPP9ILrDhGpI18l4jeHVu4r2jgDmqEE9a22iJ4PBdVdqYlDTqQC4xu_sg8K1vc6fziRhsyEm7CzD30vgadQr6VA",
     "sell_order_count": "188",
-    "buy_order_count": "3,418",
-    "lowest_sell_order": "41.71",
-    "highest_buy_order": "39.51",
-    "date_modified": 1760241153610
+    "buy_order_count": "3,427",
+    "lowest_sell_order": "40.56",
+    "highest_buy_order": "40.36",
+    "date_modified": 1760279404338
   },
   {
     "hash_name": "AK-47 | Point Disarray (Field-Tested)",
     "item_nameid": 84444477,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV08y5nY6fqPP9ILrDhGpI18h0juDU-MKt2wHs-kduYj3ycNWTJlI8ZgqE81S_kr-7gZHttZTJmCZk6CZwsH-OgVXp1vQ2jVgn",
-    "sell_order_count": "206",
-    "buy_order_count": "9,459",
-    "lowest_sell_order": "13.91",
-    "highest_buy_order": "12.50",
-    "date_modified": 1760241161795
+    "sell_order_count": "216",
+    "buy_order_count": "9,468",
+    "lowest_sell_order": "12.76",
+    "highest_buy_order": "12.54",
+    "date_modified": 1760279412508
   },
   {
     "hash_name": "AK-47 | Point Disarray (Factory New)",
     "item_nameid": 84454650,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV08y5nY6fqPP9ILrDhGpI18l4jeHVu4r2jgDmqEE9a22iJ4PBdVdqYlDTqQC4xu_sg8K1vc6fziRhsyEm7CzD30vgadQr6VA",
-    "sell_order_count": "59",
-    "buy_order_count": "2,135",
-    "lowest_sell_order": "296.01",
-    "highest_buy_order": "280.10",
-    "date_modified": 1760241170002
+    "sell_order_count": "62",
+    "buy_order_count": "2,128",
+    "lowest_sell_order": "283.44",
+    "highest_buy_order": "280.52",
+    "date_modified": 1760279420658
   },
   {
     "hash_name": "AK-47 | Point Disarray (Battle-Scarred)",
     "item_nameid": 84444501,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV08y5nY6fqPP9ILrDhGpI1810i__Yu9r2ilC2rRY-ZDvyJoLGcA9vN1mF-QW4k-rqjce9ucvIyHFhuiUn5HnD30vgmnBjz34",
-    "sell_order_count": "56",
-    "buy_order_count": "4,732",
-    "lowest_sell_order": "12.97",
-    "highest_buy_order": "12.80",
-    "date_modified": 1760241178310
+    "sell_order_count": "54",
+    "buy_order_count": "4,749",
+    "lowest_sell_order": "13.38",
+    "highest_buy_order": "13.34",
+    "date_modified": 1760279428938
   },
   {
     "hash_name": "AK-47 | Phantom Disruptor (Well-Worn)",
     "item_nameid": 176118433,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJenAWu-OmnIGFg_j5DL_YhXlE-NF-mNbM8Ij8nVn6rRBlZW-nJtWVdVQ8MgnV_Fbsk-66hpa5vZWaynEyviMgsCnbmEayhwYMMLK9OqMrnQ",
     "sell_order_count": "62",
-    "buy_order_count": "8,719",
-    "lowest_sell_order": "5.06",
-    "highest_buy_order": "4.85",
-    "date_modified": 1760241186468
+    "buy_order_count": "8,776",
+    "lowest_sell_order": "5.75",
+    "highest_buy_order": "4.96",
+    "date_modified": 1760279437215
   },
   {
     "hash_name": "AK-47 | Phantom Disruptor (Minimal Wear)",
     "item_nameid": 176118310,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJenAWu-OmnIGFg_j5DL_YhXlE-NF-mNbN_Iv9nBrl_0Bpamr0JdSdcg9rNAmB-QS5krzu0MDpvJXJySA3vXEis3nYzEe1n1gSObO8jf4G",
-    "sell_order_count": "238",
+    "sell_order_count": "223",
     "buy_order_count": "15,423",
-    "lowest_sell_order": "8.48",
-    "highest_buy_order": "8.30",
-    "date_modified": 1760241194623
+    "lowest_sell_order": "8.94",
+    "highest_buy_order": "8.40",
+    "date_modified": 1760279445486
   },
   {
     "hash_name": "AK-47 | Phantom Disruptor (Field-Tested)",
     "item_nameid": 176118358,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJenAWu-OmnIGFg_j5DL_YhXlE-NF-mNbM8Ij8nVn6rRBlZW-nJtWVdVQ8MgnV_Fbsk-66hpa5vZWaynEyviMgsCnbmEayhwYMMLK9OqMrnQ",
-    "sell_order_count": "844",
-    "buy_order_count": "76,923",
+    "sell_order_count": "864",
+    "buy_order_count": "77,067",
     "lowest_sell_order": "3.97",
-    "highest_buy_order": "3.65",
-    "date_modified": 1760241202959
+    "highest_buy_order": "3.72",
+    "date_modified": 1760279453768
   },
   {
     "hash_name": "AK-47 | Phantom Disruptor (Factory New)",
     "item_nameid": 176118394,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJenAWu-OmnIGFg_j5DL_YhXlE-NF-mNbN_Iv9nBrl_0Bpamr0JdSdcg9rNAmB-QS5krzu0MDpvJXJySA3vXEis3nYzEe1n1gSObO8jf4G",
-    "sell_order_count": "111",
-    "buy_order_count": "12,618",
-    "lowest_sell_order": "69.61",
-    "highest_buy_order": "67.45",
-    "date_modified": 1760241211119
+    "sell_order_count": "124",
+    "buy_order_count": "12,598",
+    "lowest_sell_order": "67.97",
+    "highest_buy_order": "66.93",
+    "date_modified": 1760279461947
   },
   {
     "hash_name": "AK-47 | Phantom Disruptor (Battle-Scarred)",
     "item_nameid": 176118362,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJenAWu-OmnIGFg_j5DL_YhXlE-NF-mNbJ8I3jkRrk_0JvN2-lJoeRcQE8YA2F_li4yOvqhMe5uZTLyCA36HEi4SvUnxXjn1gSOd0WEV26",
-    "sell_order_count": "263",
-    "buy_order_count": "19,259",
-    "lowest_sell_order": "3.38",
-    "highest_buy_order": "3.35",
-    "date_modified": 1760241219285
+    "sell_order_count": "260",
+    "buy_order_count": "19,226",
+    "lowest_sell_order": "3.35",
+    "highest_buy_order": "3.28",
+    "date_modified": 1760279470080
   },
   {
     "hash_name": "AK-47 | Panthera onca (Well-Worn)",
@@ -25736,518 +25736,518 @@
     "sell_order_count": "3",
     "buy_order_count": "344",
     "lowest_sell_order": "200.00",
-    "highest_buy_order": "178.14",
-    "date_modified": 1760241227622
+    "highest_buy_order": "178.21",
+    "date_modified": 1760279478333
   },
   {
     "hash_name": "AK-47 | Panthera onca (Minimal Wear)",
     "item_nameid": 176209663,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJI7dujlZK0m_7zO6-fk21X7ZAp273DoNXz2wfiqBdtZmnzI47GJABsNFHV-1Lskurrh8O5voOJlyVD-NChGw",
-    "sell_order_count": "3",
-    "buy_order_count": "416",
+    "sell_order_count": "2",
+    "buy_order_count": "415",
     "lowest_sell_order": "432.41",
-    "highest_buy_order": "394.05",
-    "date_modified": 1760241235790
+    "highest_buy_order": "395.48",
+    "date_modified": 1760279486516
   },
   {
     "hash_name": "AK-47 | Panthera onca (Field-Tested)",
     "item_nameid": 176209428,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJI7dujlZK0mvLwOq7c2DoH65coibyWpY-t2gPi-0duazihdoedclQ5Zw3WqQDswLjo156_tZ7XiSw0bE5-twM",
-    "sell_order_count": "5",
+    "sell_order_count": "4",
     "buy_order_count": "489",
-    "lowest_sell_order": "234.71",
+    "lowest_sell_order": "259.45",
     "highest_buy_order": "215.00",
-    "date_modified": 1760241243935
+    "date_modified": 1760279494662
   },
   {
     "hash_name": "AK-47 | Panthera onca (Battle-Scarred)",
     "item_nameid": 176209660,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJI7dujlZK0n_L1JaKfkzJS7pR13LqS8YmjjgblqBJrZz2ldoHAdFU7NAuFqVe-x-vmjMS-7YOJlyUqEtaCsQ",
     "sell_order_count": "5",
-    "buy_order_count": "436",
+    "buy_order_count": "435",
     "lowest_sell_order": "261.55",
-    "highest_buy_order": "191.48",
-    "date_modified": 1760241252270
+    "highest_buy_order": "191.47",
+    "date_modified": 1760279502916
   },
   {
     "hash_name": "AK-47 | Orbit Mk01 (Well-Worn)",
     "item_nameid": 175896312,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJegJB49C5mpnbxsjmNr_um25V4dB8xLyZp9mn0VDj_kZrN2r6cNfAI1A9YF3W-1nqk-3v1pa16sjBnHRhuSc8pSGK-cgN6mU",
-    "sell_order_count": "12",
-    "buy_order_count": "2,025",
-    "lowest_sell_order": "31.94",
-    "highest_buy_order": "27.83",
-    "date_modified": 1760241260468
+    "sell_order_count": "10",
+    "buy_order_count": "2,026",
+    "lowest_sell_order": "32.13",
+    "highest_buy_order": "27.84",
+    "date_modified": 1760279511102
   },
   {
     "hash_name": "AK-47 | Orbit Mk01 (Minimal Wear)",
     "item_nameid": 175896327,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJegJB49C5mpnbxsjmNr_ummJW4NE_ibvF9ImjjgbsqhJsMW-mcI-dcQRtN1jVqAK-wLvpjMW77ZrJmCFk7D5iuyidmBrpNQ",
-    "sell_order_count": "38",
-    "buy_order_count": "5,655",
-    "lowest_sell_order": "49.30",
-    "highest_buy_order": "45.62",
-    "date_modified": 1760241268636
+    "sell_order_count": "40",
+    "buy_order_count": "5,635",
+    "lowest_sell_order": "47.05",
+    "highest_buy_order": "45.81",
+    "date_modified": 1760279519285
   },
   {
     "hash_name": "AK-47 | Orbit Mk01 (Field-Tested)",
     "item_nameid": 175896286,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJegJB49C5mpnbxsjmNr_um25V4dB8xLyZp9mn0VDj_kZrN2r6cNfAI1A9YF3W-1nqk-3v1pa16sjBnHRhuSc8pSGK-cgN6mU",
-    "sell_order_count": "54",
-    "buy_order_count": "6,839",
-    "lowest_sell_order": "38.24",
-    "highest_buy_order": "36.39",
-    "date_modified": 1760241276963
+    "sell_order_count": "59",
+    "buy_order_count": "6,843",
+    "lowest_sell_order": "36.69",
+    "highest_buy_order": "36.53",
+    "date_modified": 1760279527534
   },
   {
     "hash_name": "AK-47 | Orbit Mk01 (Factory New)",
     "item_nameid": 175896288,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJegJB49C5mpnbxsjmNr_ummJW4NE_ibvF9ImjjgbsqhJsMW-mcI-dcQRtN1jVqAK-wLvpjMW77ZrJmCFk7D5iuyidmBrpNQ",
-    "sell_order_count": "26",
-    "buy_order_count": "4,141",
+    "sell_order_count": "29",
+    "buy_order_count": "4,130",
     "lowest_sell_order": "142.69",
-    "highest_buy_order": "135.83",
-    "date_modified": 1760241285124
+    "highest_buy_order": "135.85",
+    "date_modified": 1760279535873
   },
   {
     "hash_name": "AK-47 | Orbit Mk01 (Battle-Scarred)",
     "item_nameid": 175896372,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJegJB49C5mpnbxsjmNr_unm5Q_tw_i-rE9o-m0VLs8xBqNTunIoOWcFVoMFjZ_le7l7y71JC8usufziBqsj5iuygLgPwqqQ",
-    "sell_order_count": "8",
-    "buy_order_count": "2,289",
-    "lowest_sell_order": "31.24",
+    "sell_order_count": "11",
+    "buy_order_count": "2,299",
+    "lowest_sell_order": "30.30",
     "highest_buy_order": "28.42",
-    "date_modified": 1760241293292
+    "date_modified": 1760279544017
   },
   {
     "hash_name": "AK-47 | Olive Polycam (Well-Worn)",
     "item_nameid": 176460703,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhox8zYfjFb09-3mY-0lvygZITck29Y_cg_j7DCpd-tjQHhqkA4Zmrwd4STcVI9MguE_Ae6yOvv05K5v8zJnSFiuT5iuygKcH9qDw",
-    "sell_order_count": "403",
-    "buy_order_count": "52,427",
-    "lowest_sell_order": "0.25",
-    "highest_buy_order": "0.23",
-    "date_modified": 1760241301605
+    "sell_order_count": "392",
+    "buy_order_count": "52,351",
+    "lowest_sell_order": "0.27",
+    "highest_buy_order": "0.26",
+    "date_modified": 1760279552296
   },
   {
     "hash_name": "AK-47 | Olive Polycam (Minimal Wear)",
     "item_nameid": 176460612,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhox8zYfjFb09-3mY-0lvygZITdn2xZ_Ish07qSrdz32Qzs_UVoamqgJI6TclRsNVrSqVO2kry-jJW8upnMmyE1pGB8shpgfL76",
-    "sell_order_count": "1,334",
-    "buy_order_count": "95,820",
-    "lowest_sell_order": "0.50",
-    "highest_buy_order": "0.43",
-    "date_modified": 1760241309762
+    "sell_order_count": "1,378",
+    "buy_order_count": "96,382",
+    "lowest_sell_order": "0.53",
+    "highest_buy_order": "0.50",
+    "date_modified": 1760279560455
   },
   {
     "hash_name": "AK-47 | Olive Polycam (Field-Tested)",
     "item_nameid": 176460552,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhox8zYfjFb09-3mY-0lvygZITck29Y_cg_j7DCpd-tjQHhqkA4Zmrwd4STcVI9MguE_Ae6yOvv05K5v8zJnSFiuT5iuygKcH9qDw",
-    "sell_order_count": "2,689",
-    "buy_order_count": "177,080",
-    "lowest_sell_order": "0.27",
+    "sell_order_count": "2,615",
+    "buy_order_count": "177,220",
+    "lowest_sell_order": "0.26",
     "highest_buy_order": "0.26",
-    "date_modified": 1760241317942
+    "date_modified": 1760279568830
   },
   {
     "hash_name": "AK-47 | Olive Polycam (Factory New)",
     "item_nameid": 176460502,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhox8zYfjFb09-3mY-0lvygZITdn2xZ_Ish07qSrdz32Qzs_UVoamqgJI6TclRsNVrSqVO2kry-jJW8upnMmyE1pGB8shpgfL76",
-    "sell_order_count": "564",
-    "buy_order_count": "67,629",
-    "lowest_sell_order": "2.31",
-    "highest_buy_order": "2.26",
-    "date_modified": 1760241326247
+    "sell_order_count": "586",
+    "buy_order_count": "67,641",
+    "lowest_sell_order": "2.25",
+    "highest_buy_order": "2.24",
+    "date_modified": 1760279577173
   },
   {
     "hash_name": "AK-47 | Olive Polycam (Battle-Scarred)",
     "item_nameid": 176460618,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhox8zYfjFb09-3mY-0lvygZITZk2pH8Ytz0ujDo4rx2AflqUNrajqmJISVJwY5ZlnYqAPtx7rogcLt6ZyYy3M2pGB8sr_OUF6u",
-    "sell_order_count": "1,301",
-    "buy_order_count": "58,515",
-    "lowest_sell_order": "0.23",
-    "highest_buy_order": "0.19",
-    "date_modified": 1760241334406
+    "sell_order_count": "1,302",
+    "buy_order_count": "58,407",
+    "lowest_sell_order": "0.21",
+    "highest_buy_order": "0.20",
+    "date_modified": 1760279585462
   },
   {
     "hash_name": "AK-47 | Nouveau Rouge (Well-Worn)",
     "item_nameid": 176504485,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyvb3cDYWu-O4m5WdkvbhDLbUkmJE5Ysj2b-VpYmmjQDh_URqZWD7IoGScFM3MAmF8wC4wL_mhse-vZyfzXZqpGB8sgE-cnyw",
-    "sell_order_count": "120",
-    "buy_order_count": "5,992",
-    "lowest_sell_order": "18.13",
-    "highest_buy_order": "17.56",
-    "date_modified": 1760241342571
+    "sell_order_count": "119",
+    "buy_order_count": "6,020",
+    "lowest_sell_order": "17.97",
+    "highest_buy_order": "16.88",
+    "date_modified": 1760279593641
   },
   {
     "hash_name": "AK-47 | Nouveau Rouge (Minimal Wear)",
     "item_nameid": 176504755,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyvb3cDYWu-O4m5WdkvbhDLfYkWNFppx3i7zD996g2ALi8xA9NmGhI4bDd1c3NAvX81W8xujs0cXtu52awSB9-n51EJhdhtk",
-    "sell_order_count": "69",
-    "buy_order_count": "7,149",
-    "lowest_sell_order": "128.00",
-    "highest_buy_order": "125.21",
-    "date_modified": 1760241350904
+    "sell_order_count": "62",
+    "buy_order_count": "7,161",
+    "lowest_sell_order": "130.46",
+    "highest_buy_order": "125.59",
+    "date_modified": 1760279601879
   },
   {
     "hash_name": "AK-47 | Nouveau Rouge (Field-Tested)",
     "item_nameid": 176504742,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyvb3cDYWu-O4m5WdkvbhDLbUkmJE5Ysj2b-VpYmmjQDh_URqZWD7IoGScFM3MAmF8wC4wL_mhse-vZyfzXZqpGB8sgE-cnyw",
-    "sell_order_count": "178",
-    "buy_order_count": "8,111",
-    "lowest_sell_order": "40.75",
-    "highest_buy_order": "40.44",
-    "date_modified": 1760241359053
+    "sell_order_count": "183",
+    "buy_order_count": "8,109",
+    "lowest_sell_order": "40.28",
+    "highest_buy_order": "39.71",
+    "date_modified": 1760279610026
   },
   {
     "hash_name": "AK-47 | Nouveau Rouge (Factory New)",
     "item_nameid": 176505017,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyvb3cDYWu-O4m5WdkvbhDLfYkWNFppx3i7zD996g2ALi8xA9NmGhI4bDd1c3NAvX81W8xujs0cXtu52awSB9-n51EJhdhtk",
-    "sell_order_count": "7",
-    "buy_order_count": "4,177",
-    "lowest_sell_order": "396.70",
+    "sell_order_count": "11",
+    "buy_order_count": "4,164",
+    "lowest_sell_order": "391.00",
     "highest_buy_order": "367.55",
-    "date_modified": 1760241367220
+    "date_modified": 1760279618170
   },
   {
     "hash_name": "AK-47 | Nouveau Rouge (Battle-Scarred)",
     "item_nameid": 176504531,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyvb3cDYWu-O4m5WdkvbhDLPUl31IpsQiibGVotv2jlLk_EU9ZzzycITGewQ3YQ7UrFW4xuvth8e5uszLnHt9-n51Jaf-OpY",
     "sell_order_count": "74",
-    "buy_order_count": "8,163",
-    "lowest_sell_order": "17.64",
-    "highest_buy_order": "17.08",
-    "date_modified": 1760241375567
+    "buy_order_count": "8,204",
+    "lowest_sell_order": "16.95",
+    "highest_buy_order": "16.61",
+    "date_modified": 1760279626323
   },
   {
     "hash_name": "AK-47 | Nightwish (Well-Worn)",
     "item_nameid": 176288618,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09K_k4ifgP7nO4Tck29Y_cg_j-2Vpd33iVXtr0JtZTqlJ4HEdQZoZgyE_li3kuzp1JC56JzIzyZivz5iuygpDNgoWw",
-    "sell_order_count": "657",
-    "buy_order_count": "7,013",
-    "lowest_sell_order": "6.05",
-    "highest_buy_order": "5.63",
-    "date_modified": 1760241383728
+    "sell_order_count": "683",
+    "buy_order_count": "7,042",
+    "lowest_sell_order": "6.23",
+    "highest_buy_order": "5.59",
+    "date_modified": 1760279634458
   },
   {
     "hash_name": "AK-47 | Nightwish (Minimal Wear)",
     "item_nameid": 176288589,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09K_k4ifgP7nO4Tdn2xZ_IskiO2Vp4ikjQft-EJpNT_7IoSUIw8_M17R-Fbsk-3rh8Pt78zOnCcxpGB8sinnd9A3",
-    "sell_order_count": "243",
-    "buy_order_count": "3,927",
-    "lowest_sell_order": "16.91",
-    "highest_buy_order": "15.89",
-    "date_modified": 1760241391885
+    "sell_order_count": "244",
+    "buy_order_count": "3,974",
+    "lowest_sell_order": "17.25",
+    "highest_buy_order": "16.40",
+    "date_modified": 1760279642627
   },
   {
     "hash_name": "AK-47 | Nightwish (Field-Tested)",
     "item_nameid": 176288571,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09K_k4ifgP7nO4Tck29Y_cg_j-2Vpd33iVXtr0JtZTqlJ4HEdQZoZgyE_li3kuzp1JC56JzIzyZivz5iuygpDNgoWw",
-    "sell_order_count": "913",
-    "buy_order_count": "7,951",
-    "lowest_sell_order": "8.22",
-    "highest_buy_order": "7.13",
-    "date_modified": 1760241400204
+    "sell_order_count": "904",
+    "buy_order_count": "7,980",
+    "lowest_sell_order": "7.51",
+    "highest_buy_order": "7.14",
+    "date_modified": 1760279650903
   },
   {
     "hash_name": "AK-47 | Nightwish (Factory New)",
     "item_nameid": 176288668,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09K_k4ifgP7nO4Tdn2xZ_IskiO2Vp4ikjQft-EJpNT_7IoSUIw8_M17R-Fbsk-3rh8Pt78zOnCcxpGB8sinnd9A3",
-    "sell_order_count": "32",
-    "buy_order_count": "2,557",
-    "lowest_sell_order": "134.98",
-    "highest_buy_order": "125.66",
-    "date_modified": 1760241408381
+    "sell_order_count": "29",
+    "buy_order_count": "2,551",
+    "lowest_sell_order": "138.00",
+    "highest_buy_order": "125.89",
+    "date_modified": 1760279659044
   },
   {
     "hash_name": "AK-47 | Nightwish (Battle-Scarred)",
     "item_nameid": 176288611,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09K_k4ifgP7nO4TZk2pH8Ysp2-rFo9n33wyx_BU4Z2umdoPEdA82ZA7Y_1K6kL3r1sC_75idm3RmpGB8smemByXA",
-    "sell_order_count": "679",
-    "buy_order_count": "6,304",
-    "lowest_sell_order": "4.28",
-    "highest_buy_order": "4.16",
-    "date_modified": 1760241416533
+    "sell_order_count": "693",
+    "buy_order_count": "6,283",
+    "lowest_sell_order": "4.11",
+    "highest_buy_order": "4.08",
+    "date_modified": 1760279667197
   },
   {
     "hash_name": "AK-47 | Neon Rider (Well-Worn)",
     "item_nameid": 176000271,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJM6dO4q5KCk_LmDLbUkmJE5Ytz0r6U8Y_ziVHn-UY5MT-icIWRJlJoYFnTr1W-lbjrh8Xtu8vAmHY3pGB8sth0zE2w",
-    "sell_order_count": "18",
-    "buy_order_count": "667",
-    "lowest_sell_order": "51.48",
-    "highest_buy_order": "42.64",
-    "date_modified": 1760241424866
+    "sell_order_count": "21",
+    "buy_order_count": "670",
+    "lowest_sell_order": "49.73",
+    "highest_buy_order": "42.71",
+    "date_modified": 1760279675477
   },
   {
     "hash_name": "AK-47 | Neon Rider (Minimal Wear)",
     "item_nameid": 175999901,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJM6dO4q5KCk_LmDLfYkWNFppYojOvFpdj20QKxqEY_a2r1cIadIwdoMl3Q8lG9l7y7g5C5u5nIznJ9-n51YP1b6DQ",
-    "sell_order_count": "65",
-    "buy_order_count": "1,863",
-    "lowest_sell_order": "92.01",
-    "highest_buy_order": "84.61",
-    "date_modified": 1760241433029
+    "sell_order_count": "60",
+    "buy_order_count": "1,880",
+    "lowest_sell_order": "94.26",
+    "highest_buy_order": "87.29",
+    "date_modified": 1760279683650
   },
   {
     "hash_name": "AK-47 | Neon Rider (Field-Tested)",
     "item_nameid": 176000020,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJM6dO4q5KCk_LmDLbUkmJE5Ytz0r6U8Y_ziVHn-UY5MT-icIWRJlJoYFnTr1W-lbjrh8Xtu8vAmHY3pGB8sth0zE2w",
-    "sell_order_count": "151",
-    "buy_order_count": "4,423",
+    "sell_order_count": "154",
+    "buy_order_count": "4,430",
     "lowest_sell_order": "42.00",
-    "highest_buy_order": "40.83",
-    "date_modified": 1760241441195
+    "highest_buy_order": "40.87",
+    "date_modified": 1760279691788
   },
   {
     "hash_name": "AK-47 | Neon Rider (Factory New)",
     "item_nameid": 176000064,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJM6dO4q5KCk_LmDLfYkWNFppYojOvFpdj20QKxqEY_a2r1cIadIwdoMl3Q8lG9l7y7g5C5u5nIznJ9-n51YP1b6DQ",
-    "sell_order_count": "13",
-    "buy_order_count": "994",
-    "lowest_sell_order": "400.00",
-    "highest_buy_order": "383.35",
-    "date_modified": 1760241449534
+    "sell_order_count": "11",
+    "buy_order_count": "992",
+    "lowest_sell_order": "401.39",
+    "highest_buy_order": "381.05",
+    "date_modified": 1760279700030
   },
   {
     "hash_name": "AK-47 | Neon Rider (Battle-Scarred)",
     "item_nameid": 176000017,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJM6dO4q5KCk_LmDLPUl31IpsN12bqUpdT32wThrks4azuhdoKUcgVqaV7S-FC7l-nohZ64vZidwHF9-n51X9k2xQQ",
-    "sell_order_count": "35",
-    "buy_order_count": "1,655",
-    "lowest_sell_order": "40.78",
-    "highest_buy_order": "40.02",
-    "date_modified": 1760241457864
+    "sell_order_count": "31",
+    "buy_order_count": "1,695",
+    "lowest_sell_order": "42.20",
+    "highest_buy_order": "40.49",
+    "date_modified": 1760279708284
   },
   {
     "hash_name": "AK-47 | Neon Revolution (Well-Worn)",
     "item_nameid": 165114532,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV0924lZKIn-7LPr7Vn35cppEh2b3D9N6silG1qEs5ZDz3INSVcw9vYAmC8wO3xee5hZK0up7AmCR9-n51OuB78N8",
-    "sell_order_count": "28",
+    "sell_order_count": "26",
     "buy_order_count": "1,347",
-    "lowest_sell_order": "29.85",
-    "highest_buy_order": "27.46",
-    "date_modified": 1760241466197
+    "lowest_sell_order": "29.24",
+    "highest_buy_order": "26.62",
+    "date_modified": 1760279716432
   },
   {
     "hash_name": "AK-47 | Neon Revolution (Minimal Wear)",
     "item_nameid": 165034155,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV0924lZKIn-7LP7LWnn8f7JMi27iUoNjz2gzl-UFqYjvwI4WUJw8-YA3ZqQS-wufp1pC66JSfz2wj5HeIT2OEaw",
-    "sell_order_count": "69",
-    "buy_order_count": "2,621",
-    "lowest_sell_order": "47.55",
-    "highest_buy_order": "45.13",
-    "date_modified": 1760241474503
+    "sell_order_count": "47",
+    "buy_order_count": "2,637",
+    "lowest_sell_order": "51.42",
+    "highest_buy_order": "48.53",
+    "date_modified": 1760279724674
   },
   {
     "hash_name": "AK-47 | Neon Revolution (Field-Tested)",
     "item_nameid": 165031020,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV0924lZKIn-7LPr7Vn35cppEh2b3D9N6silG1qEs5ZDz3INSVcw9vYAmC8wO3xee5hZK0up7AmCR9-n51OuB78N8",
-    "sell_order_count": "188",
-    "buy_order_count": "12,704",
-    "lowest_sell_order": "21.89",
-    "highest_buy_order": "21.86",
-    "date_modified": 1760241482808
+    "sell_order_count": "189",
+    "buy_order_count": "12,636",
+    "lowest_sell_order": "21.99",
+    "highest_buy_order": "21.88",
+    "date_modified": 1760279732811
   },
   {
     "hash_name": "AK-47 | Neon Revolution (Factory New)",
     "item_nameid": 165052979,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV0924lZKIn-7LP7LWnn8f7JMi27iUoNjz2gzl-UFqYjvwI4WUJw8-YA3ZqQS-wufp1pC66JSfz2wj5HeIT2OEaw",
-    "sell_order_count": "9",
-    "buy_order_count": "1,475",
-    "lowest_sell_order": "365.70",
-    "highest_buy_order": "332.51",
-    "date_modified": 1760241490972
+    "sell_order_count": "10",
+    "buy_order_count": "1,472",
+    "lowest_sell_order": "345.92",
+    "highest_buy_order": "332.06",
+    "date_modified": 1760279740965
   },
   {
     "hash_name": "AK-47 | Neon Revolution (Battle-Scarred)",
     "item_nameid": 165027696,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV0924lZKIn-7LO77QgHIfsZcpi-yQ842l2Faw8hA_NzqldYScdg5rZQzW_lbow-7ng8PvvJ_Bymwj5HfcSkl1sA",
-    "sell_order_count": "65",
-    "buy_order_count": "3,220",
-    "lowest_sell_order": "21.88",
-    "highest_buy_order": "21.35",
-    "date_modified": 1760241499329
+    "sell_order_count": "66",
+    "buy_order_count": "3,155",
+    "lowest_sell_order": "21.82",
+    "highest_buy_order": "21.78",
+    "date_modified": 1760279749262
   },
   {
     "hash_name": "AK-47 | Midnight Laminate (Well-Worn)",
     "item_nameid": 176505048,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhz3Pb3eC9L6Nmll4WFg8jkJqnBmm5u5cB1g_zMu4ig2QLs_kFpYDvxJtPAdgI5YlCE_Vi2k-zo0MK8v57KnyE16HEg4XfD30vgRapLER4",
     "sell_order_count": "62",
-    "buy_order_count": "13,185",
-    "lowest_sell_order": "9.55",
-    "highest_buy_order": "9.12",
-    "date_modified": 1760241507486
+    "buy_order_count": "13,191",
+    "lowest_sell_order": "9.60",
+    "highest_buy_order": "9.13",
+    "date_modified": 1760279757390
   },
   {
     "hash_name": "AK-47 | Midnight Laminate (Minimal Wear)",
     "item_nameid": 176504649,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhz3Pb3eC9L6Nmll4WFg8jkJqnBmm5u5Mx2gv2PoYiniwLh-Bc_ZWqgIo-UJwU-Zl_RqFbqle3sgsTvvpqazHFh6XYm52GdwUJ1LkkaVg",
-    "sell_order_count": "215",
-    "buy_order_count": "6,677",
-    "lowest_sell_order": "29.87",
-    "highest_buy_order": "27.72",
-    "date_modified": 1760241515644
+    "sell_order_count": "219",
+    "buy_order_count": "6,690",
+    "lowest_sell_order": "30.36",
+    "highest_buy_order": "27.83",
+    "date_modified": 1760279765568
   },
   {
     "hash_name": "AK-47 | Midnight Laminate (Field-Tested)",
     "item_nameid": 176504736,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhz3Pb3eC9L6Nmll4WFg8jkJqnBmm5u5cB1g_zMu4ig2QLs_kFpYDvxJtPAdgI5YlCE_Vi2k-zo0MK8v57KnyE16HEg4XfD30vgRapLER4",
-    "sell_order_count": "469",
-    "buy_order_count": "9,865",
-    "lowest_sell_order": "9.38",
-    "highest_buy_order": "8.67",
-    "date_modified": 1760241523946
+    "sell_order_count": "458",
+    "buy_order_count": "9,856",
+    "lowest_sell_order": "9.08",
+    "highest_buy_order": "8.56",
+    "date_modified": 1760279773849
   },
   {
     "hash_name": "AK-47 | Midnight Laminate (Factory New)",
     "item_nameid": 176504703,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhz3Pb3eC9L6Nmll4WFg8jkJqnBmm5u5Mx2gv2PoYiniwLh-Bc_ZWqgIo-UJwU-Zl_RqFbqle3sgsTvvpqazHFh6XYm52GdwUJ1LkkaVg",
-    "sell_order_count": "101",
-    "buy_order_count": "7,780",
-    "lowest_sell_order": "72.00",
+    "sell_order_count": "107",
+    "buy_order_count": "7,772",
+    "lowest_sell_order": "71.79",
     "highest_buy_order": "66.73",
-    "date_modified": 1760241532150
+    "date_modified": 1760279782001
   },
   {
     "hash_name": "AK-47 | Midnight Laminate (Battle-Scarred)",
     "item_nameid": 176504872,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhz3Pb3eC9L6Nmll4WFg8jkJqnBmm5u4MBwnPCP8Y720Q3s_Uc-YW3zLdLHdQ47MwnS-QftkurthJTo6sjPyCc1v3Ir5WGdwULe3gGR2w",
-    "sell_order_count": "225",
-    "buy_order_count": "13,520",
-    "lowest_sell_order": "5.11",
-    "highest_buy_order": "5.09",
-    "date_modified": 1760241540307
+    "sell_order_count": "221",
+    "buy_order_count": "13,505",
+    "lowest_sell_order": "4.94",
+    "highest_buy_order": "4.92",
+    "date_modified": 1760279790281
   },
   {
     "hash_name": "AK-47 | Legion of Anubis (Well-Worn)",
     "item_nameid": 176186024,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV0924gYKChMj5Nr_Yg2YfucQmju-R8I6s2QCx_URpZD31d4_GcQA8NA7R_AK7l7u6jMK57cmcwWwj5HfAcn3PLg",
-    "sell_order_count": "105",
-    "buy_order_count": "4,594",
-    "lowest_sell_order": "7.85",
-    "highest_buy_order": "6.91",
-    "date_modified": 1760241548609
+    "sell_order_count": "98",
+    "buy_order_count": "4,642",
+    "lowest_sell_order": "7.70",
+    "highest_buy_order": "6.94",
+    "date_modified": 1760279798565
   },
   {
     "hash_name": "AK-47 | Legion of Anubis (Minimal Wear)",
     "item_nameid": 176186016,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV0924gYKChMj4OrzZgiUHvJx03bvHptT03wGy_ENsMTqiIoWRd1c_Ml-E-ge4xeft1MDpvJiY1zI97ZQiBlNb",
-    "sell_order_count": "355",
-    "buy_order_count": "10,981",
-    "lowest_sell_order": "12.15",
-    "highest_buy_order": "11.21",
-    "date_modified": 1760241556931
+    "sell_order_count": "357",
+    "buy_order_count": "11,007",
+    "lowest_sell_order": "12.14",
+    "highest_buy_order": "11.27",
+    "date_modified": 1760279806712
   },
   {
     "hash_name": "AK-47 | Legion of Anubis (Field-Tested)",
     "item_nameid": 176185973,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV0924gYKChMj5Nr_Yg2YfucQmju-R8I6s2QCx_URpZD31d4_GcQA8NA7R_AK7l7u6jMK57cmcwWwj5HfAcn3PLg",
-    "sell_order_count": "788",
-    "buy_order_count": "17,250",
-    "lowest_sell_order": "6.17",
-    "highest_buy_order": "5.94",
-    "date_modified": 1760241565113
+    "sell_order_count": "806",
+    "buy_order_count": "17,264",
+    "lowest_sell_order": "6.18",
+    "highest_buy_order": "5.70",
+    "date_modified": 1760279814872
   },
   {
     "hash_name": "AK-47 | Legion of Anubis (Factory New)",
     "item_nameid": 176186023,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV0924gYKChMj4OrzZgiUHvJx03bvHptT03wGy_ENsMTqiIoWRd1c_Ml-E-ge4xeft1MDpvJiY1zI97ZQiBlNb",
-    "sell_order_count": "115",
-    "buy_order_count": "5,266",
-    "lowest_sell_order": "72.85",
-    "highest_buy_order": "72.63",
-    "date_modified": 1760241573422
+    "sell_order_count": "124",
+    "buy_order_count": "5,236",
+    "lowest_sell_order": "69.13",
+    "highest_buy_order": "69.04",
+    "date_modified": 1760279823130
   },
   {
     "hash_name": "AK-47 | Legion of Anubis (Battle-Scarred)",
     "item_nameid": 176185962,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV0924gYKChMj8NrrHjyUG6Zx12rvHoYmn2QLjrhVoMjv1LdeRegI6YFzTqVTrwLvp05a478vP1zI97Y2xHcLM",
-    "sell_order_count": "319",
-    "buy_order_count": "8,116",
-    "lowest_sell_order": "5.29",
-    "highest_buy_order": "5.21",
-    "date_modified": 1760241581586
+    "sell_order_count": "327",
+    "buy_order_count": "8,108",
+    "lowest_sell_order": "5.25",
+    "highest_buy_order": "5.23",
+    "date_modified": 1760279831295
   },
   {
     "hash_name": "AK-47 | Leet Museo (Well-Worn)",
     "item_nameid": 176263142,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV0920h5SZlvTgDLbUkmJE5Yt3juqZp4-njAa2-UU6aj31LNDEJgU7YA7T81i-l7y61MXotc_LwHZlpGB8svJHHkl5",
     "sell_order_count": "7",
-    "buy_order_count": "1,543",
-    "lowest_sell_order": "53.70",
-    "highest_buy_order": "47.58",
-    "date_modified": 1760241589754
+    "buy_order_count": "1,544",
+    "lowest_sell_order": "53.82",
+    "highest_buy_order": "47.72",
+    "date_modified": 1760279839519
   },
   {
     "hash_name": "AK-47 | Leet Museo (Minimal Wear)",
     "item_nameid": 176263035,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV0920h5SZlvTgDLfYkWNFppQl37DF94-i2wyx-EZpZWmhJ9XGI1Q8NA3U_VjqlO3njJK5v5nNznN9-n51lDBSHyQ",
-    "sell_order_count": "9",
-    "buy_order_count": "2,862",
+    "sell_order_count": "7",
+    "buy_order_count": "2,856",
     "lowest_sell_order": "400.50",
-    "highest_buy_order": "367.67",
-    "date_modified": 1760241598341
+    "highest_buy_order": "368.06",
+    "date_modified": 1760279847788
   },
   {
     "hash_name": "AK-47 | Leet Museo (Field-Tested)",
     "item_nameid": 176262628,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV0920h5SZlvTgDLbUkmJE5Yt3juqZp4-njAa2-UU6aj31LNDEJgU7YA7T81i-l7y61MXotc_LwHZlpGB8svJHHkl5",
-    "sell_order_count": "16",
-    "buy_order_count": "4,551",
-    "lowest_sell_order": "144.92",
-    "highest_buy_order": "127.97",
-    "date_modified": 1760241606496
+    "sell_order_count": "23",
+    "buy_order_count": "4,544",
+    "lowest_sell_order": "134.00",
+    "highest_buy_order": "128.17",
+    "date_modified": 1760279856051
   },
   {
     "hash_name": "AK-47 | Leet Museo (Factory New)",
     "item_nameid": 176262734,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV0920h5SZlvTgDLfYkWNFppQl37DF94-i2wyx-EZpZWmhJ9XGI1Q8NA3U_VjqlO3njJK5v5nNznN9-n51lDBSHyQ",
-    "sell_order_count": "6",
+    "sell_order_count": "4",
     "buy_order_count": "2,863",
-    "lowest_sell_order": "950.99",
-    "highest_buy_order": "843.84",
-    "date_modified": 1760241614668
+    "lowest_sell_order": "951.28",
+    "highest_buy_order": "844.01",
+    "date_modified": 1760279864298
   },
   {
     "hash_name": "AK-47 | Leet Museo (Battle-Scarred)",
     "item_nameid": 176263014,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV0920h5SZlvTgDLPUl31IppcljrCW89ij2AfsrUptajz7cIbBewBoY1_T-1C_xum61pHuv8zAyXR9-n51t4eGdE4",
-    "sell_order_count": "17",
-    "buy_order_count": "3,058",
-    "lowest_sell_order": "50.37",
-    "highest_buy_order": "48.19",
-    "date_modified": 1760241622977
+    "sell_order_count": "15",
+    "buy_order_count": "3,076",
+    "lowest_sell_order": "49.27",
+    "highest_buy_order": "45.88",
+    "date_modified": 1760279872603
   },
   {
     "hash_name": "AK-47 | Jungle Spray (Well-Worn)",
     "item_nameid": 1321706,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zbYS9D9eO8gY6Mm_LLPr7Vn35cpsQg0uyUo46j0QDk_kNkN2H3cILEewFoaFiE-FXow-zphJG_vMydmHV9-n51kN-iw7c",
-    "sell_order_count": "25",
+    "sell_order_count": "19",
     "buy_order_count": "1,410",
-    "lowest_sell_order": "6.78",
-    "highest_buy_order": "4.91",
-    "date_modified": 1760241631313
+    "lowest_sell_order": "7.33",
+    "highest_buy_order": "4.89",
+    "date_modified": 1760279880872
   },
   {
     "hash_name": "AK-47 | Jungle Spray (Minimal Wear)",
     "item_nameid": 1321695,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zbYS9D9eO8gY6Mm_LLP7LWnn8f68Z03r_C8d_32Vey-0tvMjynINXDJwc3Ml3S-VS6le-8gMe4up3JmGwj5HdHC5azHw",
     "sell_order_count": "37",
-    "buy_order_count": "1,446",
+    "buy_order_count": "1,445",
     "lowest_sell_order": "18.49",
-    "highest_buy_order": "16.58",
-    "date_modified": 1760241639487
+    "highest_buy_order": "17.03",
+    "date_modified": 1760279889054
   },
   {
     "hash_name": "AK-47 | Jungle Spray (Field-Tested)",
     "item_nameid": 1321376,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zbYS9D9eO8gY6Mm_LLPr7Vn35cpsQg0uyUo46j0QDk_kNkN2H3cILEewFoaFiE-FXow-zphJG_vMydmHV9-n51kN-iw7c",
-    "sell_order_count": "177",
-    "buy_order_count": "4,692",
-    "lowest_sell_order": "6.84",
+    "sell_order_count": "173",
+    "buy_order_count": "4,683",
+    "lowest_sell_order": "7.25",
     "highest_buy_order": "5.65",
-    "date_modified": 1760241647798
+    "date_modified": 1760279897246
   },
   {
     "hash_name": "AK-47 | Jungle Spray (Factory New)",
@@ -26257,37 +26257,37 @@
     "buy_order_count": "347",
     "lowest_sell_order": "194.62",
     "highest_buy_order": "118.70",
-    "date_modified": 1760241655960
+    "date_modified": 1760279905389
   },
   {
     "hash_name": "AK-47 | Jungle Spray (Battle-Scarred)",
     "item_nameid": 1321830,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zbYS9D9eO8gY6Mm_LLO77QgHIf7ZMmj7nApY-mjQG3qkdoZ2-iIYXEdgY3Y1GE_Vbqye25gZC_up3NmGwj5HdwdjHDPQ",
-    "sell_order_count": "26",
+    "sell_order_count": "28",
     "buy_order_count": "2,745",
-    "lowest_sell_order": "7.33",
-    "highest_buy_order": "5.56",
-    "date_modified": 1760241664144
+    "lowest_sell_order": "7.18",
+    "highest_buy_order": "4.51",
+    "date_modified": 1760279913534
   },
   {
     "hash_name": "AK-47 | Jet Set (Well-Worn)",
     "item_nameid": 14953239,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszfdDFO08iklZaOm_LwDLrawjxu5cB1g_zMu9im3QPgr0RvMGzwd4_GJgVoZ1nSr1W-kO-60Me1u8jPyXVmsiQr4XjD30vgq0tbBAI",
     "sell_order_count": "3",
-    "buy_order_count": "397",
+    "buy_order_count": "395",
     "lowest_sell_order": "460.00",
-    "highest_buy_order": "273.09",
-    "date_modified": 1760241672454
+    "highest_buy_order": "273.27",
+    "date_modified": 1760279921773
   },
   {
     "hash_name": "AK-47 | Jet Set (Minimal Wear)",
     "item_nameid": 14962996,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszfdDFO08iklZaOm_LwDLrawjxu5Mx2gv2P89-t3QawqUA9a27ycIaUd1c-ZQnZ_gXvlO3t0cW_tcjKyCZiviF34WGdwUImW-gq6g",
     "sell_order_count": "4",
-    "buy_order_count": "453",
+    "buy_order_count": "452",
     "lowest_sell_order": "699.38",
-    "highest_buy_order": "504.85",
-    "date_modified": 1760241680604
+    "highest_buy_order": "506.60",
+    "date_modified": 1760279930022
   },
   {
     "hash_name": "AK-47 | Jet Set (Field-Tested)",
@@ -26296,178 +26296,178 @@
     "sell_order_count": "1",
     "buy_order_count": "420",
     "lowest_sell_order": "447.61",
-    "highest_buy_order": "381.41",
-    "date_modified": 1760241688752
+    "highest_buy_order": "381.49",
+    "date_modified": 1760279938172
   },
   {
     "hash_name": "AK-47 | Jet Set (Factory New)",
     "item_nameid": 14969265,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszfdDFO08iklZaOm_LwDLrawjxu5Mx2gv2P89-t3QawqUA9a27ycIaUd1c-ZQnZ_gXvlO3t0cW_tcjKyCZiviF34WGdwUImW-gq6g",
     "sell_order_count": 0,
-    "buy_order_count": "542",
+    "buy_order_count": "543",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "513.20",
-    "date_modified": 1760241697187
+    "highest_buy_order": "513.22",
+    "date_modified": 1760279946563
   },
   {
     "hash_name": "AK-47 | Jet Set (Battle-Scarred)",
     "item_nameid": 14977512,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszfdDFO08iklZaOm_LwDLrawjxu4MBwnPCP84mm0QDm8hc4YmClLNfDJlU3ZFuDqVC-yenr157oupnBnXo3snVx42GdwUK8P7Qe9g",
     "sell_order_count": "7",
-    "buy_order_count": "382",
-    "lowest_sell_order": "328.58",
+    "buy_order_count": "383",
+    "lowest_sell_order": "328.56",
     "highest_buy_order": "297.30",
-    "date_modified": 1760241705466
+    "date_modified": 1760279954724
   },
   {
     "hash_name": "AK-47 | Jaguar (Well-Worn)",
     "item_nameid": 15494476,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszYcDNW5Nmkq4GAw6DLPr7Vn35cppdw2OvDp9qs3AO2_EM5Ymr6LdCdJgRsZ1DX-1S5wLu91MS_v8ibziZ9-n51K8u9PJM",
-    "sell_order_count": "21",
-    "buy_order_count": "1,069",
-    "lowest_sell_order": "67.86",
+    "sell_order_count": "20",
+    "buy_order_count": "1,067",
+    "lowest_sell_order": "68.24",
     "highest_buy_order": "63.83",
-    "date_modified": 1760241713621
+    "date_modified": 1760279963068
   },
   {
     "hash_name": "AK-47 | Jaguar (Minimal Wear)",
     "item_nameid": 15492599,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszYcDNW5Nmkq4GAw6DLP7LWnn8fup0gj7uX8dqhiwG3-hA_Y2H0II_AdFdqaQ7W81G3xua9hpO_7svLymwj5HdB90Yz-w",
-    "sell_order_count": "15",
-    "buy_order_count": "1,020",
+    "sell_order_count": "14",
+    "buy_order_count": "1,008",
     "lowest_sell_order": "247.89",
-    "highest_buy_order": "234.40",
-    "date_modified": 1760241721959
+    "highest_buy_order": "233.87",
+    "date_modified": 1760279971333
   },
   {
     "hash_name": "AK-47 | Jaguar (Field-Tested)",
     "item_nameid": 15494472,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszYcDNW5Nmkq4GAw6DLPr7Vn35cppdw2OvDp9qs3AO2_EM5Ymr6LdCdJgRsZ1DX-1S5wLu91MS_v8ibziZ9-n51K8u9PJM",
-    "sell_order_count": "62",
-    "buy_order_count": "1,796",
-    "lowest_sell_order": "78.70",
-    "highest_buy_order": "75.98",
-    "date_modified": 1760241730126
+    "sell_order_count": "60",
+    "buy_order_count": "1,797",
+    "lowest_sell_order": "79.74",
+    "highest_buy_order": "75.47",
+    "date_modified": 1760279979503
   },
   {
     "hash_name": "AK-47 | Jaguar (Factory New)",
     "item_nameid": 15496360,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszYcDNW5Nmkq4GAw6DLP7LWnn8fup0gj7uX8dqhiwG3-hA_Y2H0II_AdFdqaQ7W81G3xua9hpO_7svLymwj5HdB90Yz-w",
     "sell_order_count": "2",
-    "buy_order_count": "548",
+    "buy_order_count": "544",
     "lowest_sell_order": "780.00",
-    "highest_buy_order": "604.38",
-    "date_modified": 1760241738290
+    "highest_buy_order": "620.10",
+    "date_modified": 1760279987634
   },
   {
     "hash_name": "AK-47 | Jaguar (Battle-Scarred)",
     "item_nameid": 15494465,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszYcDNW5Nmkq4GAw6DLO77QgHIf6sFzj7-QrImtjVXk_hBkZG2hIIfAJFU3YgvR-1O6lbi8jZO97p_BzWwj5HeYlPy5Vg",
-    "sell_order_count": "19",
-    "buy_order_count": "1,103",
+    "sell_order_count": "20",
+    "buy_order_count": "1,107",
     "lowest_sell_order": "74.44",
-    "highest_buy_order": "64.22",
-    "date_modified": 1760241746592
+    "highest_buy_order": "64.42",
+    "date_modified": 1760279995963
   },
   {
     "hash_name": "AK-47 | Inheritance (Well-Worn)",
     "item_nameid": 176414167,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhh2MzYfi9B6dC3nY60mvLwOq7c2G4G68cm07rCodz3iQS18hZpZjr6LYLAJw47ZFiGr1a5x7vv15S46pzXiSw09t9Tqzg",
-    "sell_order_count": "46",
-    "buy_order_count": "3,327",
-    "lowest_sell_order": "64.17",
-    "highest_buy_order": "59.15",
-    "date_modified": 1760241754753
+    "sell_order_count": "50",
+    "buy_order_count": "3,330",
+    "lowest_sell_order": "59.57",
+    "highest_buy_order": "58.25",
+    "date_modified": 1760280004223
   },
   {
     "hash_name": "AK-47 | Inheritance (Minimal Wear)",
     "item_nameid": 176414143,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhh2MzYfi9B6dC3nY60m_7zO6-fzjwHvJEn2OqWotmi3gXt_BVtYD-ncIWcIA85YV-ErwK-ley-18e06oOJlyU3nvbOMA",
-    "sell_order_count": "117",
-    "buy_order_count": "4,781",
-    "lowest_sell_order": "119.20",
-    "highest_buy_order": "116.50",
-    "date_modified": 1760241762916
+    "sell_order_count": "107",
+    "buy_order_count": "4,772",
+    "lowest_sell_order": "121.07",
+    "highest_buy_order": "116.80",
+    "date_modified": 1760280012395
   },
   {
     "hash_name": "AK-47 | Inheritance (Field-Tested)",
     "item_nameid": 176414125,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhh2MzYfi9B6dC3nY60mvLwOq7c2G4G68cm07rCodz3iQS18hZpZjr6LYLAJw47ZFiGr1a5x7vv15S46pzXiSw09t9Tqzg",
-    "sell_order_count": "285",
-    "buy_order_count": "6,619",
-    "lowest_sell_order": "66.29",
+    "sell_order_count": "298",
+    "buy_order_count": "6,578",
+    "lowest_sell_order": "64.28",
     "highest_buy_order": "62.83",
-    "date_modified": 1760241771220
+    "date_modified": 1760280020872
   },
   {
     "hash_name": "AK-47 | Inheritance (Factory New)",
     "item_nameid": 176414198,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhh2MzYfi9B6dC3nY60m_7zO6-fzjwHvJEn2OqWotmi3gXt_BVtYD-ncIWcIA85YV-ErwK-ley-18e06oOJlyU3nvbOMA",
-    "sell_order_count": "20",
-    "buy_order_count": "3,536",
-    "lowest_sell_order": "285.38",
-    "highest_buy_order": "262.15",
-    "date_modified": 1760241779373
+    "sell_order_count": "25",
+    "buy_order_count": "3,520",
+    "lowest_sell_order": "276.00",
+    "highest_buy_order": "264.01",
+    "date_modified": 1760280029018
   },
   {
     "hash_name": "AK-47 | Inheritance (Battle-Scarred)",
     "item_nameid": 176414166,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhh2MzYfi9B6dC3nY60n_L1JaKfxjgJvMB0jOzHo9ik3wXgqUVtY2j2ddSUIAU3YF2GqwTrxerngMXq7oOJlyVghmYJtA",
-    "sell_order_count": "84",
-    "buy_order_count": "4,026",
-    "lowest_sell_order": "56.21",
-    "highest_buy_order": "54.87",
-    "date_modified": 1760241787681
+    "sell_order_count": "77",
+    "buy_order_count": "4,035",
+    "lowest_sell_order": "57.00",
+    "highest_buy_order": "55.21",
+    "date_modified": 1760280037172
   },
   {
     "hash_name": "AK-47 | Ice Coaled (Well-Worn)",
     "item_nameid": 176321313,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5k5SDnvnzIITck29Y_cg_j76WrNSi3gPmrhdtNW2iJY6QcQ84M1nR81G7we_o08DquJSYzndkvD5iuygYsMTI2g",
-    "sell_order_count": "186",
-    "buy_order_count": "11,807",
-    "lowest_sell_order": "4.49",
-    "highest_buy_order": "4.34",
-    "date_modified": 1760241795989
+    "sell_order_count": "200",
+    "buy_order_count": "11,802",
+    "lowest_sell_order": "4.61",
+    "highest_buy_order": "4.37",
+    "date_modified": 1760280045440
   },
   {
     "hash_name": "AK-47 | Ice Coaled (Minimal Wear)",
     "item_nameid": 176321169,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5k5SDnvnzIITdn2xZ_ItyiL3Dod6ii1DmqENrMD-nd9OXcAQ5YFHTrFm4w-u915K9v5WczHBrpGB8shQJGVI3",
-    "sell_order_count": "960",
-    "buy_order_count": "12,351",
-    "lowest_sell_order": "7.78",
-    "highest_buy_order": "7.38",
-    "date_modified": 1760241804147
+    "sell_order_count": "919",
+    "buy_order_count": "12,315",
+    "lowest_sell_order": "7.84",
+    "highest_buy_order": "7.53",
+    "date_modified": 1760280053659
   },
   {
     "hash_name": "AK-47 | Ice Coaled (Field-Tested)",
     "item_nameid": 176321254,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5k5SDnvnzIITck29Y_cg_j76WrNSi3gPmrhdtNW2iJY6QcQ84M1nR81G7we_o08DquJSYzndkvD5iuygYsMTI2g",
-    "sell_order_count": "2,735",
-    "buy_order_count": "28,300",
-    "lowest_sell_order": "4.33",
-    "highest_buy_order": "3.81",
-    "date_modified": 1760241812347
+    "sell_order_count": "2,744",
+    "buy_order_count": "28,326",
+    "lowest_sell_order": "4.25",
+    "highest_buy_order": "3.85",
+    "date_modified": 1760280061825
   },
   {
     "hash_name": "AK-47 | Ice Coaled (Factory New)",
     "item_nameid": 176321295,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5k5SDnvnzIITdn2xZ_ItyiL3Dod6ii1DmqENrMD-nd9OXcAQ5YFHTrFm4w-u915K9v5WczHBrpGB8shQJGVI3",
-    "sell_order_count": "192",
-    "buy_order_count": "12,956",
-    "lowest_sell_order": "24.45",
-    "highest_buy_order": "24.18",
-    "date_modified": 1760241820655
+    "sell_order_count": "204",
+    "buy_order_count": "12,921",
+    "lowest_sell_order": "23.35",
+    "highest_buy_order": "23.05",
+    "date_modified": 1760280070079
   },
   {
     "hash_name": "AK-47 | Ice Coaled (Battle-Scarred)",
     "item_nameid": 176321231,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5k5SDnvnzIITZk2pH8Ysn3ezH8N2m2VXt-Uc9MWrzdY6XI1U8MlnY-we3wLy818O4tMvBzCE2pGB8siNdYvkN",
-    "sell_order_count": "718",
-    "buy_order_count": "18,388",
-    "lowest_sell_order": "3.17",
-    "highest_buy_order": "3.12",
-    "date_modified": 1760241828828
+    "sell_order_count": "714",
+    "buy_order_count": "18,290",
+    "lowest_sell_order": "3.29",
+    "highest_buy_order": "3.15",
+    "date_modified": 1760280078397
   },
   {
     "hash_name": "AK-47 | Hydroponic (Battle-Scarred)",
@@ -26477,57 +26477,57 @@
     "buy_order_count": "496",
     "lowest_sell_order": "1150.00",
     "highest_buy_order": "794.07",
-    "date_modified": 1760241837148
+    "date_modified": 1760280086554
   },
   {
     "hash_name": "AK-47 | Head Shot (Well-Worn)",
     "item_nameid": 176358868,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJK6d2yq5ODmOPLO7TdmVRc7cF4n-SPpomt0Vbm-kFkZ2rzJYbDJ1I4aAuF8we4xL_n0JPqtc6fy3Ix7HZ3sWGdwUJh7QFlnQ",
-    "sell_order_count": "440",
-    "buy_order_count": "6,447",
-    "lowest_sell_order": "5.21",
-    "highest_buy_order": "4.73",
-    "date_modified": 1760241845452
+    "sell_order_count": "474",
+    "buy_order_count": "6,486",
+    "lowest_sell_order": "5.13",
+    "highest_buy_order": "4.67",
+    "date_modified": 1760280094752
   },
   {
     "hash_name": "AK-47 | Head Shot (Minimal Wear)",
     "item_nameid": 176358850,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJK6d2yq5ODmOPLO7TdmVRd4cJ5nqfAoYqi0QLg_hdkZmGgIYOWdVc6YQvV-lS7l7rs15G7vZXBn3dj7CQl-z-DyI9HVmE9",
-    "sell_order_count": "187",
-    "buy_order_count": "5,064",
-    "lowest_sell_order": "16.36",
-    "highest_buy_order": "14.79",
-    "date_modified": 1760241853618
+    "sell_order_count": "184",
+    "buy_order_count": "5,086",
+    "lowest_sell_order": "15.81",
+    "highest_buy_order": "15.30",
+    "date_modified": 1760280103030
   },
   {
     "hash_name": "AK-47 | Head Shot (Field-Tested)",
     "item_nameid": 176358849,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJK6d2yq5ODmOPLO7TdmVRc7cF4n-SPpomt0Vbm-kFkZ2rzJYbDJ1I4aAuF8we4xL_n0JPqtc6fy3Ix7HZ3sWGdwUJh7QFlnQ",
-    "sell_order_count": "563",
-    "buy_order_count": "8,353",
-    "lowest_sell_order": "7.21",
-    "highest_buy_order": "6.60",
-    "date_modified": 1760241861788
+    "sell_order_count": "579",
+    "buy_order_count": "8,355",
+    "lowest_sell_order": "6.64",
+    "highest_buy_order": "6.55",
+    "date_modified": 1760280111296
   },
   {
     "hash_name": "AK-47 | Head Shot (Factory New)",
     "item_nameid": 176358933,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJK6d2yq5ODmOPLO7TdmVRd4cJ5nqfAoYqi0QLg_hdkZmGgIYOWdVc6YQvV-lS7l7rs15G7vZXBn3dj7CQl-z-DyI9HVmE9",
-    "sell_order_count": "15",
-    "buy_order_count": "8,282",
+    "sell_order_count": "12",
+    "buy_order_count": "8,274",
     "lowest_sell_order": "115.00",
     "highest_buy_order": "112.48",
-    "date_modified": 1760241870093
+    "date_modified": 1760280119601
   },
   {
     "hash_name": "AK-47 | Head Shot (Battle-Scarred)",
     "item_nameid": 176358858,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJK6d2yq5ODmOPLO7TdmVRZ7cRnk6eXpIj00VKx_EtrMWulLY6dIAc9NA3T_lC9lLrtgZe-vJrPzCBh6Sck-z-DyEK4jxFH",
-    "sell_order_count": "383",
-    "buy_order_count": "5,173",
-    "lowest_sell_order": "4.40",
-    "highest_buy_order": "4.18",
-    "date_modified": 1760241878241
+    "sell_order_count": "392",
+    "buy_order_count": "5,107",
+    "lowest_sell_order": "4.21",
+    "highest_buy_order": "4.19",
+    "date_modified": 1760280127764
   },
   {
     "hash_name": "AK-47 | Green Laminate (Well-Worn)",
@@ -26537,157 +26537,157 @@
     "buy_order_count": "6,215",
     "lowest_sell_order": "43.05",
     "highest_buy_order": "28.48",
-    "date_modified": 1760241886552
+    "date_modified": 1760280135918
   },
   {
     "hash_name": "AK-47 | Green Laminate (Minimal Wear)",
     "item_nameid": 176263174,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4eZkvL6DLfYkWNFppUkjruV8d7x21ftrkdlYDrzI9SSc1c2YwvZq1O5yLzogpC0vcydyid9-n514sUGeb4",
-    "sell_order_count": "27",
-    "buy_order_count": "4,040",
-    "lowest_sell_order": "32.50",
-    "highest_buy_order": "28.59",
-    "date_modified": 1760241894869
+    "sell_order_count": "26",
+    "buy_order_count": "4,041",
+    "lowest_sell_order": "32.86",
+    "highest_buy_order": "28.61",
+    "date_modified": 1760280144178
   },
   {
     "hash_name": "AK-47 | Green Laminate (Field-Tested)",
     "item_nameid": 176262981,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4eZkvL6DLbUkmJE5Yty3rzD9t2njlXlqRVvNzz6LISXdQJsaV_Z-wO8yebsgZS-7Z3PnSNqpGB8skn3sXv9",
-    "sell_order_count": "16",
-    "buy_order_count": "4,485",
-    "lowest_sell_order": "27.19",
-    "highest_buy_order": "25.83",
-    "date_modified": 1760241903038
+    "sell_order_count": "15",
+    "buy_order_count": "4,479",
+    "lowest_sell_order": "27.25",
+    "highest_buy_order": "25.94",
+    "date_modified": 1760280152309
   },
   {
     "hash_name": "AK-47 | Green Laminate (Factory New)",
     "item_nameid": 176262729,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4eZkvL6DLfYkWNFppUkjruV8d7x21ftrkdlYDrzI9SSc1c2YwvZq1O5yLzogpC0vcydyid9-n514sUGeb4",
-    "sell_order_count": "28",
-    "buy_order_count": "4,168",
-    "lowest_sell_order": "105.41",
-    "highest_buy_order": "96.27",
-    "date_modified": 1760241911199
+    "sell_order_count": "25",
+    "buy_order_count": "4,163",
+    "lowest_sell_order": "110.00",
+    "highest_buy_order": "96.85",
+    "date_modified": 1760280160557
   },
   {
     "hash_name": "AK-47 | Fuel Injector (Well-Worn)",
     "item_nameid": 139673165,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08-jhIWZlP_1IbzUklRc7cF4n-SPrNuh3FXjrhBkNW70Io7AdgY_YlzXr1Xvw-a71Je07cifzXdluiYj5mGdwULUSdU1BA",
     "sell_order_count": "19",
-    "buy_order_count": "881",
-    "lowest_sell_order": "192.46",
-    "highest_buy_order": "169.87",
-    "date_modified": 1760241919509
+    "buy_order_count": "879",
+    "lowest_sell_order": "191.63",
+    "highest_buy_order": "169.83",
+    "date_modified": 1760280168824
   },
   {
     "hash_name": "AK-47 | Fuel Injector (Minimal Wear)",
     "item_nameid": 139673158,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08-jhIWZlP_1IbzUklRd4cJ5nqeX9t2ljQHk_UNkMjjzd4CSIAY8ZFDSqVLtk-u6gce6787KwHdn7CR3-z-DyOy2uCmM",
-    "sell_order_count": "15",
-    "buy_order_count": "1,149",
-    "lowest_sell_order": "346.66",
+    "sell_order_count": "14",
+    "buy_order_count": "1,148",
+    "lowest_sell_order": "346.19",
     "highest_buy_order": "328.45",
-    "date_modified": 1760241927691
+    "date_modified": 1760280176970
   },
   {
     "hash_name": "AK-47 | Fuel Injector (Field-Tested)",
     "item_nameid": 139654861,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08-jhIWZlP_1IbzUklRc7cF4n-SPrNuh3FXjrhBkNW70Io7AdgY_YlzXr1Xvw-a71Je07cifzXdluiYj5mGdwULUSdU1BA",
-    "sell_order_count": "33",
+    "sell_order_count": "32",
     "buy_order_count": "1,522",
     "lowest_sell_order": "237.83",
-    "highest_buy_order": "233.49",
-    "date_modified": 1760241935845
+    "highest_buy_order": "233.52",
+    "date_modified": 1760280185131
   },
   {
     "hash_name": "AK-47 | Fuel Injector (Factory New)",
     "item_nameid": 139691736,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08-jhIWZlP_1IbzUklRd4cJ5nqeX9t2ljQHk_UNkMjjzd4CSIAY8ZFDSqVLtk-u6gce6787KwHdn7CR3-z-DyOy2uCmM",
     "sell_order_count": "2",
-    "buy_order_count": "986",
+    "buy_order_count": "982",
     "lowest_sell_order": "1267.14",
-    "highest_buy_order": "953.14",
-    "date_modified": 1760241944148
+    "highest_buy_order": "953.30",
+    "date_modified": 1760280193386
   },
   {
     "hash_name": "AK-47 | Fuel Injector (Battle-Scarred)",
     "item_nameid": 139673183,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08-jhIWZlP_1IbzUklRZ7cRnk6fDoNqs3Afk_0U4MG-ldoeQewFoNwnRqFLrxri91pK5tZ7AwCE37iJx-z-DyGFMos-p",
-    "sell_order_count": "18",
+    "sell_order_count": "21",
     "buy_order_count": "1,113",
-    "lowest_sell_order": "160.00",
+    "lowest_sell_order": "152.91",
     "highest_buy_order": "145.53",
-    "date_modified": 1760241952461
+    "date_modified": 1760280201553
   },
   {
     "hash_name": "AK-47 | Frontside Misty (Well-Worn)",
     "item_nameid": 67061031,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV08u_mpSOhcjnI7TDglRc7cF4n-SPrduh2lft_kJoa2-iLIWdcgFrYl3SrAC4xb2-1JC575SdzSNl6XV25mGdwUIM9cnVOA",
-    "sell_order_count": "75",
-    "buy_order_count": "3,124",
-    "lowest_sell_order": "14.95",
+    "sell_order_count": "76",
+    "buy_order_count": "3,159",
+    "lowest_sell_order": "16.10",
     "highest_buy_order": "14.90",
-    "date_modified": 1760241960645
+    "date_modified": 1760280209735
   },
   {
     "hash_name": "AK-47 | Frontside Misty (Minimal Wear)",
     "item_nameid": 67064066,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV08u_mpSOhcjnI7TDglRd4cJ5nqeXoY2gjVCw_kU5ZTqiLYaRe1Q-NVzU-VG3yLq6hJHou8-fyHBn63J0-z-DyPkjgzjA",
-    "sell_order_count": "130",
-    "buy_order_count": "4,004",
-    "lowest_sell_order": "38.70",
-    "highest_buy_order": "36.76",
-    "date_modified": 1760241968949
+    "sell_order_count": "99",
+    "buy_order_count": "4,011",
+    "lowest_sell_order": "45.39",
+    "highest_buy_order": "39.38",
+    "date_modified": 1760280218093
   },
   {
     "hash_name": "AK-47 | Frontside Misty (Field-Tested)",
     "item_nameid": 67060996,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV08u_mpSOhcjnI7TDglRc7cF4n-SPrduh2lft_kJoa2-iLIWdcgFrYl3SrAC4xb2-1JC575SdzSNl6XV25mGdwUIM9cnVOA",
-    "sell_order_count": "311",
-    "buy_order_count": "15,028",
-    "lowest_sell_order": "17.30",
-    "highest_buy_order": "16.21",
-    "date_modified": 1760241977109
+    "sell_order_count": "305",
+    "buy_order_count": "15,030",
+    "lowest_sell_order": "17.20",
+    "highest_buy_order": "15.83",
+    "date_modified": 1760280226254
   },
   {
     "hash_name": "AK-47 | Frontside Misty (Factory New)",
     "item_nameid": 67073987,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV08u_mpSOhcjnI7TDglRd4cJ5nqeXoY2gjVCw_kU5ZTqiLYaRe1Q-NVzU-VG3yLq6hJHou8-fyHBn63J0-z-DyPkjgzjA",
-    "sell_order_count": "25",
-    "buy_order_count": "1,791",
-    "lowest_sell_order": "256.25",
+    "sell_order_count": "26",
+    "buy_order_count": "1,792",
+    "lowest_sell_order": "269.99",
     "highest_buy_order": "251.98",
-    "date_modified": 1760241985276
+    "date_modified": 1760280234554
   },
   {
     "hash_name": "AK-47 | Frontside Misty (Battle-Scarred)",
     "item_nameid": 67061050,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV08u_mpSOhcjnI7TDglRZ7cRnk6fE8I6t3gXi_hY_Nz_ydoWddAJtNAvR-1LrkOy-0JG-usvJwCBmvXEr-z-DyOfuEueN",
-    "sell_order_count": "104",
-    "buy_order_count": "5,300",
-    "lowest_sell_order": "13.77",
-    "highest_buy_order": "13.70",
-    "date_modified": 1760241993594
+    "sell_order_count": "110",
+    "buy_order_count": "5,302",
+    "lowest_sell_order": "13.68",
+    "highest_buy_order": "13.49",
+    "date_modified": 1760280242838
   },
   {
     "hash_name": "AK-47 | First Class (Well-Worn)",
     "item_nameid": 14953203,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszPYzhH4uO6kYGfn_LmDLrawjxu5cB1g_zMu4-g2AK3qBA4ZGDwJo7AdFc9aAzQ_lC2yObs0ZK47pTLzXMw7CMr5H_D30vgzOtqfAY",
     "sell_order_count": "5",
-    "buy_order_count": "490",
+    "buy_order_count": "491",
     "lowest_sell_order": "103.50",
-    "highest_buy_order": "76.91",
-    "date_modified": 1760242001797
+    "highest_buy_order": "77.18",
+    "date_modified": 1760280250964
   },
   {
     "hash_name": "AK-47 | First Class (Minimal Wear)",
     "item_nameid": 14953255,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszPYzhH4uO6kYGfn_LmDLrawjxu5Mx2gv2Pp46j2AK2-EppZDygddKSIwA3MlmG_gLowebshcO9tMjMy3Q263Nz7GGdwUIP0OjKkg",
-    "sell_order_count": "8",
+    "sell_order_count": "7",
     "buy_order_count": "406",
     "lowest_sell_order": "177.28",
     "highest_buy_order": "124.10",
-    "date_modified": 1760242009955
+    "date_modified": 1760280259098
   },
   {
     "hash_name": "AK-47 | First Class (Field-Tested)",
@@ -26697,525 +26697,525 @@
     "buy_order_count": "490",
     "lowest_sell_order": "115.00",
     "highest_buy_order": "85.79",
-    "date_modified": 1760242018258
+    "date_modified": 1760280267383
   },
   {
     "hash_name": "AK-47 | First Class (Factory New)",
     "item_nameid": 14962906,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszPYzhH4uO6kYGfn_LmDLrawjxu5Mx2gv2Pp46j2AK2-EppZDygddKSIwA3MlmG_gLowebshcO9tMjMy3Q263Nz7GGdwUIP0OjKkg",
-    "sell_order_count": "3",
-    "buy_order_count": "453",
-    "lowest_sell_order": "253.00",
-    "highest_buy_order": "199.65",
-    "date_modified": 1760242026434
+    "sell_order_count": "2",
+    "buy_order_count": "451",
+    "lowest_sell_order": "444.20",
+    "highest_buy_order": "197.51",
+    "date_modified": 1760280275652
   },
   {
     "hash_name": "AK-47 | First Class (Battle-Scarred)",
     "item_nameid": 14959383,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszPYzhH4uO6kYGfn_LmDLrawjxu4MBwnPCPo9ikjga1rkBpMW71IIScJFM3MF2FrgDrw-q61JW0uczKzidmuyYm7WGdwUIed8XKpw",
-    "sell_order_count": "13",
-    "buy_order_count": "425",
-    "lowest_sell_order": "84.95",
+    "sell_order_count": "12",
+    "buy_order_count": "423",
+    "lowest_sell_order": "85.61",
     "highest_buy_order": "78.95",
-    "date_modified": 1760242034587
+    "date_modified": 1760280283824
   },
   {
     "hash_name": "AK-47 | Fire Serpent (Field-Tested)",
     "item_nameid": 1546557,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszOeC9H_9mkhIWFg8j1OO-GqWlD6dN-teTE8YXghRq2-UpoazrzIYPDewdtY1jSrwDqkL2905C7uZvAyXA26Ckj4SvenkPin1gSOWBtMceQ",
     "sell_order_count": "10",
-    "buy_order_count": "1,646",
+    "buy_order_count": "1,644",
     "lowest_sell_order": "1124.24",
-    "highest_buy_order": "990.70",
-    "date_modified": 1760242042898
+    "highest_buy_order": "995.33",
+    "date_modified": 1760280292095
   },
   {
     "hash_name": "AK-47 | Fire Serpent (Battle-Scarred)",
     "item_nameid": 1548096,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszOeC9H_9mkhIWFg8j1OO-GqWlD6dN-teHE9Jrsxgfn_hBvMm6nIoaRIQA9aVqF8ljrxuu-jZfv6J_PnXQw73Ii4nqJzBGpwUYbKJ7O0IM",
     "sell_order_count": "4",
-    "buy_order_count": "844",
+    "buy_order_count": "843",
     "lowest_sell_order": "696.15",
     "highest_buy_order": "588.52",
-    "date_modified": 1760242051055
+    "date_modified": 1760280300222
   },
   {
     "hash_name": "AK-47 | Emerald Pinstripe (Well-Worn)",
     "item_nameid": 8990303,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszYeDNR-M6_hIW0lvygZITck29Y_cg_iOqT9tin2lC3_0NrYzqndYTAcQ5qNV_T_Qe5w--71JO67pudmHdmuz5iuyjC1NkzVg",
-    "sell_order_count": "696",
-    "buy_order_count": "13,767",
-    "lowest_sell_order": "2.48",
-    "highest_buy_order": "2.32",
-    "date_modified": 1760242059226
+    "sell_order_count": "691",
+    "buy_order_count": "13,799",
+    "lowest_sell_order": "2.34",
+    "highest_buy_order": "2.20",
+    "date_modified": 1760280308611
   },
   {
     "hash_name": "AK-47 | Emerald Pinstripe (Minimal Wear)",
     "item_nameid": 8989559,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszYeDNR-M6_hIW0lvygZITdn2xZ_Isn07mR8Ynxiw3gqUU9ajqgJoXGIwU8ZA7Z-FK2l725jMS1uMnKz3dipGB8squ02F3X",
-    "sell_order_count": "339",
-    "buy_order_count": "13,476",
-    "lowest_sell_order": "6.50",
-    "highest_buy_order": "6.34",
-    "date_modified": 1760242067535
+    "sell_order_count": "353",
+    "buy_order_count": "13,468",
+    "lowest_sell_order": "6.45",
+    "highest_buy_order": "6.35",
+    "date_modified": 1760280316770
   },
   {
     "hash_name": "AK-47 | Emerald Pinstripe (Field-Tested)",
     "item_nameid": 8989555,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszYeDNR-M6_hIW0lvygZITck29Y_cg_iOqT9tin2lC3_0NrYzqndYTAcQ5qNV_T_Qe5w--71JO67pudmHdmuz5iuyjC1NkzVg",
-    "sell_order_count": "1,148",
-    "buy_order_count": "26,296",
-    "lowest_sell_order": "2.81",
-    "highest_buy_order": "2.65",
-    "date_modified": 1760242075729
+    "sell_order_count": "1,141",
+    "buy_order_count": "26,323",
+    "lowest_sell_order": "2.77",
+    "highest_buy_order": "2.67",
+    "date_modified": 1760280324909
   },
   {
     "hash_name": "AK-47 | Emerald Pinstripe (Factory New)",
     "item_nameid": 8995371,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszYeDNR-M6_hIW0lvygZITdn2xZ_Isn07mR8Ynxiw3gqUU9ajqgJoXGIwU8ZA7Z-FK2l725jMS1uMnKz3dipGB8squ02F3X",
-    "sell_order_count": "102",
-    "buy_order_count": "4,023",
-    "lowest_sell_order": "29.18",
-    "highest_buy_order": "27.67",
-    "date_modified": 1760242083894
+    "sell_order_count": "98",
+    "buy_order_count": "3,999",
+    "lowest_sell_order": "25.87",
+    "highest_buy_order": "24.38",
+    "date_modified": 1760280333077
   },
   {
     "hash_name": "AK-47 | Emerald Pinstripe (Battle-Scarred)",
     "item_nameid": 8991001,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszYeDNR-M6_hIW0lvygZITZk2pH8Yso3rGSptmm0AHh_RJpY2CnJY7EcVdrZFmDqFi9wLjmjJC66pzOwScxpGB8sjVgzNmC",
-    "sell_order_count": "472",
-    "buy_order_count": "12,689",
-    "lowest_sell_order": "2.39",
+    "sell_order_count": "495",
+    "buy_order_count": "12,583",
+    "lowest_sell_order": "2.30",
     "highest_buy_order": "2.26",
-    "date_modified": 1760242092201
+    "date_modified": 1760280341321
   },
   {
     "hash_name": "AK-47 | Elite Build (Well-Worn)",
     "item_nameid": 40092002,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09G3h5SOhe7LPr7Vn35cppwpju2Z9N6l3AKx_0E6Mjv3IYOSIQc5MlGE-VW_kLu5jMLovs7LyyN9-n51sJxz0nI",
-    "sell_order_count": "3,535",
-    "buy_order_count": "97,095",
-    "lowest_sell_order": "1.30",
-    "highest_buy_order": "1.15",
-    "date_modified": 1760242100513
+    "sell_order_count": "3,585",
+    "buy_order_count": "96,987",
+    "lowest_sell_order": "1.18",
+    "highest_buy_order": "1.11",
+    "date_modified": 1760280349532
   },
   {
     "hash_name": "AK-47 | Elite Build (Minimal Wear)",
     "item_nameid": 40092004,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09G3h5SOhe7LP7LWnn8f7ZJz376Uo9ii2gC18xI9MWn2cYTDIVM5ZArS_AO8le271JO-7pTImGwj5HfnCE0Peg",
-    "sell_order_count": "1,566",
-    "buy_order_count": "106,678",
-    "lowest_sell_order": "2.59",
-    "highest_buy_order": "2.56",
-    "date_modified": 1760242108665
+    "sell_order_count": "1,568",
+    "buy_order_count": "106,821",
+    "lowest_sell_order": "2.87",
+    "highest_buy_order": "2.73",
+    "date_modified": 1760280357711
   },
   {
     "hash_name": "AK-47 | Elite Build (Field-Tested)",
     "item_nameid": 40092015,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09G3h5SOhe7LPr7Vn35cppwpju2Z9N6l3AKx_0E6Mjv3IYOSIQc5MlGE-VW_kLu5jMLovs7LyyN9-n51sJxz0nI",
-    "sell_order_count": "3,526",
-    "buy_order_count": "133,511",
-    "lowest_sell_order": "1.56",
+    "sell_order_count": "3,536",
+    "buy_order_count": "133,788",
+    "lowest_sell_order": "1.75",
     "highest_buy_order": "1.51",
-    "date_modified": 1760242116963
+    "date_modified": 1760280365984
   },
   {
     "hash_name": "AK-47 | Elite Build (Factory New)",
     "item_nameid": 40092070,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09G3h5SOhe7LP7LWnn8f7ZJz376Uo9ii2gC18xI9MWn2cYTDIVM5ZArS_AO8le271JO-7pTImGwj5HfnCE0Peg",
-    "sell_order_count": "240",
-    "buy_order_count": "15,753",
-    "lowest_sell_order": "18.42",
-    "highest_buy_order": "18.08",
-    "date_modified": 1760242125205
+    "sell_order_count": "256",
+    "buy_order_count": "15,669",
+    "lowest_sell_order": "18.05",
+    "highest_buy_order": "17.98",
+    "date_modified": 1760280374256
   },
   {
     "hash_name": "AK-47 | Elite Build (Battle-Scarred)",
     "item_nameid": 40092009,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09G3h5SOhe7LO77QgHIfupQji7rCptmh3QHl_0plNWvwctXBc1c3YFmE8gPqkri8gcW5vsiYm2wj5HemP_sktw",
-    "sell_order_count": "1,961",
-    "buy_order_count": "53,849",
-    "lowest_sell_order": "1.11",
-    "highest_buy_order": "1.05",
-    "date_modified": 1760242133379
+    "sell_order_count": "1,958",
+    "buy_order_count": "53,921",
+    "lowest_sell_order": "1.08",
+    "highest_buy_order": "1.07",
+    "date_modified": 1760280382418
   },
   {
     "hash_name": "AK-47 | Crossfade (Well-Worn)",
     "item_nameid": 176460638,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszPYzxS5NW1q4-dkuX4MqLul2AFv_p8j-3I4IG70VWyrhU6NWv1ItOVJlQ-NF3W-FC9yL261JC678zOySNnuiIrsy7Ulgv330_WTvN-ng",
-    "sell_order_count": "329",
-    "buy_order_count": "11,853",
-    "lowest_sell_order": "2.04",
+    "sell_order_count": "373",
+    "buy_order_count": "11,825",
+    "lowest_sell_order": "2.03",
     "highest_buy_order": "1.93",
-    "date_modified": 1760242141699
+    "date_modified": 1760280390612
   },
   {
     "hash_name": "AK-47 | Crossfade (Minimal Wear)",
     "item_nameid": 176460767,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszPYzxS5NW1q4-dkuX4MqLul2AFv_p9g-7J4cKk3gOy-kI4YGD0LdXHdw47Y1_Vrle6wrzuhsS96J_MyyAxvHEmtHnYgVXp1hyNAMKW",
-    "sell_order_count": "208",
-    "buy_order_count": "28,364",
-    "lowest_sell_order": "5.60",
+    "sell_order_count": "206",
+    "buy_order_count": "28,307",
+    "lowest_sell_order": "5.75",
     "highest_buy_order": "5.49",
-    "date_modified": 1760242150004
+    "date_modified": 1760280398780
   },
   {
     "hash_name": "AK-47 | Crossfade (Field-Tested)",
     "item_nameid": 176460695,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszPYzxS5NW1q4-dkuX4MqLul2AFv_p8j-3I4IG70VWyrhU6NWv1ItOVJlQ-NF3W-FC9yL261JC678zOySNnuiIrsy7Ulgv330_WTvN-ng",
-    "sell_order_count": "300",
-    "buy_order_count": "44,181",
-    "lowest_sell_order": "2.67",
-    "highest_buy_order": "2.61",
-    "date_modified": 1760242158171
+    "sell_order_count": "274",
+    "buy_order_count": "44,086",
+    "lowest_sell_order": "2.99",
+    "highest_buy_order": "2.76",
+    "date_modified": 1760280406952
   },
   {
     "hash_name": "AK-47 | Crossfade (Factory New)",
     "item_nameid": 176460492,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszPYzxS5NW1q4-dkuX4MqLul2AFv_p9g-7J4cKk3gOy-kI4YGD0LdXHdw47Y1_Vrle6wrzuhsS96J_MyyAxvHEmtHnYgVXp1hyNAMKW",
-    "sell_order_count": "373",
-    "buy_order_count": "23,427",
-    "lowest_sell_order": "15.20",
-    "highest_buy_order": "14.87",
-    "date_modified": 1760242166541
+    "sell_order_count": "383",
+    "buy_order_count": "23,331",
+    "lowest_sell_order": "15.24",
+    "highest_buy_order": "14.69",
+    "date_modified": 1760280415218
   },
   {
     "hash_name": "AK-47 | Crossfade (Battle-Scarred)",
     "item_nameid": 176461274,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszPYzxS5NW1q4-dkuX4MqLul2AFv_p5j-jX7MKn3gHir0drMGr7cteUJw85ZFHW-wK8xe7ohpG06MvOzSRmvSF34H2IgVXp1igi_AVX",
-    "sell_order_count": "25",
-    "buy_order_count": "5,246",
-    "lowest_sell_order": "2.44",
-    "highest_buy_order": "2.16",
-    "date_modified": 1760242174694
+    "sell_order_count": "61",
+    "buy_order_count": "5,273",
+    "lowest_sell_order": "2.16",
+    "highest_buy_order": "2.07",
+    "date_modified": 1760280423447
   },
   {
     "hash_name": "AK-47 | Case Hardened (Well-Worn)",
     "item_nameid": 1321515,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszHeDFH6OO7kYSCgvq6YOKFkD1XvZRz2rmYporw3Vfk_RZkMGD6doeUcA86Yg6C-APtyO_v0Ij84sqHVshLpA",
-    "sell_order_count": "18",
+    "sell_order_count": "19",
     "buy_order_count": "1,254",
-    "lowest_sell_order": "223.97",
+    "lowest_sell_order": "223.83",
     "highest_buy_order": "196.90",
-    "date_modified": 1760242182854
+    "date_modified": 1760280431610
   },
   {
     "hash_name": "AK-47 | Case Hardened (Minimal Wear)",
     "item_nameid": 1321441,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszHeDFH6OO6nYeDg7mhYe6Bw24H7cQm3rnFrdj23gHk-BJrMDr3dtDDclQ2YVnQ-AW4lem8m9bi65T-nsCo",
-    "sell_order_count": "73",
-    "buy_order_count": "2,135",
-    "lowest_sell_order": "307.00",
-    "highest_buy_order": "281.47",
-    "date_modified": 1760242191185
+    "sell_order_count": "65",
+    "buy_order_count": "2,140",
+    "lowest_sell_order": "328.17",
+    "highest_buy_order": "283.01",
+    "date_modified": 1760280439921
   },
   {
     "hash_name": "AK-47 | Case Hardened (Field-Tested)",
     "item_nameid": 1321632,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszHeDFH6OO7kYSCgvq6YOKFkD1XvZRz2rmYporw3Vfk_RZkMGD6doeUcA86Yg6C-APtyO_v0Ij84sqHVshLpA",
-    "sell_order_count": "61",
-    "buy_order_count": "2,145",
+    "sell_order_count": "60",
+    "buy_order_count": "2,143",
     "lowest_sell_order": "243.65",
     "highest_buy_order": "235.29",
-    "date_modified": 1760242199499
+    "date_modified": 1760280448076
   },
   {
     "hash_name": "AK-47 | Case Hardened (Factory New)",
     "item_nameid": 1321712,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszHeDFH6OO6nYeDg7mhYe6Bw24H7cQm3rnFrdj23gHk-BJrMDr3dtDDclQ2YVnQ-AW4lem8m9bi65T-nsCo",
-    "sell_order_count": "7",
-    "buy_order_count": "2,033",
-    "lowest_sell_order": "812.89",
-    "highest_buy_order": "692.69",
-    "date_modified": 1760242207655
+    "sell_order_count": "8",
+    "buy_order_count": "2,021",
+    "lowest_sell_order": "890.99",
+    "highest_buy_order": "694.55",
+    "date_modified": 1760280456221
   },
   {
     "hash_name": "AK-47 | Case Hardened (Battle-Scarred)",
     "item_nameid": 1321618,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszHeDFH6OO-kYGdjrmiNejVlTtU7ZJz07CZ8Nrw2Qfi_hI5MT_xJdXAIAA2ZFjVrla2kLrum9bi6-_Li6O5",
     "sell_order_count": "28",
-    "buy_order_count": "1,325",
-    "lowest_sell_order": "198.89",
-    "highest_buy_order": "192.41",
-    "date_modified": 1760242215964
+    "buy_order_count": "1,324",
+    "lowest_sell_order": "199.08",
+    "highest_buy_order": "188.89",
+    "date_modified": 1760280464487
   },
   {
     "hash_name": "AK-47 | Cartel (Well-Worn)",
     "item_nameid": 29209309,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszJemkV09-3hpSOm8j5Nr_Yg2Yf65Ap2O2Y89um2Vfi-0I9ZGr6LYaVc1BoN17Z-1W_x-vsgpHpvpSammwj5Hf6bGh9NQ",
-    "sell_order_count": "18",
+    "sell_order_count": "17",
     "buy_order_count": "3,311",
     "lowest_sell_order": "21.58",
-    "highest_buy_order": "18.97",
-    "date_modified": 1760242224137
+    "highest_buy_order": "18.77",
+    "date_modified": 1760280472758
   },
   {
     "hash_name": "AK-47 | Cartel (Minimal Wear)",
     "item_nameid": 29207451,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszJemkV09-3hpSOm8j4OrzZgiVT6ZIn3e-RrdSkjAzh80s_YWvzIYbHdwJrZQmG_wO7wenug5Ho78ib1zI97dq5Qskr",
-    "sell_order_count": "174",
-    "buy_order_count": "8,747",
-    "lowest_sell_order": "24.22",
-    "highest_buy_order": "24.06",
-    "date_modified": 1760242232286
+    "sell_order_count": "161",
+    "buy_order_count": "8,801",
+    "lowest_sell_order": "26.80",
+    "highest_buy_order": "25.55",
+    "date_modified": 1760280480906
   },
   {
     "hash_name": "AK-47 | Cartel (Field-Tested)",
     "item_nameid": 29205276,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszJemkV09-3hpSOm8j5Nr_Yg2Yf65Ap2O2Y89um2Vfi-0I9ZGr6LYaVc1BoN17Z-1W_x-vsgpHpvpSammwj5Hf6bGh9NQ",
-    "sell_order_count": "253",
-    "buy_order_count": "13,063",
-    "lowest_sell_order": "16.51",
-    "highest_buy_order": "15.79",
-    "date_modified": 1760242240629
+    "sell_order_count": "251",
+    "buy_order_count": "13,024",
+    "lowest_sell_order": "15.71",
+    "highest_buy_order": "15.70",
+    "date_modified": 1760280489169
   },
   {
     "hash_name": "AK-47 | Cartel (Factory New)",
     "item_nameid": 29209315,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszJemkV09-3hpSOm8j4OrzZgiVT6ZIn3e-RrdSkjAzh80s_YWvzIYbHdwJrZQmG_wO7wenug5Ho78ib1zI97dq5Qskr",
-    "sell_order_count": "43",
-    "buy_order_count": "3,535",
-    "lowest_sell_order": "144.81",
-    "highest_buy_order": "136.98",
-    "date_modified": 1760242248947
+    "sell_order_count": "46",
+    "buy_order_count": "3,527",
+    "lowest_sell_order": "144.00",
+    "highest_buy_order": "138.49",
+    "date_modified": 1760280497414
   },
   {
     "hash_name": "AK-47 | Cartel (Battle-Scarred)",
     "item_nameid": 29205255,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszJemkV09-3hpSOm8j8NrrHjyUH68cn0r7DpYqsilK1rxBlNW6icNLHIQBtYV2GqVa8xb3r1Me5tZzI1zI97T37_gaK",
     "sell_order_count": "59",
-    "buy_order_count": "5,699",
-    "lowest_sell_order": "15.81",
-    "highest_buy_order": "15.29",
-    "date_modified": 1760242257111
+    "buy_order_count": "5,696",
+    "lowest_sell_order": "16.04",
+    "highest_buy_order": "14.69",
+    "date_modified": 1760280505626
   },
   {
     "hash_name": "AK-47 | Blue Laminate (Well-Worn)",
     "item_nameid": 3450069,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4KHgvLLPr7Vn35cpsQp2OiZ8Inx2FCy8kBsZjr0JI-dIQBsZlzWrAK6yLu-0JLquc7Mm3t9-n51h7U8MfQ",
-    "sell_order_count": "30",
-    "buy_order_count": "1,731",
+    "sell_order_count": "29",
+    "buy_order_count": "1,732",
     "lowest_sell_order": "20.47",
-    "highest_buy_order": "18.67",
-    "date_modified": 1760242265415
+    "highest_buy_order": "18.69",
+    "date_modified": 1760280513887
   },
   {
     "hash_name": "AK-47 | Blue Laminate (Minimal Wear)",
     "item_nameid": 3441225,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4KHgvLLP7LWnn8fupwi0r6SrYililDk80Y4N27xcNCVcgA4aF3Rrli4kO-6g8C9uZzMymwj5HfIy_JcFQ",
-    "sell_order_count": "790",
-    "buy_order_count": "8,867",
+    "sell_order_count": "795",
+    "buy_order_count": "8,871",
     "lowest_sell_order": "17.08",
     "highest_buy_order": "16.51",
-    "date_modified": 1760242273574
+    "date_modified": 1760280522149
   },
   {
     "hash_name": "AK-47 | Blue Laminate (Field-Tested)",
     "item_nameid": 3440896,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4KHgvLLPr7Vn35cpsQp2OiZ8Inx2FCy8kBsZjr0JI-dIQBsZlzWrAK6yLu-0JLquc7Mm3t9-n51h7U8MfQ",
-    "sell_order_count": "582",
-    "buy_order_count": "11,267",
-    "lowest_sell_order": "14.90",
-    "highest_buy_order": "14.73",
-    "date_modified": 1760242281753
+    "sell_order_count": "586",
+    "buy_order_count": "11,234",
+    "lowest_sell_order": "14.79",
+    "highest_buy_order": "14.69",
+    "date_modified": 1760280530300
   },
   {
     "hash_name": "AK-47 | Blue Laminate (Factory New)",
     "item_nameid": 3440920,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4KHgvLLP7LWnn8fupwi0r6SrYililDk80Y4N27xcNCVcgA4aF3Rrli4kO-6g8C9uZzMymwj5HfIy_JcFQ",
-    "sell_order_count": "438",
-    "buy_order_count": "7,721",
-    "lowest_sell_order": "45.61",
-    "highest_buy_order": "45.02",
-    "date_modified": 1760242290069
+    "sell_order_count": "442",
+    "buy_order_count": "7,594",
+    "lowest_sell_order": "44.90",
+    "highest_buy_order": "44.19",
+    "date_modified": 1760280538570
   },
   {
     "hash_name": "AK-47 | Bloodsport (Well-Worn)",
     "item_nameid": 175880521,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV0966m4-PhOf7Ia_um25V4dB8xO2Vp4ij2Q2yqkFrZG_1doeQcAdqaFvU_Va2xee71sS_78_AwSAyvXE8pSGK0jPkXRs",
-    "sell_order_count": "15",
+    "sell_order_count": "16",
     "buy_order_count": "1,344",
     "lowest_sell_order": "174.75",
-    "highest_buy_order": "162.03",
-    "date_modified": 1760242298223
+    "highest_buy_order": "162.08",
+    "date_modified": 1760280546722
   },
   {
     "hash_name": "AK-47 | Bloodsport (Minimal Wear)",
     "item_nameid": 175880372,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV0966m4-PhOf7Ia_ummJW4NE_2LyV89Wt0QewqBE6Z2-lcY6UJlRrMF7SqQTvyO7shsK5v5idn3Rn6D5iuyjFoprsug",
     "sell_order_count": "55",
-    "buy_order_count": "2,957",
-    "lowest_sell_order": "210.33",
-    "highest_buy_order": "198.56",
-    "date_modified": 1760242306385
+    "buy_order_count": "2,958",
+    "lowest_sell_order": "209.84",
+    "highest_buy_order": "198.57",
+    "date_modified": 1760280554878
   },
   {
     "hash_name": "AK-47 | Bloodsport (Field-Tested)",
     "item_nameid": 175880324,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV0966m4-PhOf7Ia_um25V4dB8xO2Vp4ij2Q2yqkFrZG_1doeQcAdqaFvU_Va2xee71sS_78_AwSAyvXE8pSGK0jPkXRs",
-    "sell_order_count": "48",
-    "buy_order_count": "3,456",
-    "lowest_sell_order": "171.70",
-    "highest_buy_order": "162.28",
-    "date_modified": 1760242314711
+    "sell_order_count": "49",
+    "buy_order_count": "3,457",
+    "lowest_sell_order": "177.83",
+    "highest_buy_order": "163.07",
+    "date_modified": 1760280563125
   },
   {
     "hash_name": "AK-47 | Bloodsport (Factory New)",
     "item_nameid": 175880418,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV0966m4-PhOf7Ia_ummJW4NE_2LyV89Wt0QewqBE6Z2-lcY6UJlRrMF7SqQTvyO7shsK5v5idn3Rn6D5iuyjFoprsug",
-    "sell_order_count": "39",
-    "buy_order_count": "3,042",
-    "lowest_sell_order": "343.28",
-    "highest_buy_order": "336.20",
-    "date_modified": 1760242322879
+    "sell_order_count": "38",
+    "buy_order_count": "3,038",
+    "lowest_sell_order": "346.05",
+    "highest_buy_order": "337.26",
+    "date_modified": 1760280571270
   },
   {
     "hash_name": "AK-47 | Black Laminate (Well-Worn)",
     "item_nameid": 1322161,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4KcqPrxN7LEmyUCupd30ruZptujiQfn-EJuMjr1IdXAdgM6YAzW_le8xbzpjJ6_6s6Y1zI97cWcdAsO",
     "sell_order_count": "10",
-    "buy_order_count": "673",
+    "buy_order_count": "674",
     "lowest_sell_order": "46.00",
     "highest_buy_order": "41.34",
-    "date_modified": 1760242331053
+    "date_modified": 1760280579563
   },
   {
     "hash_name": "AK-47 | Black Laminate (Minimal Wear)",
     "item_nameid": 1321591,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4KcqPv9NLPF2D4EuMZy2OvA8Njz2lW2qEBqMTqmdo-WcAQ_ZlHW_wK2wubthpbqus_XiSw0wRDCk4E",
-    "sell_order_count": "41",
-    "buy_order_count": "1,211",
-    "lowest_sell_order": "76.56",
-    "highest_buy_order": "69.17",
-    "date_modified": 1760242339366
+    "sell_order_count": "39",
+    "buy_order_count": "1,203",
+    "lowest_sell_order": "77.05",
+    "highest_buy_order": "71.48",
+    "date_modified": 1760280587743
   },
   {
     "hash_name": "AK-47 | Black Laminate (Field-Tested)",
     "item_nameid": 1321767,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4KcqPrxN7LEmyUCupd30ruZptujiQfn-EJuMjr1IdXAdgM6YAzW_le8xbzpjJ6_6s6Y1zI97cWcdAsO",
-    "sell_order_count": "55",
-    "buy_order_count": "1,443",
-    "lowest_sell_order": "44.00",
-    "highest_buy_order": "42.75",
-    "date_modified": 1760242347519
+    "sell_order_count": "58",
+    "buy_order_count": "1,436",
+    "lowest_sell_order": "39.99",
+    "highest_buy_order": "39.41",
+    "date_modified": 1760280595870
   },
   {
     "hash_name": "AK-47 | Black Laminate (Factory New)",
     "item_nameid": 1340331,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4KcqPv9NLPF2D4EuMZy2OvA8Njz2lW2qEBqMTqmdo-WcAQ_ZlHW_wK2wubthpbqus_XiSw0wRDCk4E",
     "sell_order_count": "4",
-    "buy_order_count": "542",
+    "buy_order_count": "541",
     "lowest_sell_order": "289.99",
     "highest_buy_order": "189.68",
-    "date_modified": 1760242355693
+    "date_modified": 1760280604122
   },
   {
     "hash_name": "AK-47 | Black Laminate (Battle-Scarred)",
     "item_nameid": 1321650,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4KcqP_xMq3I2GgJvpYhj-2VrIrz2VCw_UFsYm7yI9CUIw5oMAzY-QDrw-zvjJO0u5vXiSw08hrX_6I",
-    "sell_order_count": "21",
-    "buy_order_count": "830",
+    "sell_order_count": "22",
+    "buy_order_count": "826",
     "lowest_sell_order": "47.00",
-    "highest_buy_order": "38.06",
-    "date_modified": 1760242363991
+    "highest_buy_order": "38.12",
+    "date_modified": 1760280612409
   },
   {
     "hash_name": "AK-47 | Baroque Purple (Well-Worn)",
     "item_nameid": 176096413,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszedDNH-NOJhJWZh_vxDLbUkmJE5Ysl2L-Sp92gjQzt_Es-a22gI9SVIwE9ZgyE8gS2w-vrgcO0tJzNyCBnpGB8suBh9ctM",
-    "sell_order_count": "79",
-    "buy_order_count": "8,352",
-    "lowest_sell_order": "6.36",
-    "highest_buy_order": "6.35",
-    "date_modified": 1760242372203
+    "sell_order_count": "85",
+    "buy_order_count": "8,337",
+    "lowest_sell_order": "5.79",
+    "highest_buy_order": "5.55",
+    "date_modified": 1760280620559
   },
   {
     "hash_name": "AK-47 | Baroque Purple (Minimal Wear)",
     "item_nameid": 176096521,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszedDNH-NOJhJWZh_vxDLfYkWNFppAkiLDA8dSg3FCx_EE-MGHzcISUcwU5YwvU8gC9w-vrgJDp7pibyHV9-n51SD7nUT4",
-    "sell_order_count": "62",
-    "buy_order_count": "10,432",
-    "lowest_sell_order": "13.28",
-    "highest_buy_order": "13.20",
-    "date_modified": 1760242380384
+    "sell_order_count": "58",
+    "buy_order_count": "10,410",
+    "lowest_sell_order": "13.49",
+    "highest_buy_order": "13.23",
+    "date_modified": 1760280628701
   },
   {
     "hash_name": "AK-47 | Baroque Purple (Field-Tested)",
     "item_nameid": 176096588,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszedDNH-NOJhJWZh_vxDLbUkmJE5Ysl2L-Sp92gjQzt_Es-a22gI9SVIwE9ZgyE8gS2w-vrgcO0tJzNyCBnpGB8suBh9ctM",
-    "sell_order_count": "135",
-    "buy_order_count": "14,622",
-    "lowest_sell_order": "6.80",
-    "highest_buy_order": "6.41",
-    "date_modified": 1760242388698
+    "sell_order_count": "145",
+    "buy_order_count": "14,629",
+    "lowest_sell_order": "6.39",
+    "highest_buy_order": "6.38",
+    "date_modified": 1760280636979
   },
   {
     "hash_name": "AK-47 | Baroque Purple (Factory New)",
     "item_nameid": 176096831,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszedDNH-NOJhJWZh_vxDLfYkWNFppAkiLDA8dSg3FCx_EE-MGHzcISUcwU5YwvU8gC9w-vrgJDp7pibyHV9-n51SD7nUT4",
-    "sell_order_count": "41",
-    "buy_order_count": "4,942",
-    "lowest_sell_order": "115.96",
-    "highest_buy_order": "108.97",
-    "date_modified": 1760242396852
+    "sell_order_count": "36",
+    "buy_order_count": "4,938",
+    "lowest_sell_order": "117.20",
+    "highest_buy_order": "109.64",
+    "date_modified": 1760280645129
   },
   {
     "hash_name": "AK-47 | Baroque Purple (Battle-Scarred)",
     "item_nameid": 176096763,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszedDNH-NOJhJWZh_vxDLPUl31Ipp1y2b7FrI_w3wyw_hc5MGr0INKUdwdrNVrW_li4lenr0JO_6s6YwCF9-n51zENz4Jg",
-    "sell_order_count": "82",
-    "buy_order_count": "11,797",
-    "lowest_sell_order": "6.40",
-    "highest_buy_order": "5.94",
-    "date_modified": 1760242405019
+    "sell_order_count": "86",
+    "buy_order_count": "11,796",
+    "lowest_sell_order": "6.10",
+    "highest_buy_order": "5.82",
+    "date_modified": 1760280653269
   },
   {
     "hash_name": "AK-47 | B the Monster (Well-Worn)",
     "item_nameid": 176461404,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszHZzhQ_N2lh7-GmPnnJ77DqWpavJJOh-zF_Jn4xlWw-0I9NTr0ctLBdVc-MlCE-Fi8x7_p1pC6vsiaz3BruiIjt3yJmkSpwUYbw39ZM7g",
     "sell_order_count": "4",
-    "buy_order_count": "1,181",
+    "buy_order_count": "1,182",
     "lowest_sell_order": "217.01",
-    "highest_buy_order": "185.50",
-    "date_modified": 1760242413326
+    "highest_buy_order": "185.55",
+    "date_modified": 1760280661453
   },
   {
     "hash_name": "AK-47 | B the Monster (Minimal Wear)",
     "item_nameid": 176460874,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszHZzhQ_N2lh7-GmPnnJ77DqWpavJJOhuDG_Zi72QWx_BBpMWCgJYaUIABvMgmDrle7xLvsjZC17s7LyyZjsykh4XjbmQv3308fC8lpbg",
     "sell_order_count": "14",
-    "buy_order_count": "1,359",
-    "lowest_sell_order": "632.50",
-    "highest_buy_order": "501.58",
-    "date_modified": 1760242421490
+    "buy_order_count": "1,356",
+    "lowest_sell_order": "630.06",
+    "highest_buy_order": "501.57",
+    "date_modified": 1760280669607
   },
   {
     "hash_name": "AK-47 | B the Monster (Field-Tested)",
     "item_nameid": 176460681,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszHZzhQ_N2lh7-GmPnnJ77DqWpavJJOh-zF_Jn4xlWw-0I9NTr0ctLBdVc-MlCE-Fi8x7_p1pC6vsiaz3BruiIjt3yJmkSpwUYbw39ZM7g",
-    "sell_order_count": "29",
-    "buy_order_count": "2,357",
-    "lowest_sell_order": "267.00",
-    "highest_buy_order": "241.05",
-    "date_modified": 1760242429652
+    "sell_order_count": "28",
+    "buy_order_count": "2,355",
+    "lowest_sell_order": "265.00",
+    "highest_buy_order": "242.85",
+    "date_modified": 1760280677751
   },
   {
     "hash_name": "AK-47 | B the Monster (Factory New)",
     "item_nameid": 176461281,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszHZzhQ_N2lh7-GmPnnJ77DqWpavJJOhuDG_Zi72QWx_BBpMWCgJYaUIABvMgmDrle7xLvsjZC17s7LyyZjsykh4XjbmQv3308fC8lpbg",
     "sell_order_count": 0,
-    "buy_order_count": "1,676",
+    "buy_order_count": "1,674",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "1316.86",
-    "date_modified": 1760242437953
+    "highest_buy_order": "1317.61",
+    "date_modified": 1760280685893
   },
   {
     "hash_name": "AK-47 | B the Monster (Battle-Scarred)",
     "item_nameid": 176460691,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszHZzhQ_N2lh7-GmPnnJ77DqWpavJJOguzA45W721Lg-0o-Zjr7cNWUcAM_Mg2F81joybi-0Zfou5nJy3phuCcn5XfZngv33087g1mZlg",
-    "lowest_sell_order": "119.80",
+    "lowest_sell_order": "119.86",
     "highest_buy_order": "111.66",
-    "date_modified": 1760242446108,
+    "date_modified": 1760280694180,
     "sell_order_count": "15",
     "buy_order_count": "1,466"
   },
@@ -27223,251 +27223,251 @@
     "hash_name": "AK-47 | Asiimov (Well-Worn)",
     "item_nameid": 176024971,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV092lnYmGmOHLPr7Vn35cppch3LGRrI-n2gTt_EJka2CmJ4aTclBsY1rXq1K3l-m905C1u8vPz3N9-n51tTAQyJo",
-    "sell_order_count": "48",
-    "buy_order_count": "1,094",
-    "lowest_sell_order": "38.34",
-    "highest_buy_order": "33.77",
-    "date_modified": 1760242454463
+    "sell_order_count": "53",
+    "buy_order_count": "1,083",
+    "lowest_sell_order": "35.35",
+    "highest_buy_order": "33.51",
+    "date_modified": 1760280702442
   },
   {
     "hash_name": "AK-47 | Asiimov (Minimal Wear)",
     "item_nameid": 176024804,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV092lnYmGmOHLP7LWnn8f7ZAn0-2UrNytiwK2_hY4MmD7doaVcwU4YFqD-QTrleq80J-8vp-anGwj5HfQSpUJNw",
-    "sell_order_count": "195",
+    "sell_order_count": "194",
     "buy_order_count": "3,527",
-    "lowest_sell_order": "57.51",
-    "highest_buy_order": "56.06",
-    "date_modified": 1760242462776
+    "lowest_sell_order": "56.69",
+    "highest_buy_order": "56.19",
+    "date_modified": 1760280710687
   },
   {
     "hash_name": "AK-47 | Asiimov (Field-Tested)",
     "item_nameid": 176024796,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV092lnYmGmOHLPr7Vn35cppch3LGRrI-n2gTt_EJka2CmJ4aTclBsY1rXq1K3l-m905C1u8vPz3N9-n51tTAQyJo",
-    "lowest_sell_order": "33.20",
-    "highest_buy_order": "31.16",
-    "date_modified": 1760242470934,
-    "sell_order_count": "285",
-    "buy_order_count": "10,090"
+    "lowest_sell_order": "31.06",
+    "highest_buy_order": "30.51",
+    "date_modified": 1760280718860,
+    "sell_order_count": "303",
+    "buy_order_count": "10,081"
   },
   {
     "hash_name": "AK-47 | Asiimov (Factory New)",
     "item_nameid": 176024903,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV092lnYmGmOHLP7LWnn8f7ZAn0-2UrNytiwK2_hY4MmD7doaVcwU4YFqD-QTrleq80J-8vp-anGwj5HfQSpUJNw",
     "sell_order_count": "6",
-    "buy_order_count": "1,394",
+    "buy_order_count": "1,380",
     "lowest_sell_order": "517.50",
-    "highest_buy_order": "460.00",
-    "date_modified": 1760242479088
+    "highest_buy_order": "454.37",
+    "date_modified": 1760280727107
   },
   {
     "hash_name": "AK-47 | Asiimov (Battle-Scarred)",
     "item_nameid": 176024898,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV092lnYmGmOHLO77QgHIfv5Fwj-2W8I2hiVLg_0Y-amjxcdKUJwVsZgvWqVG7yby-0JS8u8vKz2wj5HdYywfQ1A",
-    "lowest_sell_order": "28.01",
-    "highest_buy_order": "27.83",
-    "date_modified": 1760242487408,
-    "sell_order_count": "79",
-    "buy_order_count": "3,396"
+    "lowest_sell_order": "28.61",
+    "highest_buy_order": "28.01",
+    "date_modified": 1760280735397,
+    "sell_order_count": "78",
+    "buy_order_count": "3,332"
   },
   {
     "hash_name": "AK-47 | Aquamarine Revenge (Well-Worn)",
     "item_nameid": 49399548,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWZU7Mxkh6fDrN_zjVa3rUo6NmCncdTDdlJtMgrTqFe9wuvmgcLq7ZmdwSQwuiMn-z-DyJACIiUs",
-    "lowest_sell_order": "31.66",
-    "highest_buy_order": "29.84",
-    "date_modified": 1760242495709,
-    "sell_order_count": "47",
-    "buy_order_count": "1,991"
+    "lowest_sell_order": "29.35",
+    "highest_buy_order": "27.84",
+    "date_modified": 1760280743542,
+    "sell_order_count": "51",
+    "buy_order_count": "1,997"
   },
   {
     "hash_name": "AK-47 | Aquamarine Revenge (Minimal Wear)",
     "item_nameid": 49399558,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWdY781lxLuXpdih2lLl-UI6Nm-mI4DDdlM7Zl3XqwK2w-_m1MXouJXByHE16yM8pSGKfv1bl08",
-    "sell_order_count": "56",
-    "buy_order_count": "1,706",
-    "lowest_sell_order": "83.04",
-    "highest_buy_order": "79.96",
-    "date_modified": 1760242503880
+    "sell_order_count": "46",
+    "buy_order_count": "1,731",
+    "lowest_sell_order": "89.50",
+    "highest_buy_order": "83.56",
+    "date_modified": 1760280751832
   },
   {
     "hash_name": "AK-47 | Aquamarine Revenge (Field-Tested)",
     "item_nameid": 49399542,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWZU7Mxkh6fDrN_zjVa3rUo6NmCncdTDdlJtMgrTqFe9wuvmgcLq7ZmdwSQwuiMn-z-DyJACIiUs",
     "sell_order_count": "103",
-    "buy_order_count": "3,239",
-    "lowest_sell_order": "38.92",
-    "highest_buy_order": "38.23",
-    "date_modified": 1760242512187
+    "buy_order_count": "3,245",
+    "lowest_sell_order": "37.99",
+    "highest_buy_order": "38.25",
+    "date_modified": 1760280760108
   },
   {
     "hash_name": "AK-47 | Aquamarine Revenge (Factory New)",
     "item_nameid": 49399568,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWdY781lxLuXpdih2lLl-UI6Nm-mI4DDdlM7Zl3XqwK2w-_m1MXouJXByHE16yM8pSGKfv1bl08",
     "lowest_sell_order": "393.00",
-    "highest_buy_order": "364.81",
-    "date_modified": 1760242520502,
-    "sell_order_count": "11",
-    "buy_order_count": "1,402"
+    "highest_buy_order": "364.04",
+    "date_modified": 1760280768270,
+    "sell_order_count": "12",
+    "buy_order_count": "1,399"
   },
   {
     "hash_name": "AK-47 | Aquamarine Revenge (Battle-Scarred)",
     "item_nameid": 49359087,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWNU6dNoxLiSoI6sjg3s_kI4MG2hJtTGdgM8aVHRqFPtyO3ujZ_qtZSan3Y1u3I8pSGK2QR2YY8",
-    "sell_order_count": "53",
-    "buy_order_count": "2,291",
-    "lowest_sell_order": "28.72",
-    "highest_buy_order": "27.32",
-    "date_modified": 1760242528650
+    "sell_order_count": "52",
+    "buy_order_count": "2,281",
+    "lowest_sell_order": "28.13",
+    "highest_buy_order": "27.50",
+    "date_modified": 1760280776403
   },
   {
     "hash_name": "Aces High Pin",
     "item_nameid": 175970598,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fROuh28rQR1R2KQFoprOrFAZj1uD3eTRF5JLizYXdx6KgYuyHxjNVvJ103O2T8I2kiVe2qUA4Mmz0LIDHcQI2MF7Z5BHglkdUDqLb",
-    "sell_order_count": "16",
-    "buy_order_count": "1,183",
-    "lowest_sell_order": "10.35",
-    "highest_buy_order": "8.74",
-    "date_modified": 1760242536995
+    "sell_order_count": "19",
+    "buy_order_count": "1,200",
+    "lowest_sell_order": "10.08",
+    "highest_buy_order": "8.76",
+    "date_modified": 1760280784576
   },
   {
     "hash_name": "3rd Commando Company | KSK",
     "item_nameid": 176096555,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaOBM27OXJYzRD4si92tfazvbxY-mCxz4IuJcn2uuZ99WniVXgrRY_ZDr2IdOdclJsYV2D_VSggbC4VPxNTVU",
-    "sell_order_count": "288",
-    "buy_order_count": "19,976",
-    "lowest_sell_order": "19.55",
-    "highest_buy_order": "18.21",
-    "date_modified": 1760242545166
+    "sell_order_count": "285",
+    "buy_order_count": "19,984",
+    "lowest_sell_order": "19.98",
+    "highest_buy_order": "18.59",
+    "date_modified": 1760280792805
   },
   {
     "hash_name": "2021 Community Sticker Capsule",
     "item_nameid": 176261874,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDHfDBX4tWijdLbxabLMLrBhX5d7Yt3juySp47z3VHjqRJlYz3ydYbHJwdsMg3S-FK7l-bmgJa17pifnXBjpGB8smSwD1h-",
-    "sell_order_count": "412",
-    "buy_order_count": "30,119",
-    "lowest_sell_order": "0.92",
-    "highest_buy_order": "0.80",
-    "date_modified": 1760242553313
+    "sell_order_count": "404",
+    "buy_order_count": "30,130",
+    "lowest_sell_order": "0.93",
+    "highest_buy_order": "0.81",
+    "date_modified": 1760280801079
   },
   {
     "hash_name": "2020 RMR Legends",
     "item_nameid": 176222704,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHFY28SvoyJmIWMkvnwIPXUzm9X7ZV3377E847x0QS3rUo-Mj32JILBc1Q3Mg2D-QW3kObqgsC9ot2XnsDoW_yq",
-    "sell_order_count": "27,049",
-    "buy_order_count": "92,615",
-    "lowest_sell_order": "0.30",
-    "highest_buy_order": "0.28",
-    "date_modified": 1760242561623
+    "sell_order_count": "27,262",
+    "buy_order_count": "93,422",
+    "lowest_sell_order": "0.31",
+    "highest_buy_order": "0.26",
+    "date_modified": 1760280809223
   },
   {
     "hash_name": "2020 RMR Contenders",
     "item_nameid": 176222711,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHFY28SvoyJl4-Fg_L6N77DhSUFsccgie-W9Nqj3gblqhA_NWyiLIfDclA_YFjU_1a7yOfmhcO9vpvA1zI97X4HoaIB",
-    "sell_order_count": "9,554",
-    "buy_order_count": "65,389",
-    "lowest_sell_order": "0.39",
-    "highest_buy_order": "0.36",
-    "date_modified": 1760242569928
+    "sell_order_count": "9,400",
+    "buy_order_count": "64,263",
+    "lowest_sell_order": "0.40",
+    "highest_buy_order": "0.39",
+    "date_modified": 1760280817379
   },
   {
     "hash_name": "2020 RMR Challengers",
     "item_nameid": 176222718,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHFY28SvoyJl4iKm_vxPbzUhHgfuZEg2eyUpd2s0Qbsqhc4ZG33cI6VIFA5YgvS-wLrlb291JbtvJjMymwj5HcDj7YBnA",
-    "sell_order_count": "10,798",
-    "buy_order_count": "64,126",
-    "lowest_sell_order": "0.30",
-    "highest_buy_order": "0.28",
-    "date_modified": 1760242578083
+    "sell_order_count": "10,768",
+    "buy_order_count": "64,080",
+    "lowest_sell_order": "0.27",
+    "highest_buy_order": "0.25",
+    "date_modified": 1760280825505
   },
   {
     "hash_name": "1st Lieutenant Farlow | SWAT",
     "item_nameid": 176209283,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaOBBhx8zecC9L7dKiks6OwvGiMb6FxTwJ7sQo3rGZ9I2iiwe28kNqNzr2LNKccgdoZ17S_gDs366x0oOXz90p",
-    "sell_order_count": "230",
-    "buy_order_count": "31,528",
-    "lowest_sell_order": "17.60",
-    "highest_buy_order": "17.08",
-    "date_modified": 1760242586421
+    "sell_order_count": "232",
+    "buy_order_count": "31,514",
+    "lowest_sell_order": "17.49",
+    "highest_buy_order": "17.02",
+    "date_modified": 1760280833787
   },
   {
     "hash_name": "10 Year Birthday Sticker Capsule",
     "item_nameid": 176328119,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDbdjITvOO1lZCYgvvxfeiBw2gEvJYi2ezCrd_03VWwqhBlYTimIdfGcwE3NVnY-lK3w-_shp6i_MOeyjxiOhg",
-    "sell_order_count": "956",
-    "buy_order_count": "36,892",
-    "lowest_sell_order": "0.94",
+    "sell_order_count": "1,003",
+    "buy_order_count": "36,942",
+    "lowest_sell_order": "0.93",
     "highest_buy_order": "0.85",
-    "date_modified": 1760242594593
+    "date_modified": 1760280841947
   },
   {
     "hash_name": "'Two Times' McCoy | USAF TACP",
     "item_nameid": 176096507,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaOBM27OXJYzRD4si72oLewKGjYbiFxz5V6sEmjrmZp4im2AXj_BY4N22nJ9WScQQ7YVrX-FGggbC4y2PLQ7o",
-    "sell_order_count": "138",
-    "buy_order_count": "67,456",
-    "lowest_sell_order": "22.00",
-    "highest_buy_order": "21.47",
-    "date_modified": 1760242602759
+    "sell_order_count": "132",
+    "buy_order_count": "67,391",
+    "lowest_sell_order": "21.58",
+    "highest_buy_order": "21.57",
+    "date_modified": 1760280850097
   },
   {
     "hash_name": "'Two Times' McCoy | TACP Cavalry",
     "item_nameid": 176209278,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaOBM27OXJYzRD4si62oaKzvOnNrjSkDxSscck2uySrNzxjlCw-0M4ZW6hdYKddgA8YVmC_QKggbC4z-pIfp4",
-    "sell_order_count": "120",
-    "buy_order_count": "63,197",
-    "lowest_sell_order": "22.86",
-    "highest_buy_order": "22.50",
-    "date_modified": 1760242611057
+    "sell_order_count": "124",
+    "buy_order_count": "63,186",
+    "lowest_sell_order": "22.94",
+    "highest_buy_order": "22.60",
+    "date_modified": 1760280858387
   },
   {
     "hash_name": "'The Doctor' Romanov | Sabre",
     "item_nameid": 176096416,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztDu4WnKgtr0v33ZzxQ5d24gIjFwaD3YeqFxD5TvMMh2r2Q8d-li1XtqktrZm32ddLBIQM5aQ3Y_FDrxfCv28HDU8uXLw",
-    "sell_order_count": "551",
-    "buy_order_count": "21,027",
+    "sell_order_count": "557",
+    "buy_order_count": "20,960",
     "lowest_sell_order": "21.88",
-    "highest_buy_order": "21.48",
-    "date_modified": 1760242619242
+    "highest_buy_order": "20.37",
+    "date_modified": 1760280866585
   },
   {
     "hash_name": "'Medium Rare' Crasswater | Guerrilla Warfare",
     "item_nameid": 176262691,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztDu4WvPgln3_b3YzxL6Nmkq5aKhf71Pa_TxCUJ65Bw3r6R9t2g2wKwqkVuMW6gItXHclNsNwqErlW5wermgpK0vJqa1zI97Tby5gaO",
-    "sell_order_count": "135",
-    "buy_order_count": "4,551",
-    "lowest_sell_order": "54.62",
-    "highest_buy_order": "52.74",
-    "date_modified": 1760242627420
+    "sell_order_count": "140",
+    "buy_order_count": "4,553",
+    "lowest_sell_order": "54.00",
+    "highest_buy_order": "52.53",
+    "date_modified": 1760280874881
   },
   {
     "hash_name": "'Blueberries' Buckshot | NSWC SEAL",
     "item_nameid": 176209284,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaOBM27OXJYzRD4si82tOOw6KkN76Ak2kCsZ0g3uuV99ql0Vbg_0JuZWj7J4PDcwVoMg3S-1mggbC4dTOfvUs",
-    "sell_order_count": "109",
-    "buy_order_count": "16,015",
-    "lowest_sell_order": "25.85",
+    "sell_order_count": "107",
+    "buy_order_count": "15,977",
+    "lowest_sell_order": "25.80",
     "highest_buy_order": "25.24",
-    "date_modified": 1760242635748
+    "date_modified": 1760280883151
   },
   {
     "hash_name": "★ Ursus Knife | Tiger Tooth (Minimal Wear)",
     "item_nameid": 176042695,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597dKJgImMkuXLPKnQmGxU18l4jeHVu4qm2Azl8ko9a2j6JtCdJw84MAmDqAS_wOzmgcK56p_OnXNj6yRw4X3D30vgvo4qmHY",
     "sell_order_count": "2",
-    "buy_order_count": "164",
+    "buy_order_count": "163",
     "lowest_sell_order": "339.48",
-    "highest_buy_order": "295.73",
-    "date_modified": 1760242643949
+    "highest_buy_order": "277.58",
+    "date_modified": 1760280891307
   },
   {
     "hash_name": "★ Ursus Knife | Safari Mesh (Battle-Scarred)",
     "item_nameid": 176003487,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC59_8yJmYWYn8jgMrXunm5Q_tw_2LiRoI3zjgG38hJuYWv2IYfDIAU3Yg7W-lntw-u9hsK67pnLwHJiuj5iuygSmvUr7A",
     "sell_order_count": "6",
-    "buy_order_count": "229",
+    "buy_order_count": "227",
     "lowest_sell_order": "138.00",
-    "highest_buy_order": "105.59",
-    "date_modified": 1760242652136
+    "highest_buy_order": "105.52",
+    "date_modified": 1760280899553
   },
   {
     "hash_name": "★ Talon Knife | Damascus Steel (Battle-Scarred)",
@@ -27476,8 +27476,8 @@
     "sell_order_count": "2",
     "buy_order_count": "155",
     "lowest_sell_order": "686.14",
-    "highest_buy_order": "479.94",
-    "date_modified": 1760242660456
+    "highest_buy_order": "462.65",
+    "date_modified": 1760280907842
   },
   {
     "hash_name": "★ Talon Knife | Blue Steel (Factory New)",
@@ -27487,7 +27487,7 @@
     "buy_order_count": "131",
     "lowest_sell_order": "1131.91",
     "highest_buy_order": "856.14",
-    "date_modified": 1760242668603
+    "date_modified": 1760280916027
   },
   {
     "hash_name": "★ Survival Knife | Doppler (Minimal Wear)",
@@ -27497,7 +27497,7 @@
     "buy_order_count": "187",
     "lowest_sell_order": "512.50",
     "highest_buy_order": "385.52",
-    "date_modified": 1760242676760
+    "date_modified": 1760280924178
   },
   {
     "hash_name": "★ Survival Knife | Crimson Web (Factory New)",
@@ -27507,17 +27507,17 @@
     "buy_order_count": "115",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "363.80",
-    "date_modified": 1760242685064
+    "date_modified": 1760280932419
   },
   {
     "hash_name": "★ Stiletto Knife | Stained (Battle-Scarred)",
     "item_nameid": 176000276,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlZG0kfjmML7VqWNU6dNoxLvD9Iql2FC3_UA4YD3yd4XBIQY6YVuE81Trw-3r1JO-7s7BnHtqvHQ8pSGKXFN0Wbw",
     "sell_order_count": "4",
-    "buy_order_count": "176",
+    "buy_order_count": "175",
     "lowest_sell_order": "302.69",
-    "highest_buy_order": "245.65",
-    "date_modified": 1760242693236
+    "highest_buy_order": "247.32",
+    "date_modified": 1760280940612
   },
   {
     "hash_name": "★ Stiletto Knife | Slaughter (Field-Tested)",
@@ -27526,8 +27526,8 @@
     "sell_order_count": "1",
     "buy_order_count": "245",
     "lowest_sell_order": "687.47",
-    "highest_buy_order": "524.55",
-    "date_modified": 1760242701400
+    "highest_buy_order": "527.55",
+    "date_modified": 1760280948792
   },
   {
     "hash_name": "★ Stiletto Knife | Scorched (Well-Worn)",
@@ -27535,19 +27535,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh5C0k_bkI7fUqWZU7Mxkh6eYptWljQTj_kZsZGjzLYHEJwBsYVvU_FK7wbvv05677sifySM273Uq-z-DyCvWDDPp",
     "sell_order_count": "3",
     "buy_order_count": "209",
-    "lowest_sell_order": "361.45",
+    "lowest_sell_order": "319.06",
     "highest_buy_order": "201.88",
-    "date_modified": 1760242709716
+    "date_modified": 1760280957081
   },
   {
     "hash_name": "★ Stiletto Knife | Crimson Web (Battle-Scarred)",
     "item_nameid": 176000429,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJnJm0gPL2IITZk2pH8YspieuSp9-n3FDj-xFqMm_xcYOccVRqZAzY-FS7kOi5gMe46Z3KyiRqpGB8ss4mCieR",
     "sell_order_count": "3",
-    "buy_order_count": "185",
-    "lowest_sell_order": "768.11",
-    "highest_buy_order": "283.49",
-    "date_modified": 1760242717874
+    "buy_order_count": "183",
+    "lowest_sell_order": "360.18",
+    "highest_buy_order": "283.67",
+    "date_modified": 1760280965219
   },
   {
     "hash_name": "★ StatTrak™ Ursus Knife | Slaughter (Minimal Wear)",
@@ -27556,8 +27556,8 @@
     "sell_order_count": "3",
     "buy_order_count": "149",
     "lowest_sell_order": "427.00",
-    "highest_buy_order": "305.27",
-    "date_modified": 1760242726047
+    "highest_buy_order": "305.44",
+    "date_modified": 1760280973471
   },
   {
     "hash_name": "★ StatTrak™ Ursus Knife | Doppler (Minimal Wear)",
@@ -27566,18 +27566,18 @@
     "sell_order_count": "2",
     "buy_order_count": "82",
     "lowest_sell_order": "699.00",
-    "highest_buy_order": "508.58",
-    "date_modified": 1760242734378
+    "highest_buy_order": "508.65",
+    "date_modified": 1760280981720
   },
   {
     "hash_name": "★ StatTrak™ Ursus Knife | Case Hardened (Well-Worn)",
     "item_nameid": 176006433,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597c2Jm4mHkvPLPr7Vn35cppB12--UptSt3VLkrUNlMW-gLdCUJA49ZAzT_1bqxua7hsK1vsubm3t9-n51P9bDiM0",
     "sell_order_count": "3",
-    "buy_order_count": "99",
+    "buy_order_count": "100",
     "lowest_sell_order": "207.00",
     "highest_buy_order": "180.28",
-    "date_modified": 1760242742526
+    "date_modified": 1760280989893
   },
   {
     "hash_name": "★ StatTrak™ Ursus Knife | Case Hardened (Field-Tested)",
@@ -27587,7 +27587,7 @@
     "buy_order_count": "120",
     "lowest_sell_order": "276.64",
     "highest_buy_order": "223.13",
-    "date_modified": 1760242750692
+    "date_modified": 1760280998026
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Urban Masked (Minimal Wear)",
@@ -27597,7 +27597,7 @@
     "buy_order_count": "103",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "348.28",
-    "date_modified": 1760242758999
+    "date_modified": 1760281006312
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Urban Masked (Factory New)",
@@ -27607,7 +27607,7 @@
     "buy_order_count": "122",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "339.54",
-    "date_modified": 1760242767193
+    "date_modified": 1760281014465
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Stained (Minimal Wear)",
@@ -27617,7 +27617,7 @@
     "buy_order_count": "87",
     "lowest_sell_order": "707.79",
     "highest_buy_order": "509.48",
-    "date_modified": 1760242775354
+    "date_modified": 1760281022751
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Stained (Factory New)",
@@ -27627,7 +27627,7 @@
     "buy_order_count": "98",
     "lowest_sell_order": "953.85",
     "highest_buy_order": "444.02",
-    "date_modified": 1760242783663
+    "date_modified": 1760281030994
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Forest DDPAT (Minimal Wear)",
@@ -27637,7 +27637,7 @@
     "buy_order_count": "117",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "404.30",
-    "date_modified": 1760242792077
+    "date_modified": 1760281039159
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Fade (Factory New)",
@@ -27647,7 +27647,7 @@
     "buy_order_count": "751",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "1556.60",
-    "date_modified": 1760242800233
+    "date_modified": 1760281047288
   },
   {
     "hash_name": "★ StatTrak™ Talon Knife | Blue Steel (Well-Worn)",
@@ -27657,7 +27657,7 @@
     "buy_order_count": "114",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "553.00",
-    "date_modified": 1760242808544
+    "date_modified": 1760281055471
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Rust Coat (Well-Worn)",
@@ -27667,7 +27667,7 @@
     "buy_order_count": "64",
     "lowest_sell_order": "125.00",
     "highest_buy_order": "104.65",
-    "date_modified": 1760242816697
+    "date_modified": 1760281063750
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Night Stripe (Battle-Scarred)",
@@ -27677,17 +27677,17 @@
     "buy_order_count": "89",
     "lowest_sell_order": "130.68",
     "highest_buy_order": "101.21",
-    "date_modified": 1760242824904
+    "date_modified": 1760281071929
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Damascus Steel (Well-Worn)",
     "item_nameid": 176513880,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597c2JkIGGluT3Jqjum25V4dB8xO-Vo96s3Fex-UU9YWHwd4SVdANvYF3X-le_l7ju0J_tvcjLyHJhuCc8pSGK-RifTXc",
     "sell_order_count": "1",
-    "buy_order_count": "52",
+    "buy_order_count": "53",
     "lowest_sell_order": "146.77",
-    "highest_buy_order": "112.85",
-    "date_modified": 1760242833226
+    "highest_buy_order": "112.89",
+    "date_modified": 1760281080207
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Damascus Steel (Battle-Scarred)",
@@ -27697,7 +27697,7 @@
     "buy_order_count": "59",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "111.67",
-    "date_modified": 1760242841527
+    "date_modified": 1760281088483
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Case Hardened (Battle-Scarred)",
@@ -27707,7 +27707,7 @@
     "buy_order_count": "109",
     "lowest_sell_order": "254.38",
     "highest_buy_order": "149.30",
-    "date_modified": 1760242849687
+    "date_modified": 1760281096614
   },
   {
     "hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Well-Worn)",
@@ -27717,7 +27717,7 @@
     "buy_order_count": "77",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "86.50",
-    "date_modified": 1760242858012
+    "date_modified": 1760281104780
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Slaughter (Factory New)",
@@ -27727,17 +27727,17 @@
     "buy_order_count": "165",
     "lowest_sell_order": "899.00",
     "highest_buy_order": "601.56",
-    "date_modified": 1760242866160
+    "date_modified": 1760281112946
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Night Stripe (Field-Tested)",
     "item_nameid": 176001441,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJh5C0mf7zO6_CgnlY-MBOh-zF_Jn4xgzs-xdvYTj0I9SQJgM9YVrTqFbvwOjoh5O-tcvNmiNq7iZ34n3YyR2pwUYb58r33gw",
-    "sell_order_count": "3",
+    "sell_order_count": "2",
     "buy_order_count": "85",
-    "lowest_sell_order": "302.69",
+    "lowest_sell_order": "317.65",
     "highest_buy_order": "251.10",
-    "date_modified": 1760242874325
+    "date_modified": 1760281121131
   },
   {
     "hash_name": "★ StatTrak™ Stiletto Knife | Forest DDPAT (Minimal Wear)",
@@ -27747,47 +27747,47 @@
     "buy_order_count": "78",
     "lowest_sell_order": "328.62",
     "highest_buy_order": "247.20",
-    "date_modified": 1760242882637
+    "date_modified": 1760281129376
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Slaughter (Minimal Wear)",
     "item_nameid": 176097945,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlY20jfL2IbrummJW4NE_jLGTodum0VHs_Us6Zm33JIOUdFU2YFmF_FO4w-rp0J64tJvLzCdmuj5iuyjHroyfRA",
     "sell_order_count": "2",
-    "buy_order_count": "206",
+    "buy_order_count": "207",
     "lowest_sell_order": "900.00",
-    "highest_buy_order": "670.56",
-    "date_modified": 1760242890971
+    "highest_buy_order": "670.57",
+    "date_modified": 1760281137518
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Night Stripe (Field-Tested)",
     "item_nameid": 176097896,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJh5C0mf7zO6_CgnlY-MBOh-zF_Jn4xlLj-UFtYTqgJtSSIQQ8Zw7Tr1bryeu6gcTuvp2czic36yd35incmESpwUYb0KAtFC8",
     "sell_order_count": "4",
-    "buy_order_count": "97",
-    "lowest_sell_order": "368.19",
-    "highest_buy_order": "263.72",
-    "date_modified": 1760242899132
+    "buy_order_count": "98",
+    "lowest_sell_order": "364.98",
+    "highest_buy_order": "271.33",
+    "date_modified": 1760281145687
   },
   {
     "hash_name": "★ StatTrak™ Skeleton Knife | Damascus Steel (Minimal Wear)",
     "item_nameid": 176508671,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0k_b5MqjSg3hu5Mx2gv2PpI2lilHs-ko-YGGiINPHe1BvMAvVrFntx7jugJ-7vZmdyyMx7CMg7WGdwUJckzpZOw",
     "sell_order_count": "1",
-    "buy_order_count": "87",
+    "buy_order_count": "86",
     "lowest_sell_order": "517.50",
     "highest_buy_order": "404.36",
-    "date_modified": 1760242907433
+    "date_modified": 1760281153828
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Safari Mesh (Battle-Scarred)",
     "item_nameid": 67125979,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OO7kZODqOP1PYTZk2pH8YspjO2To4n32ADg_ks6Yzj1JdXHIQU-aVmF_gToxOvr1pO0tMjLwHdrpGB8slX6bEr1",
     "sell_order_count": "1",
-    "buy_order_count": "156",
+    "buy_order_count": "157",
     "lowest_sell_order": "127.61",
-    "highest_buy_order": "86.14",
-    "date_modified": 1760242915595
+    "highest_buy_order": "86.66",
+    "date_modified": 1760281162075
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Freehand (Battle-Scarred)",
@@ -27797,7 +27797,7 @@
     "buy_order_count": "81",
     "lowest_sell_order": "1547.97",
     "highest_buy_order": "99.43",
-    "date_modified": 1760242923839
+    "date_modified": 1760281170332
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Damascus Steel (Minimal Wear)",
@@ -27807,7 +27807,7 @@
     "buy_order_count": "157",
     "lowest_sell_order": "144.99",
     "highest_buy_order": "118.24",
-    "date_modified": 1760242932146
+    "date_modified": 1760281178500
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Crimson Web (Field-Tested)",
@@ -27817,27 +27817,27 @@
     "buy_order_count": "145",
     "lowest_sell_order": "159.53",
     "highest_buy_order": "132.77",
-    "date_modified": 1760242940290
+    "date_modified": 1760281186743
   },
   {
     "hash_name": "★ StatTrak™ Shadow Daggers | Autotronic (Well-Worn)",
     "item_nameid": 176268568,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPbhJ7TFhGRf4cZOh-zF_Jn4xgzi_xBvZz-lcYWWJw88NQzV8wS4yO2-0JG-uszOn3E3siNx4nqIlxKpwUYb9OX8aQo",
-    "sell_order_count": "2",
+    "sell_order_count": "3",
     "buy_order_count": "102",
-    "lowest_sell_order": "275.38",
+    "lowest_sell_order": "189.00",
     "highest_buy_order": "126.67",
-    "date_modified": 1760242948448
+    "date_modified": 1760281194901
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Scorched (Well-Worn)",
     "item_nameid": 176101420,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJR_OOylZCbm_LLPr7Vn35cpsEi2eqU89_3iwfj-EBsZjqlcoPBd1A-aFGF8lS5kLvm05Pp7czKyyN9-n51MB1Z_fY",
-    "sell_order_count": "4",
-    "buy_order_count": "75",
-    "lowest_sell_order": "121.07",
+    "sell_order_count": "1",
+    "buy_order_count": "72",
+    "lowest_sell_order": "129.04",
     "highest_buy_order": "95.71",
-    "date_modified": 1760242956806
+    "date_modified": 1760281203211
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Safari Mesh (Minimal Wear)",
@@ -27847,7 +27847,7 @@
     "buy_order_count": "135",
     "lowest_sell_order": "123.88",
     "highest_buy_order": "89.63",
-    "date_modified": 1760242964973
+    "date_modified": 1760281211458
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Night Stripe (Well-Worn)",
@@ -27857,7 +27857,7 @@
     "buy_order_count": "105",
     "lowest_sell_order": "148.89",
     "highest_buy_order": "109.40",
-    "date_modified": 1760242973165
+    "date_modified": 1760281219607
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Doppler (Minimal Wear)",
@@ -27867,17 +27867,17 @@
     "buy_order_count": "117",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "486.06",
-    "date_modified": 1760242981491
+    "date_modified": 1760281227864
   },
   {
     "hash_name": "★ StatTrak™ Paracord Knife | Damascus Steel (Field-Tested)",
     "item_nameid": 176506563,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD_eOylY2KhPThIITck29Y_cg_jrDEpImkjAfl-kZkMj_6I9eVIAA8NFiBrgLvxefqjJK56ZjJmCAwsj5iuyjWn3w92A",
     "sell_order_count": "5",
-    "buy_order_count": "95",
+    "buy_order_count": "96",
     "lowest_sell_order": "170.00",
     "highest_buy_order": "125.95",
-    "date_modified": 1760242989673
+    "date_modified": 1760281236135
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Urban Masked (Well-Worn)",
@@ -27887,27 +27887,27 @@
     "buy_order_count": "69",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "160.32",
-    "date_modified": 1760242997818
+    "date_modified": 1760281244422
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Stained (Minimal Wear)",
     "item_nameid": 176097426,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-NmOX3Nr_ummJW4NE_jLCUp9T03wLlqBdvMWD3JYKTIQA-MFnTqVToxbu6jcTpv53NmiM26T5iuyg-k3KrHA",
     "sell_order_count": 0,
-    "buy_order_count": "118",
+    "buy_order_count": "119",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "269.90",
-    "date_modified": 1760243006119
+    "highest_buy_order": "270.77",
+    "date_modified": 1760281252676
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Case Hardened (Battle-Scarred)",
     "item_nameid": 176098041,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-EnvvxN4TZk2pH8Ytz07_C946njlXm_xJoZzinJoXAIFc8NVrQqVXqyL3ug5LouszKyCQxpGB8shoYsace",
-    "sell_order_count": "6",
-    "buy_order_count": "119",
+    "sell_order_count": "5",
+    "buy_order_count": "120",
     "lowest_sell_order": "310.50",
-    "highest_buy_order": "259.57",
-    "date_modified": 1760243014277
+    "highest_buy_order": "260.43",
+    "date_modified": 1760281261015
   },
   {
     "hash_name": "★ StatTrak™ Nomad Knife | Boreal Forest (Minimal Wear)",
@@ -27917,7 +27917,7 @@
     "buy_order_count": "96",
     "lowest_sell_order": "280.85",
     "highest_buy_order": "175.39",
-    "date_modified": 1760243022432
+    "date_modified": 1760281269295
   },
   {
     "hash_name": "★ StatTrak™ Navaja Knife | Blue Steel (Factory New)",
@@ -27927,7 +27927,7 @@
     "buy_order_count": "54",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "135.76",
-    "date_modified": 1760243030754
+    "date_modified": 1760281277607
   },
   {
     "hash_name": "★ StatTrak™ M9 Bayonet | Urban Masked (Minimal Wear)",
@@ -27937,17 +27937,17 @@
     "buy_order_count": "116",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "596.90",
-    "date_modified": 1760243038916
+    "date_modified": 1760281285752
   },
   {
     "hash_name": "★ StatTrak™ M9 Bayonet | Freehand (Minimal Wear)",
     "item_nameid": 156992073,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-Kmsj5Mqnak29u_dVO07n--YXygED6_kA9NWylIY7EcgM-aQmE8gLqwOa508K66c_PnyZi6HV34n3Vmka_1wYMMLL7Px51fA",
     "sell_order_count": 0,
-    "buy_order_count": "136",
+    "buy_order_count": "135",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "693.54",
-    "date_modified": 1760243047065
+    "date_modified": 1760281293930
   },
   {
     "hash_name": "★ StatTrak™ M9 Bayonet | Bright Water (Factory New)",
@@ -27957,7 +27957,7 @@
     "buy_order_count": "145",
     "lowest_sell_order": "978.47",
     "highest_buy_order": "733.84",
-    "date_modified": 1760243055407
+    "date_modified": 1760281302273
   },
   {
     "hash_name": "★ StatTrak™ M9 Bayonet | Boreal Forest (Well-Worn)",
@@ -27967,27 +27967,27 @@
     "buy_order_count": "67",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "540.36",
-    "date_modified": 1760243063558
+    "date_modified": 1760281310431
   },
   {
     "hash_name": "★ StatTrak™ Kukri Knife | Slaughter (Field-Tested)",
     "item_nameid": 176416293,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97dGJjoWJhfbLPr7Vn35cpsYlibDEo9-t0QHm_0ttZm-lctOWdA87Y1CD8gW2k7_rgpTo6J_OnHF9-n51Ipf2QoU",
-    "sell_order_count": "4",
-    "buy_order_count": "65",
+    "sell_order_count": "3",
+    "buy_order_count": "66",
     "lowest_sell_order": "298.35",
-    "highest_buy_order": "267.97",
-    "date_modified": 1760243071736
+    "highest_buy_order": "268.83",
+    "date_modified": 1760281318573
   },
   {
     "hash_name": "★ StatTrak™ Kukri Knife | Scorched (Well-Worn)",
     "item_nameid": 176414833,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJkIGbh_vxDLbUkmJE5YshjLzArNmm2Fex_hY6ZGylJoadJgI_YluE_1Dslbu7gsS06ZXIwHpnpGB8sl1kT8Ha",
-    "sell_order_count": "3",
+    "sell_order_count": "2",
     "buy_order_count": "133",
-    "lowest_sell_order": "119.33",
+    "lowest_sell_order": "140.50",
     "highest_buy_order": "100.00",
-    "date_modified": 1760243080040
+    "date_modified": 1760281326754
   },
   {
     "hash_name": "★ StatTrak™ Karambit | Stained (Battle-Scarred)",
@@ -27997,7 +27997,7 @@
     "buy_order_count": "84",
     "lowest_sell_order": "908.86",
     "highest_buy_order": "831.05",
-    "date_modified": 1760243088210
+    "date_modified": 1760281334917
   },
   {
     "hash_name": "★ StatTrak™ Huntsman Knife | Urban Masked (Minimal Wear)",
@@ -28007,17 +28007,17 @@
     "buy_order_count": "107",
     "lowest_sell_order": "226.00",
     "highest_buy_order": "154.93",
-    "date_modified": 1760243096370
+    "date_modified": 1760281343080
   },
   {
     "hash_name": "★ StatTrak™ Huntsman Knife | Stained (Well-Worn)",
     "item_nameid": 9765750,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlZG0kfjmML7VqWZU7Mxkh6eX9NXw2Qzj_ks4a2rwdtKUd1JvMlvW-FTqx-zrh5O_tJjByyFm6HF0-z-DyLlNZ_Q_",
     "sell_order_count": "3",
-    "buy_order_count": "218",
+    "buy_order_count": "216",
     "lowest_sell_order": "246.47",
     "highest_buy_order": "151.45",
-    "date_modified": 1760243104703
+    "date_modified": 1760281351437
   },
   {
     "hash_name": "★ StatTrak™ Huntsman Knife | Scorched (Well-Worn)",
@@ -28025,9 +28025,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJh5C0k_bkI7fUqWZU7Mxkh6fEoYmgjVayr0pta2D7ctXGcwE8MlCG_lG3kuvp0cW8vsiaziFlvSQh-z-DyNDFtxyM",
     "sell_order_count": "2",
     "buy_order_count": "131",
-    "lowest_sell_order": "225.05",
+    "lowest_sell_order": "349.90",
     "highest_buy_order": "124.09",
-    "date_modified": 1760243112868
+    "date_modified": 1760281359614
   },
   {
     "hash_name": "★ StatTrak™ Huntsman Knife | Fade (Minimal Wear)",
@@ -28037,7 +28037,7 @@
     "buy_order_count": "145",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "368.96",
-    "date_modified": 1760243121054
+    "date_modified": 1760281367791
   },
   {
     "hash_name": "★ StatTrak™ Gut Knife | Boreal Forest (Field-Tested)",
@@ -28047,7 +28047,7 @@
     "buy_order_count": "202",
     "lowest_sell_order": "125.40",
     "highest_buy_order": "106.99",
-    "date_modified": 1760243129351
+    "date_modified": 1760281376125
   },
   {
     "hash_name": "★ StatTrak™ Flip Knife | Safari Mesh (Minimal Wear)",
@@ -28057,67 +28057,67 @@
     "buy_order_count": "112",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "172.01",
-    "date_modified": 1760243137663
+    "date_modified": 1760281384281
   },
   {
     "hash_name": "★ StatTrak™ Flip Knife | Damascus Steel (Well-Worn)",
     "item_nameid": 29727301,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD_eOylY2KhPThIITck29Y_cg_0uvApNmg21C3rUVoY27xLdXEIA87YQrZ_1m7wrzuhZK06snLnHJn7z5iuyg8QoGu8Q",
-    "sell_order_count": 0,
-    "buy_order_count": "98",
-    "lowest_sell_order": "0.00",
-    "highest_buy_order": "169.53",
-    "date_modified": 1760243145993
+    "sell_order_count": "1",
+    "buy_order_count": "99",
+    "lowest_sell_order": "220.15",
+    "highest_buy_order": "169.75",
+    "date_modified": 1760281392463
   },
   {
     "hash_name": "★ StatTrak™ Flip Knife | Black Laminate (Well-Worn)",
     "item_nameid": 156455973,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJB-eOwmImbqOTgPLXUgWpC4Pp8j-3I4IG72QHsrkZsYTjydtWSJgU2YlrY_gDtxum5gsK96c7BzyQx6Cdw4izdmQv330_HZPwB6Q",
-    "sell_order_count": "3",
+    "sell_order_count": "4",
     "buy_order_count": "85",
-    "lowest_sell_order": "328.40",
+    "lowest_sell_order": "285.00",
     "highest_buy_order": "172.08",
-    "date_modified": 1760243154330
+    "date_modified": 1760281400650
   },
   {
     "hash_name": "★ StatTrak™ Falchion Knife | Night (Well-Worn)",
     "item_nameid": 49676413,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh4-0mf7zO6_um25V4dB8xLuUo4jxjQW3-EBuN27xIIPEewVtN1_Zrli_le3shJC8tZjOz3ox63M8pSGK2XxikJ0",
-    "sell_order_count": "1",
+    "sell_order_count": "2",
     "buy_order_count": "104",
-    "lowest_sell_order": "461.20",
+    "lowest_sell_order": "457.32",
     "highest_buy_order": "121.46",
-    "date_modified": 1760243162476
+    "date_modified": 1760281408821
   },
   {
     "hash_name": "★ StatTrak™ Falchion Knife | Lore (Well-Worn)",
     "item_nameid": 176270332,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJl5W0kfb4MLPYmWVu5Mpjj9bM8Ij8nVn6rxc6YWv3cNXHIFA5ZgqG8gW8yOnm0Zbv78-fm3tg7ydxs3-Lmxy_ggYMMLJEYFLXag",
     "sell_order_count": "2",
-    "buy_order_count": "57",
+    "buy_order_count": "56",
     "lowest_sell_order": "250.43",
-    "highest_buy_order": "162.78",
-    "date_modified": 1760243170648
+    "highest_buy_order": "158.99",
+    "date_modified": 1760281416978
   },
   {
     "hash_name": "★ StatTrak™ Falchion Knife | Case Hardened (Factory New)",
     "item_nameid": 49845667,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0mP74Nr_ummJW4NE_j7nD99mk3AS3-EM9a2D6Jo-RIQc_YQvX_gLvw-jnhZLovZ_PwXFkuD5iuyhT9UOvSQ",
     "sell_order_count": 0,
-    "buy_order_count": "165",
+    "buy_order_count": "163",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "322.57",
-    "date_modified": 1760243178951
+    "date_modified": 1760281425151
   },
   {
     "hash_name": "★ StatTrak™ Falchion Knife | Black Laminate (Field-Tested)",
     "item_nameid": 176263334,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJk5O0kfb4MLPYmWVu6slwieL--Y34gVq1vxYDPjynfcPIbFdtMFDXqAK5xr-7hcK_vZ2YyiZk6yghsCmOlhax10xPZ7c-1vzMS1iAR_seCPno_7Q",
-    "sell_order_count": "3",
+    "sell_order_count": "2",
     "buy_order_count": "130",
-    "lowest_sell_order": "155.66",
+    "lowest_sell_order": "180.72",
     "highest_buy_order": "128.00",
-    "date_modified": 1760243187265
+    "date_modified": 1760281433304
   },
   {
     "hash_name": "★ StatTrak™ Falchion Knife | Autotronic (Factory New)",
@@ -28126,8 +28126,8 @@
     "sell_order_count": "1",
     "buy_order_count": "107",
     "lowest_sell_order": "575.00",
-    "highest_buy_order": "372.22",
-    "date_modified": 1760243195420
+    "highest_buy_order": "372.41",
+    "date_modified": 1760281441475
   },
   {
     "hash_name": "★ StatTrak™ Classic Knife | Stained (Minimal Wear)",
@@ -28137,7 +28137,7 @@
     "buy_order_count": "100",
     "lowest_sell_order": "366.92",
     "highest_buy_order": "197.69",
-    "date_modified": 1760243203752
+    "date_modified": 1760281449784
   },
   {
     "hash_name": "★ StatTrak™ Classic Knife | Scorched (Well-Worn)",
@@ -28147,27 +28147,27 @@
     "buy_order_count": "90",
     "lowest_sell_order": "265.89",
     "highest_buy_order": "160.78",
-    "date_modified": 1760243212100
+    "date_modified": 1760281457957
   },
   {
     "hash_name": "★ StatTrak™ Classic Knife | Night Stripe (Minimal Wear)",
     "item_nameid": 176092049,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ODbTi5S09K_k4ifhOPmOqvUqWdY781lxL2Ypd7xilewrkI9Z2mlINOXJ1M3Yg6BrFDqkuzv0MTtus6dn3IyuXY8pSGKwzw9VGc",
     "sell_order_count": "4",
-    "buy_order_count": "111",
-    "lowest_sell_order": "221.23",
-    "highest_buy_order": "165.79",
-    "date_modified": 1760243220276
+    "buy_order_count": "109",
+    "lowest_sell_order": "220.84",
+    "highest_buy_order": "166.80",
+    "date_modified": 1760281466100
   },
   {
     "hash_name": "★ StatTrak™ Classic Knife | Forest DDPAT (Battle-Scarred)",
     "item_nameid": 176092051,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ODbTjVb09iyhIGfqP_xMq3I2DpS7pJ3i-yZodSii1Hm-hI4Njj1INeUJA5qMgrT_VG8kLq5hsC1uJjXiSw0FISgdzM",
     "sell_order_count": "5",
-    "buy_order_count": "120",
+    "buy_order_count": "121",
     "lowest_sell_order": "150.00",
-    "highest_buy_order": "118.02",
-    "date_modified": 1760243228590
+    "highest_buy_order": "124.55",
+    "date_modified": 1760281474518
   },
   {
     "hash_name": "★ StatTrak™ Classic Knife | Crimson Web (Field-Tested)",
@@ -28177,7 +28177,7 @@
     "buy_order_count": "108",
     "lowest_sell_order": "354.51",
     "highest_buy_order": "293.59",
-    "date_modified": 1760243236742
+    "date_modified": 1760281482693
   },
   {
     "hash_name": "★ StatTrak™ Classic Knife | Case Hardened (Battle-Scarred)",
@@ -28187,7 +28187,7 @@
     "buy_order_count": "120",
     "lowest_sell_order": "271.55",
     "highest_buy_order": "207.62",
-    "date_modified": 1760243244902
+    "date_modified": 1760281490825
   },
   {
     "hash_name": "★ StatTrak™ Classic Knife | Blue Steel (Minimal Wear)",
@@ -28196,18 +28196,18 @@
     "sell_order_count": "3",
     "buy_order_count": "77",
     "lowest_sell_order": "267.41",
-    "highest_buy_order": "224.54",
-    "date_modified": 1760243253219
+    "highest_buy_order": "224.60",
+    "date_modified": 1760281499103
   },
   {
     "hash_name": "★ StatTrak™ Butterfly Knife | Ultraviolet (Field-Tested)",
     "item_nameid": 175881194,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq5OEqOfhIavdk1Rc7cF4n-SPoYqs2Fbm-UFsZm3wIIaccQNqYQzUrFC8ku6-18DqvZzNwSFnvHYhtmGdwUIGZFUt2g",
-    "sell_order_count": "4",
-    "buy_order_count": "581",
+    "sell_order_count": "2",
+    "buy_order_count": "582",
     "lowest_sell_order": "1350.00",
     "highest_buy_order": "1102.59",
-    "date_modified": 1760243261442
+    "date_modified": 1760281507263
   },
   {
     "hash_name": "★ StatTrak™ Butterfly Knife | Scorched (Field-Tested)",
@@ -28217,7 +28217,7 @@
     "buy_order_count": "497",
     "lowest_sell_order": "1247.70",
     "highest_buy_order": "903.71",
-    "date_modified": 1760243269791
+    "date_modified": 1760281515536
   },
   {
     "hash_name": "★ StatTrak™ Butterfly Knife | Damascus Steel (Minimal Wear)",
@@ -28227,7 +28227,7 @@
     "buy_order_count": "459",
     "lowest_sell_order": "1800.00",
     "highest_buy_order": "1258.25",
-    "date_modified": 1760243278100
+    "date_modified": 1760281523797
   },
   {
     "hash_name": "★ StatTrak™ Butterfly Knife | Damascus Steel (Field-Tested)",
@@ -28237,17 +28237,17 @@
     "buy_order_count": "381",
     "lowest_sell_order": "1586.31",
     "highest_buy_order": "1240.96",
-    "date_modified": 1760243286254
+    "date_modified": 1760281531960
   },
   {
     "hash_name": "★ StatTrak™ Butterfly Knife | Boreal Forest (Field-Tested)",
     "item_nameid": 15008083,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4iSqPH7Ib7CglRT59d0i-X--InxgUG55UM_MjrxIdfEelNoZFmF-QW9xOntgcK8tczBmiRivCYj5S3blhe0hhxSLrs49z_KL0g",
-    "sell_order_count": "1",
-    "buy_order_count": "472",
-    "lowest_sell_order": "1441.31",
+    "sell_order_count": "2",
+    "buy_order_count": "471",
+    "lowest_sell_order": "1044.23",
     "highest_buy_order": "827.60",
-    "date_modified": 1760243294425
+    "date_modified": 1760281540230
   },
   {
     "hash_name": "★ StatTrak™ Butterfly Knife | Boreal Forest (Battle-Scarred)",
@@ -28257,7 +28257,7 @@
     "buy_order_count": "143",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "788.59",
-    "date_modified": 1760243302729
+    "date_modified": 1760281548507
   },
   {
     "hash_name": "★ StatTrak™ Butterfly Knife | Black Laminate (Field-Tested)",
@@ -28267,7 +28267,7 @@
     "buy_order_count": "235",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "1197.73",
-    "date_modified": 1760243310881
+    "date_modified": 1760281556652
   },
   {
     "hash_name": "★ StatTrak™ Bowie Knife | Stained (Factory New)",
@@ -28277,7 +28277,7 @@
     "buy_order_count": "61",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "170.27",
-    "date_modified": 1760243319065
+    "date_modified": 1760281564941
   },
   {
     "hash_name": "★ StatTrak™ Bowie Knife | Forest DDPAT (Minimal Wear)",
@@ -28287,17 +28287,17 @@
     "buy_order_count": "152",
     "lowest_sell_order": "176.50",
     "highest_buy_order": "152.28",
-    "date_modified": 1760243327363
+    "date_modified": 1760281573088
   },
   {
     "hash_name": "★ StatTrak™ Bayonet | Ultraviolet (Minimal Wear)",
     "item_nameid": 31965460,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zbfgJS-c6mmIW0m_7zO6-flD9X7sAn3LyU946kjAbl_hdqZzz2J9LEIwQ7NAqDqAe2w-zpgse_6IOJlyWwO7fq8Q",
     "sell_order_count": "4",
-    "buy_order_count": "184",
+    "buy_order_count": "185",
     "lowest_sell_order": "494.35",
-    "highest_buy_order": "375.78",
-    "date_modified": 1760243335544
+    "highest_buy_order": "375.84",
+    "date_modified": 1760281581262
   },
   {
     "hash_name": "★ StatTrak™ Bayonet | Stained (Well-Worn)",
@@ -28307,17 +28307,17 @@
     "buy_order_count": "110",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "235.30",
-    "date_modified": 1760243343688
+    "date_modified": 1760281589451
   },
   {
     "hash_name": "★ StatTrak™ Bayonet | Lore (Factory New)",
     "item_nameid": 175872948,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zLZAJA7cW5moWfqPv7Ib7ummJW4NE_jr6Vp9iljlHg_kZtMW_wIYeVeg9sYA7XrAO-ku3p08e0v86cwSNguj5iuygqkB6roA",
     "sell_order_count": "1",
-    "buy_order_count": "514",
+    "buy_order_count": "513",
     "lowest_sell_order": "1556.61",
-    "highest_buy_order": "891.80",
-    "date_modified": 1760243352000
+    "highest_buy_order": "892.00",
+    "date_modified": 1760281597614
   },
   {
     "hash_name": "★ StatTrak™ Bayonet | Black Laminate (Factory New)",
@@ -28327,37 +28327,37 @@
     "buy_order_count": "102",
     "lowest_sell_order": "602.75",
     "highest_buy_order": "416.26",
-    "date_modified": 1760243360149
+    "date_modified": 1760281605766
   },
   {
     "hash_name": "★ Sport Gloves | Big Game (Battle-Scarred)",
     "item_nameid": 176209719,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-gY6fkuXLO77QgHIf6cZ03urFpNSn2gHl_0dpN2Dzd9KRd1NtaFiG-wXsxefm0Z-96ZvBwWwj5Hd2f_glQg",
-    "sell_order_count": "7",
-    "buy_order_count": "185",
-    "lowest_sell_order": "287.50",
-    "highest_buy_order": "248.45",
-    "date_modified": 1760243368329
+    "sell_order_count": "11",
+    "buy_order_count": "182",
+    "lowest_sell_order": "275.00",
+    "highest_buy_order": "248.41",
+    "date_modified": 1760281613902
   },
   {
     "hash_name": "★ Skeleton Knife | Ultraviolet (Well-Worn)",
     "item_nameid": 176506965,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJh4-0h-LmI7fUqWZU7Mxkh6fCp9722FblrxU4ZjyndtKWe1RsY17V8lnrlOi70JC475vKzSRmvXF0-z-DyLKRwdLs",
     "sell_order_count": "1",
-    "buy_order_count": "118",
+    "buy_order_count": "117",
     "lowest_sell_order": "401.46",
     "highest_buy_order": "362.53",
-    "date_modified": 1760243376626
+    "date_modified": 1760281622167
   },
   {
     "hash_name": "★ Skeleton Knife | Slaughter (Field-Tested)",
     "item_nameid": 176097745,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlY20jfL2Ibrum25V4dB8xLCQ8Nut2wDl_UZsMGr0LI-Te1A5NFHTrFm_lb-80Za5tZTBznBivCQ8pSGKgii6Fjk",
     "sell_order_count": "2",
-    "buy_order_count": "290",
+    "buy_order_count": "289",
     "lowest_sell_order": "975.14",
-    "highest_buy_order": "697.88",
-    "date_modified": 1760243384786
+    "highest_buy_order": "691.81",
+    "date_modified": 1760281630352
   },
   {
     "hash_name": "★ Skeleton Knife | Scorched (Factory New)",
@@ -28367,27 +28367,27 @@
     "buy_order_count": "99",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "410.96",
-    "date_modified": 1760243392942
+    "date_modified": 1760281638538
   },
   {
     "hash_name": "★ Skeleton Knife | Case Hardened (Factory New)",
     "item_nameid": 176097787,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0mP74Nr_ummJW4NE_jrCRoYin3QPs-EpoYzvxcI_HcVc4Mg3S8wS4k7vq0JG8uMjLynJqvj5iuyhPAbAUnQ",
     "sell_order_count": "2",
-    "buy_order_count": "309",
+    "buy_order_count": "310",
     "lowest_sell_order": "1048.70",
     "highest_buy_order": "781.56",
-    "date_modified": 1760243401271
+    "date_modified": 1760281646691
   },
   {
     "hash_name": "★ Skeleton Knife | Blue Steel (Factory New)",
     "item_nameid": 176097643,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0lfvhNr_ummJW4NE_jrnE89ml0AbkqkA6Y2nxLIbGdQ9vYV7V_Vi-k-jtjJa5uMycmnZlvz5iuyjAPkq86w",
-    "sell_order_count": "3",
+    "sell_order_count": "2",
     "buy_order_count": "255",
-    "lowest_sell_order": "749.99",
+    "lowest_sell_order": "795.61",
     "highest_buy_order": "687.54",
-    "date_modified": 1760243409434
+    "date_modified": 1760281654833
   },
   {
     "hash_name": "★ Shadow Daggers | Safari Mesh (Well-Worn)",
@@ -28397,27 +28397,27 @@
     "buy_order_count": "590",
     "lowest_sell_order": "99.44",
     "highest_buy_order": "76.91",
-    "date_modified": 1760243417604
+    "date_modified": 1760281663118
   },
   {
     "hash_name": "★ Shadow Daggers | Damascus Steel (Factory New)",
     "item_nameid": 175880595,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eOylY2KhPThIISIxlRd4cJ5nqeXp9mijVHnrUVsNWHydYfHIQFsYQnY_1O-yOjqg5O8uJqcnXFgvyIm-z-DyLzJhc1H",
-    "sell_order_count": "17",
-    "buy_order_count": "315",
-    "lowest_sell_order": "138.37",
+    "sell_order_count": "16",
+    "buy_order_count": "316",
+    "lowest_sell_order": "134.95",
     "highest_buy_order": "123.40",
-    "date_modified": 1760243425939
+    "date_modified": 1760281671282
   },
   {
     "hash_name": "★ Shadow Daggers | Blue Steel (Factory New)",
     "item_nameid": 67248799,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO0mJWOk8j4OrzZgiVV7pMni-yT9472jVHj-UNpZW_3d4KRJ1dvZFCB_wTtybvr1pG97ZXJ1zI97dvXBY-A",
-    "sell_order_count": "3",
-    "buy_order_count": "148",
-    "lowest_sell_order": "207.54",
-    "highest_buy_order": "158.89",
-    "date_modified": 1760243434093
+    "sell_order_count": "4",
+    "buy_order_count": "149",
+    "lowest_sell_order": "199.75",
+    "highest_buy_order": "159.10",
+    "date_modified": 1760281679557
   },
   {
     "hash_name": "★ Paracord Knife | Urban Masked (Factory New)",
@@ -28427,7 +28427,7 @@
     "buy_order_count": "73",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "219.69",
-    "date_modified": 1760243442243
+    "date_modified": 1760281687687
   },
   {
     "hash_name": "★ Nomad Knife | Marble Fade (Minimal Wear)",
@@ -28437,27 +28437,27 @@
     "buy_order_count": "106",
     "lowest_sell_order": "596.70",
     "highest_buy_order": "533.74",
-    "date_modified": 1760243450566
+    "date_modified": 1760281695938
   },
   {
     "hash_name": "★ Nomad Knife | Crimson Web (Well-Worn)",
     "item_nameid": 176097598,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO-jb-ckvXnDLbUkmJE5Ysm3b_Hp9-i2lfs-EZtMTqlJNLGJgI-aAvU8wC-x-7v0ZW-vJvNznplpGB8srrmADcO",
     "sell_order_count": "2",
-    "buy_order_count": "167",
+    "buy_order_count": "168",
     "lowest_sell_order": "338.74",
-    "highest_buy_order": "263.17",
-    "date_modified": 1760243458714
+    "highest_buy_order": "263.26",
+    "date_modified": 1760281704068
   },
   {
     "hash_name": "★ Nomad Knife | Boreal Forest (Well-Worn)",
     "item_nameid": 176098097,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO-jb-NmOXxIK_ulGRD7cR9teTE8YXghRq2_kZvYWz1JNSdew5qYAzT_1m-wry6g5C_tZTKziBg7CYkt3vczBS1n1gSOfnvi1p8",
-    "sell_order_count": "3",
-    "buy_order_count": "139",
-    "lowest_sell_order": "178.87",
-    "highest_buy_order": "145.99",
-    "date_modified": 1760243467023
+    "sell_order_count": "2",
+    "buy_order_count": "140",
+    "lowest_sell_order": "180.00",
+    "highest_buy_order": "146.13",
+    "date_modified": 1760281712230
   },
   {
     "hash_name": "★ Moto Gloves | Polygon (Factory New)",
@@ -28466,8 +28466,8 @@
     "sell_order_count": 0,
     "buy_order_count": "119",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "876.48",
-    "date_modified": 1760243475342
+    "highest_buy_order": "878.32",
+    "date_modified": 1760281720525
   },
   {
     "hash_name": "★ Moto Gloves | Eclipse (Minimal Wear)",
@@ -28476,8 +28476,8 @@
     "sell_order_count": "1",
     "buy_order_count": "222",
     "lowest_sell_order": "994.49",
-    "highest_buy_order": "785.07",
-    "date_modified": 1760243483503
+    "highest_buy_order": "785.69",
+    "date_modified": 1760281728810
   },
   {
     "hash_name": "★ M9 Bayonet | Forest DDPAT (Well-Worn)",
@@ -28487,37 +28487,37 @@
     "buy_order_count": "158",
     "lowest_sell_order": "585.19",
     "highest_buy_order": "488.59",
-    "date_modified": 1760243491659
+    "date_modified": 1760281737072
   },
   {
     "hash_name": "★ M9 Bayonet | Boreal Forest (Minimal Wear)",
     "item_nameid": 1391137,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-DjsjyPKnUhX9u6spjj-jNyoD8j1yg5UppZmH2JY-WdAA6NFmErgO4x7_ojcK9uJ-fyXY2unIjsHrVmUPk10lSLrs4b-cpapQ",
-    "sell_order_count": "3",
-    "buy_order_count": "207",
-    "lowest_sell_order": "770.50",
+    "sell_order_count": "2",
+    "buy_order_count": "206",
+    "lowest_sell_order": "847.95",
     "highest_buy_order": "600.26",
-    "date_modified": 1760243499969
+    "date_modified": 1760281745438
   },
   {
     "hash_name": "★ M9 Bayonet | Autotronic (Well-Worn)",
     "item_nameid": 157574709,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-MhMj5aoTTl3Ju6dBlhf3T-oL8i2u5rhc1JjTtJNWWJAU4ZV7Wq1brl-m9gZK-vJXLmHViunMm5HaOnhDlhxtMPeVp1uveFwsi7ibNzg",
     "sell_order_count": 0,
-    "buy_order_count": "121",
+    "buy_order_count": "120",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "1166.68",
-    "date_modified": 1760243508276
+    "highest_buy_order": "1166.59",
+    "date_modified": 1760281753677
   },
   {
     "hash_name": "★ Karambit | Stained (Minimal Wear)",
     "item_nameid": 1340742,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0kfjmML7VqWdY781lxL3F9N702gWxr0tlaj31JoORdgQ_Zw7SrAPoxurphpfpuZ7NwCc2v3I8pSGKZL5KQAw",
     "sell_order_count": "2",
-    "buy_order_count": "674",
+    "buy_order_count": "675",
     "lowest_sell_order": "1340.41",
     "highest_buy_order": "1068.87",
-    "date_modified": 1760243516605
+    "date_modified": 1760281761957
   },
   {
     "hash_name": "★ Karambit | Rust Coat (Well-Worn)",
@@ -28525,19 +28525,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0hOPxNrfunWVY7sBOh-zF_Jn4xgWy_0tuYzv0d4TGcA5sYl7XqVjsx-q5jJDv7pnNz3Rrv3Jz536LzBSpwUYb-sTRHyg",
     "sell_order_count": "1",
     "buy_order_count": "335",
-    "lowest_sell_order": "1530.00",
+    "lowest_sell_order": "1499.00",
     "highest_buy_order": "856.13",
-    "date_modified": 1760243524914
+    "date_modified": 1760281770122
   },
   {
     "hash_name": "★ Karambit | Night (Field-Tested)",
     "item_nameid": 1321685,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh4-0mf7zO6_um25V4dB8xOqR8I-l2AKy-kZoMTqgcIacIw9tZ1qG_gPtwe_m0JG_6JTKnXVk6yY8pSGKagmpe8M",
     "sell_order_count": "4",
-    "buy_order_count": "650",
+    "buy_order_count": "648",
     "lowest_sell_order": "973.06",
-    "highest_buy_order": "873.80",
-    "date_modified": 1760243533084
+    "highest_buy_order": "873.88",
+    "date_modified": 1760281778261
   },
   {
     "hash_name": "★ Karambit | Freehand (Well-Worn)",
@@ -28547,7 +28547,7 @@
     "buy_order_count": "274",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "840.20",
-    "date_modified": 1760243541244
+    "date_modified": 1760281786514
   },
   {
     "hash_name": "★ Karambit | Forest DDPAT (Battle-Scarred)",
@@ -28557,7 +28557,7 @@
     "buy_order_count": "487",
     "lowest_sell_order": "805.00",
     "highest_buy_order": "719.39",
-    "date_modified": 1760243549582
+    "date_modified": 1760281794843
   },
   {
     "hash_name": "★ Karambit | Bright Water (Well-Worn)",
@@ -28567,17 +28567,17 @@
     "buy_order_count": "193",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "807.71",
-    "date_modified": 1760243557901
+    "date_modified": 1760281803129
   },
   {
     "hash_name": "★ Huntsman Knife | Damascus Steel (Field-Tested)",
     "item_nameid": 175880559,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlZG0k_b5MqjSg3husZVOh-zF_Jn4xlfmqBE6NT33JofAcwc7M1rQ_FW5w7zphJC6uJmYzSRrsylzt3jclhypwUYbko9uPV8",
     "sell_order_count": "19",
-    "buy_order_count": "398",
+    "buy_order_count": "396",
     "lowest_sell_order": "192.00",
-    "highest_buy_order": "173.68",
-    "date_modified": 1760243566070
+    "highest_buy_order": "171.31",
+    "date_modified": 1760281811397
   },
   {
     "hash_name": "★ Hand Wraps | Slaughter (Minimal Wear)",
