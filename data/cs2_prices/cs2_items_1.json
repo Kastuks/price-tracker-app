@@ -15003,21 +15003,21 @@
     "hash_name": "★ Nomad Knife | Slaughter (Minimal Wear)",
     "item_nameid": 176097475,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3mb-RkvXmMoTdn2xZ_Iso2L_A9oqhjgSyqks_ZGD6co_DdFc-MA2C-wXqwu6515W1tJ7AziFrpGB8sjoYHxCN",
-    "sell_order_count": "8",
+    "sell_order_count": "7",
     "buy_order_count": "273",
-    "lowest_sell_order": "560.74",
+    "lowest_sell_order": "562.00",
     "highest_buy_order": "454.44",
-    "date_modified": 1760350309177
+    "date_modified": 1760389678301
   },
   {
     "hash_name": "★ Nomad Knife | Slaughter (Field-Tested)",
     "item_nameid": 176097718,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3mb-RkvXmMoTck29Y_cg_i-qQrNvxigLl_Rc4YzrzJYWRIQVqZA3WqATtleq615e6u87PnCRn6D5iuyiYXLpWBw",
-    "sell_order_count": "3",
-    "buy_order_count": "168",
+    "sell_order_count": "2",
+    "buy_order_count": "166",
     "lowest_sell_order": "475.65",
-    "highest_buy_order": "425.82",
-    "date_modified": 1760350317458
+    "highest_buy_order": "425.63",
+    "date_modified": 1760389686501
   },
   {
     "hash_name": "★ Nomad Knife | Slaughter (Factory New)",
@@ -15027,7 +15027,7 @@
     "buy_order_count": "278",
     "lowest_sell_order": "590.00",
     "highest_buy_order": "509.37",
-    "date_modified": 1760350325616
+    "date_modified": 1760389694605
   },
   {
     "hash_name": "★ Nomad Knife | Scorched (Well-Worn)",
@@ -15037,7 +15037,7 @@
     "buy_order_count": "169",
     "lowest_sell_order": "191.43",
     "highest_buy_order": "169.79",
-    "date_modified": 1760350333799
+    "date_modified": 1760389702841
   },
   {
     "hash_name": "★ Nomad Knife | Scorched (Minimal Wear)",
@@ -15047,27 +15047,27 @@
     "buy_order_count": "178",
     "lowest_sell_order": "237.51",
     "highest_buy_order": "187.62",
-    "date_modified": 1760350341957
+    "date_modified": 1760389711089
   },
   {
     "hash_name": "★ Nomad Knife | Scorched (Field-Tested)",
     "item_nameid": 176097640,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-PlufkP77um25V4dB8xLjFpImj3VbirUpkNzjxcYSQdlA2ZF3Q_FS8lL-5hMW96Z6cznI27nI8pSGKrG3OiPA",
-    "sell_order_count": "9",
-    "buy_order_count": "283",
+    "sell_order_count": "10",
+    "buy_order_count": "285",
     "lowest_sell_order": "180.81",
-    "highest_buy_order": "174.28",
-    "date_modified": 1760350350126
+    "highest_buy_order": "174.29",
+    "date_modified": 1760389719217
   },
   {
     "hash_name": "★ Nomad Knife | Scorched (Battle-Scarred)",
     "item_nameid": 176097790,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-PlufkP77unm5Q_tw_3OuUrYii2wDjrxFlNj-gddSScgA2MFjW81nvyL_r1MLo7Z_LnXA1sj5iuyiIzmgDUw",
-    "sell_order_count": "2",
-    "buy_order_count": "224",
+    "sell_order_count": "3",
+    "buy_order_count": "226",
     "lowest_sell_order": "181.28",
-    "highest_buy_order": "153.08",
-    "date_modified": 1760350358422
+    "highest_buy_order": "153.12",
+    "date_modified": 1760389727453
   },
   {
     "hash_name": "★ Nomad Knife | Safari Mesh (Well-Worn)",
@@ -15077,7 +15077,7 @@
     "buy_order_count": "207",
     "lowest_sell_order": "171.64",
     "highest_buy_order": "142.85",
-    "date_modified": 1760350366561
+    "date_modified": 1760389735572
   },
   {
     "hash_name": "★ Nomad Knife | Safari Mesh (Minimal Wear)",
@@ -15087,37 +15087,37 @@
     "buy_order_count": "176",
     "lowest_sell_order": "211.89",
     "highest_buy_order": "171.08",
-    "date_modified": 1760350374751
+    "date_modified": 1760389743844
   },
   {
     "hash_name": "★ Nomad Knife | Safari Mesh (Field-Tested)",
     "item_nameid": 176097512,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-GkuT8DK_QmFRc7cF4n-SPotjz3gDg-hdqNWHxIoaXIQI9MAzQ_Fa_l-rphZK_vcnAyCZj6CIh7GGdwUJvYXQh5g",
     "sell_order_count": "5",
-    "buy_order_count": "346",
+    "buy_order_count": "348",
     "lowest_sell_order": "176.25",
-    "highest_buy_order": "160.71",
-    "date_modified": 1760350383048
+    "highest_buy_order": "161.80",
+    "date_modified": 1760389752106
   },
   {
     "hash_name": "★ Nomad Knife | Safari Mesh (Battle-Scarred)",
     "item_nameid": 176097637,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-GkuT8DK_QmFRZ7cRnk6eT9t-gigWwqERvMmyiJ4ade1RoMwzR_VG9k-vo05G76Z_Bm3ZjvnMr-z-DyGmKd1Tt",
-    "sell_order_count": "1",
-    "buy_order_count": "239",
+    "sell_order_count": "2",
+    "buy_order_count": "240",
     "lowest_sell_order": "174.03",
-    "highest_buy_order": "146.09",
-    "date_modified": 1760350391191
+    "highest_buy_order": "146.20",
+    "date_modified": 1760389760361
   },
   {
     "hash_name": "★ Nomad Knife | Rust Coat (Battle-Scarred)",
     "item_nameid": 176506366,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-Yg_LxP4TamGJX7fp5j-jX7MKmjQyyrUNpYz3yJ9fBIAVrM1zX-ATqx7u5jJTtu8iamHdgsiRw4H2IgVXp1vzg74VG",
-    "sell_order_count": "15",
-    "buy_order_count": "1,258",
-    "lowest_sell_order": "209.14",
-    "highest_buy_order": "190.93",
-    "date_modified": 1760350399346
+    "sell_order_count": "16",
+    "buy_order_count": "1,259",
+    "lowest_sell_order": "207.00",
+    "highest_buy_order": "190.94",
+    "date_modified": 1760389768476
   },
   {
     "hash_name": "★ Nomad Knife | Night Stripe (Well-Worn)",
@@ -15127,87 +15127,87 @@
     "buy_order_count": "139",
     "lowest_sell_order": "198.89",
     "highest_buy_order": "174.08",
-    "date_modified": 1760350407640
+    "date_modified": 1760389776723
   },
   {
     "hash_name": "★ Nomad Knife | Night Stripe (Minimal Wear)",
     "item_nameid": 176097682,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-FnvD8J6jFhGJB7fp9g-7J4cKljgyx-kE5ZWzyddeQIVc2NQuF_Ffox725g5a5uMnIyCdrvSYn5yvcgVXp1nhOKIDG",
     "sell_order_count": "7",
-    "buy_order_count": "157",
-    "lowest_sell_order": "206.55",
+    "buy_order_count": "156",
+    "lowest_sell_order": "225.72",
     "highest_buy_order": "199.34",
-    "date_modified": 1760350415913
+    "date_modified": 1760389784859
   },
   {
     "hash_name": "★ Nomad Knife | Night Stripe (Field-Tested)",
     "item_nameid": 176097558,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-FnvD8J6jFhGJB7fp8j-3I4IG72ALh_RdlN22lJ4eRcQ44NQ6B-VC8x7u8gJTt6ZvBwHdnviN07X-Pngv330985pwquw",
-    "sell_order_count": "13",
+    "sell_order_count": "11",
     "buy_order_count": "207",
-    "lowest_sell_order": "200.72",
+    "lowest_sell_order": "187.92",
     "highest_buy_order": "185.27",
-    "date_modified": 1760350424089
+    "date_modified": 1760389792989
   },
   {
     "hash_name": "★ Nomad Knife | Night Stripe (Battle-Scarred)",
     "item_nameid": 176097525,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uOlhL-FnvD8J6jFhGJB7fp5j-jX7MLxigbs-ktkajz0J9PDc1I2NV7T-ljvwOe9hce1uprLyXIxs3QgsHjUgVXp1qQyXhEn",
-    "sell_order_count": "5",
-    "buy_order_count": "198",
-    "lowest_sell_order": "198.05",
+    "sell_order_count": "6",
+    "buy_order_count": "197",
+    "lowest_sell_order": "186.53",
     "highest_buy_order": "163.44",
-    "date_modified": 1760350432267
+    "date_modified": 1760389801222
   },
   {
     "hash_name": "★ Nomad Knife | Marble Fade (Factory New)",
     "item_nameid": 176506251,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3mb-GluX2P77ukGpV7fp9g-7J4cKg3QCx-kY_amimd4DGcVA_Mw3Y_gC-w7vtgpS_7s-fzHtm6CUnsXjYgVXp1n3Y8pC4",
-    "sell_order_count": "17",
+    "sell_order_count": "16",
     "buy_order_count": "1,330",
-    "lowest_sell_order": "550.00",
-    "highest_buy_order": "556.28",
-    "date_modified": 1760350440434
+    "lowest_sell_order": "570.76",
+    "highest_buy_order": "543.98",
+    "date_modified": 1760389809358
   },
   {
     "hash_name": "★ Nomad Knife | Forest DDPAT (Well-Worn)",
     "item_nameid": 176097845,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO-jb-Pk-f1J4Tck29Y_cg_jrqSod3w0APs-UFlZmHxcYKRJwZrNAyBrFK_k7_s0J6_6cjOn3Nisj5iuyguyju2-Q",
     "sell_order_count": "4",
-    "buy_order_count": "147",
-    "lowest_sell_order": "180.81",
-    "highest_buy_order": "143.15",
-    "date_modified": 1760350448594
+    "buy_order_count": "149",
+    "lowest_sell_order": "180.64",
+    "highest_buy_order": "144.76",
+    "date_modified": 1760389817478
   },
   {
     "hash_name": "★ Nomad Knife | Forest DDPAT (Minimal Wear)",
     "item_nameid": 176097594,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO-jb-Pk-f1J4Tdn2xZ_Isg0rzFoYqnigHg_xY5Yz2hdY6XdwNrNVuG_1Hrlens1JW96M7AyCQ1pGB8si09M2iR",
-    "sell_order_count": "8",
-    "buy_order_count": "168",
-    "lowest_sell_order": "184.00",
-    "highest_buy_order": "173.65",
-    "date_modified": 1760350456768
+    "sell_order_count": "6",
+    "buy_order_count": "169",
+    "lowest_sell_order": "185.93",
+    "highest_buy_order": "173.61",
+    "date_modified": 1760389825707
   },
   {
     "hash_name": "★ Nomad Knife | Forest DDPAT (Field-Tested)",
     "item_nameid": 176097473,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO-jb-Pk-f1J4Tck29Y_cg_jrqSod3w0APs-UFlZmHxcYKRJwZrNAyBrFK_k7_s0J6_6cjOn3Nisj5iuyguyju2-Q",
-    "sell_order_count": "12",
-    "buy_order_count": "255",
-    "lowest_sell_order": "173.50",
-    "highest_buy_order": "168.78",
-    "date_modified": 1760350464904
+    "sell_order_count": "11",
+    "buy_order_count": "247",
+    "lowest_sell_order": "179.79",
+    "highest_buy_order": "165.55",
+    "date_modified": 1760389833856
   },
   {
     "hash_name": "★ Nomad Knife | Forest DDPAT (Battle-Scarred)",
     "item_nameid": 176097794,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO-jb-Pk-f1J4TZk2pH8Ysk2LzD89_wjFG1-xBuYWDzI4DGJAY6N1yG-Fbvyezp1MW06JXImyFqpGB8spyUML7c",
     "sell_order_count": "4",
-    "buy_order_count": "199",
+    "buy_order_count": "201",
     "lowest_sell_order": "172.10",
-    "highest_buy_order": "146.98",
-    "date_modified": 1760350473126
+    "highest_buy_order": "147.02",
+    "date_modified": 1760389841973
   },
   {
     "hash_name": "★ Nomad Knife | Fade (Minimal Wear)",
@@ -15217,17 +15217,17 @@
     "buy_order_count": "128",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "794.73",
-    "date_modified": 1760350481412
+    "date_modified": 1760389850252
   },
   {
     "hash_name": "★ Nomad Knife | Fade (Factory New)",
     "item_nameid": 176097169,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3lb-NlvPxDLfYkWNFppEpieuSpY3zigLj-BY4ZD2mJY6Wew5tYV3Y81HrwOzmg5G-vJuczXB9-n51VqLQnyQ",
-    "sell_order_count": "15",
-    "buy_order_count": "635",
+    "sell_order_count": "14",
+    "buy_order_count": "636",
     "lowest_sell_order": "949.72",
     "highest_buy_order": "843.12",
-    "date_modified": 1760350489579
+    "date_modified": 1760389858372
   },
   {
     "hash_name": "★ Nomad Knife | Doppler (Minimal Wear)",
@@ -15237,67 +15237,67 @@
     "buy_order_count": "687",
     "lowest_sell_order": "1173.52",
     "highest_buy_order": "917.71",
-    "date_modified": 1760350497925
+    "date_modified": 1760389866491
   },
   {
     "hash_name": "★ Nomad Knife | Doppler (Factory New)",
     "item_nameid": 176506483,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3mb-PmOfkP77DqXtZ6dZ029bN_Iv9nBrm_kBrN2DyJ9LBcFA9YV2C8lC8wu_pgZLptZ_LznViuyAm5nvZyhLin1gSOWvlUz4_",
     "sell_order_count": "10",
-    "buy_order_count": "423",
-    "lowest_sell_order": "939.97",
-    "highest_buy_order": "863.04",
-    "date_modified": 1760350506228
+    "buy_order_count": "425",
+    "lowest_sell_order": "937.86",
+    "highest_buy_order": "863.11",
+    "date_modified": 1760389874736
   },
   {
     "hash_name": "★ Nomad Knife | Damascus Steel (Well-Worn)",
     "item_nameid": 176506593,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-Plvr1ILjEhVRc7cF4n-SP8Y6n2gC38kVkZD_wII_EcAQ3MFjQ8gW3kuvujJftu53MyCA37iUj42GdwULyygWnyA",
-    "sell_order_count": "1",
+    "sell_order_count": "3",
     "buy_order_count": "132",
-    "lowest_sell_order": "345.70",
+    "lowest_sell_order": "344.50",
     "highest_buy_order": "245.18",
-    "date_modified": 1760350514367
+    "date_modified": 1760389882867
   },
   {
     "hash_name": "★ Nomad Knife | Damascus Steel (Minimal Wear)",
     "item_nameid": 176506375,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-Plvr1ILjEhVRd4cJ5nqeS99yl3lDn80RrMGvyJ4TGIQc8NQ2GqVG7xe3sgp7u7s-fyiFkvnJx-z-DyOQUUeMb",
-    "sell_order_count": "3",
-    "buy_order_count": "153",
-    "lowest_sell_order": "338.13",
+    "sell_order_count": "4",
+    "buy_order_count": "152",
+    "lowest_sell_order": "338.02",
     "highest_buy_order": "285.90",
-    "date_modified": 1760350522535
+    "date_modified": 1760389890981
   },
   {
     "hash_name": "★ Nomad Knife | Damascus Steel (Field-Tested)",
     "item_nameid": 176506437,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-Plvr1ILjEhVRc7cF4n-SP8Y6n2gC38kVkZD_wII_EcAQ3MFjQ8gW3kuvujJftu53MyCA37iUj42GdwULyygWnyA",
     "sell_order_count": "7",
-    "buy_order_count": "162",
-    "lowest_sell_order": "279.75",
-    "highest_buy_order": "265.85",
-    "date_modified": 1760350530863
+    "buy_order_count": "153",
+    "lowest_sell_order": "280.00",
+    "highest_buy_order": "265.84",
+    "date_modified": 1760389899244
   },
   {
     "hash_name": "★ Nomad Knife | Damascus Steel (Factory New)",
     "item_nameid": 176506418,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-Plvr1ILjEhVRd4cJ5nqeS99yl3lDn80RrMGvyJ4TGIQc8NQ2GqVG7xe3sgp7u7s-fyiFkvnJx-z-DyOQUUeMb",
     "sell_order_count": "13",
-    "buy_order_count": "160",
-    "lowest_sell_order": "347.00",
+    "buy_order_count": "161",
+    "lowest_sell_order": "335.00",
     "highest_buy_order": "314.78",
-    "date_modified": 1760350539010
+    "date_modified": 1760389907520
   },
   {
     "hash_name": "★ Nomad Knife | Damascus Steel (Battle-Scarred)",
     "item_nameid": 176506490,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-Plvr1ILjEhVRZ7cRnk6fA8dms31HkrxE5ZGnzctPHJwY6ZV_QqVK8kOjnh5C9tcvBzXY2vXQn-z-DyLuIE9RT",
-    "sell_order_count": "2",
-    "buy_order_count": "123",
-    "lowest_sell_order": "287.50",
-    "highest_buy_order": "235.00",
-    "date_modified": 1760350547180
+    "sell_order_count": "1",
+    "buy_order_count": "122",
+    "lowest_sell_order": "397.80",
+    "highest_buy_order": "232.45",
+    "date_modified": 1760389915635
   },
   {
     "hash_name": "★ Nomad Knife | Crimson Web (Minimal Wear)",
@@ -15305,19 +15305,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO-jb-ckvXnDLfYkWNFppQp0uvC8Ymj3wziqBI-YGH2LILEJlBrYwqE-1K6wbu9jcLqvZzAmiF9-n51dOeBO9I",
     "sell_order_count": "5",
     "buy_order_count": "208",
-    "lowest_sell_order": "589.67",
-    "highest_buy_order": "440.63",
-    "date_modified": 1760350555461
+    "lowest_sell_order": "589.66",
+    "highest_buy_order": "432.40",
+    "date_modified": 1760389923874
   },
   {
     "hash_name": "★ Nomad Knife | Crimson Web (Field-Tested)",
     "item_nameid": 176097515,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO-jb-ckvXnDLbUkmJE5Ysm3b_Hp9-i2lfs-EZtMTqlJNLGJgI-aAvU8wC-x-7v0ZW-vJvNznplpGB8srrmADcO",
-    "sell_order_count": "15",
-    "buy_order_count": "274",
+    "sell_order_count": "14",
+    "buy_order_count": "275",
     "lowest_sell_order": "360.80",
     "highest_buy_order": "309.31",
-    "date_modified": 1760350563606
+    "date_modified": 1760389931982
   },
   {
     "hash_name": "★ Nomad Knife | Crimson Web (Battle-Scarred)",
@@ -15325,9 +15325,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO-jb-ckvXnDLPUl31IppB00r7HoYih3AXsqUY5amr3d4LEdQVtZQnQ_Qfsku_oh5_q6ZrOyCN9-n51pVfGHes",
     "sell_order_count": "7",
     "buy_order_count": "157",
-    "lowest_sell_order": "285.37",
+    "lowest_sell_order": "284.11",
     "highest_buy_order": "230.28",
-    "date_modified": 1760350571785
+    "date_modified": 1760389940114
   },
   {
     "hash_name": "★ Nomad Knife | Case Hardened (Well-Worn)",
@@ -15337,7 +15337,7 @@
     "buy_order_count": "261",
     "lowest_sell_order": "311.37",
     "highest_buy_order": "250.79",
-    "date_modified": 1760350580064
+    "date_modified": 1760389948365
   },
   {
     "hash_name": "★ Nomad Knife | Case Hardened (Minimal Wear)",
@@ -15347,17 +15347,17 @@
     "buy_order_count": "202",
     "lowest_sell_order": "397.40",
     "highest_buy_order": "356.46",
-    "date_modified": 1760350588244
+    "date_modified": 1760389956467
   },
   {
     "hash_name": "★ Nomad Knife | Case Hardened (Field-Tested)",
     "item_nameid": 176097664,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-EnvvxN4Tck29Y_cg_2-yX9oij2gyxrxJuMTz2LYXBJgBtMFGE_gTowOjtjMS7tcudzns16T5iuyio1RTE8A",
-    "sell_order_count": "17",
+    "sell_order_count": "19",
     "buy_order_count": "203",
-    "lowest_sell_order": "312.82",
+    "lowest_sell_order": "316.03",
     "highest_buy_order": "297.69",
-    "date_modified": 1760350596557
+    "date_modified": 1760389964582
   },
   {
     "hash_name": "★ Nomad Knife | Case Hardened (Factory New)",
@@ -15366,38 +15366,38 @@
     "sell_order_count": "1",
     "buy_order_count": "200",
     "lowest_sell_order": "978.47",
-    "highest_buy_order": "499.18",
-    "date_modified": 1760350604840
+    "highest_buy_order": "502.21",
+    "date_modified": 1760389972826
   },
   {
     "hash_name": "★ Nomad Knife | Case Hardened (Battle-Scarred)",
     "item_nameid": 176097665,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-EnvvxN4TZk2pH8Ytz07_C946njlXm_xJoZzinJoXAIFc8NVrQqVXqyL3ug5LouszKyCQxpGB8shoYsace",
     "sell_order_count": "10",
-    "buy_order_count": "198",
-    "lowest_sell_order": "283.17",
-    "highest_buy_order": "244.04",
-    "date_modified": 1760350613011
+    "buy_order_count": "199",
+    "lowest_sell_order": "285.00",
+    "highest_buy_order": "244.21",
+    "date_modified": 1760389980922
   },
   {
     "hash_name": "★ Nomad Knife | Boreal Forest (Minimal Wear)",
     "item_nameid": 176097661,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO-jb-NmOXxIK_ulGRD7cR9teXI8oThxlWwqEZpNjvyd4XBcAQ2aV-B_1jqwuy50Z-1uZrIzHtk7CYl53namBKpwUYb_ZahdHQ",
-    "sell_order_count": "6",
+    "sell_order_count": "5",
     "buy_order_count": "146",
-    "lowest_sell_order": "226.55",
+    "lowest_sell_order": "227.86",
     "highest_buy_order": "182.19",
-    "date_modified": 1760350621196
+    "date_modified": 1760389989208
   },
   {
     "hash_name": "★ Nomad Knife | Boreal Forest (Field-Tested)",
     "item_nameid": 176097592,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO-jb-NmOXxIK_ulGRD7cR9teTE8YXghRq2_kZvYWz1JNSdew5qYAzT_1m-wry6g5C_tZTKziBg7CYkt3vczBS1n1gSOfnvi1p8",
-    "sell_order_count": "15",
-    "buy_order_count": "229",
-    "lowest_sell_order": "188.57",
-    "highest_buy_order": "172.42",
-    "date_modified": 1760350629349
+    "sell_order_count": "13",
+    "buy_order_count": "224",
+    "lowest_sell_order": "188.78",
+    "highest_buy_order": "166.76",
+    "date_modified": 1760389997447
   },
   {
     "hash_name": "★ Nomad Knife | Boreal Forest (Factory New)",
@@ -15407,57 +15407,57 @@
     "buy_order_count": "119",
     "lowest_sell_order": "319.62",
     "highest_buy_order": "236.16",
-    "date_modified": 1760350637709
+    "date_modified": 1760390005577
   },
   {
     "hash_name": "★ Nomad Knife | Boreal Forest (Battle-Scarred)",
     "item_nameid": 176097826,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO-jb-NmOXxIK_ulGRD7cR9teHE9JrsxlXl8ktpa2j7ItPEe1Q4MA3T-FboybrtjJ-7uMvOnCEy6yR05XfVy0OpwUYbXd1_JrA",
     "sell_order_count": 0,
-    "buy_order_count": "208",
+    "buy_order_count": "209",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "149.98",
-    "date_modified": 1760350645994
+    "date_modified": 1760390013829
   },
   {
     "hash_name": "★ Nomad Knife | Blue Steel (Well-Worn)",
     "item_nameid": 176097348,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-Jm-LxN4Tck29Y_cg_2LmRpt6jiVLj-RJtNWygJ4fHIA42NA3Q_lnowLi708To7ZyYySFnuT5iuyhvIPCZhQ",
-    "sell_order_count": "6",
-    "buy_order_count": "172",
-    "lowest_sell_order": "298.32",
+    "sell_order_count": "5",
+    "buy_order_count": "170",
+    "lowest_sell_order": "298.24",
     "highest_buy_order": "270.87",
-    "date_modified": 1760350654150
+    "date_modified": 1760390022066
   },
   {
     "hash_name": "★ Nomad Knife | Blue Steel (Minimal Wear)",
     "item_nameid": 176097714,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-Jm-LxN4Tdn2xZ_Ish2OiY9N72iw3i-0VoZ236I4_GewBrMAvV-we7wb_uhsO4upnPy3phpGB8skk3Py1Y",
-    "sell_order_count": "7",
+    "sell_order_count": "8",
     "buy_order_count": "160",
     "lowest_sell_order": "399.00",
     "highest_buy_order": "327.76",
-    "date_modified": 1760350662319
+    "date_modified": 1760390030173
   },
   {
     "hash_name": "★ Nomad Knife | Blue Steel (Field-Tested)",
     "item_nameid": 176097750,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-Jm-LxN4Tck29Y_cg_2LmRpt6jiVLj-RJtNWygJ4fHIA42NA3Q_lnowLi708To7ZyYySFnuT5iuyhvIPCZhQ",
-    "sell_order_count": "9",
-    "buy_order_count": "169",
-    "lowest_sell_order": "360.00",
-    "highest_buy_order": "296.86",
-    "date_modified": 1760350670484
+    "sell_order_count": "10",
+    "buy_order_count": "168",
+    "lowest_sell_order": "350.52",
+    "highest_buy_order": "296.87",
+    "date_modified": 1760390038309
   },
   {
     "hash_name": "★ Nomad Knife | Blue Steel (Factory New)",
     "item_nameid": 176098457,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-Jm-LxN4Tdn2xZ_Ish2OiY9N72iw3i-0VoZ236I4_GewBrMAvV-we7wb_uhsO4upnPy3phpGB8skk3Py1Y",
     "sell_order_count": "3",
-    "buy_order_count": "153",
+    "buy_order_count": "154",
     "lowest_sell_order": "1031.41",
-    "highest_buy_order": "421.89",
-    "date_modified": 1760350678822
+    "highest_buy_order": "421.95",
+    "date_modified": 1760390046544
   },
   {
     "hash_name": "★ Nomad Knife | Blue Steel (Battle-Scarred)",
@@ -15467,47 +15467,47 @@
     "buy_order_count": "143",
     "lowest_sell_order": "300.00",
     "highest_buy_order": "273.27",
-    "date_modified": 1760350687005
+    "date_modified": 1760390054783
   },
   {
     "hash_name": "★ Nomad Knife",
     "item_nameid": 176096910,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaIAlp1fb3fihW6NO5hs7fw_XyNuyHzmoI6sAk0rzFpdjwjQK2-0NqYWGgJtOTdAQ7ZV3XqFO5366x0py_4T75",
-    "sell_order_count": "17",
-    "buy_order_count": "1,052",
-    "lowest_sell_order": "378.97",
-    "highest_buy_order": "365.88",
-    "date_modified": 1760350695157
+    "sell_order_count": "20",
+    "buy_order_count": "1,056",
+    "lowest_sell_order": "375.52",
+    "highest_buy_order": "366.05",
+    "date_modified": 1760390063031
   },
   {
     "hash_name": "★ Navaja Knife | Urban Masked (Well-Worn)",
     "item_nameid": 176000202,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjBqX9Q-MBOn_vD9ILKhVGwogYxfTumdoeRdQ44aFHTrAS-wObm18K1v5mbyCBns3Zx4nvZnBO_10kaOOVxxavJ4rDl5eU",
-    "sell_order_count": "6",
+    "sell_order_count": "7",
     "buy_order_count": "482",
-    "lowest_sell_order": "103.28",
+    "lowest_sell_order": "116.74",
     "highest_buy_order": "83.66",
-    "date_modified": 1760350703441
+    "date_modified": 1760390071338
   },
   {
     "hash_name": "★ Navaja Knife | Urban Masked (Minimal Wear)",
     "item_nameid": 176000029,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjBqX9Q-MBOn_vD9ILKhF2zowdyY2j7LNKQdwJqNFvYqwW6xb3p157tvczPy3dr7CYisCyMzh3ihR9IP_sv26LJrptRzQ",
-    "sell_order_count": "11",
+    "sell_order_count": "10",
     "buy_order_count": "274",
-    "lowest_sell_order": "103.39",
-    "highest_buy_order": "85.93",
-    "date_modified": 1760350711579
+    "lowest_sell_order": "99.83",
+    "highest_buy_order": "85.87",
+    "date_modified": 1760390079442
   },
   {
     "hash_name": "★ Navaja Knife | Urban Masked (Field-Tested)",
     "item_nameid": 176000665,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjBqX9Q-MBOn_vD9ILKhVGwogYxfTumdoeRdQ44aFHTrAS-wObm18K1v5mbyCBns3Zx4nvZnBO_10kaOOVxxavJ4rDl5eU",
-    "sell_order_count": "23",
-    "buy_order_count": "1,547",
-    "lowest_sell_order": "96.42",
+    "sell_order_count": "24",
+    "buy_order_count": "1,544",
+    "lowest_sell_order": "95.71",
     "highest_buy_order": "86.91",
-    "date_modified": 1760350719751
+    "date_modified": 1760390087558
   },
   {
     "hash_name": "★ Navaja Knife | Urban Masked (Factory New)",
@@ -15517,47 +15517,47 @@
     "buy_order_count": "99",
     "lowest_sell_order": "195.82",
     "highest_buy_order": "124.03",
-    "date_modified": 1760350728038
+    "date_modified": 1760390095859
   },
   {
     "hash_name": "★ Navaja Knife | Urban Masked (Battle-Scarred)",
     "item_nameid": 176000323,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjBqX9Q-MBOn_vD9ILKgFG1vQpyYzv3doXGJ1NvNFDZ8lm8wL3n15a56ZvLyHBk63Mrt3vbzRCyhhwZZ_sv26Kz9YKzKA",
-    "sell_order_count": "4",
-    "buy_order_count": "1,759",
-    "lowest_sell_order": "98.99",
-    "highest_buy_order": "86.72",
-    "date_modified": 1760350736206
+    "sell_order_count": "5",
+    "buy_order_count": "1,757",
+    "lowest_sell_order": "86.06",
+    "highest_buy_order": "82.07",
+    "date_modified": 1760390103979
   },
   {
     "hash_name": "★ Navaja Knife | Ultraviolet (Well-Worn)",
     "item_nameid": 176043477,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjeqXtE-tV9j9bM8Ij8nVn6rktkNWyhI4OcdQc3ZVDSrgC6w-a-gp-16p_KzSRluXYl4XrUnEDkgAYMMLLW8XYKCA",
     "sell_order_count": "11",
-    "buy_order_count": "521",
-    "lowest_sell_order": "102.09",
+    "buy_order_count": "520",
+    "lowest_sell_order": "100.92",
     "highest_buy_order": "89.20",
-    "date_modified": 1760350744359
+    "date_modified": 1760390112103
   },
   {
     "hash_name": "★ Navaja Knife | Ultraviolet (Minimal Wear)",
     "item_nameid": 176042782,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjeqXtE-tV9j9bN_Iv9nBqyqRdvYmGnd46UJgA3YQzR-VPsk--5gJbtv5TPyiZisiIi5H3bnhezn1gSOU6wOg9p",
-    "sell_order_count": "15",
+    "sell_order_count": "13",
     "buy_order_count": "292",
-    "lowest_sell_order": "125.40",
+    "lowest_sell_order": "125.50",
     "highest_buy_order": "112.41",
-    "date_modified": 1760350752529
+    "date_modified": 1760390120375
   },
   {
     "hash_name": "★ Navaja Knife | Ultraviolet (Field-Tested)",
     "item_nameid": 176042801,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjeqXtE-tV9j9bM8Ij8nVn6rktkNWyhI4OcdQc3ZVDSrgC6w-a-gp-16p_KzSRluXYl4XrUnEDkgAYMMLLW8XYKCA",
-    "sell_order_count": "32",
-    "buy_order_count": "1,041",
-    "lowest_sell_order": "100.00",
-    "highest_buy_order": "89.88",
-    "date_modified": 1760350760668
+    "sell_order_count": "34",
+    "buy_order_count": "1,033",
+    "lowest_sell_order": "101.03",
+    "highest_buy_order": "89.87",
+    "date_modified": 1760390128476
   },
   {
     "hash_name": "★ Navaja Knife | Ultraviolet (Factory New)",
@@ -15567,67 +15567,67 @@
     "buy_order_count": "129",
     "lowest_sell_order": "241.42",
     "highest_buy_order": "169.82",
-    "date_modified": 1760350768837
+    "date_modified": 1760390136592
   },
   {
     "hash_name": "★ Navaja Knife | Ultraviolet (Battle-Scarred)",
     "item_nameid": 176043047,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjeqXtE-tV9j9bJ8I3jkRrn_kBoNzygd9OWdgQ8YF3Trlbrx-q8h5G06M6ayCFlvyglsXaJnxSwn1gSOa0NMkq7",
-    "sell_order_count": "10",
-    "buy_order_count": "851",
-    "lowest_sell_order": "99.75",
-    "highest_buy_order": "88.39",
-    "date_modified": 1760350777162
+    "sell_order_count": "11",
+    "buy_order_count": "852",
+    "lowest_sell_order": "96.22",
+    "highest_buy_order": "89.43",
+    "date_modified": 1760390144902
   },
   {
     "hash_name": "★ Navaja Knife | Tiger Tooth (Minimal Wear)",
     "item_nameid": 176045071,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrfqX9Y78BjtebT9ILyjWu4ohQ0J3eicYfAJ1Q8YVnW-AC4lOzug57ptJ2cnHcysiUktizcykG-hR4YaOxmm7XAHm3Qlx32",
     "sell_order_count": "6",
-    "buy_order_count": "187",
-    "lowest_sell_order": "167.00",
-    "highest_buy_order": "142.73",
-    "date_modified": 1760350785467
+    "buy_order_count": "185",
+    "lowest_sell_order": "166.00",
+    "highest_buy_order": "141.35",
+    "date_modified": 1760390153015
   },
   {
     "hash_name": "★ Navaja Knife | Tiger Tooth (Factory New)",
     "item_nameid": 176042756,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrfqX9Y78BjtebT9ILyjWu4ohQ0J3eicYfAJ1Q8YVnW-AC4lOzug57ptJ2cnHcysiUktizcykG-hR4YaOxmm7XAHm3Qlx32",
-    "sell_order_count": "40",
+    "sell_order_count": "43",
     "buy_order_count": "830",
-    "lowest_sell_order": "161.48",
+    "lowest_sell_order": "158.65",
     "highest_buy_order": "142.77",
-    "date_modified": 1760350793620
+    "date_modified": 1760390161167
   },
   {
     "hash_name": "★ Navaja Knife | Stained (Well-Worn)",
     "item_nameid": 176000055,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW1e-sZ0jtbM8Ij8nVn6_Uo5MT36dYSUIVVvYV7Q8wC3lefuhpW-78nBmnJqvykl4C6LmBW_hgYMMLJUm7j1Fg",
-    "sell_order_count": "13",
-    "buy_order_count": "607",
-    "lowest_sell_order": "99.07",
-    "highest_buy_order": "87.64",
-    "date_modified": 1760350801978
+    "sell_order_count": "12",
+    "buy_order_count": "604",
+    "lowest_sell_order": "82.16",
+    "highest_buy_order": "87.69",
+    "date_modified": 1760390169408
   },
   {
     "hash_name": "★ Navaja Knife | Stained (Minimal Wear)",
     "item_nameid": 176000157,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW1e-sZ0jtbN_Iv9nBq3_kRvZDzxJ9PAIFQ2YAmE81bvxuu-1pS6tMnNwSc16yEntH2Mzhywn1gSOY-y-f2t",
     "sell_order_count": "10",
-    "buy_order_count": "288",
-    "lowest_sell_order": "97.77",
-    "highest_buy_order": "91.71",
-    "date_modified": 1760350810111
+    "buy_order_count": "287",
+    "lowest_sell_order": "107.27",
+    "highest_buy_order": "91.77",
+    "date_modified": 1760390177641
   },
   {
     "hash_name": "★ Navaja Knife | Stained (Field-Tested)",
     "item_nameid": 176000130,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW1e-sZ0jtbM8Ij8nVn6_Uo5MT36dYSUIVVvYV7Q8wC3lefuhpW-78nBmnJqvykl4C6LmBW_hgYMMLJUm7j1Fg",
-    "sell_order_count": "14",
+    "sell_order_count": "13",
     "buy_order_count": "534",
     "lowest_sell_order": "101.38",
-    "highest_buy_order": "87.94",
-    "date_modified": 1760350818264
+    "highest_buy_order": "87.98",
+    "date_modified": 1760390185932
   },
   {
     "hash_name": "★ Navaja Knife | Stained (Factory New)",
@@ -15637,27 +15637,27 @@
     "buy_order_count": "171",
     "lowest_sell_order": "172.97",
     "highest_buy_order": "129.63",
-    "date_modified": 1760350826537
+    "date_modified": 1760390194176
   },
   {
     "hash_name": "★ Navaja Knife | Stained (Battle-Scarred)",
     "item_nameid": 176002309,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW1e-sZ0jtbJ8I3jkRq2-Uc6N23wI9CVdgU-NF3Y_VW9wOy-0cW8v8-cnXRj6HUqt3jVzkfhn1gSOb6eqwDI",
-    "sell_order_count": "6",
+    "sell_order_count": "7",
     "buy_order_count": "431",
-    "lowest_sell_order": "103.80",
-    "highest_buy_order": "87.74",
-    "date_modified": 1760350834700
+    "lowest_sell_order": "100.00",
+    "highest_buy_order": "87.88",
+    "date_modified": 1760390202425
   },
   {
     "hash_name": "★ Navaja Knife | Slaughter (Minimal Wear)",
     "item_nameid": 176000081,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrcqXFU6tdwteXI8oThxlC3qURuNzrwJNeTIAA8NF2Dq1DtkOm7h5a8uZTBy3ZjuSUqtC3blxSpwUYbhOr3ai0",
-    "sell_order_count": "18",
-    "buy_order_count": "296",
+    "sell_order_count": "16",
+    "buy_order_count": "297",
     "lowest_sell_order": "160.00",
-    "highest_buy_order": "147.26",
-    "date_modified": 1760350842879
+    "highest_buy_order": "150.77",
+    "date_modified": 1760390210545
   },
   {
     "hash_name": "★ Navaja Knife | Slaughter (Field-Tested)",
@@ -15665,139 +15665,139 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrcqXFU6tdwteTE8YXghRrgrUJrZjjxLIGcelBsaVDW-AC5lem-jMLtvJSYwSZju3Eq5HjVmRO1n1gSOSRYUNGh",
     "sell_order_count": "7",
     "buy_order_count": "188",
-    "lowest_sell_order": "163.45",
+    "lowest_sell_order": "159.67",
     "highest_buy_order": "144.73",
-    "date_modified": 1760350851252
+    "date_modified": 1760390218785
   },
   {
     "hash_name": "★ Navaja Knife | Slaughter (Factory New)",
     "item_nameid": 176000025,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrcqXFU6tdwteXI8oThxlC3qURuNzrwJNeTIAA8NF2Dq1DtkOm7h5a8uZTBy3ZjuSUqtC3blxSpwUYbhOr3ai0",
     "sell_order_count": "13",
-    "buy_order_count": "322",
+    "buy_order_count": "323",
     "lowest_sell_order": "183.35",
     "highest_buy_order": "165.17",
-    "date_modified": 1760350859393
+    "date_modified": 1760390226889
   },
   {
     "hash_name": "★ Navaja Knife | Scorched (Well-Worn)",
     "item_nameid": 176001073,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjBqW9Q-NV9j9bM8Ij8nVn6rhZlZz_2ctKWJA5vYlrWrFC2krro15a4vc-fnHI3viAj7H2Mn0C21wYMMLJ57AtDkA",
-    "sell_order_count": "10",
-    "buy_order_count": "723",
+    "sell_order_count": "9",
+    "buy_order_count": "726",
     "lowest_sell_order": "96.67",
-    "highest_buy_order": "86.63",
-    "date_modified": 1760350867564
+    "highest_buy_order": "80.86",
+    "date_modified": 1760390235014
   },
   {
     "hash_name": "★ Navaja Knife | Scorched (Minimal Wear)",
     "item_nameid": 176000613,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjBqW9Q-NV9j9bN_Iv9nBrl_BJpMD_zd9PGcwc2aVvRrAK2xL3rjMS5v8uazXc36ShwsHzenBK3n1gSOUMug-Ha",
-    "sell_order_count": "10",
-    "buy_order_count": "375",
-    "lowest_sell_order": "97.53",
-    "highest_buy_order": "81.32",
-    "date_modified": 1760350875735
+    "sell_order_count": "9",
+    "buy_order_count": "380",
+    "lowest_sell_order": "99.38",
+    "highest_buy_order": "81.58",
+    "date_modified": 1760390243255
   },
   {
     "hash_name": "★ Navaja Knife | Scorched (Field-Tested)",
     "item_nameid": 176000114,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjBqW9Q-NV9j9bM8Ij8nVn6rhZlZz_2ctKWJA5vYlrWrFC2krro15a4vc-fnHI3viAj7H2Mn0C21wYMMLJ57AtDkA",
-    "sell_order_count": "32",
-    "buy_order_count": "2,925",
-    "lowest_sell_order": "90.17",
+    "sell_order_count": "31",
+    "buy_order_count": "2,924",
+    "lowest_sell_order": "90.08",
     "highest_buy_order": "84.94",
-    "date_modified": 1760350883899
+    "date_modified": 1760390251361
   },
   {
     "hash_name": "★ Navaja Knife | Scorched (Factory New)",
     "item_nameid": 176030547,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjBqW9Q-NV9j9bN_Iv9nBrl_BJpMD_zd9PGcwc2aVvRrAK2xL3rjMS5v8uazXc36ShwsHzenBK3n1gSOUMug-Ha",
     "sell_order_count": "1",
-    "buy_order_count": "143",
+    "buy_order_count": "142",
     "lowest_sell_order": "400.00",
-    "highest_buy_order": "108.98",
-    "date_modified": 1760350892038
+    "highest_buy_order": "107.26",
+    "date_modified": 1760390259624
   },
   {
     "hash_name": "★ Navaja Knife | Scorched (Battle-Scarred)",
     "item_nameid": 176000936,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjBqW9Q-NV9j9bJ8I3jkRqx_BdlMjz3dYOXIVA3ZQrY_Ae7x--6gZfvuZzPzXMxvyYhtynUmhCyn1gSOQTBd_UI",
-    "sell_order_count": "7",
+    "sell_order_count": "8",
     "buy_order_count": "1,562",
     "lowest_sell_order": "91.77",
     "highest_buy_order": "85.40",
-    "date_modified": 1760350900400
+    "date_modified": 1760390267935
   },
   {
     "hash_name": "★ Navaja Knife | Safari Mesh (Well-Worn)",
     "item_nameid": 176000166,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjBqWZU-81OnujPyoHwjF2hpl1qZjv3d4HHJAA_ZwuD-Vbsxebmg5fquZmbyXE1siAg5XvezRe30B5JcKUx0toV-d51",
-    "sell_order_count": "5",
-    "buy_order_count": "1,263",
-    "lowest_sell_order": "94.50",
-    "highest_buy_order": "80.55",
-    "date_modified": 1760350908583
+    "sell_order_count": "4",
+    "buy_order_count": "1,262",
+    "lowest_sell_order": "88.98",
+    "highest_buy_order": "80.56",
+    "date_modified": 1760390276054
   },
   {
     "hash_name": "★ Navaja Knife | Safari Mesh (Minimal Wear)",
     "item_nameid": 176000093,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjBqWZU-81OnujPyoD8j1yg5UtoZm_wJYLHcAc3NVnY_lDtkObshJ616Z7BzXpmvChz7XeMnxzmgUpSLrs4b7LcLxQ",
-    "sell_order_count": "14",
-    "buy_order_count": "650",
+    "sell_order_count": "13",
+    "buy_order_count": "651",
     "lowest_sell_order": "92.00",
-    "highest_buy_order": "81.28",
-    "date_modified": 1760350916738
+    "highest_buy_order": "79.72",
+    "date_modified": 1760390284192
   },
   {
     "hash_name": "★ Navaja Knife | Safari Mesh (Field-Tested)",
     "item_nameid": 176000161,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjBqWZU-81OnujPyoHwjF2hpl1qZjv3d4HHJAA_ZwuD-Vbsxebmg5fquZmbyXE1siAg5XvezRe30B5JcKUx0toV-d51",
-    "sell_order_count": "18",
-    "buy_order_count": "4,402",
-    "lowest_sell_order": "87.40",
-    "highest_buy_order": "84.91",
-    "date_modified": 1760350925043
+    "sell_order_count": "17",
+    "buy_order_count": "4,391",
+    "lowest_sell_order": "88.11",
+    "highest_buy_order": "83.72",
+    "date_modified": 1760390292434
   },
   {
     "hash_name": "★ Navaja Knife | Safari Mesh (Battle-Scarred)",
     "item_nameid": 176000612,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjBqWZU-81OnujPyoTwiUKt5RVqZT-nIoedc1c4NwuB-wC3x-bqjZW9uZTIm3BisnMjsyqJyxSxiU1SLrs4GDKAic4",
-    "sell_order_count": "13",
-    "buy_order_count": "2,184",
+    "sell_order_count": "12",
+    "buy_order_count": "2,183",
     "lowest_sell_order": "91.22",
-    "highest_buy_order": "78.79",
-    "date_modified": 1760350933223
+    "highest_buy_order": "78.98",
+    "date_modified": 1760390300547
   },
   {
     "hash_name": "★ Navaja Knife | Rust Coat (Well-Worn)",
     "item_nameid": 176046164,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqXhF7cB9teLP_Irwt1mxrxopPnegItDBIwRraVuB_le5yO650ZTqtcmfzyZk73Mq4ymPl0S-1xFNO-Rnm7XAHt3zWp_7",
     "sell_order_count": "13",
-    "buy_order_count": "380",
-    "lowest_sell_order": "99.79",
-    "highest_buy_order": "84.13",
-    "date_modified": 1760350941377
+    "buy_order_count": "379",
+    "lowest_sell_order": "99.68",
+    "highest_buy_order": "83.87",
+    "date_modified": 1760390308656
   },
   {
     "hash_name": "★ Navaja Knife | Rust Coat (Battle-Scarred)",
     "item_nameid": 176042730,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqXhF7cB9teLP_Irwt1yxqgUlfWrwdY6RdwdrZw7Z81Hoye_tjMS7uZXNn3ZhvCR0tH7flh2_gUsfa-RxxavJVGzlf9g",
-    "sell_order_count": "52",
-    "buy_order_count": "3,412",
-    "lowest_sell_order": "85.60",
-    "highest_buy_order": "83.28",
-    "date_modified": 1760350949571
+    "sell_order_count": "51",
+    "buy_order_count": "3,409",
+    "lowest_sell_order": "87.00",
+    "highest_buy_order": "82.66",
+    "date_modified": 1760390316964
   },
   {
     "hash_name": "★ Navaja Knife | Night Stripe (Well-Worn)",
     "item_nameid": 176000194,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjBqWVY781lmf3T_Jzwt1mxrxopPnf7coLBIQM4aFiDq1Htlei61JC56MzAznMwuXIm5H2InBPm1xpOae1um7XAHtPP7bxM",
     "sell_order_count": "6",
-    "buy_order_count": "508",
+    "buy_order_count": "511",
     "lowest_sell_order": "99.44",
-    "highest_buy_order": "81.08",
-    "date_modified": 1760350957722
+    "highest_buy_order": "81.12",
+    "date_modified": 1760390325089
   },
   {
     "hash_name": "★ Navaja Knife | Night Stripe (Minimal Wear)",
@@ -15807,27 +15807,27 @@
     "buy_order_count": "236",
     "lowest_sell_order": "98.99",
     "highest_buy_order": "88.18",
-    "date_modified": 1760350966018
+    "date_modified": 1760390333232
   },
   {
     "hash_name": "★ Navaja Knife | Night Stripe (Field-Tested)",
     "item_nameid": 176000275,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjBqWVY781lmf3T_Jzwt1mxrxopPnf7coLBIQM4aFiDq1Htlei61JC56MzAznMwuXIm5H2InBPm1xpOae1um7XAHtPP7bxM",
-    "sell_order_count": "22",
-    "buy_order_count": "1,303",
+    "sell_order_count": "21",
+    "buy_order_count": "1,305",
     "lowest_sell_order": "91.19",
-    "highest_buy_order": "84.88",
-    "date_modified": 1760350974331
+    "highest_buy_order": "83.91",
+    "date_modified": 1760390341503
   },
   {
     "hash_name": "★ Navaja Knife | Night Stripe (Battle-Scarred)",
     "item_nameid": 176000774,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDKjBqWVY781lmf3T_Jzwt1yxqgUlfW30LdDHc1A5Yw7W8lftxOvth8S7uc6cmiFqsyIl4XyPzRe-1BpIarNxxavJDDWVdhI",
     "sell_order_count": "13",
-    "buy_order_count": "1,070",
+    "buy_order_count": "1,074",
     "lowest_sell_order": "90.41",
-    "highest_buy_order": "85.85",
-    "date_modified": 1760350982498
+    "highest_buy_order": "85.90",
+    "date_modified": 1760390349780
   },
   {
     "hash_name": "★ Navaja Knife | Marble Fade (Minimal Wear)",
@@ -15835,19 +15835,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrcqWZQ-sd9j9bH9Ijwt1i9rBsofW37cYTHJ1I8YFvQ-FPsk7vng5Xuu8ucnSBh7iQr4C3ZzBTm1RhMarFxxavJ-IJylpw",
     "sell_order_count": "5",
     "buy_order_count": "166",
-    "lowest_sell_order": "230.48",
+    "lowest_sell_order": "228.89",
     "highest_buy_order": "176.99",
-    "date_modified": 1760350990637
+    "date_modified": 1760390357896
   },
   {
     "hash_name": "★ Navaja Knife | Marble Fade (Factory New)",
     "item_nameid": 176042763,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrcqWZQ-sd9j9bH9Ijwt1i9rBsofW37cYTHJ1I8YFvQ-FPsk7vng5Xuu8ucnSBh7iQr4C3ZzBTm1RhMarFxxavJ-IJylpw",
-    "sell_order_count": "47",
-    "buy_order_count": "833",
-    "lowest_sell_order": "179.74",
-    "highest_buy_order": "166.89",
-    "date_modified": 1760350998948
+    "sell_order_count": "43",
+    "buy_order_count": "835",
+    "lowest_sell_order": "185.18",
+    "highest_buy_order": "170.16",
+    "date_modified": 1760390366031
   },
   {
     "hash_name": "★ Navaja Knife | Forest DDPAT (Well-Worn)",
@@ -15856,38 +15856,38 @@
     "sell_order_count": "11",
     "buy_order_count": "835",
     "lowest_sell_order": "92.00",
-    "highest_buy_order": "85.28",
-    "date_modified": 1760351007114
+    "highest_buy_order": "85.30",
+    "date_modified": 1760390374142
   },
   {
     "hash_name": "★ Navaja Knife | Forest DDPAT (Minimal Wear)",
     "item_nameid": 176000862,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLPIqW9V-MRlteXI8oThxgy3rRA9a2r1dtLEIAE4aQuB_lXtx7_vjcC-7pianXZruCJ35XfazESpwUYbiR3Nn1E",
-    "sell_order_count": "13",
-    "buy_order_count": "392",
-    "lowest_sell_order": "91.96",
-    "highest_buy_order": "79.84",
-    "date_modified": 1760351015266
+    "sell_order_count": "14",
+    "buy_order_count": "401",
+    "lowest_sell_order": "85.61",
+    "highest_buy_order": "80.97",
+    "date_modified": 1760390382380
   },
   {
     "hash_name": "★ Navaja Knife | Forest DDPAT (Field-Tested)",
     "item_nameid": 176000147,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLPIqW9V-MRlteTE8YXghRq1-EFlMGz1INPAIwE2Z1HS_VS8x7u70JTp6cnPnyFhuykj5CyLy0Pln1gSOYU4fynJ",
-    "sell_order_count": "26",
+    "sell_order_count": "27",
     "buy_order_count": "3,056",
-    "lowest_sell_order": "89.66",
+    "lowest_sell_order": "85.61",
     "highest_buy_order": "83.98",
-    "date_modified": 1760351023556
+    "date_modified": 1760390390733
   },
   {
     "hash_name": "★ Navaja Knife | Forest DDPAT (Battle-Scarred)",
     "item_nameid": 176000838,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLPIqW9V-MRlteHE9JrsxlHk_EZsa2j3IIfBJAdqMl7Z-gS_l-zs0Z606JWfy3prsyV2tCvem0SpwUYbGgnUo2Q",
-    "sell_order_count": "13",
-    "buy_order_count": "1,756",
+    "sell_order_count": "14",
+    "buy_order_count": "1,763",
     "lowest_sell_order": "94.34",
-    "highest_buy_order": "79.64",
-    "date_modified": 1760351031753
+    "highest_buy_order": "79.75",
+    "date_modified": 1760390399012
   },
   {
     "hash_name": "★ Navaja Knife | Fade (Minimal Wear)",
@@ -15897,117 +15897,117 @@
     "buy_order_count": "164",
     "lowest_sell_order": "219.50",
     "highest_buy_order": "193.55",
-    "date_modified": 1760351039890
+    "date_modified": 1760390407247
   },
   {
     "hash_name": "★ Navaja Knife | Fade (Factory New)",
     "item_nameid": 176000110,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrQqW1Q7MBOhuDG_Zi7igbl-RZvNW6nJoLGdg5vYFGEr1e-kOu805-7ucyayiBg6HEhtyqInwv330-lDIlcIA",
-    "sell_order_count": "15",
-    "buy_order_count": "573",
+    "sell_order_count": "19",
+    "buy_order_count": "574",
     "lowest_sell_order": "200.44",
     "highest_buy_order": "188.65",
-    "date_modified": 1760351048082
+    "date_modified": 1760390415504
   },
   {
     "hash_name": "★ Navaja Knife | Doppler (Minimal Wear)",
     "item_nameid": 176048785,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrcqW9e-NV9j_v-5YT0m1HglB81NDG3Oo-WIAc3ZwnWqwLokL--h5e0uZScwXMy6XQmsXmPnkSw0BwebrNngfCACQLJCQUjPAE",
-    "sell_order_count": "4",
-    "buy_order_count": "233",
-    "lowest_sell_order": "234.71",
-    "highest_buy_order": "191.88",
-    "date_modified": 1760351056373
+    "sell_order_count": "3",
+    "buy_order_count": "234",
+    "lowest_sell_order": "281.06",
+    "highest_buy_order": "192.78",
+    "date_modified": 1760390423785
   },
   {
     "hash_name": "★ Navaja Knife | Doppler (Factory New)",
     "item_nameid": 176042628,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrcqW9e-NV9j_v-5YT0m1HnlB81NDG3OtWQIVA6Nw7Q-FLvxe3qhZC17cnJm3c16yV05n3fm0S_gxEYO-Bq1qGACQLJK3Emelg",
-    "sell_order_count": "91",
-    "buy_order_count": "2,363",
-    "lowest_sell_order": "226.00",
-    "highest_buy_order": "203.21",
-    "date_modified": 1760351064527
+    "sell_order_count": "87",
+    "buy_order_count": "2,369",
+    "lowest_sell_order": "226.82",
+    "highest_buy_order": "203.45",
+    "date_modified": 1760390432191
   },
   {
     "hash_name": "★ Navaja Knife | Damascus Steel (Well-Worn)",
     "item_nameid": 176047499,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW9Q5cRiifzSypzngUe5qiwxNj2qYduLcFA3Z1zZ-FfoxujmjJe9uJvKwCBmuXF24HuLyxHjhBtIaOVn16GaT0LeWfL4eja3Eg",
-    "sell_order_count": "4",
-    "buy_order_count": "194",
-    "lowest_sell_order": "111.67",
-    "highest_buy_order": "88.52",
-    "date_modified": 1760351072872
+    "sell_order_count": "5",
+    "buy_order_count": "193",
+    "lowest_sell_order": "109.21",
+    "highest_buy_order": "88.35",
+    "date_modified": 1760390440310
   },
   {
     "hash_name": "★ Navaja Knife | Damascus Steel (Minimal Wear)",
     "item_nameid": 176042968,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW9Q5cRiifzSypzngUe5qiwwOj6rYJidcQ88Z1nYqVfswObujJe0vsiYwHc173IrtHePnxC_000aauBr1_afVxzAUNsj-kd7",
-    "sell_order_count": "24",
+    "sell_order_count": "21",
     "buy_order_count": "290",
-    "lowest_sell_order": "103.24",
-    "highest_buy_order": "93.34",
-    "date_modified": 1760351081157
+    "lowest_sell_order": "109.83",
+    "highest_buy_order": "93.39",
+    "date_modified": 1760390448556
   },
   {
     "hash_name": "★ Navaja Knife | Damascus Steel (Field-Tested)",
     "item_nameid": 176042895,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW9Q5cRiifzSypzngUe5qiwxNj2qYduLcFA3Z1zZ-FfoxujmjJe9uJvKwCBmuXF24HuLyxHjhBtIaOVn16GaT0LeWfL4eja3Eg",
-    "sell_order_count": "31",
-    "buy_order_count": "570",
-    "lowest_sell_order": "99.44",
-    "highest_buy_order": "89.58",
-    "date_modified": 1760351089357
+    "sell_order_count": "29",
+    "buy_order_count": "566",
+    "lowest_sell_order": "95.38",
+    "highest_buy_order": "89.15",
+    "date_modified": 1760390456660
   },
   {
     "hash_name": "★ Navaja Knife | Damascus Steel (Factory New)",
     "item_nameid": 176043109,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW9Q5cRiifzSypzngUe5qiwwOj6rYJidcQ88Z1nYqVfswObujJe0vsiYwHc173IrtHePnxC_000aauBr1_afVxzAUNsj-kd7",
-    "sell_order_count": "17",
-    "buy_order_count": "384",
-    "lowest_sell_order": "122.31",
+    "sell_order_count": "15",
+    "buy_order_count": "383",
+    "lowest_sell_order": "123.44",
     "highest_buy_order": "106.37",
-    "date_modified": 1760351097662
+    "date_modified": 1760390464800
   },
   {
     "hash_name": "★ Navaja Knife | Damascus Steel (Battle-Scarred)",
     "item_nameid": 176044878,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqW9Q5cRiifzSypzngUe5qiw0Nji1bZjHJFM7NF3ZrFXswbjnjMfvuJjLwXdnviMk4n_enhLkhUsdPeVm0PzMVxzAUEtQrVek",
     "sell_order_count": "5",
-    "buy_order_count": "196",
+    "buy_order_count": "198",
     "lowest_sell_order": "122.30",
-    "highest_buy_order": "88.02",
-    "date_modified": 1760351105795
+    "highest_buy_order": "88.91",
+    "date_modified": 1760390473067
   },
   {
     "hash_name": "★ Navaja Knife | Crimson Web (Well-Worn)",
     "item_nameid": 176000168,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLPIqXxU6tZOh-zF_Jn4xgLl_Eo_Yj_1IIGTcwE_ZF_YrlO9x-7t1MfuvJXPnSMyuScn5HbamhepwUYbBtF9oBI",
-    "sell_order_count": "5",
-    "buy_order_count": "265",
-    "lowest_sell_order": "143.82",
+    "sell_order_count": "8",
+    "buy_order_count": "266",
+    "lowest_sell_order": "124.40",
     "highest_buy_order": "105.50",
-    "date_modified": 1760351113954
+    "date_modified": 1760390481180
   },
   {
     "hash_name": "★ Navaja Knife | Crimson Web (Minimal Wear)",
     "item_nameid": 176000296,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLPIqXxU6tZOhuDG_Zi73FCw8kdkYWnyLIHEIARsZlHWqQLoxuvp0JS_6ZXNwXY2snQmsXjUzAv3308dY0UDgw",
-    "sell_order_count": "13",
-    "buy_order_count": "185",
+    "sell_order_count": "12",
+    "buy_order_count": "184",
     "lowest_sell_order": "149.16",
-    "highest_buy_order": "134.90",
-    "date_modified": 1760351122263
+    "highest_buy_order": "133.13",
+    "date_modified": 1760390489331
   },
   {
     "hash_name": "★ Navaja Knife | Crimson Web (Field-Tested)",
     "item_nameid": 176000128,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLPIqXxU6tZOh-zF_Jn4xgLl_Eo_Yj_1IIGTcwE_ZF_YrlO9x-7t1MfuvJXPnSMyuScn5HbamhepwUYbBtF9oBI",
     "sell_order_count": "16",
-    "buy_order_count": "499",
-    "lowest_sell_order": "128.48",
-    "highest_buy_order": "110.97",
-    "date_modified": 1760351130412
+    "buy_order_count": "494",
+    "lowest_sell_order": "122.30",
+    "highest_buy_order": "110.86",
+    "date_modified": 1760390497458
   },
   {
     "hash_name": "★ Navaja Knife | Crimson Web (Factory New)",
@@ -16017,47 +16017,47 @@
     "buy_order_count": "100",
     "lowest_sell_order": "426.69",
     "highest_buy_order": "255.23",
-    "date_modified": 1760351138552
+    "date_modified": 1760390505559
   },
   {
     "hash_name": "★ Navaja Knife | Crimson Web (Battle-Scarred)",
     "item_nameid": 176001595,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLPIqXxU6tZOguzA45W72APk8hFvaj2lIYTDdQ5oNVnQ_1m7lL2-0J_o6JvNm3A273Qhtnvelwv3308xu_01gQ",
     "sell_order_count": "8",
-    "buy_order_count": "262",
+    "buy_order_count": "263",
     "lowest_sell_order": "132.95",
-    "highest_buy_order": "100.33",
-    "date_modified": 1760351146742
+    "highest_buy_order": "100.75",
+    "date_modified": 1760390513698
   },
   {
     "hash_name": "★ Navaja Knife | Case Hardened (Well-Worn)",
     "item_nameid": 176000283,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqWRY5MB1teTE8YXghRrmqEc4NmD3LI7GewM7YFzV81Dowbvs0MDou5ufziQysiNws3fanBywn1gSORKGMJF0",
     "sell_order_count": "16",
-    "buy_order_count": "320",
-    "lowest_sell_order": "144.99",
-    "highest_buy_order": "127.97",
-    "date_modified": 1760351154893
+    "buy_order_count": "319",
+    "lowest_sell_order": "150.00",
+    "highest_buy_order": "128.04",
+    "date_modified": 1760390521955
   },
   {
     "hash_name": "★ Navaja Knife | Case Hardened (Minimal Wear)",
     "item_nameid": 176000106,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqWRY5MB1teXI8oThxg3t-kRlYD31cIaUIQM4Zg2F8gS8wuq7gp7ttJ2Yn3BrsyAm5ynUmkGpwUYbvS_GWiQ",
-    "sell_order_count": "16",
-    "buy_order_count": "226",
+    "sell_order_count": "15",
+    "buy_order_count": "230",
     "lowest_sell_order": "160.00",
-    "highest_buy_order": "140.10",
-    "date_modified": 1760351163050
+    "highest_buy_order": "140.44",
+    "date_modified": 1760390530065
   },
   {
     "hash_name": "★ Navaja Knife | Case Hardened (Field-Tested)",
     "item_nameid": 176000491,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqWRY5MB1teTE8YXghRrmqEc4NmD3LI7GewM7YFzV81Dowbvs0MDou5ufziQysiNws3fanBywn1gSORKGMJF0",
-    "sell_order_count": "22",
-    "buy_order_count": "382",
-    "lowest_sell_order": "134.98",
-    "highest_buy_order": "132.34",
-    "date_modified": 1760351171354
+    "sell_order_count": "21",
+    "buy_order_count": "383",
+    "lowest_sell_order": "147.17",
+    "highest_buy_order": "132.44",
+    "date_modified": 1760390538213
   },
   {
     "hash_name": "★ Navaja Knife | Case Hardened (Factory New)",
@@ -16065,149 +16065,149 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqWRY5MB1teXI8oThxg3t-kRlYD31cIaUIQM4Zg2F8gS8wuq7gp7ttJ2Yn3BrsyAm5ynUmkGpwUYbvS_GWiQ",
     "sell_order_count": "5",
     "buy_order_count": "137",
-    "lowest_sell_order": "250.73",
+    "lowest_sell_order": "249.86",
     "highest_buy_order": "196.39",
-    "date_modified": 1760351179511
+    "date_modified": 1760390546448
   },
   {
     "hash_name": "★ Navaja Knife | Case Hardened (Battle-Scarred)",
     "item_nameid": 176000804,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqWRY5MB1teHE9JrsxgDi-URlY2n3IdfEcVRtZwyErla5wOrqhpXu7p2bz3diunYi4X_UzBOpwUYbw5hN9aw",
-    "sell_order_count": "12",
+    "sell_order_count": "14",
     "buy_order_count": "260",
     "lowest_sell_order": "138.11",
-    "highest_buy_order": "126.92",
-    "date_modified": 1760351187652
+    "highest_buy_order": "127.08",
+    "date_modified": 1760390554548
   },
   {
     "hash_name": "★ Navaja Knife | Boreal Forest (Well-Worn)",
     "item_nameid": 176005628,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLPIqW1e-sBintbD-p7wiViLphY4OiyuOoCVdFA8Nw7Z-la6kr_thcW46s_ByXRj7ycntH7VlkS00hkdauNphvCACQLJRRQoBV0",
-    "sell_order_count": "6",
+    "sell_order_count": "8",
     "buy_order_count": "687",
-    "lowest_sell_order": "100.47",
+    "lowest_sell_order": "99.97",
     "highest_buy_order": "82.15",
-    "date_modified": 1760351195836
+    "date_modified": 1760390562657
   },
   {
     "hash_name": "★ Navaja Knife | Boreal Forest (Minimal Wear)",
     "item_nameid": 176000628,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLPIqW1e-sBintbD-p7wiViLpxo7Oy3tcI6TJFJvMArVrgW7l-y5hsK0tZTJy3JruyR2sXyJyRGyiUpJabRmh-veFwuM1_zxnA",
-    "sell_order_count": "16",
-    "buy_order_count": "385",
-    "lowest_sell_order": "95.81",
-    "highest_buy_order": "83.03",
-    "date_modified": 1760351203985
+    "sell_order_count": "15",
+    "buy_order_count": "386",
+    "lowest_sell_order": "95.87",
+    "highest_buy_order": "83.11",
+    "date_modified": 1760390571043
   },
   {
     "hash_name": "★ Navaja Knife | Boreal Forest (Field-Tested)",
     "item_nameid": 176000047,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLPIqW1e-sBintbD-p7wiViLphY4OiyuOoCVdFA8Nw7Z-la6kr_thcW46s_ByXRj7ycntH7VlkS00hkdauNphvCACQLJRRQoBV0",
-    "sell_order_count": "17",
-    "buy_order_count": "2,169",
-    "lowest_sell_order": "91.68",
-    "highest_buy_order": "84.37",
-    "date_modified": 1760351212335
+    "sell_order_count": "18",
+    "buy_order_count": "2,160",
+    "lowest_sell_order": "90.41",
+    "highest_buy_order": "79.25",
+    "date_modified": 1760390579302
   },
   {
     "hash_name": "★ Navaja Knife | Boreal Forest (Battle-Scarred)",
     "item_nameid": 176001603,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLPIqW1e-sBintbD-p7wiViLoxY9JSDtINKTewY5MAvZ_lC-k-nshJe97sjIyiNqsiRz4SndzR3khxofbuc6jOveFwvX0ZphSA",
     "sell_order_count": "15",
-    "buy_order_count": "1,556",
-    "lowest_sell_order": "91.22",
-    "highest_buy_order": "79.54",
-    "date_modified": 1760351220627
+    "buy_order_count": "1,554",
+    "lowest_sell_order": "90.40",
+    "highest_buy_order": "78.34",
+    "date_modified": 1760390587415
   },
   {
     "hash_name": "★ Navaja Knife | Blue Steel (Well-Worn)",
     "item_nameid": 176001890,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqWld_cB1teTE8YXghRrk_UdtZm2lIdWVIAE4ZwzY_VG6xeq-05Pov5TPwSRkuXN0t3janRC-n1gSOQuGdx7e",
-    "sell_order_count": "10",
-    "buy_order_count": "422",
-    "lowest_sell_order": "103.78",
-    "highest_buy_order": "94.88",
-    "date_modified": 1760351228777
+    "sell_order_count": "8",
+    "buy_order_count": "421",
+    "lowest_sell_order": "100.16",
+    "highest_buy_order": "95.05",
+    "date_modified": 1760390595708
   },
   {
     "hash_name": "★ Navaja Knife | Blue Steel (Minimal Wear)",
     "item_nameid": 176000422,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqWld_cB1teXI8oThxlG1-EU4YGn0LIaSe1NqZAmC_QK6wui8gcLousjIzXAwuyUnsSqPlkOpwUYbJtpiBRQ",
-    "sell_order_count": "13",
-    "buy_order_count": "265",
-    "lowest_sell_order": "116.73",
-    "highest_buy_order": "99.43",
-    "date_modified": 1760351236928
+    "sell_order_count": "8",
+    "buy_order_count": "269",
+    "lowest_sell_order": "130.00",
+    "highest_buy_order": "98.37",
+    "date_modified": 1760390603944
   },
   {
     "hash_name": "★ Navaja Knife | Blue Steel (Field-Tested)",
     "item_nameid": 176000083,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqWld_cB1teTE8YXghRrk_UdtZm2lIdWVIAE4ZwzY_VG6xeq-05Pov5TPwSRkuXN0t3janRC-n1gSOQuGdx7e",
-    "sell_order_count": "11",
-    "buy_order_count": "397",
-    "lowest_sell_order": "114.78",
-    "highest_buy_order": "102.61",
-    "date_modified": 1760351245235
+    "sell_order_count": "9",
+    "buy_order_count": "393",
+    "lowest_sell_order": "119.94",
+    "highest_buy_order": "99.27",
+    "date_modified": 1760390612223
   },
   {
     "hash_name": "★ Navaja Knife | Blue Steel (Factory New)",
     "item_nameid": 176001068,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqWld_cB1teXI8oThxlG1-EU4YGn0LIaSe1NqZAmC_QK6wui8gcLousjIzXAwuyUnsSqPlkOpwUYbJtpiBRQ",
-    "sell_order_count": "6",
+    "sell_order_count": "5",
     "buy_order_count": "155",
-    "lowest_sell_order": "170.00",
+    "lowest_sell_order": "171.23",
     "highest_buy_order": "134.52",
-    "date_modified": 1760351253386
+    "date_modified": 1760390620454
   },
   {
     "hash_name": "★ Navaja Knife | Blue Steel (Battle-Scarred)",
     "item_nameid": 176000337,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1OrYYiR95t21n4uFnvHxDLrAqWld_cB1teHE9JrsxgLk_Rc4NmmldYLAdgNvYFiDqwXolejpjJ7tuZWYzCNgv3Qi5nfcmxWpwUYbIvxOeAM",
-    "sell_order_count": "8",
-    "buy_order_count": "412",
+    "sell_order_count": "7",
+    "buy_order_count": "411",
     "lowest_sell_order": "109.39",
-    "highest_buy_order": "99.21",
-    "date_modified": 1760351261557
+    "highest_buy_order": "99.26",
+    "date_modified": 1760390628556
   },
   {
     "hash_name": "★ Navaja Knife",
     "item_nameid": 176000215,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaIAlp1fb3diRS_8WJnoGInPz6Or3U2D0D7sBw3bGTrdSi2gLl-0puYz_0INCcdwBqaF2DrgTqkum815G57ZvXiSw0f6rRBF0",
-    "sell_order_count": "21",
-    "buy_order_count": "2,928",
-    "lowest_sell_order": "124.55",
-    "highest_buy_order": "118.12",
-    "date_modified": 1760351269917
+    "sell_order_count": "18",
+    "buy_order_count": "2,935",
+    "lowest_sell_order": "125.32",
+    "highest_buy_order": "118.41",
+    "date_modified": 1760390636706
   },
   {
     "hash_name": "★ Moto Gloves | Turtle (Well-Worn)",
     "item_nameid": 175967103,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18Jjj-zPyoPniVqzriwxNj2qYduLJA43Nw2GrFe3wOa7hMTpuJXLwXM3siEi5HeImEbl0xofZuU6gaScGELeWfLbi5F6iQ",
     "sell_order_count": "12",
-    "buy_order_count": "206",
-    "lowest_sell_order": "166.90",
+    "buy_order_count": "205",
+    "lowest_sell_order": "168.78",
     "highest_buy_order": "149.96",
-    "date_modified": 1760351278206
+    "date_modified": 1760390644999
   },
   {
     "hash_name": "★ Moto Gloves | Turtle (Minimal Wear)",
     "item_nameid": 175967252,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18Jjj-zPyoPniVqzriwwOj6rYJiUe1BrN12B-wDvwebrhJG5v8nKyyM27ick5Szelha_h0xIb-BmjPGZVxzAUCMEEK1m",
-    "sell_order_count": "5",
-    "buy_order_count": "260",
+    "sell_order_count": "7",
+    "buy_order_count": "258",
     "lowest_sell_order": "689.01",
-    "highest_buy_order": "640.28",
-    "date_modified": 1760351286351
+    "highest_buy_order": "640.11",
+    "date_modified": 1760390653121
   },
   {
     "hash_name": "★ Moto Gloves | Turtle (Field-Tested)",
     "item_nameid": 175967121,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18Jjj-zPyoPniVqzriwxNj2qYduLJA43Nw2GrFe3wOa7hMTpuJXLwXM3siEi5HeImEbl0xofZuU6gaScGELeWfLbi5F6iQ",
     "sell_order_count": "35",
-    "buy_order_count": "471",
-    "lowest_sell_order": "205.63",
+    "buy_order_count": "472",
+    "lowest_sell_order": "217.72",
     "highest_buy_order": "192.41",
-    "date_modified": 1760351294718
+    "date_modified": 1760390661274
   },
   {
     "hash_name": "★ Moto Gloves | Turtle (Factory New)",
@@ -16217,47 +16217,47 @@
     "buy_order_count": "138",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "914.73",
-    "date_modified": 1760351302994
+    "date_modified": 1760390669552
   },
   {
     "hash_name": "★ Moto Gloves | Turtle (Battle-Scarred)",
     "item_nameid": 175967363,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18Jjj-zPyoPniVqzriw0Nji1bZiXdQQ2MlnW-la8xum905a16ZSayndnuXEksXfdmEO_iUkYbuw9h_GXVxzAUAUK5iS3",
-    "sell_order_count": "22",
-    "buy_order_count": "255",
-    "lowest_sell_order": "118.64",
-    "highest_buy_order": "116.96",
-    "date_modified": 1760351311173
+    "sell_order_count": "20",
+    "buy_order_count": "260",
+    "lowest_sell_order": "121.56",
+    "highest_buy_order": "117.59",
+    "date_modified": 1760390677658
   },
   {
     "hash_name": "★ Moto Gloves | Transport (Well-Worn)",
     "item_nameid": 175967708,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKLUmmde__pyi-TOyoHwjF2hpl1kMmj7IYSUIwZsZwmGqFe2w73qhpPv7siayXMxuXQq4nrdlkGwgRxMcKUx0iFu6Msp",
-    "sell_order_count": "10",
-    "buy_order_count": "261",
-    "lowest_sell_order": "89.65",
-    "highest_buy_order": "80.07",
-    "date_modified": 1760351319478
+    "sell_order_count": "11",
+    "buy_order_count": "260",
+    "lowest_sell_order": "90.00",
+    "highest_buy_order": "80.23",
+    "date_modified": 1760390685785
   },
   {
     "hash_name": "★ Moto Gloves | Transport (Minimal Wear)",
     "item_nameid": 175967110,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKLUmmde__pyi-TOyoD8j1yg5RduYTrxJ9fDcwU4N1_RqVW_wem7jZO-vZzByCE27icitHiOnhKwgkxSLrs4-Z1y7uk",
     "sell_order_count": "11",
-    "buy_order_count": "255",
+    "buy_order_count": "258",
     "lowest_sell_order": "296.40",
-    "highest_buy_order": "249.49",
-    "date_modified": 1760351327643
+    "highest_buy_order": "249.57",
+    "date_modified": 1760390694024
   },
   {
     "hash_name": "★ Moto Gloves | Transport (Field-Tested)",
     "item_nameid": 175966856,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKLUmmde__pyi-TOyoHwjF2hpl1kMmj7IYSUIwZsZwmGqFe2w73qhpPv7siayXMxuXQq4nrdlkGwgRxMcKUx0iFu6Msp",
-    "sell_order_count": "58",
-    "buy_order_count": "416",
-    "lowest_sell_order": "83.51",
-    "highest_buy_order": "83.30",
-    "date_modified": 1760351335796
+    "sell_order_count": "53",
+    "buy_order_count": "413",
+    "lowest_sell_order": "83.95",
+    "highest_buy_order": "82.15",
+    "date_modified": 1760390702281
   },
   {
     "hash_name": "★ Moto Gloves | Transport (Factory New)",
@@ -16267,17 +16267,17 @@
     "buy_order_count": "148",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "554.15",
-    "date_modified": 1760351344155
+    "date_modified": 1760390710409
   },
   {
     "hash_name": "★ Moto Gloves | Transport (Battle-Scarred)",
     "item_nameid": 175967292,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKLUmmde__pyi-TOyoTwiUKt5UI5YGzyddSQJgVtYlCE_gK2w-7vgJXtvc7OnyRr6SgmtCvazBW_gRBSLrs45YzPfaE",
-    "sell_order_count": "15",
-    "buy_order_count": "348",
-    "lowest_sell_order": "83.78",
-    "highest_buy_order": "82.50",
-    "date_modified": 1760351352292
+    "sell_order_count": "12",
+    "buy_order_count": "346",
+    "lowest_sell_order": "87.31",
+    "highest_buy_order": "77.62",
+    "date_modified": 1760390718646
   },
   {
     "hash_name": "★ Moto Gloves | Spearmint (Battle-Scarred)",
@@ -16285,59 +16285,59 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbYmH9u_Nd4i-fG-YnKgFG1vQpyMDr3IoeQJAVoYFzTrAPsw7vu0Jbo7ZzAynJh7CZ24X-Pm0a1gh9Lb_sv26LqLD7tow",
     "sell_order_count": "4",
     "buy_order_count": "223",
-    "lowest_sell_order": "1031.45",
+    "lowest_sell_order": "1030.86",
     "highest_buy_order": "681.50",
-    "date_modified": 1760351360472
+    "date_modified": 1760390726891
   },
   {
     "hash_name": "★ Moto Gloves | Smoke Out (Well-Worn)",
     "item_nameid": 176209715,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU18h0juDU-MKhjFLs-BZsMmn7cdXHdQI4YA6Grla7yOjvgpe0u52ayXIx6XYitHqJgVXp1uoY8XAC",
-    "sell_order_count": "6",
-    "buy_order_count": "170",
-    "lowest_sell_order": "225.40",
-    "highest_buy_order": "180.40",
-    "date_modified": 1760351368778
+    "sell_order_count": "7",
+    "buy_order_count": "174",
+    "lowest_sell_order": "224.53",
+    "highest_buy_order": "180.85",
+    "date_modified": 1760390735033
   },
   {
     "hash_name": "★ Moto Gloves | Smoke Out (Minimal Wear)",
     "item_nameid": 176209838,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU18l4jeHVu4nwjFDi_BZlZW72doKUdlU7aFGG-FG7xO3m15O5tc7JzXdmvHMn4HzD30vgXSdlX6U",
-    "sell_order_count": "5",
+    "sell_order_count": "4",
     "buy_order_count": "236",
     "lowest_sell_order": "605.33",
-    "highest_buy_order": "558.33",
-    "date_modified": 1760351376930
+    "highest_buy_order": "553.12",
+    "date_modified": 1760390743322
   },
   {
     "hash_name": "★ Moto Gloves | Smoke Out (Field-Tested)",
     "item_nameid": 176209708,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU18h0juDU-MKhjFLs-BZsMmn7cdXHdQI4YA6Grla7yOjvgpe0u52ayXIx6XYitHqJgVXp1uoY8XAC",
-    "sell_order_count": "29",
-    "buy_order_count": "381",
-    "lowest_sell_order": "259.45",
-    "highest_buy_order": "230.00",
-    "date_modified": 1760351385227
+    "sell_order_count": "27",
+    "buy_order_count": "387",
+    "lowest_sell_order": "273.49",
+    "highest_buy_order": "231.04",
+    "date_modified": 1760390751428
   },
   {
     "hash_name": "★ Moto Gloves | Smoke Out (Battle-Scarred)",
     "item_nameid": 176209740,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU1810i__Yu96k3FG3_UBlMj2hLNWccwQ4M1qFrlO3lenrjMTvtMiayXU2uXNz7S7D30vg5f8BpxY",
-    "sell_order_count": "8",
-    "buy_order_count": "248",
-    "lowest_sell_order": "179.89",
-    "highest_buy_order": "164.47",
-    "date_modified": 1760351393424
+    "sell_order_count": "6",
+    "buy_order_count": "246",
+    "lowest_sell_order": "191.43",
+    "highest_buy_order": "162.68",
+    "date_modified": 1760390759547
   },
   {
     "hash_name": "★ Moto Gloves | POW! (Well-Worn)",
     "item_nameid": 175970224,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZmWhe18d-heT--InxgUG55RZsMDigJI6Qe1BrZ1nX_lHvxrrmhpe9v5ucyiZruCkm5CuIzRWzgR1SLrs45SIETzQ",
     "sell_order_count": "11",
-    "buy_order_count": "138",
+    "buy_order_count": "137",
     "lowest_sell_order": "198.89",
     "highest_buy_order": "175.65",
-    "date_modified": 1760351401573
+    "date_modified": 1760390767778
   },
   {
     "hash_name": "★ Moto Gloves | POW! (Minimal Wear)",
@@ -16346,148 +16346,148 @@
     "sell_order_count": "3",
     "buy_order_count": "317",
     "lowest_sell_order": "920.00",
-    "highest_buy_order": "672.01",
-    "date_modified": 1760351409736
+    "highest_buy_order": "672.00",
+    "date_modified": 1760390776128
   },
   {
     "hash_name": "★ Moto Gloves | POW! (Field-Tested)",
     "item_nameid": 175967006,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZmWhe18d-heT--InxgUG55RZsMDigJI6Qe1BrZ1nX_lHvxrrmhpe9v5ucyiZruCkm5CuIzRWzgR1SLrs45SIETzQ",
-    "sell_order_count": "35",
-    "buy_order_count": "360",
-    "lowest_sell_order": "241.50",
-    "highest_buy_order": "227.44",
-    "date_modified": 1760351417912
+    "sell_order_count": "34",
+    "buy_order_count": "362",
+    "lowest_sell_order": "234.39",
+    "highest_buy_order": "227.49",
+    "date_modified": 1760390784236
   },
   {
     "hash_name": "★ Moto Gloves | POW! (Battle-Scarred)",
     "item_nameid": 175967799,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZmWhe18d-heT-_Yn0nk36-xJkYzvzI4WVdABsMwzYr1Hsxbrug5Hov57OmnI2vSdw4X3bmUHk0wYMMLIU8lGphQ",
-    "sell_order_count": "9",
+    "sell_order_count": "11",
     "buy_order_count": "169",
-    "lowest_sell_order": "155.27",
-    "highest_buy_order": "141.88",
-    "date_modified": 1760351426095
+    "lowest_sell_order": "149.50",
+    "highest_buy_order": "141.86",
+    "date_modified": 1760390792472
   },
   {
     "hash_name": "★ Moto Gloves | Polygon (Well-Worn)",
     "item_nameid": 175967101,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2xD4cFOiOXU8LP4jVC9vh5yMTj2JdSVJ1dsaVzRrlS_lbjqg5S0vJmdwXFluCAj7XnYlx3iiRlOP_sv26JBY92r1Q",
-    "sell_order_count": "5",
-    "buy_order_count": "220",
+    "sell_order_count": "6",
+    "buy_order_count": "222",
     "lowest_sell_order": "227.17",
     "highest_buy_order": "200.47",
-    "date_modified": 1760351434235
+    "date_modified": 1760390800580
   },
   {
     "hash_name": "★ Moto Gloves | Polygon (Minimal Wear)",
     "item_nameid": 175967238,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2xD4cFOiOXU8LP5gVO8v10-YWnyIIeQIQc-Yl6D-lHtku_vjJHov87MyHFjviIjtirdmxXk1BkfcKUx0rvyuJdK",
-    "sell_order_count": "6",
-    "buy_order_count": "335",
+    "sell_order_count": "5",
+    "buy_order_count": "334",
     "lowest_sell_order": "729.99",
-    "highest_buy_order": "557.09",
-    "date_modified": 1760351442429
+    "highest_buy_order": "560.08",
+    "date_modified": 1760390808707
   },
   {
     "hash_name": "★ Moto Gloves | Polygon (Field-Tested)",
     "item_nameid": 175967083,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2xD4cFOiOXU8LP4jVC9vh5yMTj2JdSVJ1dsaVzRrlS_lbjqg5S0vJmdwXFluCAj7XnYlx3iiRlOP_sv26JBY92r1Q",
-    "sell_order_count": "27",
-    "buy_order_count": "487",
-    "lowest_sell_order": "277.17",
-    "highest_buy_order": "238.58",
-    "date_modified": 1760351450589
+    "sell_order_count": "29",
+    "buy_order_count": "484",
+    "lowest_sell_order": "238.28",
+    "highest_buy_order": "238.08",
+    "date_modified": 1760390816807
   },
   {
     "hash_name": "★ Moto Gloves | Polygon (Battle-Scarred)",
     "item_nameid": 175967547,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2xD4cFOiOXU8LP9jVWisl0_NTryJIKRdQJsaFCG-lnokru8jJe5vp-fy3Mw7nV0tHfbzhe-hhlNcKUx0oowUTwA",
-    "sell_order_count": "14",
-    "buy_order_count": "264",
+    "sell_order_count": "12",
+    "buy_order_count": "266",
     "lowest_sell_order": "181.60",
     "highest_buy_order": "167.75",
-    "date_modified": 1760351458881
+    "date_modified": 1760390824937
   },
   {
     "hash_name": "★ Moto Gloves | Finish Line (Well-Worn)",
     "item_nameid": 176209739,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS9vAJl97PEaG81S4w7_mjZS-6c_Az3JgvSkj4nbZlhW_101OOrc6hPebS16bD6QbAuDcUfydLqde",
-    "sell_order_count": "7",
-    "buy_order_count": "142",
-    "lowest_sell_order": "199.96",
-    "highest_buy_order": "168.56",
-    "date_modified": 1760351467174
+    "sell_order_count": "8",
+    "buy_order_count": "145",
+    "lowest_sell_order": "199.94",
+    "highest_buy_order": "168.86",
+    "date_modified": 1760390833205
   },
   {
     "hash_name": "★ Moto Gloves | Finish Line (Minimal Wear)",
     "item_nameid": 176209726,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS9rMJV56f1jW8lO6wO69g8Tvu5udzHZjuyIi7H7UyhzhhExJa7Rs16PPT1WXBKJXXP7VKzgYFbc",
-    "sell_order_count": "5",
-    "buy_order_count": "241",
-    "lowest_sell_order": "772.38",
-    "highest_buy_order": "551.79",
-    "date_modified": 1760351475341
+    "sell_order_count": "4",
+    "buy_order_count": "243",
+    "lowest_sell_order": "767.23",
+    "highest_buy_order": "562.49",
+    "date_modified": 1760390841309
   },
   {
     "hash_name": "★ Moto Gloves | Finish Line (Field-Tested)",
     "item_nameid": 176209712,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS9vAJl97PEaG81S4w7_mjZS-6c_Az3JgvSkj4nbZlhW_101OOrc6hPebS16bD6QbAuDcUfydLqde",
-    "sell_order_count": "24",
-    "buy_order_count": "361",
-    "lowest_sell_order": "217.73",
-    "highest_buy_order": "212.92",
-    "date_modified": 1760351483487
+    "sell_order_count": "23",
+    "buy_order_count": "358",
+    "lowest_sell_order": "233.19",
+    "highest_buy_order": "212.94",
+    "date_modified": 1760390849419
   },
   {
     "hash_name": "★ Moto Gloves | Finish Line (Battle-Scarred)",
     "item_nameid": 176209639,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS97AI0B3f1GBrwO2kuzohp7qup3LmHAx6XYksSnYlhGyh0xLb-ZpjaGWTl2ZVqdXXP7V_nGekpw",
     "sell_order_count": "5",
-    "buy_order_count": "231",
+    "buy_order_count": "229",
     "lowest_sell_order": "182.29",
-    "highest_buy_order": "153.71",
-    "date_modified": 1760351491672
+    "highest_buy_order": "153.75",
+    "date_modified": 1760390857669
   },
   {
     "hash_name": "★ Moto Gloves | Eclipse (Well-Worn)",
     "item_nameid": 175854679,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18d9i-rKyoHwjF2hpl1qMT_xd4aVdQFrMA3Y8gS_ye--gMC_uJqYm3M363Vx5Srfyx3l0EoYcKUx0uChaOaq",
-    "sell_order_count": "5",
+    "sell_order_count": "4",
     "buy_order_count": "181",
-    "lowest_sell_order": "279.18",
+    "lowest_sell_order": "279.95",
     "highest_buy_order": "195.77",
-    "date_modified": 1760351499808
+    "date_modified": 1760390865781
   },
   {
     "hash_name": "★ Moto Gloves | Eclipse (Field-Tested)",
     "item_nameid": 175854488,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18d9i-rKyoHwjF2hpl1qMT_xd4aVdQFrMA3Y8gS_ye--gMC_uJqYm3M363Vx5Srfyx3l0EoYcKUx0uChaOaq",
-    "sell_order_count": "2",
-    "buy_order_count": "374",
-    "lowest_sell_order": "795.61",
-    "highest_buy_order": "735.93",
-    "date_modified": 1760351507964
+    "sell_order_count": "1",
+    "buy_order_count": "371",
+    "lowest_sell_order": "864.81",
+    "highest_buy_order": "744.46",
+    "date_modified": 1760390873883
   },
   {
     "hash_name": "★ Moto Gloves | Eclipse (Battle-Scarred)",
     "item_nameid": 175854591,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLnQhWJS18d9i-rKyoTwiUKt5UM-ZmvwJYWXJgFsZ1rSrFC9kL3vhcfu7Z_KzXsy6yIl53mOn0Gw1xBSLrs4p0ASFAI",
-    "sell_order_count": "4",
-    "buy_order_count": "165",
-    "lowest_sell_order": "211.23",
+    "sell_order_count": "3",
+    "buy_order_count": "164",
+    "lowest_sell_order": "222.67",
     "highest_buy_order": "159.50",
-    "date_modified": 1760351516134
+    "date_modified": 1760390882163
   },
   {
     "hash_name": "★ Moto Gloves | Cool Mint (Well-Worn)",
     "item_nameid": 175854843,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2pf78l0tevN4InKhVGwogYxfTigcNeQdAdvYV-CrFO5xOvqgZHotc7PmiEysyMg5nyMyke-0E1FPORxxavJfL7WpEI",
-    "sell_order_count": "2",
-    "buy_order_count": "169",
-    "lowest_sell_order": "668.87",
+    "sell_order_count": "1",
+    "buy_order_count": "170",
+    "lowest_sell_order": "704.81",
     "highest_buy_order": "553.52",
-    "date_modified": 1760351524478
+    "date_modified": 1760390890401
   },
   {
     "hash_name": "★ Moto Gloves | Cool Mint (Field-Tested)",
@@ -16497,27 +16497,27 @@
     "buy_order_count": "312",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "1729.56",
-    "date_modified": 1760351532615
+    "date_modified": 1760390898500
   },
   {
     "hash_name": "★ Moto Gloves | Cool Mint (Battle-Scarred)",
     "item_nameid": 175854629,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2pf78l0tevN4InKgFG1vQpyYDulcIKdIQ5oZ13Q_gTox-fn15S675vAwSdn7CB3sXrUzhSw00sdO_sv26IoRP6HzA",
     "sell_order_count": "1",
-    "buy_order_count": "213",
+    "buy_order_count": "214",
     "lowest_sell_order": "340.00",
-    "highest_buy_order": "284.97",
-    "date_modified": 1760351540804
+    "highest_buy_order": "285.62",
+    "date_modified": 1760390906797
   },
   {
     "hash_name": "★ Moto Gloves | Boom! (Well-Worn)",
     "item_nameid": 175854636,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbemGRu6sp-h9bM8Ij8nVn680BpamymJ4aQcg9tNwrQ8lC8xO-505C5uZzKziBl6ylz4inZmkG0hQYMMLJx2v3EHw",
     "sell_order_count": "3",
-    "buy_order_count": "133",
-    "lowest_sell_order": "283.06",
-    "highest_buy_order": "225.20",
-    "date_modified": 1760351548957
+    "buy_order_count": "132",
+    "lowest_sell_order": "288.33",
+    "highest_buy_order": "225.07",
+    "date_modified": 1760390915049
   },
   {
     "hash_name": "★ Moto Gloves | Boom! (Minimal Wear)",
@@ -16526,98 +16526,98 @@
     "sell_order_count": "1",
     "buy_order_count": "221",
     "lowest_sell_order": "1071.65",
-    "highest_buy_order": "888.79",
-    "date_modified": 1760351557129
+    "highest_buy_order": "890.69",
+    "date_modified": 1760390923199
   },
   {
     "hash_name": "★ Moto Gloves | Boom! (Field-Tested)",
     "item_nameid": 175854514,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbemGRu6sp-h9bM8Ij8nVn680BpamymJ4aQcg9tNwrQ8lC8xO-505C5uZzKziBl6ylz4inZmkG0hQYMMLJx2v3EHw",
-    "sell_order_count": "3",
-    "buy_order_count": "356",
-    "lowest_sell_order": "854.16",
-    "highest_buy_order": "747.32",
-    "date_modified": 1760351565296
+    "sell_order_count": "2",
+    "buy_order_count": "359",
+    "lowest_sell_order": "1037.76",
+    "highest_buy_order": "749.00",
+    "date_modified": 1760390931464
   },
   {
     "hash_name": "★ Moto Gloves | Boom! (Battle-Scarred)",
     "item_nameid": 175854972,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLbemGRu6sp-h9bJ8I3jkRrt-0c-YTjxI9KScVVvNQrX81K4yezr15K-v5rIm3s2uSFz4HzZmx22n1gSOe5MuSqW",
     "sell_order_count": "5",
-    "buy_order_count": "178",
+    "buy_order_count": "177",
     "lowest_sell_order": "201.50",
-    "highest_buy_order": "163.53",
-    "date_modified": 1760351573449
+    "highest_buy_order": "163.44",
+    "date_modified": 1760390939569
   },
   {
     "hash_name": "★ Moto Gloves | Blood Pressure (Well-Worn)",
     "item_nameid": 176209878,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu5rhc1JjTtIIWUIFA-ZgyF-lG7kuruhsS0tMzByHoxuSRw4HbUyRPi00lFPbM51-veFwtG_GQNJQ",
     "sell_order_count": "7",
-    "buy_order_count": "202",
+    "buy_order_count": "203",
     "lowest_sell_order": "229.42",
     "highest_buy_order": "216.70",
-    "date_modified": 1760351581589
+    "date_modified": 1760390947686
   },
   {
     "hash_name": "★ Moto Gloves | Blood Pressure (Minimal Wear)",
     "item_nameid": 176209703,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu4ohQ0J3fycdWRIQRvMA2FqVXskrjs0Z7vvc6YyHJmu3J2t3nVmhTk1RpMPedsm7XAHo9OKnzp",
-    "sell_order_count": "5",
-    "buy_order_count": "273",
+    "sell_order_count": "4",
+    "buy_order_count": "274",
     "lowest_sell_order": "678.50",
-    "highest_buy_order": "566.80",
-    "date_modified": 1760351589895
+    "highest_buy_order": "566.86",
+    "date_modified": 1760390955822
   },
   {
     "hash_name": "★ Moto Gloves | Blood Pressure (Field-Tested)",
     "item_nameid": 176209705,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu5rhc1JjTtIIWUIFA-ZgyF-lG7kuruhsS0tMzByHoxuSRw4HbUyRPi00lFPbM51-veFwtG_GQNJQ",
-    "sell_order_count": "21",
-    "buy_order_count": "384",
-    "lowest_sell_order": "278.54",
+    "sell_order_count": "24",
+    "buy_order_count": "385",
+    "lowest_sell_order": "276.08",
     "highest_buy_order": "249.04",
-    "date_modified": 1760351598036
+    "date_modified": 1760390963946
   },
   {
     "hash_name": "★ Moto Gloves | Blood Pressure (Battle-Scarred)",
     "item_nameid": 176209711,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu8rhIqKnelI9WWcw43aQvYq1W7lOvmjJ7quJ3Ky3Q1unQn5CqJnB2whR0aaLRpm7XAHi2oOWkU",
     "sell_order_count": "11",
-    "buy_order_count": "280",
+    "buy_order_count": "277",
     "lowest_sell_order": "169.21",
     "highest_buy_order": "157.38",
-    "date_modified": 1760351606193
+    "date_modified": 1760390972195
   },
   {
     "hash_name": "★ Moto Gloves | 3rd Commando Company (Well-Worn)",
     "item_nameid": 176209827,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP4jVC9vh5yMD32JtKXc1Q9Z16Er1i4wezo08C9uZ2cn3Vm63RztniInEeyhBpOPPsv26Jl8ohsKA",
-    "sell_order_count": "10",
-    "buy_order_count": "229",
-    "lowest_sell_order": "92.49",
-    "highest_buy_order": "82.91",
-    "date_modified": 1760351614399
+    "sell_order_count": "11",
+    "buy_order_count": "231",
+    "lowest_sell_order": "89.08",
+    "highest_buy_order": "82.93",
+    "date_modified": 1760390980344
   },
   {
     "hash_name": "★ Moto Gloves | 3rd Commando Company (Minimal Wear)",
     "item_nameid": 176209775,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP5gVO8v106ZmCiINXDcFc-NF6GrgTqyOnrg8K0tJWfyHVksyci5CvenhG00B1KcKUx0v0d-nrx",
     "sell_order_count": "5",
-    "buy_order_count": "231",
-    "lowest_sell_order": "244.68",
-    "highest_buy_order": "224.08",
-    "date_modified": 1760351622544
+    "buy_order_count": "230",
+    "lowest_sell_order": "248.63",
+    "highest_buy_order": "223.56",
+    "date_modified": 1760390988454
   },
   {
     "hash_name": "★ Moto Gloves | 3rd Commando Company (Field-Tested)",
     "item_nameid": 176209674,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP4jVC9vh5yMD32JtKXc1Q9Z16Er1i4wezo08C9uZ2cn3Vm63RztniInEeyhBpOPPsv26Jl8ohsKA",
     "sell_order_count": "51",
-    "buy_order_count": "691",
-    "lowest_sell_order": "90.00",
-    "highest_buy_order": "85.42",
-    "date_modified": 1760351630820
+    "buy_order_count": "688",
+    "lowest_sell_order": "96.32",
+    "highest_buy_order": "85.40",
+    "date_modified": 1760390996727
   },
   {
     "hash_name": "★ Moto Gloves | 3rd Commando Company (Factory New)",
@@ -16627,47 +16627,47 @@
     "buy_order_count": "171",
     "lowest_sell_order": "640.00",
     "highest_buy_order": "411.93",
-    "date_modified": 1760351639126
+    "date_modified": 1760391004850
   },
   {
     "hash_name": "★ Moto Gloves | 3rd Commando Company (Battle-Scarred)",
     "item_nameid": 176209710,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP9jVWisl1sYGz7JtTBdgA8aA6Drla6l-rs0JC9uJnAynVm6XMrtH7cmRWy1ElKcKUx0gtWPCk_",
-    "sell_order_count": "24",
-    "buy_order_count": "390",
+    "sell_order_count": "23",
+    "buy_order_count": "389",
     "lowest_sell_order": "85.93",
-    "highest_buy_order": "80.81",
-    "date_modified": 1760351647286
+    "highest_buy_order": "79.37",
+    "date_modified": 1760391013098
   },
   {
     "hash_name": "★ M9 Bayonet | Urban Masked (Well-Worn)",
     "item_nameid": 1354583,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-Yh8jgMqvUqX5D6sR_teTE8YXghRrg_hZvZGrzJoCQcgZoN1nUqAC3ye29gsPu7pzNzHYx7yMj5HeMzh3jn1gSOZD0SpPR",
     "sell_order_count": "1",
-    "buy_order_count": "206",
+    "buy_order_count": "205",
     "lowest_sell_order": "744.47",
-    "highest_buy_order": "469.02",
-    "date_modified": 1760351655457
+    "highest_buy_order": "468.93",
+    "date_modified": 1760391021371
   },
   {
     "hash_name": "★ M9 Bayonet | Urban Masked (Field-Tested)",
     "item_nameid": 1322181,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-Yh8jgMqvUqX5D6sR_teTE8YXghRrg_hZvZGrzJoCQcgZoN1nUqAC3ye29gsPu7pzNzHYx7yMj5HeMzh3jn1gSOZD0SpPR",
-    "sell_order_count": "9",
-    "buy_order_count": "569",
-    "lowest_sell_order": "674.53",
-    "highest_buy_order": "506.57",
-    "date_modified": 1760351663626
+    "sell_order_count": "10",
+    "buy_order_count": "572",
+    "lowest_sell_order": "665.09",
+    "highest_buy_order": "506.59",
+    "date_modified": 1760391029502
   },
   {
     "hash_name": "★ M9 Bayonet | Ultraviolet (Well-Worn)",
     "item_nameid": 29669713,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-YmMjkJqnBmm5u5cB1g_zMu9nz3A218hJlajr6JICUJAY2Z1zQ-AO-x-rng5butJjMyyFnuXIr5yvD30vg4TVFeFQ",
-    "sell_order_count": "2",
-    "buy_order_count": "334",
-    "lowest_sell_order": "824.82",
+    "sell_order_count": "3",
+    "buy_order_count": "333",
+    "lowest_sell_order": "816.65",
     "highest_buy_order": "567.42",
-    "date_modified": 1760351671918
+    "date_modified": 1760391037637
   },
   {
     "hash_name": "★ M9 Bayonet | Ultraviolet (Field-Tested)",
@@ -16677,7 +16677,7 @@
     "buy_order_count": "631",
     "lowest_sell_order": "851.98",
     "highest_buy_order": "691.84",
-    "date_modified": 1760351680059
+    "date_modified": 1760391045935
   },
   {
     "hash_name": "★ M9 Bayonet | Ultraviolet (Battle-Scarred)",
@@ -16687,7 +16687,7 @@
     "buy_order_count": "236",
     "lowest_sell_order": "700.00",
     "highest_buy_order": "567.80",
-    "date_modified": 1760351688247
+    "date_modified": 1760391054057
   },
   {
     "hash_name": "★ M9 Bayonet | Tiger Tooth (Factory New)",
@@ -16696,8 +16696,8 @@
     "sell_order_count": "2",
     "buy_order_count": "1,680",
     "lowest_sell_order": "1529.50",
-    "highest_buy_order": "1375.00",
-    "date_modified": 1760351696414
+    "highest_buy_order": "1377.30",
+    "date_modified": 1760391062222
   },
   {
     "hash_name": "★ M9 Bayonet | Stained (Well-Worn)",
@@ -16707,7 +16707,7 @@
     "buy_order_count": "203",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "730.74",
-    "date_modified": 1760351704566
+    "date_modified": 1760391070457
   },
   {
     "hash_name": "★ M9 Bayonet | Stained (Minimal Wear)",
@@ -16717,7 +16717,7 @@
     "buy_order_count": "234",
     "lowest_sell_order": "923.65",
     "highest_buy_order": "808.29",
-    "date_modified": 1760351712872
+    "date_modified": 1760391078596
   },
   {
     "hash_name": "★ M9 Bayonet | Stained (Field-Tested)",
@@ -16727,7 +16727,7 @@
     "buy_order_count": "249",
     "lowest_sell_order": "944.12",
     "highest_buy_order": "759.69",
-    "date_modified": 1760351721039
+    "date_modified": 1760391086868
   },
   {
     "hash_name": "★ M9 Bayonet | Stained (Battle-Scarred)",
@@ -16735,9 +16735,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-KhsjyPKnSk29u4MBwnPCPptmmig2w_xE6MWqidtCWcFA_MA7V81K-wr-7gMDuu8zLzHZqsnV2t2GdwUK2HquYSQ",
     "sell_order_count": "2",
     "buy_order_count": "171",
-    "lowest_sell_order": "900.00",
+    "lowest_sell_order": "920.00",
     "highest_buy_order": "656.35",
-    "date_modified": 1760351729311
+    "date_modified": 1760391095117
   },
   {
     "hash_name": "★ M9 Bayonet | Slaughter (Field-Tested)",
@@ -16747,7 +16747,7 @@
     "buy_order_count": "340",
     "lowest_sell_order": "1276.27",
     "highest_buy_order": "1106.92",
-    "date_modified": 1760351737615
+    "date_modified": 1760391103260
   },
   {
     "hash_name": "★ M9 Bayonet | Scorched (Minimal Wear)",
@@ -16757,17 +16757,17 @@
     "buy_order_count": "182",
     "lowest_sell_order": "649.00",
     "highest_buy_order": "555.28",
-    "date_modified": 1760351745780
+    "date_modified": 1760391111355
   },
   {
     "hash_name": "★ M9 Bayonet | Scorched (Field-Tested)",
     "item_nameid": 1322077,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-Yh8jwMqvBmm5u5cB1g_zMu9nx2QS3rUdsNmGhLICSelc3NF7W_QW3kurujJK57szPzyM27yMl5XnD30vgIl0_S0s",
     "sell_order_count": "11",
-    "buy_order_count": "822",
-    "lowest_sell_order": "614.01",
+    "buy_order_count": "825",
+    "lowest_sell_order": "610.00",
     "highest_buy_order": "529.26",
-    "date_modified": 1760351753939
+    "date_modified": 1760391119614
   },
   {
     "hash_name": "★ M9 Bayonet | Scorched (Battle-Scarred)",
@@ -16777,17 +16777,17 @@
     "buy_order_count": "196",
     "lowest_sell_order": "697.98",
     "highest_buy_order": "536.19",
-    "date_modified": 1760351762116
+    "date_modified": 1760391127913
   },
   {
     "hash_name": "★ M9 Bayonet | Safari Mesh (Field-Tested)",
     "item_nameid": 1321691,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-Yh8j5NqjZqX9Q5vp8j-3I4IG7ilHkr0JoNm71dYOSJFVrZQuCq1DqkLrtgMLt6MzByCNmvyIi4irczAv330956SJ8Aw",
     "sell_order_count": "1",
-    "buy_order_count": "915",
+    "buy_order_count": "916",
     "lowest_sell_order": "627.83",
     "highest_buy_order": "501.57",
-    "date_modified": 1760351770294
+    "date_modified": 1760391136011
   },
   {
     "hash_name": "★ M9 Bayonet | Safari Mesh (Battle-Scarred)",
@@ -16797,7 +16797,7 @@
     "buy_order_count": "240",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "585.64",
-    "date_modified": 1760351778569
+    "date_modified": 1760391144273
   },
   {
     "hash_name": "★ M9 Bayonet | Rust Coat (Battle-Scarred)",
@@ -16807,7 +16807,7 @@
     "buy_order_count": "743",
     "lowest_sell_order": "755.82",
     "highest_buy_order": "642.91",
-    "date_modified": 1760351786876
+    "date_modified": 1760391152534
   },
   {
     "hash_name": "★ M9 Bayonet | Night (Field-Tested)",
@@ -16817,7 +16817,7 @@
     "buy_order_count": "397",
     "lowest_sell_order": "777.74",
     "highest_buy_order": "605.91",
-    "date_modified": 1760351795030
+    "date_modified": 1760391160675
   },
   {
     "hash_name": "★ M9 Bayonet | Lore (Field-Tested)",
@@ -16827,7 +16827,7 @@
     "buy_order_count": "736",
     "lowest_sell_order": "1099.99",
     "highest_buy_order": "971.01",
-    "date_modified": 1760351803200
+    "date_modified": 1760391168791
   },
   {
     "hash_name": "★ M9 Bayonet | Lore (Battle-Scarred)",
@@ -16837,37 +16837,37 @@
     "buy_order_count": "340",
     "lowest_sell_order": "891.87",
     "highest_buy_order": "689.16",
-    "date_modified": 1760351811483
+    "date_modified": 1760391177073
   },
   {
     "hash_name": "★ M9 Bayonet | Freehand (Minimal Wear)",
     "item_nameid": 156200229,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-Kmsj5Mqnak29u_dVO07n--YXygED6_kA9NWylIY7EcgM-aQmE8gLqwOa508K66c_PnyZi6HV34n3Vmka_1wYMMLL7Px51fA",
-    "sell_order_count": 0,
+    "sell_order_count": "1",
     "buy_order_count": "216",
-    "lowest_sell_order": "0.00",
+    "lowest_sell_order": "862.50",
     "highest_buy_order": "739.63",
-    "date_modified": 1760351819649
+    "date_modified": 1760391185180
   },
   {
     "hash_name": "★ M9 Bayonet | Freehand (Field-Tested)",
     "item_nameid": 156249203,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-Kmsj5Mqnak29u_dVO07n--InxgUG55UFramimdYaRJ1Q9Z17S-1S_lL_ngcfou8nKzXNhsiVx5XqMnxHjhE5SLrs4HHm2wvQ",
     "sell_order_count": "1",
-    "buy_order_count": "297",
+    "buy_order_count": "298",
     "lowest_sell_order": "892.54",
-    "highest_buy_order": "626.45",
-    "date_modified": 1760351827806
+    "highest_buy_order": "627.53",
+    "date_modified": 1760391193299
   },
   {
     "hash_name": "★ M9 Bayonet | Freehand (Factory New)",
     "item_nameid": 156596896,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-Kmsj5Mqnak29u_dVO07n--YXygED6_kA9NWylIY7EcgM-aQmE8gLqwOa508K66c_PnyZi6HV34n3Vmka_1wYMMLL7Px51fA",
-    "sell_order_count": "4",
+    "sell_order_count": "5",
     "buy_order_count": "344",
-    "lowest_sell_order": "1028.99",
+    "lowest_sell_order": "800.00",
     "highest_buy_order": "795.60",
-    "date_modified": 1760351836094
+    "date_modified": 1760391201594
   },
   {
     "hash_name": "★ M9 Bayonet | Forest DDPAT (Minimal Wear)",
@@ -16877,17 +16877,17 @@
     "buy_order_count": "193",
     "lowest_sell_order": "766.29",
     "highest_buy_order": "634.68",
-    "date_modified": 1760351844273
+    "date_modified": 1760391209712
   },
   {
     "hash_name": "★ M9 Bayonet | Forest DDPAT (Field-Tested)",
     "item_nameid": 1321661,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-DjsjwN6vQglRc7cF4n-SP9tWt2FXk-xJsNm_3dYeSJAI7N1qCrgS6lbzmhpTv7suanXdisikj5WGdwUK4S-DEUA",
-    "sell_order_count": "5",
+    "sell_order_count": "4",
     "buy_order_count": "522",
-    "lowest_sell_order": "656.70",
+    "lowest_sell_order": "674.77",
     "highest_buy_order": "515.40",
-    "date_modified": 1760351852434
+    "date_modified": 1760391217826
   },
   {
     "hash_name": "★ M9 Bayonet | Damascus Steel (Well-Worn)",
@@ -16897,7 +16897,7 @@
     "buy_order_count": "148",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "712.80",
-    "date_modified": 1760351860712
+    "date_modified": 1760391226073
   },
   {
     "hash_name": "★ M9 Bayonet | Damascus Steel (Field-Tested)",
@@ -16907,7 +16907,7 @@
     "buy_order_count": "282",
     "lowest_sell_order": "945.00",
     "highest_buy_order": "823.26",
-    "date_modified": 1760351868906
+    "date_modified": 1760391234203
   },
   {
     "hash_name": "★ M9 Bayonet | Damascus Steel (Factory New)",
@@ -16917,7 +16917,7 @@
     "buy_order_count": "430",
     "lowest_sell_order": "1245.00",
     "highest_buy_order": "925.32",
-    "date_modified": 1760351877052
+    "date_modified": 1760391242326
   },
   {
     "hash_name": "★ M9 Bayonet | Crimson Web (Well-Worn)",
@@ -16927,7 +16927,7 @@
     "buy_order_count": "254",
     "lowest_sell_order": "977.50",
     "highest_buy_order": "711.80",
-    "date_modified": 1760351885370
+    "date_modified": 1760391250580
   },
   {
     "hash_name": "★ M9 Bayonet | Crimson Web (Field-Tested)",
@@ -16937,7 +16937,7 @@
     "buy_order_count": "927",
     "lowest_sell_order": "1074.00",
     "highest_buy_order": "826.63",
-    "date_modified": 1760351893527
+    "date_modified": 1760391258713
   },
   {
     "hash_name": "★ M9 Bayonet | Crimson Web (Battle-Scarred)",
@@ -16947,7 +16947,7 @@
     "buy_order_count": "203",
     "lowest_sell_order": "945.37",
     "highest_buy_order": "741.88",
-    "date_modified": 1760351901687
+    "date_modified": 1760391266845
   },
   {
     "hash_name": "★ M9 Bayonet | Case Hardened (Well-Worn)",
@@ -16956,8 +16956,8 @@
     "sell_order_count": "3",
     "buy_order_count": "352",
     "lowest_sell_order": "1016.14",
-    "highest_buy_order": "690.39",
-    "date_modified": 1760351909843
+    "highest_buy_order": "690.48",
+    "date_modified": 1760391275108
   },
   {
     "hash_name": "★ M9 Bayonet | Case Hardened (Field-Tested)",
@@ -16965,9 +16965,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-Khsj7OrfUklRc7cF4n-SPo9St0QC1-BZvMjqgd4GdI1Q_aAvX81Xrw-y-hcW8tZjLmHsx7CcrsWGdwUJCpSvQRw",
     "sell_order_count": "6",
     "buy_order_count": "407",
-    "lowest_sell_order": "1075.07",
+    "lowest_sell_order": "1018.99",
     "highest_buy_order": "843.15",
-    "date_modified": 1760351918003
+    "date_modified": 1760391283228
   },
   {
     "hash_name": "★ M9 Bayonet | Case Hardened (Battle-Scarred)",
@@ -16977,7 +16977,7 @@
     "buy_order_count": "263",
     "lowest_sell_order": "1035.00",
     "highest_buy_order": "767.60",
-    "date_modified": 1760351926142
+    "date_modified": 1760391291330
   },
   {
     "hash_name": "★ M9 Bayonet | Bright Water (Minimal Wear)",
@@ -16987,7 +16987,7 @@
     "buy_order_count": "216",
     "lowest_sell_order": "1143.36",
     "highest_buy_order": "714.00",
-    "date_modified": 1760351934462
+    "date_modified": 1760391299587
   },
   {
     "hash_name": "★ M9 Bayonet | Boreal Forest (Field-Tested)",
@@ -16995,29 +16995,29 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-DjsjyPKnUhX9u6spjj-jNyoHwjF2hpl1rNjylcYSXIwI3ZgzWq1O3xei80cLttZjIm3dl6yF2tH_dmEPjhR5EcKUx0t3TovWQ",
     "sell_order_count": "5",
     "buy_order_count": "410",
-    "lowest_sell_order": "729.88",
+    "lowest_sell_order": "729.02",
     "highest_buy_order": "503.26",
-    "date_modified": 1760351942639
+    "date_modified": 1760391307788
   },
   {
     "hash_name": "★ M9 Bayonet | Blue Steel (Well-Worn)",
     "item_nameid": 1340962,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-Khsj2P67UklRc7cF4n-SP99Sh0ALj_kJtNmqicobEdlI2MFrV_1W9wO_qjMS8tZmYwXVg73Qk4GGdwUK0eOoDlA",
     "sell_order_count": 0,
-    "buy_order_count": "340",
+    "buy_order_count": "341",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "840.02",
-    "date_modified": 1760351950788
+    "highest_buy_order": "840.09",
+    "date_modified": 1760391315893
   },
   {
     "hash_name": "★ M9 Bayonet | Blue Steel (Field-Tested)",
     "item_nameid": 1322687,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-Khsj2P67UklRc7cF4n-SP99Sh0ALj_kJtNmqicobEdlI2MFrV_1W9wO_qjMS8tZmYwXVg73Qk4GGdwUK0eOoDlA",
-    "sell_order_count": "1",
+    "sell_order_count": "2",
     "buy_order_count": "376",
-    "lowest_sell_order": "1530.00",
+    "lowest_sell_order": "1219.81",
     "highest_buy_order": "864.97",
-    "date_modified": 1760351958942
+    "date_modified": 1760391324130
   },
   {
     "hash_name": "★ M9 Bayonet | Black Laminate (Battle-Scarred)",
@@ -17027,37 +17027,37 @@
     "buy_order_count": "224",
     "lowest_sell_order": "1080.00",
     "highest_buy_order": "956.08",
-    "date_modified": 1760351967105
+    "date_modified": 1760391332255
   },
   {
     "hash_name": "★ Kukri Knife | Urban Masked (Well-Worn)",
     "item_nameid": 176414209,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJgIGbksjhIbnQmFRc7cF4n-SP89WgjQXnqEc9Zz-lI47Ecw42ZV7Zr1m4wrrnh8e47c_LwSFl7iR3sGGdwUKSKoeICw",
     "sell_order_count": "11",
-    "buy_order_count": "530",
-    "lowest_sell_order": "121.99",
-    "highest_buy_order": "99.79",
-    "date_modified": 1760351975246
+    "buy_order_count": "531",
+    "lowest_sell_order": "123.00",
+    "highest_buy_order": "100.36",
+    "date_modified": 1760391340357
   },
   {
     "hash_name": "★ Kukri Knife | Urban Masked (Minimal Wear)",
     "item_nameid": 176414178,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJgIGbksjhIbnQmFRd4cJ5nqeR9o-h2FLm8xFlYDj3JISWdVVsaFDXr1Hole-9jcS8tJ7Ay3BiviN3-z-DyFR1CfhQ",
-    "sell_order_count": "22",
-    "buy_order_count": "395",
-    "lowest_sell_order": "154.21",
-    "highest_buy_order": "148.99",
-    "date_modified": 1760351983419
+    "sell_order_count": "20",
+    "buy_order_count": "391",
+    "lowest_sell_order": "153.14",
+    "highest_buy_order": "143.26",
+    "date_modified": 1760391348600
   },
   {
     "hash_name": "★ Kukri Knife | Urban Masked (Field-Tested)",
     "item_nameid": 176414171,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJgIGbksjhIbnQmFRc7cF4n-SP89WgjQXnqEc9Zz-lI47Ecw42ZV7Zr1m4wrrnh8e47c_LwSFl7iR3sGGdwUKSKoeICw",
-    "sell_order_count": "44",
-    "buy_order_count": "776",
-    "lowest_sell_order": "114.08",
+    "sell_order_count": "47",
+    "buy_order_count": "774",
+    "lowest_sell_order": "110.00",
     "highest_buy_order": "104.13",
-    "date_modified": 1760351991607
+    "date_modified": 1760391356724
   },
   {
     "hash_name": "★ Kukri Knife | Urban Masked (Factory New)",
@@ -17067,27 +17067,27 @@
     "buy_order_count": "210",
     "lowest_sell_order": "405.64",
     "highest_buy_order": "214.49",
-    "date_modified": 1760351999798
+    "date_modified": 1760391364849
   },
   {
     "hash_name": "★ Kukri Knife | Urban Masked (Battle-Scarred)",
     "item_nameid": 176414242,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJgIGbksjhIbnQmFRZ7cRnk6eR9t2ijQTs-hU9MD_7ItLGdgQ7MgyD-la4l-fvgcW5vcjNnHA2uSQl-z-DyDDNKwes",
-    "sell_order_count": "21",
-    "buy_order_count": "468",
-    "lowest_sell_order": "111.04",
-    "highest_buy_order": "101.21",
-    "date_modified": 1760352008166
+    "sell_order_count": "17",
+    "buy_order_count": "472",
+    "lowest_sell_order": "114.97",
+    "highest_buy_order": "102.21",
+    "date_modified": 1760391373103
   },
   {
     "hash_name": "★ Kukri Knife | Stained (Well-Worn)",
     "item_nameid": 176414217,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2Jko-ZlPLwDLbUkmJE5Ysi2rDC9tugigO3_xFqMmildtCRIwNoYAuD_QW8x-3rjJDquZ_OnyZrpGB8suL7pjuE",
     "sell_order_count": "13",
-    "buy_order_count": "576",
-    "lowest_sell_order": "148.75",
+    "buy_order_count": "575",
+    "lowest_sell_order": "148.58",
     "highest_buy_order": "135.78",
-    "date_modified": 1760352016340
+    "date_modified": 1760391381239
   },
   {
     "hash_name": "★ Kukri Knife | Stained (Minimal Wear)",
@@ -17095,19 +17095,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2Jko-ZlPLwDLfYkWNFpsYkiL2Yp9ui3QXi_xdqZzyldoWTJwM7Y1rRqAToyObp0cS-75WfzyN9-n517V07HaI",
     "sell_order_count": "18",
     "buy_order_count": "455",
-    "lowest_sell_order": "172.50",
-    "highest_buy_order": "162.77",
-    "date_modified": 1760352024479
+    "lowest_sell_order": "174.03",
+    "highest_buy_order": "162.73",
+    "date_modified": 1760391389356
   },
   {
     "hash_name": "★ Kukri Knife | Stained (Field-Tested)",
     "item_nameid": 176414126,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2Jko-ZlPLwDLbUkmJE5Ysi2rDC9tugigO3_xFqMmildtCRIwNoYAuD_QW8x-3rjJDquZ_OnyZrpGB8suL7pjuE",
-    "sell_order_count": "14",
-    "buy_order_count": "848",
-    "lowest_sell_order": "167.76",
-    "highest_buy_order": "149.21",
-    "date_modified": 1760352032652
+    "sell_order_count": "16",
+    "buy_order_count": "843",
+    "lowest_sell_order": "151.74",
+    "highest_buy_order": "149.19",
+    "date_modified": 1760391397467
   },
   {
     "hash_name": "★ Kukri Knife | Stained (Factory New)",
@@ -17117,147 +17117,147 @@
     "buy_order_count": "286",
     "lowest_sell_order": "251.42",
     "highest_buy_order": "222.90",
-    "date_modified": 1760352040825
+    "date_modified": 1760391405581
   },
   {
     "hash_name": "★ Kukri Knife | Stained (Battle-Scarred)",
     "item_nameid": 176414289,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2Jko-ZlPLwDLPUl31IppVzjLmQpY_wigTl_0A4Y27xIY6XcVc_YQrS-wK6lLu-18S7vJ7JnyB9-n51FM9pHyk",
-    "sell_order_count": "16",
-    "buy_order_count": "418",
-    "lowest_sell_order": "145.55",
-    "highest_buy_order": "128.12",
-    "date_modified": 1760352049112
+    "sell_order_count": "15",
+    "buy_order_count": "421",
+    "lowest_sell_order": "145.15",
+    "highest_buy_order": "133.49",
+    "date_modified": 1760391413826
   },
   {
     "hash_name": "★ Kukri Knife | Slaughter (Minimal Wear)",
     "item_nameid": 176414153,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97dGJjoWJhfbLP7LWnn8fvZIgjrGYpo-m3wbmqBU6NmmmLYaTIQFqMAzR8gfrx-rs1JK77pWdmmwj5HfC17GeYA",
-    "sell_order_count": "28",
-    "buy_order_count": "1,123",
-    "lowest_sell_order": "301.82",
+    "sell_order_count": "29",
+    "buy_order_count": "1,124",
+    "lowest_sell_order": "299.99",
     "highest_buy_order": "290.42",
-    "date_modified": 1760352057297
+    "date_modified": 1760391421951
   },
   {
     "hash_name": "★ Kukri Knife | Slaughter (Field-Tested)",
     "item_nameid": 176414260,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97dGJjoWJhfbLPr7Vn35cpsYlibDEo9-t0QHm_0ttZm-lctOWdA87Y1CD8gW2k7_rgpTo6J_OnHF9-n51Ipf2QoU",
-    "sell_order_count": "16",
-    "buy_order_count": "514",
+    "sell_order_count": "15",
+    "buy_order_count": "516",
     "lowest_sell_order": "297.00",
-    "highest_buy_order": "276.78",
-    "date_modified": 1760352065468
+    "highest_buy_order": "277.92",
+    "date_modified": 1760391430089
   },
   {
     "hash_name": "★ Kukri Knife | Slaughter (Factory New)",
     "item_nameid": 176414206,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97dGJjoWJhfbLP7LWnn8fvZIgjrGYpo-m3wbmqBU6NmmmLYaTIQFqMAzR8gfrx-rs1JK77pWdmmwj5HfC17GeYA",
-    "sell_order_count": "24",
+    "sell_order_count": "25",
     "buy_order_count": "840",
-    "lowest_sell_order": "382.00",
+    "lowest_sell_order": "380.47",
     "highest_buy_order": "337.30",
-    "date_modified": 1760352073728
+    "date_modified": 1760391438322
   },
   {
     "hash_name": "★ Kukri Knife | Scorched (Well-Worn)",
     "item_nameid": 176414299,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJkIGbh_vxDLbUkmJE5YshjLzArNmm2Fex_hY6ZGylJoadJgI_YluE_1Dslbu7gsS06ZXIwHpnpGB8sl1kT8Ha",
-    "sell_order_count": "11",
+    "sell_order_count": "10",
     "buy_order_count": "427",
-    "lowest_sell_order": "109.48",
+    "lowest_sell_order": "115.55",
     "highest_buy_order": "105.16",
-    "date_modified": 1760352082114
+    "date_modified": 1760391446465
   },
   {
     "hash_name": "★ Kukri Knife | Scorched (Minimal Wear)",
     "item_nameid": 176414151,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJkIGbh_vxDLfYkWNFpsEm3bmQoYj2ilfs8hVtNT31doDHJlM2aFHV_Fe5xu7q08S7vpXKwXR9-n51QqUUfjU",
-    "sell_order_count": "12",
-    "buy_order_count": "571",
-    "lowest_sell_order": "159.11",
+    "sell_order_count": "10",
+    "buy_order_count": "572",
+    "lowest_sell_order": "161.72",
     "highest_buy_order": "143.34",
-    "date_modified": 1760352090401
+    "date_modified": 1760391454785
   },
   {
     "hash_name": "★ Kukri Knife | Scorched (Field-Tested)",
     "item_nameid": 176414157,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJkIGbh_vxDLbUkmJE5YshjLzArNmm2Fex_hY6ZGylJoadJgI_YluE_1Dslbu7gsS06ZXIwHpnpGB8sl1kT8Ha",
-    "sell_order_count": "33",
-    "buy_order_count": "754",
-    "lowest_sell_order": "107.82",
-    "highest_buy_order": "101.08",
-    "date_modified": 1760352098577
+    "sell_order_count": "36",
+    "buy_order_count": "753",
+    "lowest_sell_order": "110.00",
+    "highest_buy_order": "101.03",
+    "date_modified": 1760391463043
   },
   {
     "hash_name": "★ Kukri Knife | Scorched (Factory New)",
     "item_nameid": 176414569,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJkIGbh_vxDLfYkWNFpsEm3bmQoYj2ilfs8hVtNT31doDHJlM2aFHV_Fe5xu7q08S7vpXKwXR9-n51QqUUfjU",
-    "sell_order_count": "2",
+    "sell_order_count": "1",
     "buy_order_count": "173",
-    "lowest_sell_order": "339.87",
+    "lowest_sell_order": "340.57",
     "highest_buy_order": "172.99",
-    "date_modified": 1760352106731
+    "date_modified": 1760391471149
   },
   {
     "hash_name": "★ Kukri Knife | Scorched (Battle-Scarred)",
     "item_nameid": 176414176,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJkIGbh_vxDLPUl31Ipp0p27qVrY-j0VDm_RE9ZT_3J4XEcw46NQ3TrAS6lL_njMK_tczOyXJ9-n519gPDnXI",
-    "sell_order_count": "22",
-    "buy_order_count": "474",
-    "lowest_sell_order": "111.67",
-    "highest_buy_order": "101.25",
-    "date_modified": 1760352114898
+    "sell_order_count": "21",
+    "buy_order_count": "473",
+    "lowest_sell_order": "115.00",
+    "highest_buy_order": "96.72",
+    "date_modified": 1760391479258
   },
   {
     "hash_name": "★ Kukri Knife | Safari Mesh (Well-Worn)",
     "item_nameid": 176414335,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJmYWYn8jgMrXum25V4dB8xOuQrNis3AfjrkFrMTr1INeRd1Q3aF7X_wO4yLvngZO4ucydm3Ax7CQ8pSGKWNs0Kx8",
-    "sell_order_count": "18",
+    "sell_order_count": "23",
     "buy_order_count": "399",
-    "lowest_sell_order": "103.16",
-    "highest_buy_order": "94.25",
-    "date_modified": 1760352123039
+    "lowest_sell_order": "95.72",
+    "highest_buy_order": "93.47",
+    "date_modified": 1760391487512
   },
   {
     "hash_name": "★ Kukri Knife | Safari Mesh (Minimal Wear)",
     "item_nameid": 176414216,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJmYWYn8jgMrXummJW4NE_j-2Xpdyl3Qbl_kc_YGGlIYOWcwI8aVnV_ATslOvmjJ677sicmHJqsz5iuyg6yWV5Bw",
-    "sell_order_count": "12",
-    "buy_order_count": "357",
-    "lowest_sell_order": "110.69",
+    "sell_order_count": "10",
+    "buy_order_count": "358",
+    "lowest_sell_order": "126.51",
     "highest_buy_order": "106.17",
-    "date_modified": 1760352131255
+    "date_modified": 1760391495618
   },
   {
     "hash_name": "★ Kukri Knife | Safari Mesh (Field-Tested)",
     "item_nameid": 176414085,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJmYWYn8jgMrXum25V4dB8xOuQrNis3AfjrkFrMTr1INeRd1Q3aF7X_wO4yLvngZO4ucydm3Ax7CQ8pSGKWNs0Kx8",
     "sell_order_count": "56",
-    "buy_order_count": "6,052",
-    "lowest_sell_order": "99.25",
-    "highest_buy_order": "94.64",
-    "date_modified": 1760352139428
+    "buy_order_count": "6,048",
+    "lowest_sell_order": "93.78",
+    "highest_buy_order": "93.40",
+    "date_modified": 1760391503867
   },
   {
     "hash_name": "★ Kukri Knife | Safari Mesh (Factory New)",
     "item_nameid": 176414950,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJmYWYn8jgMrXummJW4NE_j-2Xpdyl3Qbl_kc_YGGlIYOWcwI8aVnV_ATslOvmjJ677sicmHJqsz5iuyg6yWV5Bw",
-    "sell_order_count": "3",
+    "sell_order_count": "4",
     "buy_order_count": "167",
-    "lowest_sell_order": "259.81",
+    "lowest_sell_order": "241.50",
     "highest_buy_order": "174.89",
-    "date_modified": 1760352147602
+    "date_modified": 1760391511976
   },
   {
     "hash_name": "★ Kukri Knife | Safari Mesh (Battle-Scarred)",
     "item_nameid": 176414214,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJmYWYn8jgMrXunm5Q_tw_2u-W892n31Dh_kdrYWuiLYeVcwI8aQ7T8wS7xb-6hcXuuZjKn3swsz5iuyhFCX2nfA",
     "sell_order_count": "22",
-    "buy_order_count": "602",
-    "lowest_sell_order": "108.00",
-    "highest_buy_order": "95.47",
-    "date_modified": 1760352155797
+    "buy_order_count": "604",
+    "lowest_sell_order": "105.00",
+    "highest_buy_order": "96.06",
+    "date_modified": 1760391520093
   },
   {
     "hash_name": "★ Kukri Knife | Night Stripe (Well-Worn)",
@@ -17265,29 +17265,29 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJmomMn-PnJ6nYhm5u5cB1g_zMu9uiiw3grUJpYm7zcNeSJFM4ZFuD-lW_x-u8hZLous_NmCZi6XIl5X3D30vgEQwY14o",
     "sell_order_count": "11",
     "buy_order_count": "396",
-    "lowest_sell_order": "121.63",
+    "lowest_sell_order": "125.28",
     "highest_buy_order": "115.87",
-    "date_modified": 1760352163958
+    "date_modified": 1760391528390
   },
   {
     "hash_name": "★ Kukri Knife | Night Stripe (Minimal Wear)",
     "item_nameid": 176414205,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJmomMn-PnJ6nYhm5u5Mx2gv2P99ms0Fa2qRBva273Io7AdQE8ZV-B81W9x7jsgZ-6vJnKwSBqsigl4GGdwULjCYL13Q",
     "sell_order_count": "19",
-    "buy_order_count": "439",
-    "lowest_sell_order": "150.82",
+    "buy_order_count": "438",
+    "lowest_sell_order": "145.51",
     "highest_buy_order": "142.08",
-    "date_modified": 1760352172103
+    "date_modified": 1760391536518
   },
   {
     "hash_name": "★ Kukri Knife | Night Stripe (Field-Tested)",
     "item_nameid": 176414204,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJmomMn-PnJ6nYhm5u5cB1g_zMu9uiiw3grUJpYm7zcNeSJFM4ZFuD-lW_x-u8hZLous_NmCZi6XIl5X3D30vgEQwY14o",
-    "sell_order_count": "28",
-    "buy_order_count": "636",
-    "lowest_sell_order": "128.86",
+    "sell_order_count": "29",
+    "buy_order_count": "631",
+    "lowest_sell_order": "123.00",
     "highest_buy_order": "122.25",
-    "date_modified": 1760352180315
+    "date_modified": 1760391544621
   },
   {
     "hash_name": "★ Kukri Knife | Night Stripe (Factory New)",
@@ -17297,47 +17297,47 @@
     "buy_order_count": "95",
     "lowest_sell_order": "369.00",
     "highest_buy_order": "259.62",
-    "date_modified": 1760352188476
+    "date_modified": 1760391552907
   },
   {
     "hash_name": "★ Kukri Knife | Night Stripe (Battle-Scarred)",
     "item_nameid": 176414255,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJmomMn-PnJ6nYhm5u4MBwnPCP99Xw3wC3-kJoazz7INWRIwA-YA2ErFG_xr3m18e76ZnBySNnvCMrtmGdwUL-hTTBrg",
-    "sell_order_count": "18",
-    "buy_order_count": "477",
-    "lowest_sell_order": "121.50",
-    "highest_buy_order": "110.48",
-    "date_modified": 1760352196617
+    "sell_order_count": "21",
+    "buy_order_count": "478",
+    "lowest_sell_order": "115.00",
+    "highest_buy_order": "110.55",
+    "date_modified": 1760391561014
   },
   {
     "hash_name": "★ Kukri Knife | Forest DDPAT (Well-Worn)",
     "item_nameid": 176414230,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJkISbluPLPr7Vn35cppUijr6QrNnxjQHi-kU9Zzj0IoeUcQU-ZlHV-VS6kLznhcPp6pnPyXN9-n513dCDn2U",
-    "sell_order_count": "19",
-    "buy_order_count": "559",
-    "lowest_sell_order": "103.05",
-    "highest_buy_order": "96.25",
-    "date_modified": 1760352204941
+    "sell_order_count": "16",
+    "buy_order_count": "554",
+    "lowest_sell_order": "104.11",
+    "highest_buy_order": "96.11",
+    "date_modified": 1760391569124
   },
   {
     "hash_name": "★ Kukri Knife | Forest DDPAT (Minimal Wear)",
     "item_nameid": 176414276,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJkISbluPLP7LWnn8f6ZMgibvH84r02ACxrRVtZDugJtLBIABoYw3V_li-wOu7gZC178_LmGwj5Hft8MUHXQ",
-    "sell_order_count": "16",
-    "buy_order_count": "302",
+    "sell_order_count": "15",
+    "buy_order_count": "299",
     "lowest_sell_order": "138.24",
-    "highest_buy_order": "134.90",
-    "date_modified": 1760352213333
+    "highest_buy_order": "134.23",
+    "date_modified": 1760391577377
   },
   {
     "hash_name": "★ Kukri Knife | Forest DDPAT (Field-Tested)",
     "item_nameid": 176414169,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJkISbluPLPr7Vn35cppUijr6QrNnxjQHi-kU9Zzj0IoeUcQU-ZlHV-VS6kLznhcPp6pnPyXN9-n513dCDn2U",
-    "sell_order_count": "64",
-    "buy_order_count": "1,016",
-    "lowest_sell_order": "108.25",
+    "sell_order_count": "69",
+    "buy_order_count": "1,020",
+    "lowest_sell_order": "105.00",
     "highest_buy_order": "95.80",
-    "date_modified": 1760352221544
+    "date_modified": 1760391585481
   },
   {
     "hash_name": "★ Kukri Knife | Forest DDPAT (Factory New)",
@@ -17347,117 +17347,117 @@
     "buy_order_count": "116",
     "lowest_sell_order": "230.00",
     "highest_buy_order": "193.50",
-    "date_modified": 1760352229826
+    "date_modified": 1760391593602
   },
   {
     "hash_name": "★ Kukri Knife | Forest DDPAT (Battle-Scarred)",
     "item_nameid": 176414257,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJkISbluPLO77QgHIfuZUk3LCZ8Nqk3wG38kc-ZG6iII7EcQVvZlyD-1a9x-vogpe4upzMm2wj5HddLjTq7A",
-    "sell_order_count": "18",
-    "buy_order_count": "517",
-    "lowest_sell_order": "102.85",
+    "sell_order_count": "20",
+    "buy_order_count": "515",
+    "lowest_sell_order": "96.39",
     "highest_buy_order": "95.46",
-    "date_modified": 1760352237991
+    "date_modified": 1760391601868
   },
   {
     "hash_name": "★ Kukri Knife | Fade (Minimal Wear)",
     "item_nameid": 176414947,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97d2JkoGPksj4OrzZgiUE6ZwmjOqXpYnz2Vew-RY5NWv1IdCXe1Q7NFqB_Fe5kue8hZK8vc_J1zI97Wo4QJnu",
     "sell_order_count": "2",
-    "buy_order_count": "302",
+    "buy_order_count": "301",
     "lowest_sell_order": "572.33",
     "highest_buy_order": "442.77",
-    "date_modified": 1760352246167
+    "date_modified": 1760391609977
   },
   {
     "hash_name": "★ Kukri Knife | Fade (Factory New)",
     "item_nameid": 176414256,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97d2JkoGPksj4OrzZgiUE6ZwmjOqXpYnz2Vew-RY5NWv1IdCXe1Q7NFqB_Fe5kue8hZK8vc_J1zI97Wo4QJnu",
-    "sell_order_count": "76",
-    "buy_order_count": "1,170",
-    "lowest_sell_order": "475.65",
-    "highest_buy_order": "452.88",
-    "date_modified": 1760352254334
+    "sell_order_count": "75",
+    "buy_order_count": "1,169",
+    "lowest_sell_order": "474.39",
+    "highest_buy_order": "452.87",
+    "date_modified": 1760391618183
   },
   {
     "hash_name": "★ Kukri Knife | Crimson Web (Well-Worn)",
     "item_nameid": 176414325,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJg4WJhMj5Nr_Yg2Yf7sch3-vH89Wh3gXl_EttYDyicIOXeg5oZQ6D-lm4l-vqgJW86J-anGwj5HewuZ6qNg",
-    "sell_order_count": "10",
-    "buy_order_count": "383",
-    "lowest_sell_order": "204.10",
-    "highest_buy_order": "172.97",
-    "date_modified": 1760352262514
+    "sell_order_count": "11",
+    "buy_order_count": "385",
+    "lowest_sell_order": "202.07",
+    "highest_buy_order": "172.98",
+    "date_modified": 1760391626443
   },
   {
     "hash_name": "★ Kukri Knife | Crimson Web (Minimal Wear)",
     "item_nameid": 176414283,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJg4WJhMj4OrzZgiVX7Jcg2LyR99X2jAyw_ENuZGDwcdWddgA5MwqGq1Lsw-vsh5Xo7Z7P1zI97SGihRju",
-    "sell_order_count": "21",
-    "buy_order_count": "372",
+    "sell_order_count": "20",
+    "buy_order_count": "374",
     "lowest_sell_order": "309.00",
     "highest_buy_order": "289.58",
-    "date_modified": 1760352270653
+    "date_modified": 1760391634543
   },
   {
     "hash_name": "★ Kukri Knife | Crimson Web (Field-Tested)",
     "item_nameid": 176414287,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJg4WJhMj5Nr_Yg2Yf7sch3-vH89Wh3gXl_EttYDyicIOXeg5oZQ6D-lm4l-vqgJW86J-anGwj5HewuZ6qNg",
-    "sell_order_count": "37",
-    "buy_order_count": "692",
-    "lowest_sell_order": "203.23",
-    "highest_buy_order": "202.26",
-    "date_modified": 1760352278858
+    "sell_order_count": "38",
+    "buy_order_count": "688",
+    "lowest_sell_order": "207.00",
+    "highest_buy_order": "192.91",
+    "date_modified": 1760391642665
   },
   {
     "hash_name": "★ Kukri Knife | Crimson Web (Factory New)",
     "item_nameid": 176425583,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJg4WJhMj4OrzZgiVX7Jcg2LyR99X2jAyw_ENuZGDwcdWddgA5MwqGq1Lsw-vsh5Xo7Z7P1zI97SGihRju",
     "sell_order_count": "1",
-    "buy_order_count": "117",
+    "buy_order_count": "116",
     "lowest_sell_order": "1199.00",
     "highest_buy_order": "860.00",
-    "date_modified": 1760352287008
+    "date_modified": 1760391650957
   },
   {
     "hash_name": "★ Kukri Knife | Crimson Web (Battle-Scarred)",
     "item_nameid": 176414177,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJg4WJhMj8NrrHjyUJ7JB0i7uRpNWh2lbkqhc_Y2z6Jo-VdFI3YA2D_1K-yOi-0cPutJyf1zI97YmEMWn0",
-    "sell_order_count": "10",
-    "buy_order_count": "565",
-    "lowest_sell_order": "174.69",
-    "highest_buy_order": "152.64",
-    "date_modified": 1760352295160
+    "sell_order_count": "8",
+    "buy_order_count": "561",
+    "lowest_sell_order": "174.82",
+    "highest_buy_order": "152.17",
+    "date_modified": 1760391659060
   },
   {
     "hash_name": "★ Kukri Knife | Case Hardened (Well-Worn)",
     "item_nameid": 176414163,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2Jm4mHkvPLPr7Vn35cpsQk3b2X9NTx2wXi8xdlY2_7JILBew9oaQ6G-wO6kri81pC4u57MnyF9-n51c0z27Cw",
-    "sell_order_count": "49",
+    "sell_order_count": "45",
     "buy_order_count": "933",
-    "lowest_sell_order": "190.00",
-    "highest_buy_order": "175.49",
-    "date_modified": 1760352303450
+    "lowest_sell_order": "201.84",
+    "highest_buy_order": "175.51",
+    "date_modified": 1760391667307
   },
   {
     "hash_name": "★ Kukri Knife | Case Hardened (Minimal Wear)",
     "item_nameid": 176414170,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2Jm4mHkvPLP7LWnn8fuZ13ibqTrdv3jA21rkVkNjilcdSUIQE8Y1GB-Fi9xOa-gJC66Z7Mn2wj5HclR6e16Q",
-    "sell_order_count": "36",
-    "buy_order_count": "842",
-    "lowest_sell_order": "273.66",
-    "highest_buy_order": "222.25",
-    "date_modified": 1760352311615
+    "sell_order_count": "37",
+    "buy_order_count": "846",
+    "lowest_sell_order": "279.14",
+    "highest_buy_order": "222.48",
+    "date_modified": 1760391675580
   },
   {
     "hash_name": "★ Kukri Knife | Case Hardened (Field-Tested)",
     "item_nameid": 176414236,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2Jm4mHkvPLPr7Vn35cpsQk3b2X9NTx2wXi8xdlY2_7JILBew9oaQ6G-wO6kri81pC4u57MnyF9-n51c0z27Cw",
-    "sell_order_count": "56",
-    "buy_order_count": "928",
-    "lowest_sell_order": "207.36",
-    "highest_buy_order": "196.88",
-    "date_modified": 1760352319804
+    "sell_order_count": "52",
+    "buy_order_count": "934",
+    "lowest_sell_order": "216.20",
+    "highest_buy_order": "196.89",
+    "date_modified": 1760391683695
   },
   {
     "hash_name": "★ Kukri Knife | Case Hardened (Factory New)",
@@ -17466,48 +17466,48 @@
     "sell_order_count": "11",
     "buy_order_count": "347",
     "lowest_sell_order": "458.97",
-    "highest_buy_order": "372.60",
-    "date_modified": 1760352327971
+    "highest_buy_order": "372.65",
+    "date_modified": 1760391691805
   },
   {
     "hash_name": "★ Kukri Knife | Case Hardened (Battle-Scarred)",
     "item_nameid": 176414241,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2Jm4mHkvPLO77QgHIfvMYpiLCXoNSnjQy1rkc-NTzxco-TcldrYF7R_lW5we7qhcPuuZSbm2wj5HeA7vBDmQ",
-    "sell_order_count": "30",
-    "buy_order_count": "670",
+    "sell_order_count": "27",
+    "buy_order_count": "669",
     "lowest_sell_order": "193.56",
     "highest_buy_order": "173.81",
-    "date_modified": 1760352336124
+    "date_modified": 1760391700096
   },
   {
     "hash_name": "★ Kukri Knife | Boreal Forest (Well-Worn)",
     "item_nameid": 176414258,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJko-ZkuTgDLnehG5Q5Pp8j-3I4IG70QLi-Uc6YWn2JdLBcgc6aVjWqALql-i9hsLv6svBmiZguygr5Hncmgv3309UuSok4A",
     "sell_order_count": "16",
-    "buy_order_count": "459",
-    "lowest_sell_order": "102.02",
-    "highest_buy_order": "94.16",
-    "date_modified": 1760352344291
+    "buy_order_count": "457",
+    "lowest_sell_order": "105.92",
+    "highest_buy_order": "94.12",
+    "date_modified": 1760391708205
   },
   {
     "hash_name": "★ Kukri Knife | Boreal Forest (Minimal Wear)",
     "item_nameid": 176414194,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJko-ZkuTgDLnehG5Q5Pp9g-7J4cKn3lXhr0JlYD-nJI6VdQRtNVCGrlm2kuzrgsS8uc7Jn3cw6CUl43vYgVXp1kdkJU_m",
-    "sell_order_count": "11",
-    "buy_order_count": "453",
-    "lowest_sell_order": "140.00",
-    "highest_buy_order": "116.80",
-    "date_modified": 1760352352440
+    "sell_order_count": "13",
+    "buy_order_count": "452",
+    "lowest_sell_order": "129.29",
+    "highest_buy_order": "117.60",
+    "date_modified": 1760391716301
   },
   {
     "hash_name": "★ Kukri Knife | Boreal Forest (Field-Tested)",
     "item_nameid": 176414226,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJko-ZkuTgDLnehG5Q5Pp8j-3I4IG70QLi-Uc6YWn2JdLBcgc6aVjWqALql-i9hsLv6svBmiZguygr5Hncmgv3309UuSok4A",
-    "sell_order_count": "55",
-    "buy_order_count": "719",
-    "lowest_sell_order": "101.44",
-    "highest_buy_order": "96.60",
-    "date_modified": 1760352360731
+    "sell_order_count": "54",
+    "buy_order_count": "712",
+    "lowest_sell_order": "103.39",
+    "highest_buy_order": "90.18",
+    "date_modified": 1760391724671
   },
   {
     "hash_name": "★ Kukri Knife | Boreal Forest (Factory New)",
@@ -17517,77 +17517,77 @@
     "buy_order_count": "164",
     "lowest_sell_order": "246.60",
     "highest_buy_order": "174.71",
-    "date_modified": 1760352368856
+    "date_modified": 1760391732798
   },
   {
     "hash_name": "★ Kukri Knife | Boreal Forest (Battle-Scarred)",
     "item_nameid": 176414184,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR95MWJko-ZkuTgDLnehG5Q5Pp5j-jX7MKm2w3l-BI9YW2mLISccgc2Yw3Y-Fi9x7y9gZS96p7NmnEyuiUq4i3egVXp1mMdBESn",
     "sell_order_count": "28",
-    "buy_order_count": "592",
-    "lowest_sell_order": "99.62",
-    "highest_buy_order": "95.60",
-    "date_modified": 1760352377153
+    "buy_order_count": "586",
+    "lowest_sell_order": "102.00",
+    "highest_buy_order": "94.65",
+    "date_modified": 1760391740926
   },
   {
     "hash_name": "★ Kukri Knife | Blue Steel (Well-Worn)",
     "item_nameid": 176414225,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2JloyekvPLPr7Vn35cppMh3OqVpI2l3gDl_0FoYW6hcYSVcANvZgvUqQftkri51sW5u53MnyR9-n51MCFBVA8",
-    "sell_order_count": "25",
-    "buy_order_count": "537",
-    "lowest_sell_order": "184.63",
-    "highest_buy_order": "162.19",
-    "date_modified": 1760352385307
+    "sell_order_count": "23",
+    "buy_order_count": "524",
+    "lowest_sell_order": "184.17",
+    "highest_buy_order": "147.02",
+    "date_modified": 1760391749168
   },
   {
     "hash_name": "★ Kukri Knife | Blue Steel (Minimal Wear)",
     "item_nameid": 176414193,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2JloyekvPLP7LWnn8f6pwhjLGVpd-k2wznqENrNzygdtLEJgU6ZgqB-Vi8yebpjZHtupqbmGwj5HcUzqoZvQ",
-    "sell_order_count": "23",
-    "buy_order_count": "480",
-    "lowest_sell_order": "203.02",
-    "highest_buy_order": "193.31",
-    "date_modified": 1760352393468
+    "sell_order_count": "20",
+    "buy_order_count": "478",
+    "lowest_sell_order": "207.55",
+    "highest_buy_order": "192.92",
+    "date_modified": 1760391757284
   },
   {
     "hash_name": "★ Kukri Knife | Blue Steel (Field-Tested)",
     "item_nameid": 176414179,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2JloyekvPLPr7Vn35cppMh3OqVpI2l3gDl_0FoYW6hcYSVcANvZgvUqQftkri51sW5u53MnyR9-n51MCFBVA8",
-    "lowest_sell_order": "185.92",
-    "highest_buy_order": "175.69",
-    "date_modified": 1760352401755,
-    "sell_order_count": "28",
-    "buy_order_count": "727"
+    "lowest_sell_order": "188.95",
+    "highest_buy_order": "168.14",
+    "date_modified": 1760391765387,
+    "sell_order_count": "26",
+    "buy_order_count": "718"
   },
   {
     "hash_name": "★ Kukri Knife | Blue Steel (Factory New)",
     "item_nameid": 176415464,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2JloyekvPLP7LWnn8f6pwhjLGVpd-k2wznqENrNzygdtLEJgU6ZgqB-Vi8yebpjZHtupqbmGwj5HcUzqoZvQ",
     "sell_order_count": "5",
-    "buy_order_count": "214",
+    "buy_order_count": "215",
     "lowest_sell_order": "322.00",
-    "highest_buy_order": "260.43",
-    "date_modified": 1760352409922
+    "highest_buy_order": "260.67",
+    "date_modified": 1760391773659
   },
   {
     "hash_name": "★ Kukri Knife | Blue Steel (Battle-Scarred)",
     "item_nameid": 176414233,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2JloyekvPLO77QgHIf6ZNw27uYrYmligDh_UptYGincYTBcQY7Y1-EqFK-ku67gJ-66ZyfwGwj5HeBE36zUg",
-    "sell_order_count": "25",
-    "buy_order_count": "484",
-    "lowest_sell_order": "173.09",
+    "sell_order_count": "24",
+    "buy_order_count": "482",
+    "lowest_sell_order": "171.32",
     "highest_buy_order": "161.87",
-    "date_modified": 1760352418060
+    "date_modified": 1760391781778
   },
   {
     "hash_name": "★ Kukri Knife",
     "item_nameid": 176414196,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaIAlp1fb3eihJ_tX4ktCPwfTwZbqDkG9Q7J1yjuvFoNim2wCx_BI4az37dtKSelA5YF3UrE_-n7m6gqgBBA",
-    "sell_order_count": "35",
-    "buy_order_count": "1,630",
-    "lowest_sell_order": "249.98",
-    "highest_buy_order": "247.34",
-    "date_modified": 1760352426377
+    "sell_order_count": "31",
+    "buy_order_count": "1,625",
+    "lowest_sell_order": "259.07",
+    "highest_buy_order": "247.56",
+    "date_modified": 1760391789889
   },
   {
     "hash_name": "★ Karambit | Urban Masked (Well-Worn)",
@@ -17597,27 +17597,27 @@
     "buy_order_count": "313",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "651.55",
-    "date_modified": 1760352434562
+    "date_modified": 1760391798207
   },
   {
     "hash_name": "★ Karambit | Urban Masked (Minimal Wear)",
     "item_nameid": 1322764,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0g_bkNoTEhGlQ5vp9g-7J4cKn2wzmqhBpNWqmJYWVd1M8Y1vZ-1nsxOvm1pXqvpXNn3AyviYqsSuOgVXp1sGaowjw",
     "sell_order_count": 0,
-    "buy_order_count": "344",
+    "buy_order_count": "345",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "776.57",
-    "date_modified": 1760352442729
+    "highest_buy_order": "776.78",
+    "date_modified": 1760391806430
   },
   {
     "hash_name": "★ Karambit | Urban Masked (Field-Tested)",
     "item_nameid": 1321992,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0g_bkNoTEhGlQ5vp8j-3I4IG7jgO18hZuZTj3ctSSJwJsZF7UrFnrxObogZe8vpWcmnJhunIq7CyIywv330_dnKjptA",
     "sell_order_count": "8",
-    "buy_order_count": "798",
+    "buy_order_count": "799",
     "lowest_sell_order": "839.05",
-    "highest_buy_order": "662.09",
-    "date_modified": 1760352450999
+    "highest_buy_order": "672.72",
+    "date_modified": 1760391814554
   },
   {
     "hash_name": "★ Karambit | Urban Masked (Factory New)",
@@ -17627,7 +17627,7 @@
     "buy_order_count": "98",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "898.69",
-    "date_modified": 1760352459182
+    "date_modified": 1760391822786
   },
   {
     "hash_name": "★ Karambit | Ultraviolet (Well-Worn)",
@@ -17637,37 +17637,37 @@
     "buy_order_count": "406",
     "lowest_sell_order": "950.08",
     "highest_buy_order": "835.38",
-    "date_modified": 1760352467341
+    "date_modified": 1760391830906
   },
   {
     "hash_name": "★ Karambit | Ultraviolet (Field-Tested)",
     "item_nameid": 29532334,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh4-0h-LmI7fUqWZU7Mxkh6eQ8I_w3Ffg8kFqMG-gcYeWIANrZF3ZrlDox-jng5e9tM-czHYwsyNw-z-DyPSpgXwL",
     "sell_order_count": "2",
-    "buy_order_count": "1,179",
+    "buy_order_count": "1,178",
     "lowest_sell_order": "1296.33",
-    "highest_buy_order": "953.51",
-    "date_modified": 1760352475519
+    "highest_buy_order": "936.81",
+    "date_modified": 1760391839017
   },
   {
     "hash_name": "★ Karambit | Ultraviolet (Battle-Scarred)",
     "item_nameid": 29490949,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh4-0h-LmI7fUqWNU6dNoxOzHooqn3ALiqBVqZGv6do6Sc1M_Ml6C-wK7wL3m1MO7uM_KzXdkvHM8pSGKSTbjA1I",
     "sell_order_count": "4",
-    "buy_order_count": "403",
+    "buy_order_count": "404",
     "lowest_sell_order": "949.99",
-    "highest_buy_order": "784.34",
-    "date_modified": 1760352483853
+    "highest_buy_order": "784.42",
+    "date_modified": 1760391847267
   },
   {
     "hash_name": "★ Karambit | Stained (Well-Worn)",
     "item_nameid": 1342320,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0kfjmML7VqWZU7Mxkh6eQodr23lKx_BZqZ2vyLIade1RsYV7S81ftkrzt1JO-6JTBnSdrsyck-z-DyJUA9Tzc",
-    "sell_order_count": "1",
-    "buy_order_count": "747",
-    "lowest_sell_order": "1026.88",
-    "highest_buy_order": "944.75",
-    "date_modified": 1760352492147
+    "sell_order_count": 0,
+    "buy_order_count": "745",
+    "lowest_sell_order": "0.00",
+    "highest_buy_order": "939.17",
+    "date_modified": 1760391855399
   },
   {
     "hash_name": "★ Karambit | Stained (Field-Tested)",
@@ -17677,27 +17677,27 @@
     "buy_order_count": "548",
     "lowest_sell_order": "1302.09",
     "highest_buy_order": "964.94",
-    "date_modified": 1760352500447
+    "date_modified": 1760391863504
   },
   {
     "hash_name": "★ Karambit | Stained (Factory New)",
     "item_nameid": 1321996,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0kfjmML7VqWdY781lxL3F9N702gWxr0tlaj31JoORdgQ_Zw7SrAPoxurphpfpuZ7NwCc2v3I8pSGKZL5KQAw",
     "sell_order_count": 0,
-    "buy_order_count": "763",
+    "buy_order_count": "762",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "1328.42",
-    "date_modified": 1760352508752
+    "date_modified": 1760391871750
   },
   {
     "hash_name": "★ Karambit | Scorched (Well-Worn)",
     "item_nameid": 1354585,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0k_bkI7fUqWZU7Mxkh6eVptys0VXi_BdoMjr3ctCVIQZtMFzS_1W9yL_og56975nIziY17nJ2-z-DyCQkzJtH",
     "sell_order_count": "2",
-    "buy_order_count": "534",
+    "buy_order_count": "536",
     "lowest_sell_order": "906.10",
     "highest_buy_order": "713.53",
-    "date_modified": 1760352517020
+    "date_modified": 1760391879857
   },
   {
     "hash_name": "★ Karambit | Scorched (Minimal Wear)",
@@ -17707,17 +17707,17 @@
     "buy_order_count": "382",
     "lowest_sell_order": "1150.17",
     "highest_buy_order": "866.58",
-    "date_modified": 1760352525217
+    "date_modified": 1760391887984
   },
   {
     "hash_name": "★ Karambit | Scorched (Field-Tested)",
     "item_nameid": 1322023,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0k_bkI7fUqWZU7Mxkh6eVptys0VXi_BdoMjr3ctCVIQZtMFzS_1W9yL_og56975nIziY17nJ2-z-DyCQkzJtH",
     "sell_order_count": "3",
-    "buy_order_count": "1,160",
+    "buy_order_count": "1,159",
     "lowest_sell_order": "830.12",
-    "highest_buy_order": "708.54",
-    "date_modified": 1760352533378
+    "highest_buy_order": "707.27",
+    "date_modified": 1760391896223
   },
   {
     "hash_name": "★ Karambit | Scorched (Battle-Scarred)",
@@ -17727,47 +17727,47 @@
     "buy_order_count": "760",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "670.19",
-    "date_modified": 1760352541545
+    "date_modified": 1760391904391
   },
   {
     "hash_name": "★ Karambit | Safari Mesh (Well-Worn)",
     "item_nameid": 1337872,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0mvLnO4TFl2Vu5cB1g_zMu92g2g3k8kZvYmmlLYeVdw5vYl-D-VDvxOzshZDovJWbnSBmvnVx7CnD30vgSw3eKYg",
-    "sell_order_count": 0,
+    "sell_order_count": "1",
     "buy_order_count": "553",
-    "lowest_sell_order": "0.00",
+    "lowest_sell_order": "690.00",
     "highest_buy_order": "673.64",
-    "date_modified": 1760352549821
+    "date_modified": 1760391912494
   },
   {
     "hash_name": "★ Karambit | Safari Mesh (Field-Tested)",
     "item_nameid": 1338438,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0mvLnO4TFl2Vu5cB1g_zMu92g2g3k8kZvYmmlLYeVdw5vYl-D-VDvxOzshZDovJWbnSBmvnVx7CnD30vgSw3eKYg",
-    "sell_order_count": "9",
-    "buy_order_count": "1,985",
-    "lowest_sell_order": "750.00",
-    "highest_buy_order": "594.90",
-    "date_modified": 1760352558162
+    "sell_order_count": "8",
+    "buy_order_count": "1,991",
+    "lowest_sell_order": "739.00",
+    "highest_buy_order": "605.33",
+    "date_modified": 1760391920811
   },
   {
     "hash_name": "★ Karambit | Safari Mesh (Battle-Scarred)",
     "item_nameid": 1322066,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJh5C0mvLnO4TFl2Vu4MBwnPCPpNqk2Azh8kBqMmz2IIDDdA5qaVuC_VO7wefo1pS0vM_KzXtjuiR0sWGdwUKBDLUXvA",
-    "sell_order_count": 0,
-    "buy_order_count": "987",
-    "lowest_sell_order": "0.00",
-    "highest_buy_order": "614.00",
-    "date_modified": 1760352566305
+    "sell_order_count": "1",
+    "buy_order_count": "984",
+    "lowest_sell_order": "1037.76",
+    "highest_buy_order": "613.30",
+    "date_modified": 1760391928932
   },
   {
     "hash_name": "★ Karambit | Rust Coat (Battle-Scarred)",
     "item_nameid": 29209308,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0hOPxNrfunWVY7sBOguzA45W73wy2_BY4Nm32cIWQcA4_ZVCC_1K4kLvohJTt7s6YmnRqs3Yh5y7Zlgv330_d1jhnvw",
     "sell_order_count": "3",
-    "buy_order_count": "1,293",
+    "buy_order_count": "1,295",
     "lowest_sell_order": "1136.34",
-    "highest_buy_order": "862.39",
-    "date_modified": 1760352574504
+    "highest_buy_order": "863.08",
+    "date_modified": 1760391937039
   },
   {
     "hash_name": "★ Karambit | Night (Battle-Scarred)",
@@ -17777,17 +17777,17 @@
     "buy_order_count": "326",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "838.24",
-    "date_modified": 1760352582677
+    "date_modified": 1760391945281
   },
   {
     "hash_name": "★ Karambit | Lore (Field-Tested)",
     "item_nameid": 157364817,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJl5W0nPbmMrbummRD7fp8j-3I4IG7jlHjqURuNTv6LYTBelI-ZFjS81W7l7_ogMK7vprLn3JivnMk5yuMzQv3308VwVZ0eg",
     "sell_order_count": "3",
-    "buy_order_count": "1,580",
+    "buy_order_count": "1,579",
     "lowest_sell_order": "1337.37",
     "highest_buy_order": "1088.76",
-    "date_modified": 1760352590846
+    "date_modified": 1760391953400
   },
   {
     "hash_name": "★ Karambit | Lore (Battle-Scarred)",
@@ -17797,7 +17797,7 @@
     "buy_order_count": "643",
     "lowest_sell_order": "1100.78",
     "highest_buy_order": "882.09",
-    "date_modified": 1760352599122
+    "date_modified": 1760391961523
   },
   {
     "hash_name": "★ Karambit | Freehand (Field-Tested)",
@@ -17807,17 +17807,17 @@
     "buy_order_count": "537",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "930.51",
-    "date_modified": 1760352607277
+    "date_modified": 1760391969761
   },
   {
     "hash_name": "★ Karambit | Forest DDPAT (Field-Tested)",
     "item_nameid": 1321812,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0k_PkMq_um25V4dB8xO_ArY2i3A23_0FpY2v2dtWTJAA-M12FqQe7lefojJ66uJ6dm3tlunI8pSGKnKSqx-U",
     "sell_order_count": "7",
-    "buy_order_count": "787",
+    "buy_order_count": "788",
     "lowest_sell_order": "845.77",
-    "highest_buy_order": "648.23",
-    "date_modified": 1760352615430
+    "highest_buy_order": "648.30",
+    "date_modified": 1760391978030
   },
   {
     "hash_name": "★ Karambit | Damascus Steel (Minimal Wear)",
@@ -17827,17 +17827,17 @@
     "buy_order_count": "658",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "1102.59",
-    "date_modified": 1760352623608
+    "date_modified": 1760391986262
   },
   {
     "hash_name": "★ Karambit | Damascus Steel (Field-Tested)",
     "item_nameid": 29498709,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0k_b5MqjSg3hu5cB1g_zMu4j2jAXs8hFuNmuncYGTIAY7ZlHR81G5wubr0MftucvPnCRn7CV34n7D30vgTqS74oQ",
-    "sell_order_count": "3",
-    "buy_order_count": "526",
-    "lowest_sell_order": "1122.33",
-    "highest_buy_order": "1059.38",
-    "date_modified": 1760352631758
+    "sell_order_count": "2",
+    "buy_order_count": "525",
+    "lowest_sell_order": "1493.50",
+    "highest_buy_order": "1059.42",
+    "date_modified": 1760391994549
   },
   {
     "hash_name": "★ Karambit | Damascus Steel (Factory New)",
@@ -17847,7 +17847,7 @@
     "buy_order_count": "1,046",
     "lowest_sell_order": "1412.69",
     "highest_buy_order": "1288.53",
-    "date_modified": 1760352639931
+    "date_modified": 1760392002804
   },
   {
     "hash_name": "★ Karambit | Crimson Web (Well-Worn)",
@@ -17857,47 +17857,47 @@
     "buy_order_count": "469",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "923.29",
-    "date_modified": 1760352648080
+    "date_modified": 1760392010911
   },
   {
     "hash_name": "★ Karambit | Crimson Web (Field-Tested)",
     "item_nameid": 1342035,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0gPL2IITck29Y_cg_3bjCpd_3iwDtqRFrYW2lcdSTJlVoY1qF-VPsleu7h5XuucucnXow6D5iuyhqD-gTcw",
     "sell_order_count": "1",
-    "buy_order_count": "1,258",
+    "buy_order_count": "1,260",
     "lowest_sell_order": "1454.83",
     "highest_buy_order": "1074.27",
-    "date_modified": 1760352656272
+    "date_modified": 1760392019016
   },
   {
     "hash_name": "★ Karambit | Case Hardened (Battle-Scarred)",
     "item_nameid": 1338769,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0mP74Nr_unm5Q_tw_j7zC9I720AXg8hBsMDv0co-WclU2MAzZ_gO_wbju0ZC-tMuYmyFg6D5iuyia_50N0A",
     "sell_order_count": "2",
-    "buy_order_count": "909",
+    "buy_order_count": "911",
     "lowest_sell_order": "1306.37",
     "highest_buy_order": "1074.05",
-    "date_modified": 1760352664437
+    "date_modified": 1760392027168
   },
   {
     "hash_name": "★ Karambit | Bright Water (Field-Tested)",
     "item_nameid": 156239404,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0mPTxMrXunWVY7sBOh-zF_Jn4xg3h_Eo5amyhIoOXdFM6Z1nWqwDsxey-08S8vpzNmnphvHNws33VzUCpwUYbHjtIn9E",
     "sell_order_count": "1",
-    "buy_order_count": "501",
+    "buy_order_count": "502",
     "lowest_sell_order": "1132.89",
     "highest_buy_order": "843.94",
-    "date_modified": 1760352672731
+    "date_modified": 1760392035291
   },
   {
     "hash_name": "★ Karambit | Bright Water (Factory New)",
     "item_nameid": 156641713,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0mPTxMrXunWVY7sBOhuDG_Zi73A3h8kE-Nj_7I9CRdQM8Yl-C_1W-w-7ogp-0v5vAzSQy6CAh5HndzAv3309Hx8ptHg",
     "sell_order_count": "1",
-    "buy_order_count": "577",
+    "buy_order_count": "447",
     "lowest_sell_order": "1370.70",
     "highest_buy_order": "968.62",
-    "date_modified": 1760352680869
+    "date_modified": 1760392043415
   },
   {
     "hash_name": "★ Karambit | Boreal Forest (Well-Worn)",
@@ -17907,57 +17907,57 @@
     "buy_order_count": "521",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "728.79",
-    "date_modified": 1760352689164
+    "date_modified": 1760392051543
   },
   {
     "hash_name": "★ Karambit | Boreal Forest (Minimal Wear)",
     "item_nameid": 1340454,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0kfjmNqjFqWle-sBwhtbN_Iv9nBq380tuZmCgdYXGJw43Yl6Cq1e-wL-80Za0v87OmyFq7yck4XuMnRTkn1gSOXgrd4Dy",
     "sell_order_count": "1",
-    "buy_order_count": "316",
+    "buy_order_count": "315",
     "lowest_sell_order": "864.81",
-    "highest_buy_order": "718.43",
-    "date_modified": 1760352697430
+    "highest_buy_order": "717.94",
+    "date_modified": 1760392059643
   },
   {
     "hash_name": "★ Karambit | Boreal Forest (Field-Tested)",
     "item_nameid": 1332354,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJnJm0kfjmNqjFqWle-sBwhtbM8Ij8nVn6rkVsamyicICQclM7YFCG-wXqk73mhcDu6pudzCEyvSN05XzVmkS_hwYMMLJpY4twGw",
-    "sell_order_count": "2",
-    "buy_order_count": "743",
+    "sell_order_count": "1",
+    "buy_order_count": "746",
     "lowest_sell_order": "829.56",
     "highest_buy_order": "725.12",
-    "date_modified": 1760352705582
+    "date_modified": 1760392067884
   },
   {
     "hash_name": "★ Karambit | Blue Steel (Battle-Scarred)",
     "item_nameid": 1329850,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0lfvhNr_unm5Q_tw_3eqZ84ii2lDj_UU5a2mhLY_BIAJoaV7TrlXol73s1Mfv7cuczSEy7z5iuygAc8LGyQ",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "855.05",
-    "date_modified": 1760352713735,
+    "highest_buy_order": "855.23",
+    "date_modified": 1760392076014,
     "sell_order_count": 0,
-    "buy_order_count": "809"
+    "buy_order_count": "808"
   },
   {
     "hash_name": "★ Karambit | Black Laminate (Well-Worn)",
     "item_nameid": 156259497,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJl5W0nPbmMrbuhX9e5sBmi_rJyoHwjF2hpl1tMWr2d9KVew9vYlmE-FG-xrrtgpO5upjBmiRh7CYl4iyJmhXliExKcKUx0hZ0oAUP",
     "sell_order_count": 0,
-    "buy_order_count": "448",
+    "buy_order_count": "447",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "1151.00",
-    "date_modified": 1760352722027
+    "highest_buy_order": "1152.00",
+    "date_modified": 1760392084116
   },
   {
     "hash_name": "★ Karambit | Black Laminate (Minimal Wear)",
     "item_nameid": 156352516,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJl5W0nPbmMrbuhX9e5sBmi_rJyoD8j1yg5UJoZjqncoCXdFdsMl_R-QK6k7u51pXq7cjBziZr7nQisHiLyUaxgxpSLrs4j8UvhBM",
     "sell_order_count": "1",
-    "buy_order_count": "409",
+    "buy_order_count": "408",
     "lowest_sell_order": "1800.00",
     "highest_buy_order": "1579.95",
-    "date_modified": 1760352730177
+    "date_modified": 1760392092377
   },
   {
     "hash_name": "★ Hydra Gloves | Rattler (Well-Worn)",
@@ -17965,19 +17965,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwtfrP9Ifwm1-9pSw-ITiwZ-nIJ1JnJAXOrwS7w-jtg5G5v8jMnXs2vicr5yvVyR3lhBgab7FmhvzISQ6ZB_dJSb7CWCShWa_mmw",
     "sell_order_count": "7",
     "buy_order_count": "310",
-    "lowest_sell_order": "69.87",
+    "lowest_sell_order": "70.50",
     "highest_buy_order": "64.63",
-    "date_modified": 1760352738347
+    "date_modified": 1760392100523
   },
   {
     "hash_name": "★ Hydra Gloves | Rattler (Minimal Wear)",
     "item_nameid": 175967076,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwtfrP9Ifwm1-9pSw-ITiwZ-nJK1FmJUbZqwLskLvugJC07ZmbziNnunN3sHjUlkGy1R0aPLBvh6PMTl7KUadOAuDcUeracdWP",
-    "sell_order_count": "18",
-    "buy_order_count": "271",
+    "sell_order_count": "16",
+    "buy_order_count": "272",
     "lowest_sell_order": "106.11",
-    "highest_buy_order": "95.02",
-    "date_modified": 1760352746623
+    "highest_buy_order": "96.15",
+    "date_modified": 1760392108621
   },
   {
     "hash_name": "★ Hydra Gloves | Rattler (Field-Tested)",
@@ -17985,19 +17985,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwtfrP9Ifwm1-9pSw-ITiwZ-nIJ1JnJAXOrwS7w-jtg5G5v8jMnXs2vicr5yvVyR3lhBgab7FmhvzISQ6ZB_dJSb7CWCShWa_mmw",
     "sell_order_count": "52",
     "buy_order_count": "1,013",
-    "lowest_sell_order": "61.14",
-    "highest_buy_order": "63.45",
-    "date_modified": 1760352754802
+    "lowest_sell_order": "65.66",
+    "highest_buy_order": "63.32",
+    "date_modified": 1760392116880
   },
   {
     "hash_name": "★ Hydra Gloves | Rattler (Factory New)",
     "item_nameid": 175978889,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7NdwtfrP9Ifwm1-9pSw-ITiwZ-nJK1FmJUbZqwLskLvugJC07ZmbziNnunN3sHjUlkGy1R0aPLBvh6PMTl7KUadOAuDcUeracdWP",
-    "sell_order_count": "2",
+    "sell_order_count": "3",
     "buy_order_count": "117",
-    "lowest_sell_order": "558.44",
+    "lowest_sell_order": "525.00",
     "highest_buy_order": "284.60",
-    "date_modified": 1760352762964
+    "date_modified": 1760392125018
   },
   {
     "hash_name": "★ Hydra Gloves | Rattler (Battle-Scarred)",
