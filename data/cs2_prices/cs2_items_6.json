@@ -1153,11 +1153,11 @@
     "hash_name": "Souvenir SCAR-20 | Contractor (Well-Worn)",
     "item_nameid": 2392077,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi1P7-O7kYSCgvq6YerUwjoEvpQli7jF9tn22gW2-0ptaz-mJobDcFc6Mg7Tq1C_yO_qjIj84sqdG42CZQ",
-    "sell_order_count": "5",
+    "sell_order_count": "4",
     "buy_order_count": "53",
     "lowest_sell_order": "10.35",
-    "highest_buy_order": "7.13",
-    "date_modified": 1760455957719
+    "highest_buy_order": "7.25",
+    "date_modified": 1760499873731
   },
   {
     "hash_name": "Souvenir SCAR-20 | Contractor (Minimal Wear)",
@@ -1166,18 +1166,18 @@
     "sell_order_count": "9",
     "buy_order_count": "86",
     "lowest_sell_order": "16.99",
-    "highest_buy_order": "10.89",
-    "date_modified": 1760455965930
+    "highest_buy_order": "10.86",
+    "date_modified": 1760499882212
   },
   {
     "hash_name": "Souvenir SCAR-20 | Contractor (Field-Tested)",
     "item_nameid": 2384553,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi1P7-O7kYSCgvq6YerUwjoEvpQli7jF9tn22gW2-0ptaz-mJobDcFc6Mg7Tq1C_yO_qjIj84sqdG42CZQ",
     "sell_order_count": "10",
-    "buy_order_count": "166",
-    "lowest_sell_order": "12.76",
-    "highest_buy_order": "10.05",
-    "date_modified": 1760455974088
+    "buy_order_count": "165",
+    "lowest_sell_order": "12.99",
+    "highest_buy_order": "9.95",
+    "date_modified": 1760499890405
   },
   {
     "hash_name": "Souvenir SCAR-20 | Contractor (Battle-Scarred)",
@@ -1186,8 +1186,8 @@
     "sell_order_count": "7",
     "buy_order_count": "70",
     "lowest_sell_order": "11.35",
-    "highest_buy_order": "7.65",
-    "date_modified": 1760455982411
+    "highest_buy_order": "7.77",
+    "date_modified": 1760499898741
   },
   {
     "hash_name": "Souvenir SCAR-20 | Carbon Fiber (Minimal Wear)",
@@ -1195,49 +1195,49 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Isg3LiZod-kjA3srUNuYT_7JoHBcw45M1GG-VC6wrzv08Tou53AynFhpGB8si9THyTC",
     "sell_order_count": "19",
     "buy_order_count": "625",
-    "lowest_sell_order": "2.66",
-    "highest_buy_order": "1.41",
-    "date_modified": 1760455990674
+    "lowest_sell_order": "2.65",
+    "highest_buy_order": "1.42",
+    "date_modified": 1760499906923
   },
   {
     "hash_name": "Souvenir SCAR-20 | Carbon Fiber (Factory New)",
     "item_nameid": 2386069,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Isg3LiZod-kjA3srUNuYT_7JoHBcw45M1GG-VC6wrzv08Tou53AynFhpGB8si9THyTC",
-    "sell_order_count": "72",
-    "buy_order_count": "1,109",
-    "lowest_sell_order": "1.95",
+    "sell_order_count": "70",
+    "buy_order_count": "1,090",
+    "lowest_sell_order": "2.07",
     "highest_buy_order": "1.76",
-    "date_modified": 1760455998829
+    "date_modified": 1760499915139
   },
   {
     "hash_name": "Souvenir Sawed-Off | Snake Camo (Well-Worn)",
     "item_nameid": 2416459,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_9K3n4W0mvLwOq7c2GpTsJV0ju-Qo4mm0QfjqUpsYWyiII6RdQQ6N1CD_wO8lO_ugMS4vZ_XiSw0eFPwbnM",
-    "sell_order_count": "17",
+    "sell_order_count": "15",
     "buy_order_count": "1,229",
-    "lowest_sell_order": "1.15",
+    "lowest_sell_order": "1.26",
     "highest_buy_order": "0.37",
-    "date_modified": 1760456006982
+    "date_modified": 1760499923382
   },
   {
     "hash_name": "Souvenir Sawed-Off | Snake Camo (Minimal Wear)",
     "item_nameid": 2384440,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_9K3n4W0m_7zO6-fzjoIuZYn0r2Qrd_w3wDnrUI9MW_zcdKcJlNvZg7Zqwfrybq-gpXpuYOJlyUHp74PQw",
-    "sell_order_count": "31",
-    "buy_order_count": "481",
+    "sell_order_count": "32",
+    "buy_order_count": "482",
     "lowest_sell_order": "0.92",
     "highest_buy_order": "0.66",
-    "date_modified": 1760456015200
+    "date_modified": 1760499931656
   },
   {
     "hash_name": "Souvenir Sawed-Off | Snake Camo (Field-Tested)",
     "item_nameid": 2385110,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_9K3n4W0mvLwOq7c2GpTsJV0ju-Qo4mm0QfjqUpsYWyiII6RdQQ6N1CD_wO8lO_ugMS4vZ_XiSw0eFPwbnM",
-    "sell_order_count": "78",
-    "buy_order_count": "2,140",
-    "lowest_sell_order": "0.29",
+    "sell_order_count": "86",
+    "buy_order_count": "2,138",
+    "lowest_sell_order": "0.23",
     "highest_buy_order": "0.21",
-    "date_modified": 1760456023446
+    "date_modified": 1760499939826
   },
   {
     "hash_name": "Souvenir Sawed-Off | Snake Camo (Factory New)",
@@ -1245,69 +1245,69 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_9K3n4W0m_7zO6-fzjoIuZYn0r2Qrd_w3wDnrUI9MW_zcdKcJlNvZg7Zqwfrybq-gpXpuYOJlyUHp74PQw",
     "sell_order_count": "3",
     "buy_order_count": "36",
-    "lowest_sell_order": "26.82",
+    "lowest_sell_order": "26.81",
     "highest_buy_order": "24.24",
-    "date_modified": 1760456031604
+    "date_modified": 1760499948060
   },
   {
     "hash_name": "Souvenir Sawed-Off | Snake Camo (Battle-Scarred)",
     "item_nameid": 2398847,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_9K3n4W0n_L1JaKflGgAusYj0r6W9Iit2wLm8kU-N2CmJdCSegA3ZgrVrwfsxejogcC8uoOJlyVPLqpjZA",
-    "sell_order_count": "23",
+    "sell_order_count": "24",
     "buy_order_count": "1,171",
     "lowest_sell_order": "0.55",
-    "highest_buy_order": "0.40",
-    "date_modified": 1760456039737
+    "highest_buy_order": "0.41",
+    "date_modified": 1760499956194
   },
   {
     "hash_name": "Souvenir Sawed-Off | Sage Spray (Well-Worn)",
     "item_nameid": 17677724,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_8yklZm0k_LnNqnFqXhQ78BOh-zF_Jn4xlG2_EtoMjzycNKVe1JsMA3R_lTvlLu5jZK0uZ_KwHRr7HEj4X2PmBOpwUYbtviJrH0",
-    "sell_order_count": "462",
-    "buy_order_count": "950",
+    "sell_order_count": "459",
+    "buy_order_count": "948",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1760456047962
+    "date_modified": 1760499964487
   },
   {
     "hash_name": "Souvenir Sawed-Off | Sage Spray (Minimal Wear)",
     "item_nameid": 17680860,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_8yklZm0k_LnNqnFqXhQ78BOhuDG_Zi7jA2wqkM5amuhLIfEcQ42ZQvW_1Hrybu81pDu75jMnXI2vSkkty2OnAv330_zd9FC3w",
-    "sell_order_count": "1,258",
-    "buy_order_count": "7,833",
-    "lowest_sell_order": "0.05",
-    "highest_buy_order": "0.03",
-    "date_modified": 1760456056187
+    "sell_order_count": "183",
+    "buy_order_count": "8,042",
+    "lowest_sell_order": "0.49",
+    "highest_buy_order": "0.11",
+    "date_modified": 1760499972815
   },
   {
     "hash_name": "Souvenir Sawed-Off | Sage Spray (Field-Tested)",
     "item_nameid": 17677718,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_8yklZm0k_LnNqnFqXhQ78BOh-zF_Jn4xlG2_EtoMjzycNKVe1JsMA3R_lTvlLu5jZK0uZ_KwHRr7HEj4X2PmBOpwUYbtviJrH0",
-    "sell_order_count": "1,838",
-    "buy_order_count": 0,
-    "lowest_sell_order": "0.04",
-    "highest_buy_order": "0.00",
-    "date_modified": 1760456064354
+    "sell_order_count": "1,465",
+    "buy_order_count": "100",
+    "lowest_sell_order": "0.05",
+    "highest_buy_order": "0.03",
+    "date_modified": 1760499981007
   },
   {
     "hash_name": "Souvenir Sawed-Off | Sage Spray (Factory New)",
     "item_nameid": 17725008,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_8yklZm0k_LnNqnFqXhQ78BOhuDG_Zi7jA2wqkM5amuhLIfEcQ42ZQvW_1Hrybu81pDu75jMnXI2vSkkty2OnAv330_zd9FC3w",
-    "sell_order_count": "8",
-    "buy_order_count": "542",
-    "lowest_sell_order": "13.48",
-    "highest_buy_order": "0.74",
-    "date_modified": 1760456072678
+    "sell_order_count": "7",
+    "buy_order_count": "545",
+    "lowest_sell_order": "24.89",
+    "highest_buy_order": "1.20",
+    "date_modified": 1760499989147
   },
   {
     "hash_name": "Souvenir Sawed-Off | Sage Spray (Battle-Scarred)",
     "item_nameid": 17680862,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_8yklZm0k_LnNqnFqXhQ78BOguzA45W7jQTjrRdpNTz0dtCcJwNqYl2G_VTrlOrs15_v7pjPynBhu3Yks3zamAv330-BrJW-PQ",
-    "sell_order_count": "730",
+    "sell_order_count": "696",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760456080842
+    "date_modified": 1760499997423
   },
   {
     "hash_name": "Souvenir Sawed-Off | Rust Coat (Well-Worn)",
@@ -1315,9 +1315,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0mvLwOq7c2DoIsZYj07zE9NSg3w3g_hI6ZGulddXGegA-YA7Y-lG8yezngZO46M7XiSw0vcv13_M",
     "sell_order_count": "7",
     "buy_order_count": "322",
-    "lowest_sell_order": "9.29",
-    "highest_buy_order": "5.08",
-    "date_modified": 1760456089030
+    "lowest_sell_order": "9.26",
+    "highest_buy_order": "5.06",
+    "date_modified": 1760500005576
   },
   {
     "hash_name": "Souvenir Sawed-Off | Rust Coat (Minimal Wear)",
@@ -1327,87 +1327,87 @@
     "buy_order_count": "1,583",
     "lowest_sell_order": "1.07",
     "highest_buy_order": "0.80",
-    "date_modified": 1760456097202
+    "date_modified": 1760500013768
   },
   {
     "hash_name": "Souvenir Sawed-Off | Rust Coat (Field-Tested)",
     "item_nameid": 17680885,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0mvLwOq7c2DoIsZYj07zE9NSg3w3g_hI6ZGulddXGegA-YA7Y-lG8yezngZO46M7XiSw0vcv13_M",
-    "sell_order_count": "78",
+    "sell_order_count": "81",
     "buy_order_count": "2,018",
     "lowest_sell_order": "1.17",
     "highest_buy_order": "0.85",
-    "date_modified": 1760456105484
+    "date_modified": 1760500021949
   },
   {
     "hash_name": "Souvenir Sawed-Off | Rust Coat (Factory New)",
     "item_nameid": 17680900,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0m_7zO6-fxGhV6cRy2rjE9tqhiwG3qRBuNT3zLIWWdwE4Mw3Y-gS8wb25gsO1u4OJlyXKY5y_Mw",
-    "sell_order_count": "23",
-    "buy_order_count": "208",
-    "lowest_sell_order": "4.41",
+    "sell_order_count": "24",
+    "buy_order_count": "206",
+    "lowest_sell_order": "4.34",
     "highest_buy_order": "3.46",
-    "date_modified": 1760456113653
+    "date_modified": 1760500030148
   },
   {
     "hash_name": "Souvenir Sawed-Off | Rust Coat (Battle-Scarred)",
     "item_nameid": 17680891,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0n_L1JaKflGgD6Z102u_DptqijgDn_ERuMG3zIdWXew42NAnY_AS9wb3r05Dp7YOJlyU2ZvA_TA",
     "sell_order_count": "13",
-    "buy_order_count": "378",
-    "lowest_sell_order": "3.69",
-    "highest_buy_order": "2.23",
-    "date_modified": 1760456121796
+    "buy_order_count": "398",
+    "lowest_sell_order": "3.68",
+    "highest_buy_order": "2.58",
+    "date_modified": 1760500038385
   },
   {
     "hash_name": "Souvenir Sawed-Off | Parched (Well-Worn)",
     "item_nameid": 176271487,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NmlkZKfqPX4PLTcqWZU7Mxkh6eSpNyti1Lk_EM_Z2_3JIPBelVqZ1jU-QS_k7ju1MC-uJjOziRhuCUq-z-DyHbTPj8s",
-    "sell_order_count": "1,779",
+    "sell_order_count": "1,745",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760456130045
+    "date_modified": 1760500046661
   },
   {
     "hash_name": "Souvenir Sawed-Off | Parched (Minimal Wear)",
     "item_nameid": 176271511,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NmlkZKfqPX4PLTcqWdY781lxL2TrYjw3QHnr0VoZG-iJ4LEJFU9aA6C_VTtkr3ogZ_v7s7NmCA1vXY8pSGKSsU_qr8",
-    "sell_order_count": "11,797",
+    "sell_order_count": "11,950",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760456138301
+    "date_modified": 1760500054884
   },
   {
     "hash_name": "Souvenir Sawed-Off | Parched (Field-Tested)",
     "item_nameid": 176271488,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NmlkZKfqPX4PLTcqWZU7Mxkh6eSpNyti1Lk_EM_Z2_3JIPBelVqZ1jU-QS_k7ju1MC-uJjOziRhuCUq-z-DyHbTPj8s",
-    "sell_order_count": "19,135",
+    "sell_order_count": "19,152",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760456146453
+    "date_modified": 1760500063073
   },
   {
     "hash_name": "Souvenir Sawed-Off | Parched (Factory New)",
     "item_nameid": 176271518,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NmlkZKfqPX4PLTcqWdY781lxL2TrYjw3QHnr0VoZG-iJ4LEJFU9aA6C_VTtkr3ogZ_v7s7NmCA1vXY8pSGKSsU_qr8",
-    "sell_order_count": "4,745",
-    "buy_order_count": "503",
+    "sell_order_count": "4,503",
+    "buy_order_count": "571",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1760456154723
+    "date_modified": 1760500071324
   },
   {
     "hash_name": "Souvenir Sawed-Off | Parched (Battle-Scarred)",
     "item_nameid": 176271526,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NmlkZKfqPX4PLTcqWNU6dNoxLjFp9r22wSx_hU5MWv6JY7BdgI9MFrXrAfox-_m08Luv8uYyCNi7CU8pSGKkChurKc",
-    "sell_order_count": "679",
+    "sell_order_count": "629",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760456163050
+    "date_modified": 1760500079537
   },
   {
     "hash_name": "Souvenir Sawed-Off | Irradiated Alert (Well-Worn)",
@@ -1417,27 +1417,27 @@
     "buy_order_count": "1,288",
     "lowest_sell_order": "0.42",
     "highest_buy_order": "0.31",
-    "date_modified": 1760456171184
+    "date_modified": 1760500087684
   },
   {
     "hash_name": "Souvenir Sawed-Off | Irradiated Alert (Minimal Wear)",
     "item_nameid": 17670833,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp9g-7J4cKg31Hk-xY4NWunIo_DdwM5ZQvW_Fa7w7jn1Je-uJ_Mn3E3sydwt3zcgVXp1rq2VYMO",
-    "sell_order_count": "52",
+    "sell_order_count": "53",
     "buy_order_count": "697",
     "lowest_sell_order": "0.94",
     "highest_buy_order": "0.78",
-    "date_modified": 1760456179429
+    "date_modified": 1760500095899
   },
   {
     "hash_name": "Souvenir Sawed-Off | Irradiated Alert (Field-Tested)",
     "item_nameid": 17667816,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp8j-3I4IG73A23qEtlNjilINKcdgE9aQ7Y-wK4kL26jZO4vp_MmCQ1syImtCnZnQv330-GRV949Q",
-    "sell_order_count": "215",
-    "buy_order_count": "2,385",
-    "lowest_sell_order": "0.31",
-    "highest_buy_order": "0.28",
-    "date_modified": 1760456187600
+    "sell_order_count": "212",
+    "buy_order_count": "2,384",
+    "lowest_sell_order": "0.32",
+    "highest_buy_order": "0.29",
+    "date_modified": 1760500104040
   },
   {
     "hash_name": "Souvenir Sawed-Off | Irradiated Alert (Factory New)",
@@ -1445,19 +1445,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp9g-7J4cKg31Hk-xY4NWunIo_DdwM5ZQvW_Fa7w7jn1Je-uJ_Mn3E3sydwt3zcgVXp1rq2VYMO",
     "sell_order_count": "5",
     "buy_order_count": "47",
-    "lowest_sell_order": "44.75",
+    "lowest_sell_order": "44.74",
     "highest_buy_order": "19.62",
-    "date_modified": 1760456195785
+    "date_modified": 1760500112229
   },
   {
     "hash_name": "Souvenir Sawed-Off | Irradiated Alert (Battle-Scarred)",
     "item_nameid": 17667815,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi194sm9kZOfhf7kNoTThGRG5vp5j-jX7MKj2wyyrkNoNWqlcoHHcQA5Z1vX_FbvlOa515S-vJzByXZhuXZ0tHragVXp1s1R57S4",
-    "sell_order_count": "72",
+    "sell_order_count": "71",
     "buy_order_count": "1,176",
     "lowest_sell_order": "0.30",
     "highest_buy_order": "0.24",
-    "date_modified": 1760456204008
+    "date_modified": 1760500120462
   },
   {
     "hash_name": "Souvenir Sawed-Off | Full Stop (Minimal Wear)",
@@ -1466,8 +1466,8 @@
     "sell_order_count": 0,
     "buy_order_count": "49",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "74.58",
-    "date_modified": 1760456212140
+    "highest_buy_order": "74.64",
+    "date_modified": 1760500128661
   },
   {
     "hash_name": "Souvenir Sawed-Off | Full Stop (Field-Tested)",
@@ -1475,29 +1475,29 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR9-t2knYOKmvjLIb7VqWZU7Mxkh6eVptqs2VXkqUE4MGz3dYfBdVNraArRrwXqxOq50MPt6cuYnXY2vyQm-z-DyIM28UXN",
     "sell_order_count": "2",
     "buy_order_count": "17",
-    "lowest_sell_order": "155.66",
-    "highest_buy_order": "44.66",
-    "date_modified": 1760456220270
+    "lowest_sell_order": "155.64",
+    "highest_buy_order": "45.45",
+    "date_modified": 1760500136853
   },
   {
     "hash_name": "Souvenir Sawed-Off | Brake Light (Minimal Wear)",
     "item_nameid": 176006075,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cDx9-tmkgImMmMjmNr_ummJW4NE_jr_Dod2m0ASw-0U_YW30JNKce1Q2ZFzSqAfrxe29hpS7tMnKwHM3sz5iuygN8K7X1Q",
-    "sell_order_count": "18",
+    "sell_order_count": "17",
     "buy_order_count": "277",
     "lowest_sell_order": "2.10",
     "highest_buy_order": "1.28",
-    "date_modified": 1760456228405
+    "date_modified": 1760500145135
   },
   {
     "hash_name": "Souvenir Sawed-Off | Brake Light (Factory New)",
     "item_nameid": 176005963,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cDx9-tmkgImMmMjmNr_ummJW4NE_jr_Dod2m0ASw-0U_YW30JNKce1Q2ZFzSqAfrxe29hpS7tMnKwHM3sz5iuygN8K7X1Q",
-    "sell_order_count": "65",
-    "buy_order_count": "1,123",
+    "sell_order_count": "62",
+    "buy_order_count": "1,143",
     "lowest_sell_order": "0.57",
     "highest_buy_order": "0.48",
-    "date_modified": 1760456236536
+    "date_modified": 1760500153275
   },
   {
     "hash_name": "Souvenir Sawed-Off | Amber Fade (Well-Worn)",
@@ -1505,49 +1505,49 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cDx96t2ykb-GkuP1P7fYlVRc7cF4n-SPoomkiVLhqBJvYWCnI9WRe1I4M1HT-AK5l-u61MXp7piawSRj6XQn52GdwUJmL1l_2Q",
     "sell_order_count": "6",
     "buy_order_count": "115",
-    "lowest_sell_order": "14.72",
-    "highest_buy_order": "9.12",
-    "date_modified": 1760456244695
+    "lowest_sell_order": "14.69",
+    "highest_buy_order": "9.24",
+    "date_modified": 1760500161468
   },
   {
     "hash_name": "Souvenir Sawed-Off | Amber Fade (Minimal Wear)",
     "item_nameid": 2392493,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cDx96t2ykb-GkuP1P7fYlVRd4cJ5nqfH99Sn2QHt_RVlNzryItWcewRtZ1DQ-FLsk7q-1pbotJScmnMyuyhw-z-DyGrrioIQ",
-    "sell_order_count": "19",
-    "buy_order_count": "442",
-    "lowest_sell_order": "8.68",
-    "highest_buy_order": "8.47",
-    "date_modified": 1760456252858
+    "sell_order_count": "21",
+    "buy_order_count": "441",
+    "lowest_sell_order": "8.83",
+    "highest_buy_order": "8.54",
+    "date_modified": 1760500169615
   },
   {
     "hash_name": "Souvenir Sawed-Off | Amber Fade (Field-Tested)",
     "item_nameid": 2388274,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cDx96t2ykb-GkuP1P7fYlVRc7cF4n-SPoomkiVLhqBJvYWCnI9WRe1I4M1HT-AK5l-u61MXp7piawSRj6XQn52GdwUJmL1l_2Q",
-    "sell_order_count": "26",
-    "buy_order_count": "393",
-    "lowest_sell_order": "8.91",
+    "sell_order_count": "25",
+    "buy_order_count": "392",
+    "lowest_sell_order": "8.92",
     "highest_buy_order": "8.53",
-    "date_modified": 1760456260999
+    "date_modified": 1760500177825
   },
   {
     "hash_name": "Souvenir Sawed-Off | Amber Fade (Factory New)",
     "item_nameid": 2407546,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cDx96t2ykb-GkuP1P7fYlVRd4cJ5nqfH99Sn2QHt_RVlNzryItWcewRtZ1DQ-FLsk7q-1pbotJScmnMyuyhw-z-DyGrrioIQ",
-    "sell_order_count": "32",
-    "buy_order_count": "394",
-    "lowest_sell_order": "8.48",
-    "highest_buy_order": "7.93",
-    "date_modified": 1760456269147
+    "sell_order_count": "31",
+    "buy_order_count": "397",
+    "lowest_sell_order": "8.58",
+    "highest_buy_order": "8.13",
+    "date_modified": 1760500185983
   },
   {
     "hash_name": "Souvenir R8 Revolver | Nitro (Well-Worn)",
     "item_nameid": 176005955,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3YjJ94863moeOqPb3ML7fgngC18h0juDU-MKl2QOwrxY_Nm31JdWce1RqZ1zU-FS8kOu6h8O_vJXMzHtksnIq4nmLgVXp1mt-q3CA",
-    "sell_order_count": "155",
-    "buy_order_count": "2,318",
-    "lowest_sell_order": "0.17",
-    "highest_buy_order": "0.16",
-    "date_modified": 1760456277386
+    "sell_order_count": "156",
+    "buy_order_count": "2,317",
+    "lowest_sell_order": "0.14",
+    "highest_buy_order": "0.13",
+    "date_modified": 1760500194223
   },
   {
     "hash_name": "Souvenir R8 Revolver | Nitro (Minimal Wear)",
@@ -1557,17 +1557,17 @@
     "buy_order_count": "1,558",
     "lowest_sell_order": "0.31",
     "highest_buy_order": "0.24",
-    "date_modified": 1760456285514
+    "date_modified": 1760500202398
   },
   {
     "hash_name": "Souvenir R8 Revolver | Nitro (Field-Tested)",
     "item_nameid": 176005964,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3YjJ94863moeOqPb3ML7fgngC18h0juDU-MKl2QOwrxY_Nm31JdWce1RqZ1zU-FS8kOu6h8O_vJXMzHtksnIq4nmLgVXp1mt-q3CA",
-    "sell_order_count": "709",
-    "buy_order_count": "4,117",
+    "sell_order_count": "700",
+    "buy_order_count": "4,118",
     "lowest_sell_order": "0.08",
     "highest_buy_order": "0.07",
-    "date_modified": 1760456293645
+    "date_modified": 1760500210596
   },
   {
     "hash_name": "Souvenir R8 Revolver | Nitro (Factory New)",
@@ -1575,169 +1575,169 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3YjJ94863moeOqPb3ML7fgngC18l4jeHVu9j3iVe3_0duazr0cdeUdgY4Y1zW-Fi3xrrt15K8us_BzXNnv3Um5i7D30vg4Dy-JQ8",
     "sell_order_count": "8",
     "buy_order_count": "313",
-    "lowest_sell_order": "11.56",
-    "highest_buy_order": "6.81",
-    "date_modified": 1760456301889
+    "lowest_sell_order": "11.17",
+    "highest_buy_order": "6.92",
+    "date_modified": 1760500218752
   },
   {
     "hash_name": "Souvenir R8 Revolver | Nitro (Battle-Scarred)",
     "item_nameid": 176005954,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3YjJ94863moeOqPb3ML7fgngC1810i__Yu9_x2wXi_BBsZm-hLYCWdFA7ZV6C_gXrk-jvhpW5up2bmnoxvyUq7CzD30vgY9TMQss",
-    "sell_order_count": "183",
-    "buy_order_count": "1,584",
+    "sell_order_count": "182",
+    "buy_order_count": "1,532",
     "lowest_sell_order": "0.08",
     "highest_buy_order": "0.07",
-    "date_modified": 1760456310061
+    "date_modified": 1760500227060
   },
   {
     "hash_name": "Souvenir R8 Revolver | Night (Well-Worn)",
     "item_nameid": 176271349,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3YjJ94tWxnJS0mvLwOq7c2GoCupIgiLjD8Yn20Ffm8hE4MG71JoDHIA9qYVjUrwe4kOfqgMC9vZXXiSw09T6WiBE",
-    "sell_order_count": "714",
+    "sell_order_count": "708",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760456318189
+    "date_modified": 1760500235188
   },
   {
     "hash_name": "Souvenir R8 Revolver | Night (Minimal Wear)",
     "item_nameid": 176271345,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3YjJ94tWxnJS0m_7zO6-flzxQv8Mnie-Q8IihiwS1r0VtMGGgJYGTIQE3MwrX-Fnsw-zrhsLt7YOJlyWaioCocA",
-    "sell_order_count": "461",
-    "buy_order_count": "13,959",
+    "sell_order_count": "459",
+    "buy_order_count": "14,003",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1760456326441
+    "date_modified": 1760500243415
   },
   {
     "hash_name": "Souvenir R8 Revolver | Night (Field-Tested)",
     "item_nameid": 176271337,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3YjJ94tWxnJS0mvLwOq7c2GoCupIgiLjD8Yn20Ffm8hE4MG71JoDHIA9qYVjUrwe4kOfqgMC9vZXXiSw09T6WiBE",
-    "sell_order_count": "8,723",
+    "sell_order_count": "8,651",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760456334581
+    "date_modified": 1760500251554
   },
   {
     "hash_name": "Souvenir R8 Revolver | Night (Factory New)",
     "item_nameid": 176271410,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3YjJ94tWxnJS0m_7zO6-flzxQv8Mnie-Q8IihiwS1r0VtMGGgJYGTIQE3MwrX-Fnsw-zrhsLt7YOJlyWaioCocA",
-    "sell_order_count": "24",
+    "sell_order_count": "23",
     "buy_order_count": "1,265",
     "lowest_sell_order": "1.11",
-    "highest_buy_order": "0.95",
-    "date_modified": 1760456342741
+    "highest_buy_order": "0.94",
+    "date_modified": 1760500259752
   },
   {
     "hash_name": "Souvenir R8 Revolver | Night (Battle-Scarred)",
     "item_nameid": 176271360,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3YjJ94tWxnJS0n_L1JaKfwz0F6pZ0iL7DpY2m0QDsqkVrazqlcoCWJwc-ZlCDqFbrwr_ugcLpu4OJlyWaTSktgA",
-    "sell_order_count": "2,429",
+    "sell_order_count": "2,424",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760456350892
+    "date_modified": 1760500267908
   },
   {
     "hash_name": "Souvenir R8 Revolver | Inlay (Well-Worn)",
     "item_nameid": 176372843,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3di59_tmgm4ydkuXLMrjQmH9Z_dZOiPvO-5bwt1mxrxopPnfwIdPHJAc3ZFnUrAPqx-vo1MDqvJqfmnAwvXEktnuOzh3mgE1KOLBpm7XAHmS2Hb__",
-    "sell_order_count": "237",
-    "buy_order_count": "1,926",
+    "sell_order_count": "234",
+    "buy_order_count": "1,925",
     "lowest_sell_order": "0.08",
     "highest_buy_order": "0.06",
-    "date_modified": 1760456359029
+    "date_modified": 1760500276103
   },
   {
     "hash_name": "Souvenir R8 Revolver | Inlay (Minimal Wear)",
     "item_nameid": 176372853,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3di59_tmgm4ydkuXLMrjQmH9Z_dZOiPvO-5bwt1i9rBsofWD2d9eSJFBqZlHZqAfvku_vhZe06Z_In3Awv3Yl7H2OzRHl101LPedxxavJhbcpNzg",
-    "sell_order_count": "1,584",
-    "buy_order_count": "18,028",
+    "sell_order_count": "1,559",
+    "buy_order_count": "18,023",
     "lowest_sell_order": "0.05",
     "highest_buy_order": "0.04",
-    "date_modified": 1760456367191
+    "date_modified": 1760500284254
   },
   {
     "hash_name": "Souvenir R8 Revolver | Inlay (Field-Tested)",
     "item_nameid": 176372841,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3di59_tmgm4ydkuXLMrjQmH9Z_dZOiPvO-5bwt1mxrxopPnfwIdPHJAc3ZFnUrAPqx-vo1MDqvJqfmnAwvXEktnuOzh3mgE1KOLBpm7XAHmS2Hb__",
-    "sell_order_count": "2,073",
-    "buy_order_count": "32,376",
+    "sell_order_count": "2,042",
+    "buy_order_count": "32,356",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1760456375439
+    "date_modified": 1760500292440
   },
   {
     "hash_name": "Souvenir R8 Revolver | Inlay (Factory New)",
     "item_nameid": 176372880,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3di59_tmgm4ydkuXLMrjQmH9Z_dZOiPvO-5bwt1i9rBsofWD2d9eSJFBqZlHZqAfvku_vhZe06Z_In3Awv3Yl7H2OzRHl101LPedxxavJhbcpNzg",
-    "sell_order_count": "100",
-    "buy_order_count": "3,197",
-    "lowest_sell_order": "0.29",
-    "highest_buy_order": "0.24",
-    "date_modified": 1760456383577
+    "sell_order_count": "95",
+    "buy_order_count": "7,160",
+    "lowest_sell_order": "0.35",
+    "highest_buy_order": "0.25",
+    "date_modified": 1760500300610
   },
   {
     "hash_name": "Souvenir R8 Revolver | Inlay (Battle-Scarred)",
     "item_nameid": 176372872,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3di59_tmgm4ydkuXLMrjQmH9Z_dZOiPvO-5bwt1yxqgUlfT-lI9WRJFA4Y1vX-FK6yb-71pS0v86cmyMy7yNxsXfUmhO-1RhLbLBxxavJ0XuXqFk",
-    "sell_order_count": "774",
-    "buy_order_count": "14,059",
+    "sell_order_count": "770",
+    "buy_order_count": "14,156",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1760456391830
+    "date_modified": 1760500308836
   },
   {
     "hash_name": "Souvenir R8 Revolver | Desert Brush (Well-Worn)",
     "item_nameid": 176271532,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3eSR97s6jh4i0lPb5PITFl2Vu5cB1g_zMu9j0ilK1rUZvMG-lJ46SJA88YwnZ8lS4lbjuhJXtvJSanHU26HZ04H_D30vgrvspNA8",
-    "sell_order_count": "1,084",
-    "buy_order_count": "107",
+    "sell_order_count": "1,036",
+    "buy_order_count": "7",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1760456400102
+    "date_modified": 1760500316984
   },
   {
     "hash_name": "Souvenir R8 Revolver | Desert Brush (Minimal Wear)",
     "item_nameid": 176271489,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3eSR97s6jh4i0lPb5PITFl2Vu5Mx2gv2PpNmi2QO1rkRuZ2D1IobDJlJtYFzZ-AC2xOq6hJW4vJXMz3M27CFx4mGdwUJ6Q5wO9A",
-    "sell_order_count": "7,409",
+    "sell_order_count": "7,332",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760456408234
+    "date_modified": 1760500325165
   },
   {
     "hash_name": "Souvenir R8 Revolver | Desert Brush (Field-Tested)",
     "item_nameid": 176271483,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3eSR97s6jh4i0lPb5PITFl2Vu5cB1g_zMu9j0ilK1rUZvMG-lJ46SJA88YwnZ8lS4lbjuhJXtvJSanHU26HZ04H_D30vgrvspNA8",
-    "sell_order_count": "14,944",
+    "sell_order_count": "14,291",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760456416390
+    "date_modified": 1760500333323
   },
   {
     "hash_name": "Souvenir R8 Revolver | Desert Brush (Factory New)",
     "item_nameid": 176271515,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3eSR97s6jh4i0lPb5PITFl2Vu5Mx2gv2PpNmi2QO1rkRuZ2D1IobDJlJtYFzZ-AC2xOq6hJW4vJXMz3M27CFx4mGdwUJ6Q5wO9A",
-    "sell_order_count": "1,111",
-    "buy_order_count": "24,630",
+    "sell_order_count": "1,136",
+    "buy_order_count": "24,865",
     "lowest_sell_order": "0.07",
-    "highest_buy_order": "0.06",
-    "date_modified": 1760456424553
+    "highest_buy_order": "0.05",
+    "date_modified": 1760500341499
   },
   {
     "hash_name": "Souvenir R8 Revolver | Desert Brush (Battle-Scarred)",
     "item_nameid": 176271505,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3eSR97s6jh4i0lPb5PITFl2Vu4MBwnPCP84nx3gHk_hI5NmGgJ9CWdAQ8YlHY-FC7wOnrgpK-uc7Ayyc1syMjsGGdwUL1BMC23A",
-    "sell_order_count": "2,845",
+    "sell_order_count": "2,828",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760456432677
+    "date_modified": 1760500349637
   },
   {
     "hash_name": "Souvenir R8 Revolver | Amber Fade (Minimal Wear)",
@@ -1745,9 +1745,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3cDx96t2ykb-GkuP1P7fYlVRD7dN-hv_E57P5gVO8v11oam_2cNSdJA45M1zU8wC8w7q6gpK_upuYy3IxvyFx4CzVlxG-iBhLcKUx0kUZJOII",
     "sell_order_count": "1",
     "buy_order_count": "44",
-    "lowest_sell_order": "1173.52",
-    "highest_buy_order": "63.79",
-    "date_modified": 1760456440839
+    "lowest_sell_order": "1172.51",
+    "highest_buy_order": "64.93",
+    "date_modified": 1760500357837
   },
   {
     "hash_name": "Souvenir R8 Revolver | Amber Fade (Field-Tested)",
@@ -1756,8 +1756,8 @@
     "sell_order_count": "5",
     "buy_order_count": "74",
     "lowest_sell_order": "79.99",
-    "highest_buy_order": "66.59",
-    "date_modified": 1760456449009
+    "highest_buy_order": "67.09",
+    "date_modified": 1760500365995
   },
   {
     "hash_name": "Souvenir R8 Revolver | Amber Fade (Factory New)",
@@ -1765,9 +1765,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3cDx96t2ykb-GkuP1P7fYlVRD7dN-hv_E57P5gVO8v11oam_2cNSdJA45M1zU8wC8w7q6gpK_upuYy3IxvyFx4CzVlxG-iBhLcKUx0kUZJOII",
     "sell_order_count": "5",
     "buy_order_count": "74",
-    "lowest_sell_order": "258.35",
-    "highest_buy_order": "144.99",
-    "date_modified": 1760456457278
+    "lowest_sell_order": "215.75",
+    "highest_buy_order": "146.12",
+    "date_modified": 1760500374221
   },
   {
     "hash_name": "Souvenir PP-Bizon | Urban Dashed (Well-Worn)",
@@ -1777,7 +1777,7 @@
     "buy_order_count": "1,434",
     "lowest_sell_order": "0.29",
     "highest_buy_order": "0.25",
-    "date_modified": 1760456465414
+    "date_modified": 1760500382380
   },
   {
     "hash_name": "Souvenir PP-Bizon | Urban Dashed (Minimal Wear)",
@@ -1787,17 +1787,17 @@
     "buy_order_count": "1,116",
     "lowest_sell_order": "0.47",
     "highest_buy_order": "0.42",
-    "date_modified": 1760456473690
+    "date_modified": 1760500390665
   },
   {
     "hash_name": "Souvenir PP-Bizon | Urban Dashed (Field-Tested)",
     "item_nameid": 2385201,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jhIbnQmFRc7cF4n-SPoN6s3wWw-RBlZWqhdYPDcAE8Y13R-Ffoybu60MPovp7AnScysiR0tmGdwUI6VbZbRA",
-    "sell_order_count": "315",
-    "buy_order_count": "5,061",
+    "sell_order_count": "316",
+    "buy_order_count": "5,085",
     "lowest_sell_order": "0.17",
     "highest_buy_order": "0.16",
-    "date_modified": 1760456481949
+    "date_modified": 1760500398827
   },
   {
     "hash_name": "Souvenir PP-Bizon | Urban Dashed (Factory New)",
@@ -1806,8 +1806,8 @@
     "sell_order_count": "11",
     "buy_order_count": "388",
     "lowest_sell_order": "9.51",
-    "highest_buy_order": "3.76",
-    "date_modified": 1760456490107
+    "highest_buy_order": "3.82",
+    "date_modified": 1760500407038
   },
   {
     "hash_name": "Souvenir PP-Bizon | Urban Dashed (Battle-Scarred)",
@@ -1817,7 +1817,7 @@
     "buy_order_count": "2,814",
     "lowest_sell_order": "0.24",
     "highest_buy_order": "0.21",
-    "date_modified": 1760456498370
+    "date_modified": 1760500415191
   },
   {
     "hash_name": "Souvenir PP-Bizon | Sand Dashed (Well-Worn)",
@@ -1825,9 +1825,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jnMrXVqWZU7Mxkh6fA89T30VexrhZuZGGhdtLHcwNrYwqE_Vftwuzt0JS4u87AnCBksici-z-DyLStQtcq",
     "sell_order_count": "8",
     "buy_order_count": "218",
-    "lowest_sell_order": "15.00",
-    "highest_buy_order": "7.70",
-    "date_modified": 1760456506640
+    "lowest_sell_order": "14.99",
+    "highest_buy_order": "7.84",
+    "date_modified": 1760500423407
   },
   {
     "hash_name": "Souvenir PP-Bizon | Sand Dashed (Minimal Wear)",
@@ -1835,19 +1835,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jnMrXVqWdY781lxLGZrN6m0VG1r0ZuNjrzcYDGc1c6ZgrS-Fi7wufp1MO1vpqfy3QxuSU8pSGK_K_vSu0",
     "sell_order_count": "4",
     "buy_order_count": "112",
-    "lowest_sell_order": "28.69",
-    "highest_buy_order": "10.67",
-    "date_modified": 1760456514779
+    "lowest_sell_order": "28.71",
+    "highest_buy_order": "10.83",
+    "date_modified": 1760500431566
   },
   {
     "hash_name": "Souvenir PP-Bizon | Sand Dashed (Field-Tested)",
     "item_nameid": 2384441,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jnMrXVqWZU7Mxkh6fA89T30VexrhZuZGGhdtLHcwNrYwqE_Vftwuzt0JS4u87AnCBksici-z-DyLStQtcq",
-    "sell_order_count": "14",
+    "sell_order_count": "15",
     "buy_order_count": "368",
-    "lowest_sell_order": "13.80",
-    "highest_buy_order": "8.30",
-    "date_modified": 1760456523029
+    "lowest_sell_order": "13.74",
+    "highest_buy_order": "8.29",
+    "date_modified": 1760500439778
   },
   {
     "hash_name": "Souvenir PP-Bizon | Sand Dashed (Battle-Scarred)",
@@ -1855,9 +1855,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jnMrXVqWNU6dNoxL2Wod7x3FC3-BY-Zj2hd4TDJlQ_YQzZr1C9kOjthJO075nKzHpquyU8pSGKN4YQpPs",
     "sell_order_count": "9",
     "buy_order_count": "111",
-    "lowest_sell_order": "29.71",
-    "highest_buy_order": "8.51",
-    "date_modified": 1760456531292
+    "lowest_sell_order": "29.70",
+    "highest_buy_order": "8.54",
+    "date_modified": 1760500447948
   },
   {
     "hash_name": "Souvenir PP-Bizon | Night Ops (Well-Worn)",
@@ -1865,9 +1865,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZzxQ5d-3mY-0mf7zO6_um25V4dB8xL-W9o-n0QDs-hU9YTymI4PGJwFqYlvT-AW8x-vugMXvtMvPy3o1viM8pSGKhT74BeU",
     "sell_order_count": "2",
     "buy_order_count": "66",
-    "lowest_sell_order": "1347.85",
-    "highest_buy_order": "43.67",
-    "date_modified": 1760456539445
+    "lowest_sell_order": "1343.50",
+    "highest_buy_order": "43.54",
+    "date_modified": 1760500456164
   },
   {
     "hash_name": "Souvenir PP-Bizon | Night Ops (Minimal Wear)",
@@ -1875,19 +1875,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZzxQ5d-3mY-0mf7zO6_ummJW4NE_ibqXrd33jAyyrxE_Yz37I4GcIwBqaFGG-gPtkr3php7q78vBnXY1vj5iuyh3J87oJg",
     "sell_order_count": "1",
     "buy_order_count": "79",
-    "lowest_sell_order": "45.34",
-    "highest_buy_order": "32.95",
-    "date_modified": 1760456547582
+    "lowest_sell_order": "45.37",
+    "highest_buy_order": "33.53",
+    "date_modified": 1760500464371
   },
   {
     "hash_name": "Souvenir PP-Bizon | Night Ops (Field-Tested)",
     "item_nameid": 2384562,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZzxQ5d-3mY-0mf7zO6_um25V4dB8xL-W9o-n0QDs-hU9YTymI4PGJwFqYlvT-AW8x-vugMXvtMvPy3o1viM8pSGKhT74BeU",
-    "sell_order_count": "7",
+    "sell_order_count": "6",
     "buy_order_count": "95",
-    "lowest_sell_order": "42.55",
-    "highest_buy_order": "18.07",
-    "date_modified": 1760456555705
+    "lowest_sell_order": "69.00",
+    "highest_buy_order": "18.40",
+    "date_modified": 1760500472539
   },
   {
     "hash_name": "Souvenir PP-Bizon | Night Ops (Factory New)",
@@ -1896,8 +1896,8 @@
     "sell_order_count": "1",
     "buy_order_count": "38",
     "lowest_sell_order": "172.50",
-    "highest_buy_order": "21.25",
-    "date_modified": 1760456563849
+    "highest_buy_order": "21.64",
+    "date_modified": 1760500480760
   },
   {
     "hash_name": "Souvenir PP-Bizon | Irradiated Alert (Well-Worn)",
@@ -1907,37 +1907,37 @@
     "buy_order_count": "328",
     "lowest_sell_order": "0.80",
     "highest_buy_order": "0.62",
-    "date_modified": 1760456571987
+    "date_modified": 1760500488944
   },
   {
     "hash_name": "Souvenir PP-Bizon | Irradiated Alert (Minimal Wear)",
     "item_nameid": 17667818,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fyhJ6c-ihombksj2IbTGmFRd4cJ5nqfHotqiigbkqhY6ZDv7J9XHJ1VtZVHY-Vm6lOfmhZK0us6fnCQws3Ek-z-DyAOMOad8",
-    "sell_order_count": "54",
+    "sell_order_count": "53",
     "buy_order_count": "610",
-    "lowest_sell_order": "1.21",
-    "highest_buy_order": "0.96",
-    "date_modified": 1760456580123
+    "lowest_sell_order": "1.27",
+    "highest_buy_order": "0.97",
+    "date_modified": 1760500497118
   },
   {
     "hash_name": "Souvenir PP-Bizon | Irradiated Alert (Field-Tested)",
     "item_nameid": 17670823,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fyhJ6c-ihombksj2IbTGmFRc7cF4n-SPpdWn0Q2xqBdsN271dY7GdwNtM1qD_1C6ybq9g5O5uZWaynU37igrs2GdwUJYLxr5gg",
-    "sell_order_count": "246",
-    "buy_order_count": "2,807",
-    "lowest_sell_order": "0.40",
+    "sell_order_count": "240",
+    "buy_order_count": "2,848",
+    "lowest_sell_order": "0.41",
     "highest_buy_order": "0.39",
-    "date_modified": 1760456588256
+    "date_modified": 1760500505305
   },
   {
     "hash_name": "Souvenir PP-Bizon | Irradiated Alert (Factory New)",
     "item_nameid": 17748428,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fyhJ6c-ihombksj2IbTGmFRd4cJ5nqfHotqiigbkqhY6ZDv7J9XHJ1VtZVHY-Vm6lOfmhZK0us6fnCQws3Ek-z-DyAOMOad8",
     "sell_order_count": "4",
-    "buy_order_count": "94",
+    "buy_order_count": "95",
     "lowest_sell_order": "20.90",
-    "highest_buy_order": "9.43",
-    "date_modified": 1760456596420
+    "highest_buy_order": "9.58",
+    "date_modified": 1760500513450
   },
   {
     "hash_name": "Souvenir PP-Bizon | Irradiated Alert (Battle-Scarred)",
@@ -1947,157 +1947,157 @@
     "buy_order_count": "1,007",
     "lowest_sell_order": "0.52",
     "highest_buy_order": "0.37",
-    "date_modified": 1760456604673
+    "date_modified": 1760500521630
   },
   {
     "hash_name": "Souvenir PP-Bizon | Facility Sketch (Well-Worn)",
     "item_nameid": 176006321,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWZU7Mxkh6eX99nz31Xt-0o6YT_zJ4LDcFc5Yl6Dr1nol7jr1sS0uZiYzCFn7yF3-z-DyI5nDuVv",
-    "sell_order_count": "179",
-    "buy_order_count": "3,295",
+    "sell_order_count": "177",
+    "buy_order_count": "3,599",
     "lowest_sell_order": "0.12",
     "highest_buy_order": "0.10",
-    "date_modified": 1760456612820
+    "date_modified": 1760500529877
   },
   {
     "hash_name": "Souvenir PP-Bizon | Facility Sketch (Minimal Wear)",
     "item_nameid": 176006313,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWdY781lxO_Ept7z3lC2rRdtYGqgItLBewZsMFyErgK7l7rtgpfvv8zAnSE3vCQ8pSGK2-p_3pM",
-    "sell_order_count": "217",
-    "buy_order_count": "2,437",
+    "sell_order_count": "219",
+    "buy_order_count": "2,527",
     "lowest_sell_order": "0.49",
-    "highest_buy_order": "0.48",
-    "date_modified": 1760456620971
+    "highest_buy_order": "0.47",
+    "date_modified": 1760500538089
   },
   {
     "hash_name": "Souvenir PP-Bizon | Facility Sketch (Field-Tested)",
     "item_nameid": 176006310,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWZU7Mxkh6eX99nz31Xt-0o6YT_zJ4LDcFc5Yl6Dr1nol7jr1sS0uZiYzCFn7yF3-z-DyI5nDuVv",
-    "sell_order_count": "392",
-    "buy_order_count": "8,400",
+    "sell_order_count": "387",
+    "buy_order_count": "8,680",
     "lowest_sell_order": "0.09",
     "highest_buy_order": "0.08",
-    "date_modified": 1760456629178
+    "date_modified": 1760500546273
   },
   {
     "hash_name": "Souvenir PP-Bizon | Facility Sketch (Factory New)",
     "item_nameid": 176006296,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWdY781lxO_Ept7z3lC2rRdtYGqgItLBewZsMFyErgK7l7rtgpfvv8zAnSE3vCQ8pSGK2-p_3pM",
     "sell_order_count": "211",
-    "buy_order_count": "2,446",
+    "buy_order_count": "2,351",
     "lowest_sell_order": "0.98",
     "highest_buy_order": "0.97",
-    "date_modified": 1760456637356
+    "date_modified": 1760500554441
   },
   {
     "hash_name": "Souvenir PP-Bizon | Facility Sketch (Battle-Scarred)",
     "item_nameid": 176006352,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWNU6dNoxLHAptSn2Aa3qkppZmundoCTcwA-M13Q-wW3xbvu0cTo75WYnXU27Cc8pSGKJinJxaY",
-    "sell_order_count": "99",
-    "buy_order_count": "3,457",
+    "sell_order_count": "97",
+    "buy_order_count": "3,658",
     "lowest_sell_order": "0.16",
     "highest_buy_order": "0.14",
-    "date_modified": 1760456645596
+    "date_modified": 1760500562716
   },
   {
     "hash_name": "Souvenir PP-Bizon | Chemical Green (Well-Worn)",
     "item_nameid": 17674130,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwPz3di9H9eO4gYOHkvbmDLzDk25f18d4kObPyoHwjF2hpl1vYGrwIYaUJ1A-NF3UqAW8lei7hpfv6p7KnyZruikm5yrVnUGx1BAecKUx0lcKozTn",
     "sell_order_count": "48",
-    "buy_order_count": "1,110",
-    "lowest_sell_order": "1.27",
-    "highest_buy_order": "1.03",
-    "date_modified": 1760456653913
+    "buy_order_count": "1,111",
+    "lowest_sell_order": "1.26",
+    "highest_buy_order": "1.01",
+    "date_modified": 1760500570934
   },
   {
     "hash_name": "Souvenir PP-Bizon | Chemical Green (Minimal Wear)",
     "item_nameid": 17674126,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwPz3di9H9eO4gYOHkvbmDLzDk25f18d4kObPyoD8j1yg5UNlazilII6Scwc4M12GqVjsw-_nh8e1u5mczHEw7CF05Hjfm0HighBSLrs4OJBaedY",
-    "sell_order_count": "48",
-    "buy_order_count": "3,274",
+    "sell_order_count": "47",
+    "buy_order_count": "3,254",
     "lowest_sell_order": "3.82",
     "highest_buy_order": "3.12",
-    "date_modified": 1760456662041
+    "date_modified": 1760500579121
   },
   {
     "hash_name": "Souvenir PP-Bizon | Chemical Green (Field-Tested)",
     "item_nameid": 17674128,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwPz3di9H9eO4gYOHkvbmDLzDk25f18d4kObPyoHwjF2hpl1vYGrwIYaUJ1A-NF3UqAW8lei7hpfv6p7KnyZruikm5yrVnUGx1BAecKUx0lcKozTn",
-    "lowest_sell_order": "1.38",
+    "lowest_sell_order": "1.35",
     "highest_buy_order": "1.29",
-    "date_modified": 1760456670178,
-    "sell_order_count": "112",
-    "buy_order_count": "1,705"
+    "date_modified": 1760500587321,
+    "sell_order_count": "111",
+    "buy_order_count": "1,770"
   },
   {
     "hash_name": "Souvenir PP-Bizon | Chemical Green (Factory New)",
     "item_nameid": 17674145,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwPz3di9H9eO4gYOHkvbmDLzDk25f18d4kObPyoD8j1yg5UNlazilII6Scwc4M12GqVjsw-_nh8e1u5mczHEw7CF05Hjfm0HighBSLrs4OJBaedY",
     "sell_order_count": "14",
-    "buy_order_count": "113",
-    "lowest_sell_order": "22.65",
-    "highest_buy_order": "18.83",
-    "date_modified": 1760456678369
+    "buy_order_count": "114",
+    "lowest_sell_order": "22.32",
+    "highest_buy_order": "18.92",
+    "date_modified": 1760500595459
   },
   {
     "hash_name": "Souvenir PP-Bizon | Chemical Green (Battle-Scarred)",
     "item_nameid": 17674151,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwPz3di9H9eO4gYOHkvbmDLzDk25f18d4kObPyoTwiUKt5Us_N2mgJISdIFdoMlHT_AO6x-jmh8C-uMybmiQxvSQq5Szdmxe0h0lSLrs4qPaphjQ",
     "sell_order_count": "51",
-    "buy_order_count": "959",
-    "lowest_sell_order": "1.15",
+    "buy_order_count": "960",
+    "lowest_sell_order": "1.12",
     "highest_buy_order": "0.86",
-    "date_modified": 1760456686515
+    "date_modified": 1760500603631
   },
   {
     "hash_name": "Souvenir PP-Bizon | Carbon Fiber (Minimal Wear)",
     "item_nameid": 176081837,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0v73cjxQ7tO4q4aClfLmDLfYkWNFppwp37GQ8I6jiVDs-0tkNW6ldo-UI1JoN1DVrgK-xOi8jMXttZvNzHB9-n51ZQDHY_Y",
-    "sell_order_count": "49",
+    "sell_order_count": "50",
     "buy_order_count": "1,937",
     "lowest_sell_order": "1.57",
     "highest_buy_order": "0.98",
-    "date_modified": 1760456694681
+    "date_modified": 1760500611831
   },
   {
     "hash_name": "Souvenir PP-Bizon | Carbon Fiber (Factory New)",
     "item_nameid": 176081824,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0v73cjxQ7tO4q4aClfLmDLfYkWNFppwp37GQ8I6jiVDs-0tkNW6ldo-UI1JoN1DVrgK-xOi8jMXttZvNzHB9-n51ZQDHY_Y",
-    "sell_order_count": "92",
-    "buy_order_count": "4,008",
-    "lowest_sell_order": "0.88",
+    "sell_order_count": "101",
+    "buy_order_count": "4,054",
+    "lowest_sell_order": "0.87",
     "highest_buy_order": "0.86",
-    "date_modified": 1760456702915
+    "date_modified": 1760500620010
   },
   {
     "hash_name": "Souvenir PP-Bizon | Candy Apple (Minimal Wear)",
     "item_nameid": 176005982,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwPz3YzhG09C_k4if2a73Me2CxW5Sup1wj7HEptun31G280U6MWHydobBJA8-ZlnQ_QPryb_xxcjrlO1CYf0",
-    "sell_order_count": "181",
-    "buy_order_count": "1,548",
-    "lowest_sell_order": "0.49",
+    "sell_order_count": "179",
+    "buy_order_count": "1,587",
+    "lowest_sell_order": "0.50",
     "highest_buy_order": "0.48",
-    "date_modified": 1760456711130
+    "date_modified": 1760500628239
   },
   {
     "hash_name": "Souvenir PP-Bizon | Candy Apple (Field-Tested)",
     "item_nameid": 176005966,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwPz3YzhG09GzkImemrmmNbmBlWlSsJB3j-uSrNj02gW2_Edsa2_7do7HcFRsZlnW_ADolee7m9bi65EHJoYv",
-    "sell_order_count": "109",
-    "buy_order_count": "1,493",
-    "lowest_sell_order": "0.41",
+    "sell_order_count": "106",
+    "buy_order_count": "1,495",
+    "lowest_sell_order": "0.46",
     "highest_buy_order": "0.37",
-    "date_modified": 1760456719266
+    "date_modified": 1760500636443
   },
   {
     "hash_name": "Souvenir PP-Bizon | Candy Apple (Factory New)",
     "item_nameid": 176005962,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwPz3YzhG09C_k4if2a73Me2CxW5Sup1wj7HEptun31G280U6MWHydobBJA8-ZlnQ_QPryb_xxcjrlO1CYf0",
-    "sell_order_count": "110",
-    "buy_order_count": "2,292",
-    "lowest_sell_order": "1.70",
+    "sell_order_count": "113",
+    "buy_order_count": "2,191",
+    "lowest_sell_order": "1.61",
     "highest_buy_order": "1.45",
-    "date_modified": 1760456727529
+    "date_modified": 1760500644586
   },
   {
     "hash_name": "Souvenir PP-Bizon | Breaker Box (Well-Worn)",
@@ -2107,37 +2107,37 @@
     "buy_order_count": "1,334",
     "lowest_sell_order": "0.34",
     "highest_buy_order": "0.28",
-    "date_modified": 1760456735663
+    "date_modified": 1760500652829
   },
   {
     "hash_name": "Souvenir PP-Bizon | Breaker Box (Minimal Wear)",
     "item_nameid": 176271273,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0vL3ZjRQ5dKxq4yCkP_gfezXwW0Dup0l2r2Woo2t2wCyrxBqMmvyd4GSIAE-NVDU-1Xqwe67h5Oi_MOey7B_DsU",
-    "sell_order_count": "115",
+    "sell_order_count": "116",
     "buy_order_count": "2,605",
     "lowest_sell_order": "0.12",
     "highest_buy_order": "0.10",
-    "date_modified": 1760456743785
+    "date_modified": 1760500662518
   },
   {
     "hash_name": "Souvenir PP-Bizon | Breaker Box (Field-Tested)",
     "item_nameid": 176271223,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0vL3ZjRQ5dKxq42Ok_7hPvXQx2kHvcEljL6WoIqhiQOxqRBrMmqnLYaQJAI2Z17ZrFjqkLi5h5Tpot2XnszimBWz",
-    "sell_order_count": "236",
-    "buy_order_count": "8,684",
+    "sell_order_count": "220",
+    "buy_order_count": "8,683",
     "lowest_sell_order": "0.08",
     "highest_buy_order": "0.06",
-    "date_modified": 1760456752025
+    "date_modified": 1760500670685
   },
   {
     "hash_name": "Souvenir PP-Bizon | Breaker Box (Factory New)",
     "item_nameid": 176271249,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0vL3ZjRQ5dKxq4yCkP_gfezXwW0Dup0l2r2Woo2t2wCyrxBqMmvyd4GSIAE-NVDU-1Xqwe67h5Oi_MOey7B_DsU",
-    "sell_order_count": "67",
+    "sell_order_count": "66",
     "buy_order_count": "1,882",
     "lowest_sell_order": "0.40",
     "highest_buy_order": "0.31",
-    "date_modified": 1760456760154
+    "date_modified": 1760500678816
   },
   {
     "hash_name": "Souvenir PP-Bizon | Brass (Well-Worn)",
@@ -2146,38 +2146,38 @@
     "sell_order_count": "20",
     "buy_order_count": "427",
     "lowest_sell_order": "4.77",
-    "highest_buy_order": "4.18",
-    "date_modified": 1760456768312
+    "highest_buy_order": "4.17",
+    "date_modified": 1760500687004
   },
   {
     "hash_name": "Souvenir PP-Bizon | Brass (Minimal Wear)",
     "item_nameid": 2390505,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0uL3cy9D_8-JmImMn-O6YO-Ik2oD6sQp27uVrN70iVe1_Eo4ammnJYGSd1M4YA6B81XqlO_rg4j84sok-sGAZg",
-    "sell_order_count": "9",
+    "sell_order_count": "8",
     "buy_order_count": "124",
-    "lowest_sell_order": "16.00",
-    "highest_buy_order": "12.91",
-    "date_modified": 1760456776556
+    "lowest_sell_order": "18.00",
+    "highest_buy_order": "13.24",
+    "date_modified": 1760500695144
   },
   {
     "hash_name": "Souvenir PP-Bizon | Brass (Field-Tested)",
     "item_nameid": 2389754,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0uL3cy9D_8-JmYWPnuL5fb6Iwz5SsMEli7rC8Yr22VfjqRY4ammlJoCWegVsYwyF8gK7xee9jMOi_MOeAEs5IF8",
-    "sell_order_count": "9",
+    "sell_order_count": "10",
     "buy_order_count": "473",
-    "lowest_sell_order": "5.95",
+    "lowest_sell_order": "5.87",
     "highest_buy_order": "5.31",
-    "date_modified": 1760456784711
+    "date_modified": 1760500703326
   },
   {
     "hash_name": "Souvenir PP-Bizon | Brass (Factory New)",
     "item_nameid": 2398912,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0uL3cy9D_8-JmImMn-O6YO-Ik2oD6sQp27uVrN70iVe1_Eo4ammnJYGSd1M4YA6B81XqlO_rg4j84sok-sGAZg",
-    "sell_order_count": "2",
+    "sell_order_count": "3",
     "buy_order_count": "82",
-    "lowest_sell_order": "302.68",
+    "lowest_sell_order": "302.62",
     "highest_buy_order": "75.00",
-    "date_modified": 1760456792835
+    "date_modified": 1760500711496
   },
   {
     "hash_name": "Souvenir PP-Bizon | Brass (Battle-Scarred)",
@@ -2185,109 +2185,109 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0uL3cy9D_8-JnIWKge66YeKElTpX68B107CYptT22wS3_EtpZmj0I4CcelI7Y1nZqFXtyO_rg4j84srkvmFzhg",
     "sell_order_count": "15",
     "buy_order_count": "457",
-    "lowest_sell_order": "6.40",
-    "highest_buy_order": "4.91",
-    "date_modified": 1760456801072
+    "lowest_sell_order": "6.39",
+    "highest_buy_order": "4.99",
+    "date_modified": 1760500719620
   },
   {
     "hash_name": "Souvenir PP-Bizon | Anolis (Well-Worn)",
     "item_nameid": 176271208,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3fTRY7c6yq5OAnvnLPr7Vn35cppNzjLmZ94ms0QXtqUJsZ2GhJ9PGJwE3aV7R_FPox-3m1MW16JTOyXV9-n51DHSdgLU",
-    "sell_order_count": "3,705",
+    "sell_order_count": "3,675",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760456809316
+    "date_modified": 1760500727756
   },
   {
     "hash_name": "Souvenir PP-Bizon | Anolis (Minimal Wear)",
     "item_nameid": 176271179,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3fTRY7c6yq5OAnvnLP7LWnn8f7ZYm3--Uo9-s2w3t-0FoMWHyLIGXdgJvZQrQ_1btlL3o18S4vs_Lzmwj5HftjkUzng",
-    "sell_order_count": "24,820",
+    "sell_order_count": "24,489",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760456817565
+    "date_modified": 1760500735914
   },
   {
     "hash_name": "Souvenir PP-Bizon | Anolis (Field-Tested)",
     "item_nameid": 176271175,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3fTRY7c6yq5OAnvnLPr7Vn35cppNzjLmZ94ms0QXtqUJsZ2GhJ9PGJwE3aV7R_FPox-3m1MW16JTOyXV9-n51DHSdgLU",
-    "sell_order_count": "38,245",
+    "sell_order_count": "38,451",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760456825723
+    "date_modified": 1760500744053
   },
   {
     "hash_name": "Souvenir PP-Bizon | Anolis (Factory New)",
     "item_nameid": 176271183,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3fTRY7c6yq5OAnvnLP7LWnn8f7ZYm3--Uo9-s2w3t-0FoMWHyLIGXdgJvZQrQ_1btlL3o18S4vs_Lzmwj5HftjkUzng",
-    "sell_order_count": "7,647",
-    "buy_order_count": "31",
+    "sell_order_count": "7,772",
+    "buy_order_count": "434",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1760456833890
+    "date_modified": 1760500752212
   },
   {
     "hash_name": "Souvenir PP-Bizon | Anolis (Battle-Scarred)",
     "item_nameid": 176271252,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3fTRY7c6yq5OAnvnLO77QgHIf7scg2b6WoI33jlHi-EpqMDv6cY-QJA4_ZQuE_gDolO68hpa8vpufyWwj5HcNM0n2Eg",
-    "sell_order_count": "2,358",
-    "buy_order_count": "1,773",
+    "sell_order_count": "2,365",
+    "buy_order_count": "1,865",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1760456842017
+    "date_modified": 1760500760384
   },
   {
     "hash_name": "Souvenir P90 | Verdant Growth (Well-Worn)",
     "item_nameid": 176271250,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7HYzJ9-NmugImHksjzIb7UmFRH4ct0teTE8YXghRrg-hVuZWH1cYGXewI9Yg6G_wK_kOnv0JK0us_Kzidi6yQq53iOmUHln1gSObjslon7",
-    "sell_order_count": "394",
-    "buy_order_count": "14,254",
+    "sell_order_count": "387",
+    "buy_order_count": "14,349",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1760456850178
+    "date_modified": 1760500768554
   },
   {
     "hash_name": "Souvenir P90 | Verdant Growth (Minimal Wear)",
     "item_nameid": 176271195,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7HYzJ9-NmugImHksjzIb7UmFRH4ct0teXI8oThxgzl-EU5Z272dtKUJgc_YQmD_QO5w-67hJS56MnIwHBqv3N34ivamEapwUYb5MlY-Bo",
-    "sell_order_count": "2,946",
-    "buy_order_count": "30,209",
+    "sell_order_count": "3,068",
+    "buy_order_count": "30,116",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1760456858422
+    "date_modified": 1760500776675
   },
   {
     "hash_name": "Souvenir P90 | Verdant Growth (Field-Tested)",
     "item_nameid": 176271199,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7HYzJ9-NmugImHksjzIb7UmFRH4ct0teTE8YXghRrg-hVuZWH1cYGXewI9Yg6G_wK_kOnv0JK0us_Kzidi6yQq53iOmUHln1gSObjslon7",
-    "sell_order_count": "5,254",
-    "buy_order_count": "48,727",
+    "sell_order_count": "5,239",
+    "buy_order_count": "50,805",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1760456866561
+    "date_modified": 1760500784807
   },
   {
     "hash_name": "Souvenir P90 | Verdant Growth (Factory New)",
     "item_nameid": 176271201,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7HYzJ9-NmugImHksjzIb7UmFRH4ct0teXI8oThxgzl-EU5Z272dtKUJgc_YQmD_QO5w-67hJS56MnIwHBqv3N34ivamEapwUYb5MlY-Bo",
-    "sell_order_count": "1,020",
-    "buy_order_count": "34,138",
-    "lowest_sell_order": "0.08",
+    "sell_order_count": "990",
+    "buy_order_count": "33,989",
+    "lowest_sell_order": "0.09",
     "highest_buy_order": "0.07",
-    "date_modified": 1760456874798
+    "date_modified": 1760500792949
   },
   {
     "hash_name": "Souvenir P90 | Verdant Growth (Battle-Scarred)",
     "item_nameid": 176271282,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7HYzJ9-NmugImHksjzIb7UmFRH4ct0teHE9JrsxlfgrktqNWyhItPEIQM-ZV3U-lPokObshcW77svIm3UxvnEl4i6PlxapwUYbRZHciB0",
-    "sell_order_count": "49",
-    "buy_order_count": "2,500",
+    "sell_order_count": "51",
+    "buy_order_count": "2,503",
     "lowest_sell_order": "0.11",
     "highest_buy_order": "0.07",
-    "date_modified": 1760456883048
+    "date_modified": 1760500801203
   },
   {
     "hash_name": "Souvenir P90 | Teardown (Minimal Wear)",
@@ -2297,7 +2297,7 @@
     "buy_order_count": "75",
     "lowest_sell_order": "100.00",
     "highest_buy_order": "35.00",
-    "date_modified": 1760456891196
+    "date_modified": 1760500809355
   },
   {
     "hash_name": "Souvenir P90 | Teardown (Field-Tested)",
@@ -2305,89 +2305,89 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7NYjV95NOiq4GFk8j3PLfVqWZU7Mxkh6eW99X30QDl-Rdrazz2cdCWIwE4MlvQ-wTtw7rt1sO_6ZWcnSA2uHEi-z-DyDdxjIvl",
     "sell_order_count": "4",
     "buy_order_count": "152",
-    "lowest_sell_order": "133.25",
-    "highest_buy_order": "69.12",
-    "date_modified": 1760456899459
+    "lowest_sell_order": "133.35",
+    "highest_buy_order": "70.34",
+    "date_modified": 1760500817519
   },
   {
     "hash_name": "Souvenir P90 | Straight Dimes (Well-Worn)",
     "item_nameid": 176519454,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBc5g8zbZThH4N-klYafqPrxN7LEmyUFv8EhiLiRpdmi0QzhrhI4Nzz3cIOcc1VqNV7SrwC_lee5hcTt6pyf1zI97Y-wfu2r",
-    "sell_order_count": "858",
-    "buy_order_count": "16,581",
+    "sell_order_count": "815",
+    "buy_order_count": "17,336",
     "lowest_sell_order": "0.05",
     "highest_buy_order": "0.04",
-    "date_modified": 1760456907579
+    "date_modified": 1760500825708
   },
   {
     "hash_name": "Souvenir P90 | Straight Dimes (Minimal Wear)",
     "item_nameid": 176519477,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBc5g8zbZThH4N-klYafqPv9NLPF2GlU7Jwi3b3Ap9rw2QDm80E4Y2umI9PAewZoaQrR_QDvyevqjZDtuJrXiSw0IzoNeZM",
-    "sell_order_count": "335",
-    "buy_order_count": "10,322",
-    "lowest_sell_order": "0.08",
-    "highest_buy_order": "0.07",
-    "date_modified": 1760456915729
+    "sell_order_count": "327",
+    "buy_order_count": "10,344",
+    "lowest_sell_order": "0.09",
+    "highest_buy_order": "0.06",
+    "date_modified": 1760500833848
   },
   {
     "hash_name": "Souvenir P90 | Straight Dimes (Field-Tested)",
     "item_nameid": 176519481,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBc5g8zbZThH4N-klYafqPrxN7LEmyUFv8EhiLiRpdmi0QzhrhI4Nzz3cIOcc1VqNV7SrwC_lee5hcTt6pyf1zI97Y-wfu2r",
-    "sell_order_count": "1,026",
-    "buy_order_count": "16,554",
+    "sell_order_count": "1,021",
+    "buy_order_count": "16,516",
     "lowest_sell_order": "0.05",
     "highest_buy_order": "0.04",
-    "date_modified": 1760456923963
+    "date_modified": 1760500842019
   },
   {
     "hash_name": "Souvenir P90 | Straight Dimes (Factory New)",
     "item_nameid": 176519528,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBc5g8zbZThH4N-klYafqPv9NLPF2GlU7Jwi3b3Ap9rw2QDm80E4Y2umI9PAewZoaQrR_QDvyevqjZDtuJrXiSw0IzoNeZM",
-    "sell_order_count": "33",
-    "buy_order_count": "3,920",
-    "lowest_sell_order": "1.10",
-    "highest_buy_order": "0.85",
-    "date_modified": 1760456932102
+    "sell_order_count": "32",
+    "buy_order_count": "3,923",
+    "lowest_sell_order": "1.12",
+    "highest_buy_order": "0.86",
+    "date_modified": 1760500850183
   },
   {
     "hash_name": "Souvenir P90 | Straight Dimes (Battle-Scarred)",
     "item_nameid": 176519498,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBc5g8zbZThH4N-klYafqP_xMq3I2GlUscMk3-uW8N2sjg2180FsZWCmdo_HJ1c7aFjT_Fntku7n0JG57sjXiSw0ddPUKSc",
-    "sell_order_count": "554",
-    "buy_order_count": "19,831",
+    "sell_order_count": "521",
+    "buy_order_count": "19,848",
     "lowest_sell_order": "0.05",
     "highest_buy_order": "0.04",
-    "date_modified": 1760456940242
+    "date_modified": 1760500858338
   },
   {
     "hash_name": "Souvenir P90 | Storm (Well-Worn)",
     "item_nameid": 17680880,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRv7ODcfi9P6s65mpS0mvLwOq7c2D9VvJAljruVo4mt3QPk_xJoZzzzctWRIVc7Mg3W8lm4wOvnjJ_uvJ_XiSw00zyo8sg",
-    "sell_order_count": "54",
+    "sell_order_count": "55",
     "buy_order_count": "1,955",
-    "lowest_sell_order": "0.97",
+    "lowest_sell_order": "0.98",
     "highest_buy_order": "0.86",
-    "date_modified": 1760456948502
+    "date_modified": 1760500866584
   },
   {
     "hash_name": "Souvenir P90 | Storm (Minimal Wear)",
     "item_nameid": 17680881,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRv7ODcfi9P6s65mpS0m_7zO6-fwTlQ6sZ02-qTo9-s3gyxqEplNmDxJtKQcVU3Y1rT_VfoyObr15--uYOJlyV5Hrh34Q",
-    "sell_order_count": "72",
-    "buy_order_count": "2,448",
-    "lowest_sell_order": "2.88",
+    "sell_order_count": "73",
+    "buy_order_count": "2,458",
+    "lowest_sell_order": "2.84",
     "highest_buy_order": "2.56",
-    "date_modified": 1760456956656
+    "date_modified": 1760500874710
   },
   {
     "hash_name": "Souvenir P90 | Storm (Field-Tested)",
     "item_nameid": 17680861,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRv7ODcfi9P6s65mpS0mvLwOq7c2D9VvJAljruVo4mt3QPk_xJoZzzzctWRIVc7Mg3W8lm4wOvnjJ_uvJ_XiSw00zyo8sg",
-    "sell_order_count": "244",
-    "buy_order_count": "2,761",
-    "lowest_sell_order": "0.87",
+    "sell_order_count": "246",
+    "buy_order_count": "2,831",
+    "lowest_sell_order": "0.81",
     "highest_buy_order": "0.66",
-    "date_modified": 1760456964815
+    "date_modified": 1760500882910
   },
   {
     "hash_name": "Souvenir P90 | Storm (Factory New)",
@@ -2396,18 +2396,18 @@
     "sell_order_count": "1",
     "buy_order_count": "177",
     "lowest_sell_order": "340.00",
-    "highest_buy_order": "18.25",
-    "date_modified": 1760456972950
+    "highest_buy_order": "18.23",
+    "date_modified": 1760500891264
   },
   {
     "hash_name": "Souvenir P90 | Storm (Battle-Scarred)",
     "item_nameid": 17680895,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRv7ODcfi9P6s65mpS0n_L1JaKfwzwG65Mj077F94isjAeyr0NqMG31I4fAJwM4NF3Y-lC3yOnphZTtuoOJlyWHVqi6cQ",
-    "sell_order_count": "91",
+    "sell_order_count": "87",
     "buy_order_count": "3,657",
-    "lowest_sell_order": "0.66",
-    "highest_buy_order": "0.55",
-    "date_modified": 1760456981094
+    "lowest_sell_order": "0.65",
+    "highest_buy_order": "0.57",
+    "date_modified": 1760500899412
   },
   {
     "hash_name": "Souvenir P90 | Scorched (Well-Worn)",
@@ -2415,89 +2415,89 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7PfJYS1O6eO7kYSCgvq6NriCwDhSuJchiLDCrImmjALt-0ZpZm76LYSTe1Q8ZQnY_wDrlLvm04j84sqTtEgz9g",
     "sell_order_count": "91",
     "buy_order_count": "2,689",
-    "lowest_sell_order": "0.30",
+    "lowest_sell_order": "0.29",
     "highest_buy_order": "0.25",
-    "date_modified": 1760456989228
+    "date_modified": 1760500907574
   },
   {
     "hash_name": "Souvenir P90 | Scorched (Minimal Wear)",
     "item_nameid": 2390624,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7PfJYS1O6eO6nYeDg7msZ--CxDMAsMMi37qT99v3igG3_RA6ZGn3I4SRcFQ3MFqErFbsyOzrm9bi62BWTtxc",
-    "sell_order_count": "142",
-    "buy_order_count": "3,168",
+    "sell_order_count": "139",
+    "buy_order_count": "3,238",
     "lowest_sell_order": "0.47",
     "highest_buy_order": "0.41",
-    "date_modified": 1760456997383
+    "date_modified": 1760500915712
   },
   {
     "hash_name": "Souvenir P90 | Scorched (Field-Tested)",
     "item_nameid": 2384576,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7PfJYS1O6eO7kYSCgvq6NriCwDhSuJchiLDCrImmjALt-0ZpZm76LYSTe1Q8ZQnY_wDrlLvm04j84sqTtEgz9g",
-    "sell_order_count": "536",
-    "buy_order_count": "7,347",
+    "sell_order_count": "533",
+    "buy_order_count": "7,515",
     "lowest_sell_order": "0.17",
     "highest_buy_order": "0.16",
-    "date_modified": 1760457005632
+    "date_modified": 1760500923872
   },
   {
     "hash_name": "Souvenir P90 | Scorched (Factory New)",
     "item_nameid": 2398884,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7PfJYS1O6eO6nYeDg7msZ--CxDMAsMMi37qT99v3igG3_RA6ZGn3I4SRcFQ3MFqErFbsyOzrm9bi62BWTtxc",
-    "sell_order_count": "18",
+    "sell_order_count": "17",
     "buy_order_count": "189",
-    "lowest_sell_order": "29.00",
+    "lowest_sell_order": "28.53",
     "highest_buy_order": "6.78",
-    "date_modified": 1760457013774
+    "date_modified": 1760500932016
   },
   {
     "hash_name": "Souvenir P90 | Scorched (Battle-Scarred)",
     "item_nameid": 2385819,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7PfJYS1O6eO-kYGdjrnyY7-AxjoJvZBzi7CUrNqm0VLm-kNuNm3yIYOWI1NvMlCCrFm-lLztm9bi61uCKX7s",
-    "sell_order_count": "140",
-    "buy_order_count": "3,709",
+    "sell_order_count": "137",
+    "buy_order_count": "3,809",
     "lowest_sell_order": "0.20",
     "highest_buy_order": "0.18",
-    "date_modified": 1760457022061
+    "date_modified": 1760500940173
   },
   {
     "hash_name": "Souvenir P90 | Schematic (Well-Worn)",
     "item_nameid": 176271329,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957OXNYylL69OxkY-0mvLwOq7c2DkF7cdy2euUotWjiQCxqEM6Mj36cIbDdgA8YwvZrAS4xe_vgMe-6sjXiSw0lPgLc3s",
-    "sell_order_count": "27",
+    "sell_order_count": "28",
     "buy_order_count": "2,451",
-    "lowest_sell_order": "2.66",
+    "lowest_sell_order": "2.65",
     "highest_buy_order": "1.29",
-    "date_modified": 1760457030341
+    "date_modified": 1760500948298
   },
   {
     "hash_name": "Souvenir P90 | Schematic (Minimal Wear)",
     "item_nameid": 176271308,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957OXNYylL69OxkY-0m_7zO6-fwjkCuJJ00uqZ89n22gfg8ks-Nj-hcNeUcAY6M16B-Fftx-e7jZW-vYOJlyXmg2r_jw",
-    "sell_order_count": "13",
+    "sell_order_count": "14",
     "buy_order_count": "2,806",
     "lowest_sell_order": "1.56",
-    "highest_buy_order": "1.31",
-    "date_modified": 1760457038478
+    "highest_buy_order": "1.30",
+    "date_modified": 1760500956568
   },
   {
     "hash_name": "Souvenir P90 | Schematic (Field-Tested)",
     "item_nameid": 176271269,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957OXNYylL69OxkY-0mvLwOq7c2DkF7cdy2euUotWjiQCxqEM6Mj36cIbDdgA8YwvZrAS4xe_vgMe-6sjXiSw0lPgLc3s",
-    "sell_order_count": "41",
-    "buy_order_count": "4,594",
-    "lowest_sell_order": "0.42",
+    "sell_order_count": "44",
+    "buy_order_count": "4,595",
+    "lowest_sell_order": "0.41",
     "highest_buy_order": "0.37",
-    "date_modified": 1760457046842
+    "date_modified": 1760500964755
   },
   {
     "hash_name": "Souvenir P90 | Schematic (Factory New)",
     "item_nameid": 176271236,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957OXNYylL69OxkY-0m_7zO6-fwjkCuJJ00uqZ89n22gfg8ks-Nj-hcNeUcAY6M16B-Fftx-e7jZW-vYOJlyXmg2r_jw",
-    "sell_order_count": "22",
-    "buy_order_count": "3,226",
-    "lowest_sell_order": "3.03",
+    "sell_order_count": "19",
+    "buy_order_count": "3,225",
+    "lowest_sell_order": "3.12",
     "highest_buy_order": "2.53",
-    "date_modified": 1760457055004
+    "date_modified": 1760500972947
   },
   {
     "hash_name": "Souvenir P90 | Schematic (Battle-Scarred)",
@@ -2506,38 +2506,38 @@
     "sell_order_count": "10",
     "buy_order_count": "2,488",
     "lowest_sell_order": "2.56",
-    "highest_buy_order": "1.85",
-    "date_modified": 1760457063252
+    "highest_buy_order": "1.88",
+    "date_modified": 1760500981184
   },
   {
     "hash_name": "Souvenir P90 | ScaraB Rush (Well-Worn)",
     "item_nameid": 176372904,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJR792klYK0mPHLJLLCkmRc18h0juDU-MKl2ADh_RBvMT31IIaSew4_MF7V_QO7lLzqgMe-uczJyHM1vSYn7HfbgVXp1rqixjJe",
-    "sell_order_count": "14",
-    "buy_order_count": "4,821",
-    "lowest_sell_order": "2.44",
+    "sell_order_count": "13",
+    "buy_order_count": "4,818",
+    "lowest_sell_order": "3.22",
     "highest_buy_order": "2.62",
-    "date_modified": 1760457071518
+    "date_modified": 1760500989310
   },
   {
     "hash_name": "Souvenir P90 | ScaraB Rush (Minimal Wear)",
     "item_nameid": 176372886,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJR792klYK0mPHLJLLCkmRc18l4jeHVu4_z2gG2qhFvZ2zxJYGUelI9ZQvWqQW7xLvsh5XvtZqbmCc273Ug7SzD30vgVkj0z3Y",
-    "sell_order_count": "11",
-    "buy_order_count": "4,252",
-    "lowest_sell_order": "8.51",
-    "highest_buy_order": "6.29",
-    "date_modified": 1760457079652
+    "sell_order_count": "10",
+    "buy_order_count": "4,254",
+    "lowest_sell_order": "8.46",
+    "highest_buy_order": "6.37",
+    "date_modified": 1760500997490
   },
   {
     "hash_name": "Souvenir P90 | ScaraB Rush (Field-Tested)",
     "item_nameid": 176372896,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJR792klYK0mPHLJLLCkmRc18h0juDU-MKl2ADh_RBvMT31IIaSew4_MF7V_QO7lLzqgMe-uczJyHM1vSYn7HfbgVXp1rqixjJe",
     "sell_order_count": "13",
-    "buy_order_count": "4,428",
-    "lowest_sell_order": "3.35",
-    "highest_buy_order": "3.07",
-    "date_modified": 1760457087794
+    "buy_order_count": "4,425",
+    "lowest_sell_order": "3.30",
+    "highest_buy_order": "2.91",
+    "date_modified": 1760501005658
   },
   {
     "hash_name": "Souvenir P90 | ScaraB Rush (Factory New)",
@@ -2546,28 +2546,28 @@
     "sell_order_count": "6",
     "buy_order_count": "3,581",
     "lowest_sell_order": "42.43",
-    "highest_buy_order": "28.59",
-    "date_modified": 1760457095927
+    "highest_buy_order": "29.01",
+    "date_modified": 1760501013786
   },
   {
     "hash_name": "Souvenir P90 | ScaraB Rush (Battle-Scarred)",
     "item_nameid": 176372931,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJR792klYK0mPHLJLLCkmRc1810i__Yu9zz3VK2qBBvYm6hLYDHIVM5YVmB_Fa-wrq61MC9u5_AznY37CNx4HrD30vgU3_hWXE",
-    "sell_order_count": "16",
+    "sell_order_count": "15",
     "buy_order_count": "4,213",
-    "lowest_sell_order": "2.84",
+    "lowest_sell_order": "2.83",
     "highest_buy_order": "2.30",
-    "date_modified": 1760457104083
+    "date_modified": 1760501021924
   },
   {
     "hash_name": "Souvenir P90 | Sand Spray (Well-Worn)",
     "item_nameid": 2386497,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7ODYYzxb08-3moS0mvLwOq7c2D9V6pwk2e2Uodqh0QeyqRI5YTihJ9XBew8-Z1DZr1m8lLy-hZfv7p3XiSw09_T0gtc",
-    "sell_order_count": "78",
-    "buy_order_count": "2,534",
-    "lowest_sell_order": "0.25",
-    "highest_buy_order": "0.24",
-    "date_modified": 1760457112238
+    "sell_order_count": "76",
+    "buy_order_count": "2,532",
+    "lowest_sell_order": "0.26",
+    "highest_buy_order": "0.25",
+    "date_modified": 1760501030088
   },
   {
     "hash_name": "Souvenir P90 | Sand Spray (Minimal Wear)",
@@ -2577,37 +2577,37 @@
     "buy_order_count": "2,486",
     "lowest_sell_order": "0.31",
     "highest_buy_order": "0.28",
-    "date_modified": 1760457120565
+    "date_modified": 1760501038223
   },
   {
     "hash_name": "Souvenir P90 | Sand Spray (Field-Tested)",
     "item_nameid": 2384558,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7ODYYzxb08-3moS0mvLwOq7c2D9V6pwk2e2Uodqh0QeyqRI5YTihJ9XBew8-Z1DZr1m8lLy-hZfv7p3XiSw09_T0gtc",
-    "sell_order_count": "360",
-    "buy_order_count": "5,771",
+    "sell_order_count": "361",
+    "buy_order_count": "5,755",
     "lowest_sell_order": "0.17",
     "highest_buy_order": "0.16",
-    "date_modified": 1760457128711
+    "date_modified": 1760501046362
   },
   {
     "hash_name": "Souvenir P90 | Sand Spray (Factory New)",
     "item_nameid": 2416373,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7ODYYzxb08-3moS0m_7zO6-fw24Fu5Uj2OqU8NWj2gy1_RdoMWmgLdOXJ1NqZg3QrlnskL-80JS1vIOJlyXMBy5idw",
-    "sell_order_count": "7",
-    "buy_order_count": "322",
-    "lowest_sell_order": "6.45",
-    "highest_buy_order": "3.80",
-    "date_modified": 1760457136967
+    "sell_order_count": "9",
+    "buy_order_count": "320",
+    "lowest_sell_order": "5.99",
+    "highest_buy_order": "3.84",
+    "date_modified": 1760501054786
   },
   {
     "hash_name": "Souvenir P90 | Sand Spray (Battle-Scarred)",
     "item_nameid": 2388342,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7ODYYzxb08-3moS0n_L1JaKfwm1Q7cEhj73CodSl0FXsqUA-MTuldtXEJgU2YQvZrAO_x7y7gMXq74OJlyXau-_bHA",
-    "sell_order_count": "117",
-    "buy_order_count": "3,646",
+    "sell_order_count": "116",
+    "buy_order_count": "3,644",
     "lowest_sell_order": "0.17",
     "highest_buy_order": "0.16",
-    "date_modified": 1760457145202
+    "date_modified": 1760501062933
   },
   {
     "hash_name": "Souvenir P90 | Run and Hide (Well-Worn)",
@@ -2615,29 +2615,29 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17PnJdihD_uOmzdC0mvLwOq7c2DhT7cZ03ruVp4mk2QPnqhVoZzv0IofDIwQ5ZQ3WrwS6k-i7hJ-9u87XiSw0prwdn4Q",
     "sell_order_count": "5",
     "buy_order_count": "482",
-    "lowest_sell_order": "19.03",
-    "highest_buy_order": "17.28",
-    "date_modified": 1760457153325
+    "lowest_sell_order": "19.37",
+    "highest_buy_order": "17.60",
+    "date_modified": 1760501071304
   },
   {
     "hash_name": "Souvenir P90 | Run and Hide (Minimal Wear)",
     "item_nameid": 176271396,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17PnJdihD_uOmzdC0m_7zO6-fxjsG6sQni-_Doo6n0Qy1-RVpZ2v7JIOWd1A9aF7V_wTvk7_vgZG67oOJlyUZfOUbWw",
-    "sell_order_count": "7",
+    "sell_order_count": "5",
     "buy_order_count": "312",
-    "lowest_sell_order": "35.10",
-    "highest_buy_order": "28.75",
-    "date_modified": 1760457161613
+    "lowest_sell_order": "34.59",
+    "highest_buy_order": "29.24",
+    "date_modified": 1760501079562
   },
   {
     "hash_name": "Souvenir P90 | Run and Hide (Field-Tested)",
     "item_nameid": 176271404,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17PnJdihD_uOmzdC0mvLwOq7c2DhT7cZ03ruVp4mk2QPnqhVoZzv0IofDIwQ5ZQ3WrwS6k-i7hJ-9u87XiSw0prwdn4Q",
     "sell_order_count": "4",
-    "buy_order_count": "413",
-    "lowest_sell_order": "22.28",
-    "highest_buy_order": "16.91",
-    "date_modified": 1760457169762
+    "buy_order_count": "415",
+    "lowest_sell_order": "22.27",
+    "highest_buy_order": "17.26",
+    "date_modified": 1760501087686
   },
   {
     "hash_name": "Souvenir P90 | Run and Hide (Factory New)",
@@ -2646,58 +2646,58 @@
     "sell_order_count": 0,
     "buy_order_count": "541",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "70.78",
-    "date_modified": 1760457177915
+    "highest_buy_order": "70.77",
+    "date_modified": 1760501095810
   },
   {
     "hash_name": "Souvenir P90 | Run and Hide (Battle-Scarred)",
     "item_nameid": 176271408,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17PnJdihD_uOmzdC0n_L1JaKfwWkHvcZ1377HptyjigXm80RuZmHwcYSXIFI9N1uFr1Xqye3oh8LuvIOJlyXOI1paVQ",
-    "sell_order_count": "5",
-    "buy_order_count": "458",
-    "lowest_sell_order": "21.00",
-    "highest_buy_order": "12.65",
-    "date_modified": 1760457186065
+    "sell_order_count": "7",
+    "buy_order_count": "460",
+    "lowest_sell_order": "19.48",
+    "highest_buy_order": "14.16",
+    "date_modified": 1760501104133
   },
   {
     "hash_name": "Souvenir P90 | Glacier Mesh (Well-Worn)",
     "item_nameid": 176081827,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7NYjV969C3l4mOhcj5Nr_Yg2YfuMQn37zDo9yk3wTl-RE_ZWGmLY-RJgc9ZArV_QK7x-7tjcS5v8jAy2wj5HdZbo7F1w",
     "sell_order_count": "14",
-    "buy_order_count": "1,120",
+    "buy_order_count": "1,121",
     "lowest_sell_order": "4.02",
-    "highest_buy_order": "2.41",
-    "date_modified": 1760457194219
+    "highest_buy_order": "2.46",
+    "date_modified": 1760501112327
   },
   {
     "hash_name": "Souvenir P90 | Glacier Mesh (Minimal Wear)",
     "item_nameid": 176081841,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7NYjV969C3l4mOhcj4OrzZgiUFucAo3uqU84_x3we3qkA5MD3yddPDdgRvZF_U-lW6xOztjcTu7cic1zI97QmJWMo3",
-    "lowest_sell_order": "6.41",
-    "highest_buy_order": "5.10",
-    "date_modified": 1760457202366,
+    "lowest_sell_order": "6.55",
+    "highest_buy_order": "5.12",
+    "date_modified": 1760501120478,
     "sell_order_count": "12",
-    "buy_order_count": "822"
+    "buy_order_count": "823"
   },
   {
     "hash_name": "Souvenir P90 | Glacier Mesh (Field-Tested)",
     "item_nameid": 176081832,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7NYjV969C3l4mOhcj5Nr_Yg2YfuMQn37zDo9yk3wTl-RE_ZWGmLY-RJgc9ZArV_QK7x-7tjcS5v8jAy2wj5HdZbo7F1w",
-    "sell_order_count": "22",
-    "buy_order_count": "1,232",
-    "lowest_sell_order": "1.75",
-    "highest_buy_order": "1.40",
-    "date_modified": 1760457210498
+    "sell_order_count": "24",
+    "buy_order_count": "1,233",
+    "lowest_sell_order": "1.47",
+    "highest_buy_order": "1.41",
+    "date_modified": 1760501128651
   },
   {
     "hash_name": "Souvenir P90 | Glacier Mesh (Battle-Scarred)",
     "item_nameid": 176081838,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7NYjV969C3l4mOhcj8NrrHjyVX6ZQljL-Zot6njQDh-0Jlamv3coHHIwI9MFiF-1Dow7i61JC-v5rJ1zI97dko0YAf",
     "lowest_sell_order": "1.86",
-    "highest_buy_order": "1.81",
-    "date_modified": 1760457218656,
-    "sell_order_count": "12",
-    "buy_order_count": "337"
+    "highest_buy_order": "1.72",
+    "date_modified": 1760501136786,
+    "sell_order_count": "10",
+    "buy_order_count": "335"
   },
   {
     "hash_name": "Souvenir P90 | Fallout Warning (Well-Worn)",
@@ -2705,9 +2705,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P3dejhR-M6_hIW0mvbmPLTfqWZU7Mxkh6fHo9TxjATi-0prY2j3dYLBcwJtNQnW-la2yOa5gJW07p_OnycwsiYg-z-DyEl8YM4k",
     "sell_order_count": "15",
     "buy_order_count": "765",
-    "lowest_sell_order": "3.69",
+    "lowest_sell_order": "3.68",
     "highest_buy_order": "3.05",
-    "date_modified": 1760457226823
+    "date_modified": 1760501144927
   },
   {
     "hash_name": "Souvenir P90 | Fallout Warning (Minimal Wear)",
@@ -2715,9 +2715,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P3dejhR-M6_hIW0mvbmPLTfqWdY781lxL-U9tmn0FGw_UduNWuiJdTBIQZvZwnW-1C-xrq-g5S-vJ_LwSZhvCk8pSGKFzGNEws",
     "sell_order_count": "9",
     "buy_order_count": "328",
-    "lowest_sell_order": "13.84",
-    "highest_buy_order": "9.39",
-    "date_modified": 1760457235080
+    "lowest_sell_order": "13.83",
+    "highest_buy_order": "9.47",
+    "date_modified": 1760501153069
   },
   {
     "hash_name": "Souvenir P90 | Fallout Warning (Field-Tested)",
@@ -2726,8 +2726,8 @@
     "sell_order_count": "46",
     "buy_order_count": "992",
     "lowest_sell_order": "3.19",
-    "highest_buy_order": "3.05",
-    "date_modified": 1760457243326
+    "highest_buy_order": "3.07",
+    "date_modified": 1760501161223
   },
   {
     "hash_name": "Souvenir P90 | Fallout Warning (Battle-Scarred)",
@@ -2737,7 +2737,7 @@
     "buy_order_count": "1,049",
     "lowest_sell_order": "3.97",
     "highest_buy_order": "2.48",
-    "date_modified": 1760457251601
+    "date_modified": 1760501169379
   },
   {
     "hash_name": "Souvenir P90 | Facility Negative (Well-Worn)",
@@ -2745,9 +2745,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLbUkmJE5Ysk3rmTrN723APn_UFqZ26iIoaTIQ5rMFjRrAO2k7rvgsXuuMmYnXJipGB8sqPr5O0p",
     "sell_order_count": "14",
     "buy_order_count": "205",
-    "lowest_sell_order": "1.28",
-    "highest_buy_order": "0.73",
-    "date_modified": 1760457259727
+    "lowest_sell_order": "1.27",
+    "highest_buy_order": "0.75",
+    "date_modified": 1760501177637
   },
   {
     "hash_name": "Souvenir P90 | Facility Negative (Minimal Wear)",
@@ -2755,37 +2755,37 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLfYkWNFppwi0uyXotqh0Qzj-BVpZjj7JoOVdVU5ZwzTqVPrxOrvhMW0tJqdyHN9-n512NrMg48",
     "lowest_sell_order": "0.61",
     "highest_buy_order": "0.48",
-    "date_modified": 1760457268122,
+    "date_modified": 1760501185765,
     "sell_order_count": "44",
-    "buy_order_count": "335"
+    "buy_order_count": "336"
   },
   {
     "hash_name": "Souvenir P90 | Facility Negative (Field-Tested)",
     "item_nameid": 176006341,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLbUkmJE5Ysk3rmTrN723APn_UFqZ26iIoaTIQ5rMFjRrAO2k7rvgsXuuMmYnXJipGB8sqPr5O0p",
-    "sell_order_count": "79",
+    "sell_order_count": "77",
     "buy_order_count": "1,920",
     "lowest_sell_order": "0.29",
     "highest_buy_order": "0.24",
-    "date_modified": 1760457276280
+    "date_modified": 1760501193893
   },
   {
     "hash_name": "Souvenir P90 | Facility Negative (Factory New)",
     "item_nameid": 176006328,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLfYkWNFppwi0uyXotqh0Qzj-BVpZjj7JoOVdVU5ZwzTqVPrxOrvhMW0tJqdyHN9-n512NrMg48",
-    "sell_order_count": "67",
+    "sell_order_count": "66",
     "buy_order_count": "805",
-    "lowest_sell_order": "1.45",
-    "highest_buy_order": "1.18",
-    "date_modified": 1760457284534
+    "lowest_sell_order": "1.42",
+    "highest_buy_order": "1.17",
+    "date_modified": 1760501202056
   },
   {
     "hash_name": "Souvenir P90 | Facility Negative (Battle-Scarred)",
     "item_nameid": 176010247,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLPUl31IppZ00rHH89v33ATm_0dtZzrzdYXBewc2YFDTrlLvle_vgJTuuMzLm3Z9-n51lOvwoRY",
     "lowest_sell_order": "1.95",
-    "highest_buy_order": "1.72",
-    "date_modified": 1760457292738,
+    "highest_buy_order": "1.70",
+    "date_modified": 1760501210195,
     "sell_order_count": "17",
     "buy_order_count": "49"
   },
@@ -2793,101 +2793,101 @@
     "hash_name": "Souvenir P90 | Desert DDPAT (Well-Worn)",
     "item_nameid": 176271507,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PfMYTxW09izh4WZg8j5Nr_Yg2Yf650hiLiXp9Wi0VK3rkFvNmH6LdCUdg5tMF2DqVbtxubpjcO7uJ3JnWwj5HfR5070fQ",
-    "sell_order_count": "1,220",
+    "sell_order_count": "1,205",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760457300870
+    "date_modified": 1760501218358
   },
   {
     "hash_name": "Souvenir P90 | Desert DDPAT (Minimal Wear)",
     "item_nameid": 176271496,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PfMYTxW09izh4WZg8j4OrzZgiVQu5Bw2ujDod3w2wTt8xA9MmzzLNTBcAQ3MF3Xrlnsw-fohsTtvJrA1zI97XQbTws1",
-    "sell_order_count": "10,413",
+    "sell_order_count": "10,363",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760457309018
+    "date_modified": 1760501226509
   },
   {
     "hash_name": "Souvenir P90 | Desert DDPAT (Field-Tested)",
     "item_nameid": 176271486,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PfMYTxW09izh4WZg8j5Nr_Yg2Yf650hiLiXp9Wi0VK3rkFvNmH6LdCUdg5tMF2DqVbtxubpjcO7uJ3JnWwj5HfR5070fQ",
-    "sell_order_count": "22,943",
+    "sell_order_count": "22,951",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760457317264
+    "date_modified": 1760501234663
   },
   {
     "hash_name": "Souvenir P90 | Desert DDPAT (Factory New)",
     "item_nameid": 176271484,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PfMYTxW09izh4WZg8j4OrzZgiVQu5Bw2ujDod3w2wTt8xA9MmzzLNTBcAQ3MF3Xrlnsw-fohsTtvJrA1zI97XQbTws1",
-    "sell_order_count": "6,035",
-    "buy_order_count": 0,
+    "sell_order_count": "5,706",
+    "buy_order_count": "432",
     "lowest_sell_order": "0.04",
-    "highest_buy_order": "0.00",
-    "date_modified": 1760457325389
+    "highest_buy_order": "0.03",
+    "date_modified": 1760501242799
   },
   {
     "hash_name": "Souvenir P90 | Desert DDPAT (Battle-Scarred)",
     "item_nameid": 176271544,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PfMYTxW09izh4WZg8j8NrrHjyVT6cMh3LyTod-ni1bm_RU6NmGhIo6Te1U2MFjR-AW_wb3t0ZbqtJvN1zI97Qb_4lr2",
-    "sell_order_count": "1,567",
+    "sell_order_count": "1,508",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760457333532
+    "date_modified": 1760501250987
   },
   {
     "hash_name": "Souvenir P90 | Ash Wood (Well-Worn)",
     "item_nameid": 2425699,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7OffeDpR09GzkImemrnwYOiAwm1TvJMijLGVoo_wiwbi-RdkYGmmIYeWIFVsNwzX8lDrlenqm9bi62-ogLoO",
     "sell_order_count": "16",
-    "buy_order_count": "391",
-    "lowest_sell_order": "3.18",
-    "highest_buy_order": "2.42",
-    "date_modified": 1760457341926
+    "buy_order_count": "392",
+    "lowest_sell_order": "3.25",
+    "highest_buy_order": "2.46",
+    "date_modified": 1760501259153
   },
   {
     "hash_name": "Souvenir P90 | Ash Wood (Minimal Wear)",
     "item_nameid": 2392516,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7OffeDpR09C_k4if2fHwMOLXxTgA6sRw0rvHpNTwilbm_BE5MTyhLYWdIVM5NF3VqQW6xLjxxcjroZM_KLk",
-    "sell_order_count": "22",
-    "buy_order_count": "898",
-    "lowest_sell_order": "1.70",
+    "sell_order_count": "23",
+    "buy_order_count": "895",
+    "lowest_sell_order": "1.72",
     "highest_buy_order": "1.33",
-    "date_modified": 1760457350078
+    "date_modified": 1760501267306
   },
   {
     "hash_name": "Souvenir P90 | Ash Wood (Field-Tested)",
     "item_nameid": 2384609,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7OffeDpR09GzkImemrnwYOiAwm1TvJMijLGVoo_wiwbi-RdkYGmmIYeWIFVsNwzX8lDrlenqm9bi62-ogLoO",
     "sell_order_count": "67",
-    "buy_order_count": "954",
-    "lowest_sell_order": "0.78",
-    "highest_buy_order": "0.69",
-    "date_modified": 1760457358219
+    "buy_order_count": "974",
+    "lowest_sell_order": "0.81",
+    "highest_buy_order": "0.70",
+    "date_modified": 1760501275450
   },
   {
     "hash_name": "Souvenir P90 | Ash Wood (Factory New)",
     "item_nameid": 2387640,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7OffeDpR09C_k4if2fHwMOLXxTgA6sRw0rvHpNTwilbm_BE5MTyhLYWdIVM5NF3VqQW6xLjxxcjroZM_KLk",
-    "sell_order_count": "30",
+    "sell_order_count": "29",
     "buy_order_count": "495",
-    "lowest_sell_order": "2.80",
+    "lowest_sell_order": "2.83",
     "highest_buy_order": "2.56",
-    "date_modified": 1760457366484
+    "date_modified": 1760501283627
   },
   {
     "hash_name": "Souvenir P90 | Ancient Earth (Well-Worn)",
     "item_nameid": 176271344,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZh7PLGcjRH4siJlpKEgPnLPr7Vn35cppFwjL-YrYn2jVfnr0tkNjv6II6UdQU2Ml2B-Fnqw7vnh8K56ZWcz3V9-n51w2gsJuU",
-    "sell_order_count": "372",
-    "buy_order_count": "1",
+    "sell_order_count": "373",
+    "buy_order_count": "11",
     "lowest_sell_order": "0.05",
     "highest_buy_order": "0.03",
-    "date_modified": 1760457374764
+    "date_modified": 1760501291764
   },
   {
     "hash_name": "Souvenir P90 | Ancient Earth (Minimal Wear)",
@@ -2897,67 +2897,67 @@
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760457382908
+    "date_modified": 1760501299945
   },
   {
     "hash_name": "Souvenir P90 | Ancient Earth (Field-Tested)",
     "item_nameid": 176271338,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZh7PLGcjRH4siJlpKEgPnLPr7Vn35cppFwjL-YrYn2jVfnr0tkNjv6II6UdQU2Ml2B-Fnqw7vnh8K56ZWcz3V9-n51w2gsJuU",
-    "sell_order_count": "3,567",
+    "sell_order_count": "3,540",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760457391183
+    "date_modified": 1760501308114
   },
   {
     "hash_name": "Souvenir P90 | Ancient Earth (Factory New)",
     "item_nameid": 176271350,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZh7PLGcjRH4siJlpKEgPnLP7LWnn8f7sR12urA99Wh3wDn-hY4NmD1J4-VcFI8Mw6C-lLtwrvv1sTqv5ycymwj5HdgzOhcBQ",
-    "sell_order_count": "528",
-    "buy_order_count": "14,948",
-    "lowest_sell_order": "0.08",
+    "sell_order_count": "508",
+    "buy_order_count": "14,988",
+    "lowest_sell_order": "0.09",
     "highest_buy_order": "0.07",
-    "date_modified": 1760457399351
+    "date_modified": 1760501316255
   },
   {
     "hash_name": "Souvenir P90 | Ancient Earth (Battle-Scarred)",
     "item_nameid": 176271373,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZh7PLGcjRH4siJlpKEgPnLO77QgHIfv8Ajj7GR84r32lLmqkU9ZGvyIoDHJwM_ZgvZ_FTvlL3ujce06s6bwWwj5HcqHwEA6A",
-    "sell_order_count": "326",
-    "buy_order_count": "5,879",
-    "lowest_sell_order": "0.04",
+    "sell_order_count": "322",
+    "buy_order_count": "5,989",
+    "lowest_sell_order": "0.05",
     "highest_buy_order": "0.03",
-    "date_modified": 1760457407479
+    "date_modified": 1760501324388
   },
   {
     "hash_name": "Souvenir P250 | Vino Primo (Well-Worn)",
     "item_nameid": 176006062,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS09--kYOAkuXLPr7Vn35cppIn27-Xp96n2gPt_kNuMT3ycYaXcwM2M12B-QW2wr-618S0vc-fnCd9-n51EVkgVG4",
-    "sell_order_count": "20",
-    "buy_order_count": "336",
+    "sell_order_count": "19",
+    "buy_order_count": "332",
     "lowest_sell_order": "6.75",
-    "highest_buy_order": "6.34",
-    "date_modified": 1760457415612
+    "highest_buy_order": "6.53",
+    "date_modified": 1760501332783
   },
   {
     "hash_name": "Souvenir P250 | Vino Primo (Minimal Wear)",
     "item_nameid": 176006036,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS09--kYOAkuXLP7LWnn8f6ZVz3LCRot-g2we2qRBpNWqgLNScIw42ZAnX_Qe9le3o1pK675_InGwj5HfUbn7PUA",
-    "sell_order_count": "20",
+    "sell_order_count": "21",
     "buy_order_count": "202",
-    "lowest_sell_order": "15.48",
-    "highest_buy_order": "12.34",
-    "date_modified": 1760457423764
+    "lowest_sell_order": "16.10",
+    "highest_buy_order": "12.42",
+    "date_modified": 1760501340924
   },
   {
     "hash_name": "Souvenir P250 | Vino Primo (Field-Tested)",
     "item_nameid": 176006045,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS09--kYOAkuXLPr7Vn35cppIn27-Xp96n2gPt_kNuMT3ycYaXcwM2M12B-QW2wr-618S0vc-fnCd9-n51EVkgVG4",
     "sell_order_count": "19",
-    "buy_order_count": "249",
+    "buy_order_count": "247",
     "lowest_sell_order": "7.42",
-    "highest_buy_order": "7.16",
-    "date_modified": 1760457431908
+    "highest_buy_order": "7.32",
+    "date_modified": 1760501349109
   },
   {
     "hash_name": "Souvenir P250 | Vino Primo (Factory New)",
@@ -2966,48 +2966,48 @@
     "sell_order_count": "4",
     "buy_order_count": "145",
     "lowest_sell_order": "92.00",
-    "highest_buy_order": "61.70",
-    "date_modified": 1760457440163
+    "highest_buy_order": "63.33",
+    "date_modified": 1760501357248
   },
   {
     "hash_name": "Souvenir P250 | Vino Primo (Battle-Scarred)",
     "item_nameid": 176006061,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS09--kYOAkuXLO77QgHIf6ZJw3u3DrN303gzmr0ppMmz7IIDEdw43N1qD-wToxuvqjZa4vMidwGwj5HfwEypUuw",
-    "sell_order_count": "7",
-    "buy_order_count": "566",
+    "sell_order_count": "8",
+    "buy_order_count": "565",
     "lowest_sell_order": "7.18",
-    "highest_buy_order": "6.34",
-    "date_modified": 1760457448317
+    "highest_buy_order": "6.47",
+    "date_modified": 1760501365402
   },
   {
     "hash_name": "Souvenir P250 | Sand Dune (Well-Worn)",
     "item_nameid": 2393100,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhz3MzbcDNG09GzkImemrmlYumGwW0H65Z337uQpNTw3wLi_RE_ZG-lLYWWI1VrMlDY-la2yL_om9bi609Wg2uD",
-    "sell_order_count": "55",
-    "buy_order_count": "11,620",
-    "lowest_sell_order": "0.84",
+    "sell_order_count": "54",
+    "buy_order_count": "11,589",
+    "lowest_sell_order": "0.85",
     "highest_buy_order": "0.74",
-    "date_modified": 1760457456481
+    "date_modified": 1760501373738
   },
   {
     "hash_name": "Souvenir P250 | Sand Dune (Minimal Wear)",
     "item_nameid": 2386435,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhz3MzbcDNG09C_k4if2aPxYuzUlG0IvpF03L_EotSj2QW38xJuam36dYaSJwc9MlmE_FC5wLvxxcjrG6P7p2E",
     "sell_order_count": "73",
-    "buy_order_count": "3,159",
-    "lowest_sell_order": "3.27",
-    "highest_buy_order": "3.04",
-    "date_modified": 1760457464917
+    "buy_order_count": "3,158",
+    "lowest_sell_order": "3.26",
+    "highest_buy_order": "3.10",
+    "date_modified": 1760501381961
   },
   {
     "hash_name": "Souvenir P250 | Sand Dune (Field-Tested)",
     "item_nameid": 2385737,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhz3MzbcDNG09GzkImemrmlYumGwW0H65Z337uQpNTw3wLi_RE_ZG-lLYWWI1VrMlDY-la2yL_om9bi609Wg2uD",
-    "sell_order_count": "339",
+    "sell_order_count": "337",
     "buy_order_count": "2,483",
-    "lowest_sell_order": "0.85",
-    "highest_buy_order": "0.78",
-    "date_modified": 1760457473163
+    "lowest_sell_order": "0.84",
+    "highest_buy_order": "0.81",
+    "date_modified": 1760501390121
   },
   {
     "hash_name": "Souvenir P250 | Sand Dune (Factory New)",
@@ -3015,19 +3015,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhz3MzbcDNG09C_k4if2aPxYuzUlG0IvpF03L_EotSj2QW38xJuam36dYaSJwc9MlmE_FC5wLvxxcjrG6P7p2E",
     "sell_order_count": "5",
     "buy_order_count": "288",
-    "lowest_sell_order": "79.55",
+    "lowest_sell_order": "79.54",
     "highest_buy_order": "39.35",
-    "date_modified": 1760457481307
+    "date_modified": 1760501398510
   },
   {
     "hash_name": "Souvenir P250 | Sand Dune (Battle-Scarred)",
     "item_nameid": 2386457,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhz3MzbcDNG09SzlZaS2aCjZrjTwWoA7pMo07mS8Y30ig3l-0BvYDv1I9OWdQU6ZVjV_Fnoye3xxcjrgeRC5M4",
-    "sell_order_count": "69",
-    "buy_order_count": "2,983",
+    "sell_order_count": "70",
+    "buy_order_count": "2,970",
     "lowest_sell_order": "0.64",
     "highest_buy_order": "0.57",
-    "date_modified": 1760457489451
+    "date_modified": 1760501406633
   },
   {
     "hash_name": "Souvenir P250 | Nuclear Threat (Well-Worn)",
@@ -3036,8 +3036,8 @@
     "sell_order_count": 0,
     "buy_order_count": "85",
     "lowest_sell_order": "0.00",
-    "highest_buy_order": "51.89",
-    "date_modified": 1760457497580
+    "highest_buy_order": "51.88",
+    "date_modified": 1760501414809
   },
   {
     "hash_name": "Souvenir P250 | Nuclear Threat (Field-Tested)",
@@ -3045,9 +3045,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zGZDZH_8iknZCOqPDmNr7fqWZU7Mxkh6fF9o70i1bt-hJpMGulLY-ceg9rZgnR_Fbowevv1pO-vJvOnSNl73Qj-z-DyIhoGAvE",
     "sell_order_count": "3",
     "buy_order_count": "100",
-    "lowest_sell_order": "113.23",
-    "highest_buy_order": "77.83",
-    "date_modified": 1760457505733
+    "lowest_sell_order": "111.59",
+    "highest_buy_order": "78.47",
+    "date_modified": 1760501423041
   },
   {
     "hash_name": "Souvenir P250 | Metallic DDPAT (Minimal Wear)",
@@ -3056,48 +3056,48 @@
     "sell_order_count": "10",
     "buy_order_count": "162",
     "lowest_sell_order": "11.11",
-    "highest_buy_order": "8.12",
-    "date_modified": 1760457514006
+    "highest_buy_order": "8.28",
+    "date_modified": 1760501431199
   },
   {
     "hash_name": "Souvenir P250 | Metallic DDPAT (Factory New)",
     "item_nameid": 2388384,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szdYz9D4uO6nYeDg7n1N7iFzm5S6ZxyjuqVoImtiwTh-EBkZW71JtCScgc_MFDX_wO6ye7pm9bi6-hOxTXs",
     "sell_order_count": "70",
-    "buy_order_count": "1,610",
+    "buy_order_count": "1,555",
     "lowest_sell_order": "3.63",
     "highest_buy_order": "3.36",
-    "date_modified": 1760457522136
+    "date_modified": 1760501439380
   },
   {
     "hash_name": "Souvenir P250 | Gunsmoke (Well-Worn)",
     "item_nameid": 17670844,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszPdDFS6dKJmYWPnuL5ferXwzxQ7ZV10-uR9Nnwi1C2_0Q9MT2gcYaXJw9sY1DV-1Toxb--gJOi_MOeCvUEFwU",
-    "sell_order_count": "47",
-    "buy_order_count": "475",
-    "lowest_sell_order": "2.09",
-    "highest_buy_order": "1.80",
-    "date_modified": 1760457530269
+    "sell_order_count": "48",
+    "buy_order_count": "476",
+    "lowest_sell_order": "2.08",
+    "highest_buy_order": "1.84",
+    "date_modified": 1760501447541
   },
   {
     "hash_name": "Souvenir P250 | Gunsmoke (Minimal Wear)",
     "item_nameid": 17661997,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszPdDFS6dKJmImMn-O6MeuCk29XsMEk372W8Nyt2VCy-0A_NW_wcYSVdwM2MF7YqVXsw-rt1oj84sqOtTXCcQ",
     "sell_order_count": "39",
-    "buy_order_count": "835",
+    "buy_order_count": "837",
     "lowest_sell_order": "5.45",
     "highest_buy_order": "4.95",
-    "date_modified": 1760457538415
+    "date_modified": 1760501455692
   },
   {
     "hash_name": "Souvenir P250 | Gunsmoke (Field-Tested)",
     "item_nameid": 17664426,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszPdDFS6dKJmYWPnuL5ferXwzxQ7ZV10-uR9Nnwi1C2_0Q9MT2gcYaXJw9sY1DV-1Toxb--gJOi_MOeCvUEFwU",
-    "sell_order_count": "177",
-    "buy_order_count": "1,351",
+    "sell_order_count": "176",
+    "buy_order_count": "1,261",
     "lowest_sell_order": "1.95",
     "highest_buy_order": "1.87",
-    "date_modified": 1760457546540
+    "date_modified": 1760501463980
   },
   {
     "hash_name": "Souvenir P250 | Gunsmoke (Factory New)",
@@ -3105,9 +3105,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszPdDFS6dKJmImMn-O6MeuCk29XsMEk372W8Nyt2VCy-0A_NW_wcYSVdwM2MF7YqVXsw-rt1oj84sqOtTXCcQ",
     "sell_order_count": "4",
     "buy_order_count": "100",
-    "lowest_sell_order": "80.33",
+    "lowest_sell_order": "80.32",
     "highest_buy_order": "34.57",
-    "date_modified": 1760457554691
+    "date_modified": 1760501472117
   },
   {
     "hash_name": "Souvenir P250 | Gunsmoke (Battle-Scarred)",
@@ -3117,57 +3117,57 @@
     "buy_order_count": "1,702",
     "lowest_sell_order": "1.46",
     "highest_buy_order": "1.31",
-    "date_modified": 1760457562941
+    "date_modified": 1760501480271
   },
   {
     "hash_name": "Souvenir P250 | Facility Draft (Well-Worn)",
     "item_nameid": 176006338,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLbUkmJE5Ysl3b7H8dnwiVW2_xFkYjz6dtOWdgNsYAvV-QO8xb3shJK4vZzLnCZmpGB8spdJhC3b",
-    "sell_order_count": "304",
-    "buy_order_count": "2,267",
+    "sell_order_count": "299",
+    "buy_order_count": "2,872",
     "lowest_sell_order": "0.08",
     "highest_buy_order": "0.06",
-    "date_modified": 1760457571108
+    "date_modified": 1760501488401
   },
   {
     "hash_name": "Souvenir P250 | Facility Draft (Minimal Wear)",
     "item_nameid": 176006300,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLfYkWNFpsci3e2ZodqgigHnrkc6Mj2mdYWVe1c3MAqD_FHtw7y-hcfuu5rKznt9-n51gd_5itg",
-    "sell_order_count": "973",
-    "buy_order_count": "5,168",
+    "sell_order_count": "968",
+    "buy_order_count": "5,856",
     "lowest_sell_order": "0.07",
     "highest_buy_order": "0.06",
-    "date_modified": 1760457579239
+    "date_modified": 1760501496541
   },
   {
     "hash_name": "Souvenir P250 | Facility Draft (Field-Tested)",
     "item_nameid": 176006320,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLbUkmJE5Ysl3b7H8dnwiVW2_xFkYjz6dtOWdgNsYAvV-QO8xb3shJK4vZzLnCZmpGB8spdJhC3b",
-    "sell_order_count": "1,358",
-    "buy_order_count": "27,583",
+    "sell_order_count": "1,343",
+    "buy_order_count": "28,292",
     "lowest_sell_order": "0.05",
     "highest_buy_order": "0.04",
-    "date_modified": 1760457587434
+    "date_modified": 1760501504670
   },
   {
     "hash_name": "Souvenir P250 | Facility Draft (Factory New)",
     "item_nameid": 176006322,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLfYkWNFpsci3e2ZodqgigHnrkc6Mj2mdYWVe1c3MAqD_FHtw7y-hcfuu5rKznt9-n51gd_5itg",
-    "sell_order_count": "465",
-    "buy_order_count": "4,182",
+    "sell_order_count": "466",
+    "buy_order_count": "4,472",
     "lowest_sell_order": "0.18",
     "highest_buy_order": "0.17",
-    "date_modified": 1760457595606
+    "date_modified": 1760501512854
   },
   {
     "hash_name": "Souvenir P250 | Facility Draft (Battle-Scarred)",
     "item_nameid": 176006377,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLPUl31IppYk37_Do4isilW1qEs_MTuhdoaScVI5M1qB81W6xee90ZK66MvLwSN9-n51e890ZlA",
-    "sell_order_count": "104",
-    "buy_order_count": "931",
-    "lowest_sell_order": "0.31",
-    "highest_buy_order": "0.16",
-    "date_modified": 1760457603742
+    "sell_order_count": "105",
+    "buy_order_count": "1,531",
+    "lowest_sell_order": "0.26",
+    "highest_buy_order": "0.17",
+    "date_modified": 1760501521021
   },
   {
     "hash_name": "Souvenir P250 | Exchanger (Well-Worn)",
@@ -3177,37 +3177,37 @@
     "buy_order_count": "149",
     "lowest_sell_order": "1.81",
     "highest_buy_order": "1.12",
-    "date_modified": 1760457612064
+    "date_modified": 1760501529271
   },
   {
     "hash_name": "Souvenir P250 | Exchanger (Minimal Wear)",
     "item_nameid": 176006378,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMZD5W_-O0mJWOqPv9NLPF2DoIv5103rmWpIjw3gTj8xFkZm70JdLGJgZqYlzTrwLvyem60Z-6upXXiSw0_RMru_M",
-    "sell_order_count": "34",
+    "sell_order_count": "35",
     "buy_order_count": "2,492",
-    "lowest_sell_order": "0.85",
+    "lowest_sell_order": "0.72",
     "highest_buy_order": "0.62",
-    "date_modified": 1760457620195
+    "date_modified": 1760501537632
   },
   {
     "hash_name": "Souvenir P250 | Exchanger (Field-Tested)",
     "item_nameid": 176006349,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMZD5W_-O0mJWOqPrxN7LEmyUJ68Moj7-Trdqn3gS1-EZpZ2v7IIKRJABsaVzU-VbtwLi81MS76JjL1zI97TdJiYYc",
-    "sell_order_count": "165",
-    "buy_order_count": "3,485",
+    "sell_order_count": "164",
+    "buy_order_count": "3,480",
     "lowest_sell_order": "0.23",
     "highest_buy_order": "0.21",
-    "date_modified": 1760457628471
+    "date_modified": 1760501545800
   },
   {
     "hash_name": "Souvenir P250 | Exchanger (Factory New)",
     "item_nameid": 176006366,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMZD5W_-O0mJWOqPv9NLPF2DoIv5103rmWpIjw3gTj8xFkZm70JdLGJgZqYlzTrwLvyem60Z-6upXXiSw0_RMru_M",
     "sell_order_count": "44",
-    "buy_order_count": "1,471",
+    "buy_order_count": "1,472",
     "lowest_sell_order": "1.35",
     "highest_buy_order": "1.21",
-    "date_modified": 1760457636604
+    "date_modified": 1760501553941
   },
   {
     "hash_name": "Souvenir P250 | Exchanger (Battle-Scarred)",
@@ -3216,78 +3216,78 @@
     "sell_order_count": "9",
     "buy_order_count": "90",
     "lowest_sell_order": "10.17",
-    "highest_buy_order": "2.48",
-    "date_modified": 1760457644840
+    "highest_buy_order": "2.54",
+    "date_modified": 1760501562088
   },
   {
     "hash_name": "Souvenir P250 | Drought (Well-Worn)",
     "item_nameid": 176271274,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zMdC5H_siJh4uem_vnDL_QgWVu5cB1g_zMu9ul31Ds-ktpYGr0IIGXew49MFGF_QS_yL29jZe775TJmCQxuHQl4n3D30vg3Ckwd5A",
-    "sell_order_count": "2,549",
-    "buy_order_count": "5,060",
+    "sell_order_count": "2,503",
+    "buy_order_count": "5,185",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1760457652999
+    "date_modified": 1760501570344
   },
   {
     "hash_name": "Souvenir P250 | Drought (Minimal Wear)",
     "item_nameid": 176271176,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zMdC5H_siJh4uem_vnDL_QgWVu5Mx2gv2Ppd-k3Fe3rRVuYj2hcdCTegc-ZA3T-FS3xO7tgsS0tM6YwXdn7il37GGdwUIDj9q0ew",
-    "sell_order_count": "13,981",
+    "sell_order_count": "13,887",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760457661216
+    "date_modified": 1760501578510
   },
   {
     "hash_name": "Souvenir P250 | Drought (Field-Tested)",
     "item_nameid": 176271196,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zMdC5H_siJh4uem_vnDL_QgWVu5cB1g_zMu9ul31Ds-ktpYGr0IIGXew49MFGF_QS_yL29jZe775TJmCQxuHQl4n3D30vg3Ckwd5A",
-    "sell_order_count": "27,151",
+    "sell_order_count": "27,804",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1760457669465
+    "date_modified": 1760501586641
   },
   {
     "hash_name": "Souvenir P250 | Drought (Factory New)",
     "item_nameid": 176271204,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zMdC5H_siJh4uem_vnDL_QgWVu5Mx2gv2Ppd-k3Fe3rRVuYj2hcdCTegc-ZA3T-FS3xO7tgsS0tM6YwXdn7il37GGdwUIDj9q0ew",
-    "sell_order_count": "7,603",
-    "buy_order_count": "66,537",
+    "sell_order_count": "7,705",
+    "buy_order_count": "66,518",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1760457677745
+    "date_modified": 1760501594821
   },
   {
     "hash_name": "Souvenir P250 | Digital Architect (Well-Worn)",
     "item_nameid": 176271451,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh0szedC9W5du5k4WEqPnxPLXum25V4dB8xLyT9tTziwft_kNsa2j3d9Kdd1c8M12G81S6kufqgJ-9vJ6fn3Br6CU8pSGKXCJW4zA",
     "sell_order_count": "3",
-    "buy_order_count": "2,313",
-    "lowest_sell_order": "11.69",
-    "highest_buy_order": "9.33",
-    "date_modified": 1760457685896
+    "buy_order_count": "2,311",
+    "lowest_sell_order": "11.90",
+    "highest_buy_order": "9.39",
+    "date_modified": 1760501602975
   },
   {
     "hash_name": "Souvenir P250 | Digital Architect (Minimal Wear)",
     "item_nameid": 176271295,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh0szedC9W5du5k4WEqPnxPLXummJW4NE_ibiZoIigilGwqhBpMmHwJdTBJgI7M1jT8lS2x73s0ZDou5vKynQ27D5iuyg-pEj9vA",
-    "sell_order_count": "6",
+    "sell_order_count": "7",
     "buy_order_count": "2,240",
-    "lowest_sell_order": "15.13",
+    "lowest_sell_order": "14.69",
     "highest_buy_order": "11.91",
-    "date_modified": 1760457694030
+    "date_modified": 1760501611142
   },
   {
     "hash_name": "Souvenir P250 | Digital Architect (Field-Tested)",
     "item_nameid": 176271290,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh0szedC9W5du5k4WEqPnxPLXum25V4dB8xLyT9tTziwft_kNsa2j3d9Kdd1c8M12G81S6kufqgJ-9vJ6fn3Br6CU8pSGKXCJW4zA",
-    "sell_order_count": "10",
+    "sell_order_count": "9",
     "buy_order_count": "2,415",
-    "lowest_sell_order": "10.35",
-    "highest_buy_order": "9.92",
-    "date_modified": 1760457702153
+    "lowest_sell_order": "10.19",
+    "highest_buy_order": "10.13",
+    "date_modified": 1760501619384
   },
   {
     "hash_name": "Souvenir P250 | Digital Architect (Factory New)",
@@ -3295,9 +3295,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh0szedC9W5du5k4WEqPnxPLXummJW4NE_ibiZoIigilGwqhBpMmHwJdTBJgI7M1jT8lS2x73s0ZDou5vKynQ27D5iuyg-pEj9vA",
     "sell_order_count": "9",
     "buy_order_count": "2,211",
-    "lowest_sell_order": "22.81",
-    "highest_buy_order": "19.11",
-    "date_modified": 1760457710416
+    "lowest_sell_order": "22.73",
+    "highest_buy_order": "19.10",
+    "date_modified": 1760501627532
   },
   {
     "hash_name": "Souvenir P250 | Digital Architect (Battle-Scarred)",
@@ -3306,8 +3306,8 @@
     "sell_order_count": "8",
     "buy_order_count": "2,187",
     "lowest_sell_order": "21.63",
-    "highest_buy_order": "14.28",
-    "date_modified": 1760457718575
+    "highest_buy_order": "14.54",
+    "date_modified": 1760501635669
   },
   {
     "hash_name": "Souvenir P250 | Contamination (Well-Worn)",
@@ -3316,48 +3316,48 @@
     "sell_order_count": "25",
     "buy_order_count": "1,459",
     "lowest_sell_order": "3.50",
-    "highest_buy_order": "2.69",
-    "date_modified": 1760457726869
+    "highest_buy_order": "2.70",
+    "date_modified": 1760501643914
   },
   {
     "hash_name": "Souvenir P250 | Contamination (Minimal Wear)",
     "item_nameid": 17674125,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszGZD5O6d2kq5OAgvv4IO_uhjkEuPp9g-7J4cKs0FXh_kQ_ZG2hIoCRcAI_MgzQ_lS2x-fvh8S-vprPyiBiv3Yq433dgVXp1iQ45eAc",
-    "sell_order_count": "96",
-    "buy_order_count": "2,180",
-    "lowest_sell_order": "1.92",
-    "highest_buy_order": "1.63",
-    "date_modified": 1760457735052
+    "sell_order_count": "94",
+    "buy_order_count": "2,189",
+    "lowest_sell_order": "1.88",
+    "highest_buy_order": "1.65",
+    "date_modified": 1760501652061
   },
   {
     "hash_name": "Souvenir P250 | Contamination (Field-Tested)",
     "item_nameid": 17674116,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszGZD5O6d2kq5OAgvv4IO_uhjkEuPp8j-3I4IG7iQLjqEI5MW76ddDHclA5MwrS_Fa7wevv1pTuv5_NnHo1uiMq53_dygv330_MHkcZgQ",
-    "lowest_sell_order": "0.89",
-    "highest_buy_order": "0.77",
-    "date_modified": 1760457743226,
-    "sell_order_count": "204",
-    "buy_order_count": "2,404"
+    "lowest_sell_order": "0.88",
+    "highest_buy_order": "0.76",
+    "date_modified": 1760501660197,
+    "sell_order_count": "202",
+    "buy_order_count": "2,395"
   },
   {
     "hash_name": "Souvenir P250 | Contamination (Factory New)",
     "item_nameid": 17674160,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszGZD5O6d2kq5OAgvv4IO_uhjkEuPp9g-7J4cKs0FXh_kQ_ZG2hIoCRcAI_MgzQ_lS2x-fvh8S-vprPyiBiv3Yq433dgVXp1iQ45eAc",
-    "sell_order_count": "19",
-    "buy_order_count": "220",
+    "sell_order_count": "18",
+    "buy_order_count": "221",
     "lowest_sell_order": "11.50",
-    "highest_buy_order": "7.84",
-    "date_modified": 1760457751385
+    "highest_buy_order": "7.87",
+    "date_modified": 1760501668439
   },
   {
     "hash_name": "Souvenir P250 | Contamination (Battle-Scarred)",
     "item_nameid": 17674159,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszGZD5O6d2kq5OAgvv4IO_uhjkEuPp5j-jX7ML0jgbm_UA-MGn3JdPEJwM9Zg3Zr1XoxO_n0MC4vszLnCBr63Fw5indgVXp1jWhM-Op",
-    "sell_order_count": "73",
+    "sell_order_count": "74",
     "buy_order_count": "1,471",
-    "lowest_sell_order": "0.75",
+    "lowest_sell_order": "0.70",
     "highest_buy_order": "0.62",
-    "date_modified": 1760457759520
+    "date_modified": 1760501676586
   },
   {
     "hash_name": "Souvenir P250 | Constructivist (Minimal Wear)",
@@ -3365,39 +3365,39 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhiwebccDFL_8iJlZKIn_7gNrjFg3lU18l4jeHVu4mkiQTjqhFsYz30LNScdQE8Y12G-VnslO--05_qtM_LmnoxsyMq4yzD30vgObZ8Jeo",
     "lowest_sell_order": "0.07",
     "highest_buy_order": "0.05",
-    "date_modified": 1760457767669,
-    "sell_order_count": "960",
-    "buy_order_count": "17,757"
+    "date_modified": 1760501684835,
+    "sell_order_count": "952",
+    "buy_order_count": "17,821"
   },
   {
     "hash_name": "Souvenir P250 | Constructivist (Field-Tested)",
     "item_nameid": 176519483,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhiwebccDFL_8iJlZKIn_7gNrjFg3lU18h0juDU-MLw3le2_0I9ZD3xIY6ddwJvMAmE8lnrwufs1JC46s7AzHsxuSd34nmLgVXp1vyVV6w6",
-    "sell_order_count": "542",
-    "buy_order_count": "17,754",
+    "sell_order_count": "532",
+    "buy_order_count": "17,677",
     "lowest_sell_order": "0.06",
     "highest_buy_order": "0.05",
-    "date_modified": 1760457776007
+    "date_modified": 1760501693080
   },
   {
     "hash_name": "Souvenir P250 | Constructivist (Factory New)",
     "item_nameid": 176519462,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhiwebccDFL_8iJlZKIn_7gNrjFg3lU18l4jeHVu4mkiQTjqhFsYz30LNScdQE8Y12G-VnslO--05_qtM_LmnoxsyMq4yzD30vgObZ8Jeo",
     "sell_order_count": "206",
-    "buy_order_count": "8,787",
-    "lowest_sell_order": "0.20",
+    "buy_order_count": "8,784",
+    "lowest_sell_order": "0.17",
     "highest_buy_order": "0.15",
-    "date_modified": 1760457784166
+    "date_modified": 1760501701335
   },
   {
     "hash_name": "Souvenir P250 | Boreal Forest (Well-Worn)",
     "item_nameid": 2386492,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszOfi9H_8iJlo-Zkvb4DLbUkmJE5Yt307uY89r22QXs_0M_YGHzI4SXdQc4NQuC8gfvxrzt18Lt6cifnCRjpGB8ssSnt9jR",
-    "sell_order_count": "6",
+    "sell_order_count": "9",
     "buy_order_count": "381",
-    "lowest_sell_order": "60.54",
-    "highest_buy_order": "13.62",
-    "date_modified": 1760457792302
+    "lowest_sell_order": "60.53",
+    "highest_buy_order": "13.58",
+    "date_modified": 1760501709526
   },
   {
     "hash_name": "Souvenir P250 | Boreal Forest (Minimal Wear)",
@@ -3406,8 +3406,8 @@
     "sell_order_count": "9",
     "buy_order_count": "180",
     "lowest_sell_order": "21.19",
-    "highest_buy_order": "16.17",
-    "date_modified": 1760457800478
+    "highest_buy_order": "16.46",
+    "date_modified": 1760501717700
   },
   {
     "hash_name": "Souvenir P250 | Boreal Forest (Field-Tested)",
@@ -3416,8 +3416,8 @@
     "sell_order_count": "16",
     "buy_order_count": "230",
     "lowest_sell_order": "19.22",
-    "highest_buy_order": "13.40",
-    "date_modified": 1760457808635
+    "highest_buy_order": "13.65",
+    "date_modified": 1760501725879
   },
   {
     "hash_name": "Souvenir P250 | Boreal Forest (Battle-Scarred)",
@@ -3426,38 +3426,38 @@
     "sell_order_count": "9",
     "buy_order_count": "200",
     "lowest_sell_order": "29.82",
-    "highest_buy_order": "13.82",
-    "date_modified": 1760457816781
+    "highest_buy_order": "14.06",
+    "date_modified": 1760501734015
   },
   {
     "hash_name": "Souvenir P250 | Bone Mask (Well-Worn)",
     "item_nameid": 2387846,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09GzkImemrmlMerQlTlTusAg3u2Up93z3FHgr0Q_a270JICWJABsaQzR-wDswOfqm9bi60Nv7DbN",
-    "sell_order_count": "144",
-    "buy_order_count": "1,707",
+    "sell_order_count": "146",
+    "buy_order_count": "1,705",
     "lowest_sell_order": "0.52",
     "highest_buy_order": "0.38",
-    "date_modified": 1760457824907
+    "date_modified": 1760501742278
   },
   {
     "hash_name": "Souvenir P250 | Bone Mask (Minimal Wear)",
     "item_nameid": 2385445,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09C_k4if2aanYOiIwmkD6cQj2LCWod2l3gCx-UtuajvzLdSddgU4aV2E_FPskujxxcjresI3Rn8",
-    "sell_order_count": "179",
-    "buy_order_count": "2,230",
+    "sell_order_count": "177",
+    "buy_order_count": "2,229",
     "lowest_sell_order": "0.63",
-    "highest_buy_order": "0.58",
-    "date_modified": 1760457833182
+    "highest_buy_order": "0.59",
+    "date_modified": 1760501750616
   },
   {
     "hash_name": "Souvenir P250 | Bone Mask (Field-Tested)",
     "item_nameid": 2384450,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09GzkImemrmlMerQlTlTusAg3u2Up93z3FHgr0Q_a270JICWJABsaQzR-wDswOfqm9bi60Nv7DbN",
     "sell_order_count": "441",
-    "buy_order_count": "6,504",
+    "buy_order_count": "6,492",
     "lowest_sell_order": "0.35",
     "highest_buy_order": "0.34",
-    "date_modified": 1760457841308
+    "date_modified": 1760501758751
   },
   {
     "hash_name": "Souvenir P250 | Bone Mask (Factory New)",
@@ -3465,19 +3465,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09C_k4if2aanYOiIwmkD6cQj2LCWod2l3gCx-UtuajvzLdSddgU4aV2E_FPskujxxcjresI3Rn8",
     "sell_order_count": "6",
     "buy_order_count": "993",
-    "lowest_sell_order": "9.29",
+    "lowest_sell_order": "9.31",
     "highest_buy_order": "6.50",
-    "date_modified": 1760457849456
+    "date_modified": 1760501766992
   },
   {
     "hash_name": "Souvenir P250 | Bone Mask (Battle-Scarred)",
     "item_nameid": 2387840,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09SzlZaS2a-tY-qAxDlTvMR1i-zErd2iiQyx8hc_MWynJ9KWIwFsY1HY_la3ybzxxcjrbJFqRuA",
     "sell_order_count": "162",
-    "buy_order_count": "3,362",
+    "buy_order_count": "3,361",
     "lowest_sell_order": "0.38",
-    "highest_buy_order": "0.34",
-    "date_modified": 1760457857708
+    "highest_buy_order": "0.35",
+    "date_modified": 1760501775129
   },
   {
     "hash_name": "Souvenir P250 | Black & Tan (Well-Worn)",
@@ -3487,57 +3487,57 @@
     "buy_order_count": "4,276",
     "lowest_sell_order": "0.13",
     "highest_buy_order": "0.12",
-    "date_modified": 1760457865920
+    "date_modified": 1760501783262
   },
   {
     "hash_name": "Souvenir P250 | Black & Tan (Minimal Wear)",
     "item_nameid": 176271512,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMdC5H_siJmZWHg_73MrbummJW4NE_i76Wo96l3w3h8xY5Zm-mIofGelNqMgmD8lS3xLq90JLvvpzMz3MwuT5iuygYZwxqAg",
-    "sell_order_count": "177",
-    "buy_order_count": "5,577",
-    "lowest_sell_order": "0.10",
-    "highest_buy_order": "0.09",
-    "date_modified": 1760457874069
+    "sell_order_count": "159",
+    "buy_order_count": "5,578",
+    "lowest_sell_order": "0.12",
+    "highest_buy_order": "0.08",
+    "date_modified": 1760501791480
   },
   {
     "hash_name": "Souvenir P250 | Black & Tan (Field-Tested)",
     "item_nameid": 176271530,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMdC5H_siJmZWHg_73Mrbum25V4dB8xOjD842njVDl_xc_N2-hcYHAJwA4ZwzSqQW2lOy6hpa-tZSdwSdqvHE8pSGKszd1Hg0",
-    "sell_order_count": "663",
-    "buy_order_count": "12,551",
-    "lowest_sell_order": "0.07",
-    "highest_buy_order": "0.06",
-    "date_modified": 1760457882503
+    "sell_order_count": "667",
+    "buy_order_count": "12,414",
+    "lowest_sell_order": "0.06",
+    "highest_buy_order": "0.05",
+    "date_modified": 1760501799640
   },
   {
     "hash_name": "Souvenir P250 | Black & Tan (Factory New)",
     "item_nameid": 176271533,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMdC5H_siJmZWHg_73MrbummJW4NE_i76Wo96l3w3h8xY5Zm-mIofGelNqMgmD8lS3xLq90JLvvpzMz3MwuT5iuygYZwxqAg",
-    "sell_order_count": "80",
-    "buy_order_count": "5,304",
-    "lowest_sell_order": "0.36",
+    "sell_order_count": "89",
+    "buy_order_count": "5,302",
+    "lowest_sell_order": "0.32",
     "highest_buy_order": "0.29",
-    "date_modified": 1760457890633
+    "date_modified": 1760501807762
   },
   {
     "hash_name": "Souvenir P250 | Black & Tan (Battle-Scarred)",
     "item_nameid": 176271563,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMdC5H_siJmZWHg_73Mrbunm5Q_tw_37rHpt-t3lC2-0s-Nj_3IICUIVVsMwuG-gTsl7q-g5bt6M6ay3tgvD5iuyhareF8NA",
-    "sell_order_count": "119",
+    "sell_order_count": "118",
     "buy_order_count": "2,627",
     "lowest_sell_order": "0.17",
     "highest_buy_order": "0.12",
-    "date_modified": 1760457898780
+    "date_modified": 1760501816029
   },
   {
     "hash_name": "Souvenir P250 | Apep's Curse (Well-Worn)",
     "item_nameid": 176372901,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS092mkZC0mvLwOq7c2D4B7cF02bHD9tym2wPn80NuYz_zI4DHJwZoNV-C-le4xu-70Me76ZXXiSw0LFSmwBM",
     "sell_order_count": "3",
-    "buy_order_count": "3,513",
-    "lowest_sell_order": "28.71",
-    "highest_buy_order": "20.05",
-    "date_modified": 1760457907039
+    "buy_order_count": "3,512",
+    "lowest_sell_order": "28.54",
+    "highest_buy_order": "20.26",
+    "date_modified": 1760501824163
   },
   {
     "hash_name": "Souvenir P250 | Apep's Curse (Minimal Wear)",
@@ -3546,138 +3546,138 @@
     "sell_order_count": "6",
     "buy_order_count": "3,448",
     "lowest_sell_order": "45.00",
-    "highest_buy_order": "37.99",
-    "date_modified": 1760457915211
+    "highest_buy_order": "38.12",
+    "date_modified": 1760501832292
   },
   {
     "hash_name": "Souvenir P250 | Apep's Curse (Field-Tested)",
     "item_nameid": 176372938,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS092mkZC0mvLwOq7c2D4B7cF02bHD9tym2wPn80NuYz_zI4DHJwZoNV-C-le4xu-70Me76ZXXiSw0LFSmwBM",
     "sell_order_count": "6",
-    "buy_order_count": "3,512",
-    "lowest_sell_order": "26.51",
-    "highest_buy_order": "26.50",
-    "date_modified": 1760457923339
+    "buy_order_count": "3,510",
+    "lowest_sell_order": "28.37",
+    "highest_buy_order": "26.51",
+    "date_modified": 1760501840625
   },
   {
     "hash_name": "Souvenir P250 | Apep's Curse (Factory New)",
     "item_nameid": 176373449,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS092mkZC0m_7zO6-fxDhQv5Vz3uzD89uhjQOy_xE9Ym36Jo7DcAI6NV3Y-gXqyOzmh8S76IOJlyWLR_Rtsw",
     "sell_order_count": "1",
-    "buy_order_count": "3,287",
-    "lowest_sell_order": "243.26",
-    "highest_buy_order": "125.00",
-    "date_modified": 1760457931472
+    "buy_order_count": "3,288",
+    "lowest_sell_order": "243.31",
+    "highest_buy_order": "125.06",
+    "date_modified": 1760501848752
   },
   {
     "hash_name": "Souvenir P250 | Apep's Curse (Battle-Scarred)",
     "item_nameid": 176372951,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS092mkZC0n_L1JaKfxjNXuZIoieiRoo6k3g22r0FrNzuhJtSSIQc7YA6Fq1Lvxea7g5C17oOJlyWON_P4vA",
     "sell_order_count": "7",
-    "buy_order_count": "3,494",
-    "lowest_sell_order": "23.84",
-    "highest_buy_order": "20.36",
-    "date_modified": 1760457939640
+    "buy_order_count": "3,491",
+    "lowest_sell_order": "23.76",
+    "highest_buy_order": "20.73",
+    "date_modified": 1760501857017
   },
   {
     "hash_name": "Souvenir P2000 | Panther Camo (Well-Worn)",
     "item_nameid": 176271374,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJA4N21n7-blvngO77DqWZU7Mxkh6fAot-h0ADh-UFuZW6nI9CddAA7ZVHX8lnox7_ogpfvupScy3RlvnNw-z-DyLphJFbZ",
-    "sell_order_count": "51",
-    "buy_order_count": "11,427",
-    "lowest_sell_order": "0.31",
+    "sell_order_count": "50",
+    "buy_order_count": "11,428",
+    "lowest_sell_order": "0.29",
     "highest_buy_order": "0.28",
-    "date_modified": 1760457947791
+    "date_modified": 1760501865415
   },
   {
     "hash_name": "Souvenir P2000 | Panther Camo (Minimal Wear)",
     "item_nameid": 176271367,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJA4N21n7-blvngO77DqWdY781lxL2R942i3gHnqBdkYGj6I46ScVM-aV-F-FS4xbjr05LouJ3Byns2uSU8pSGKaNa1c7w",
-    "sell_order_count": "126",
-    "buy_order_count": "10,191",
-    "lowest_sell_order": "0.09",
+    "sell_order_count": "128",
+    "buy_order_count": "10,183",
+    "lowest_sell_order": "0.11",
     "highest_buy_order": "0.06",
-    "date_modified": 1760457956047
+    "date_modified": 1760501873581
   },
   {
     "hash_name": "Souvenir P2000 | Panther Camo (Field-Tested)",
     "item_nameid": 176271339,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJA4N21n7-blvngO77DqWZU7Mxkh6fAot-h0ADh-UFuZW6nI9CddAA7ZVHX8lnox7_ogpfvupScy3RlvnNw-z-DyLphJFbZ",
-    "sell_order_count": "738",
-    "buy_order_count": "16,558",
-    "lowest_sell_order": "0.06",
+    "sell_order_count": "730",
+    "buy_order_count": "16,537",
+    "lowest_sell_order": "0.07",
     "highest_buy_order": "0.05",
-    "date_modified": 1760457964336
+    "date_modified": 1760501881711
   },
   {
     "hash_name": "Souvenir P2000 | Panther Camo (Factory New)",
     "item_nameid": 176271371,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJA4N21n7-blvngO77DqWdY781lxL2R942i3gHnqBdkYGj6I46ScVM-aV-F-FS4xbjr05LouJ3Byns2uSU8pSGKaNa1c7w",
-    "sell_order_count": "154",
-    "buy_order_count": "5,493",
-    "lowest_sell_order": "0.31",
-    "highest_buy_order": "0.30",
-    "date_modified": 1760457972626
+    "sell_order_count": "156",
+    "buy_order_count": "5,482",
+    "lowest_sell_order": "0.29",
+    "highest_buy_order": "0.27",
+    "date_modified": 1760501889876
   },
   {
     "hash_name": "Souvenir P2000 | Panther Camo (Battle-Scarred)",
     "item_nameid": 176271398,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJA4N21n7-blvngO77DqWNU6dNoxOjHoN-kjVKy-BY6Zmr6cI7HdAI8NQ3V8lPvyOq6h5ft6ZifmCZhvHY8pSGKOC-wG4c",
-    "sell_order_count": "52",
+    "sell_order_count": "53",
     "buy_order_count": "6,063",
-    "lowest_sell_order": "0.94",
+    "lowest_sell_order": "0.48",
     "highest_buy_order": "0.13",
-    "date_modified": 1760457980866
+    "date_modified": 1760501898134
   },
   {
     "hash_name": "Souvenir P2000 | Grassland (Well-Worn)",
     "item_nameid": 17725000,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zbfgJF_t2lh4yKmfPLPr7Vn35cppQiie2Qoomm2gfn-0U-NjjwI4WXdQVsYF-G-Fa_k-frhMe-u57InXt9-n51HHcZ8HE",
-    "sell_order_count": "105",
-    "buy_order_count": "9,837",
+    "sell_order_count": "104",
+    "buy_order_count": "9,839",
     "lowest_sell_order": "0.13",
     "highest_buy_order": "0.11",
-    "date_modified": 1760457989101
+    "date_modified": 1760501906284
   },
   {
     "hash_name": "Souvenir P2000 | Grassland (Minimal Wear)",
     "item_nameid": 17680897,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zbfgJF_t2lh4yKmfPLP7LWnn8fv5wkjO2QpYr2jgTlrhBrZWDzddDDIVQ_Zw2FrwW-yO7v1pK-7prKwWwj5HffZ0cpZA",
-    "sell_order_count": "162",
-    "buy_order_count": "4,438",
+    "sell_order_count": "159",
+    "buy_order_count": "4,436",
     "lowest_sell_order": "0.50",
-    "highest_buy_order": "0.48",
-    "date_modified": 1760457997253
+    "highest_buy_order": "0.49",
+    "date_modified": 1760501914436
   },
   {
     "hash_name": "Souvenir P2000 | Grassland (Field-Tested)",
     "item_nameid": 17680899,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zbfgJF_t2lh4yKmfPLPr7Vn35cppQiie2Qoomm2gfn-0U-NjjwI4WXdQVsYF-G-Fa_k-frhMe-u57InXt9-n51HHcZ8HE",
-    "sell_order_count": "659",
-    "buy_order_count": "15,600",
-    "lowest_sell_order": "0.10",
+    "sell_order_count": "654",
+    "buy_order_count": "15,592",
+    "lowest_sell_order": "0.09",
     "highest_buy_order": "0.08",
-    "date_modified": 1760458005415
+    "date_modified": 1760501922582
   },
   {
     "hash_name": "Souvenir P2000 | Grassland (Factory New)",
     "item_nameid": 26385721,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zbfgJF_t2lh4yKmfPLP7LWnn8fv5wkjO2QpYr2jgTlrhBrZWDzddDDIVQ_Zw2FrwW-yO7v1pK-7prKwWwj5HffZ0cpZA",
-    "sell_order_count": "5",
+    "sell_order_count": "4",
     "buy_order_count": "335",
     "lowest_sell_order": "8.60",
-    "highest_buy_order": "5.99",
-    "date_modified": 1760458013554
+    "highest_buy_order": "6.01",
+    "date_modified": 1760501930723
   },
   {
     "hash_name": "Souvenir P2000 | Grassland (Battle-Scarred)",
     "item_nameid": 17680855,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zbfgJF_t2lh4yKmfPLO77QgHIfvpAgi-iVo9-l2wHgr0ZqMjz2cILBcAU-YFrU_VO-k73o08C9uZiYyWwj5HcOHaRDFw",
-    "sell_order_count": "229",
-    "buy_order_count": "14,601",
+    "sell_order_count": "228",
+    "buy_order_count": "14,599",
     "lowest_sell_order": "0.09",
     "highest_buy_order": "0.08",
-    "date_modified": 1760458021702
+    "date_modified": 1760501938993
   },
   {
     "hash_name": "Souvenir P2000 | Granite Marbleized (Well-Worn)",
@@ -3685,9 +3685,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPrxN7LEmyVT6cYk2-zHrY-n2Qax8kZlNzvzJYeXIwZrZF_R_gS3xOnrg5TuvZuc1zI97XdynyxV",
     "sell_order_count": "1",
     "buy_order_count": "98",
-    "lowest_sell_order": "108.12",
-    "highest_buy_order": "30.05",
-    "date_modified": 1760458029869
+    "lowest_sell_order": "108.14",
+    "highest_buy_order": "29.96",
+    "date_modified": 1760501947270
   },
   {
     "hash_name": "Souvenir P2000 | Granite Marbleized (Minimal Wear)",
@@ -3695,9 +3695,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPv9NLPF2DtTusEk2-yX8dih2AOy8xJtZm-iIdSQJAFqNwuE_QS5yLu5hpLuvs7XiSw0800sPEQ",
     "sell_order_count": "3",
     "buy_order_count": "86",
-    "lowest_sell_order": "95.72",
-    "highest_buy_order": "36.71",
-    "date_modified": 1760458038000
+    "lowest_sell_order": "97.42",
+    "highest_buy_order": "36.74",
+    "date_modified": 1760501955462
   },
   {
     "hash_name": "Souvenir P2000 | Granite Marbleized (Field-Tested)",
@@ -3705,9 +3705,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPrxN7LEmyVT6cYk2-zHrY-n2Qax8kZlNzvzJYeXIwZrZF_R_gS3xOnrg5TuvZuc1zI97XdynyxV",
     "sell_order_count": "4",
     "buy_order_count": "126",
-    "lowest_sell_order": "62.65",
-    "highest_buy_order": "52.59",
-    "date_modified": 1760458046287
+    "lowest_sell_order": "62.64",
+    "highest_buy_order": "53.52",
+    "date_modified": 1760501963698
   },
   {
     "hash_name": "Souvenir P2000 | Granite Marbleized (Battle-Scarred)",
@@ -3715,69 +3715,69 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqP_xMq3I2D8D6pBzj7vA8I-si1Dl8kRkNmjwdtPGdwY2YgrR_1a7l-6-0ZO46ZzXiSw0AB73IyA",
     "sell_order_count": "3",
     "buy_order_count": "83",
-    "lowest_sell_order": "77.83",
+    "lowest_sell_order": "77.82",
     "highest_buy_order": "20.48",
-    "date_modified": 1760458054457
+    "date_modified": 1760501971900
   },
   {
     "hash_name": "Souvenir P2000 | Chainmail (Minimal Wear)",
     "item_nameid": 17688115,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJB5N2_mo2KnvvLP7LWnn8fsZUiibHFo4n3iVHmqBFlMTqlIo_AcVVsYQnTq1PsyOjsjMe77s_PzGwj5Hc82z0nmw",
-    "sell_order_count": "31",
-    "buy_order_count": "607",
-    "lowest_sell_order": "8.56",
-    "highest_buy_order": "8.48",
-    "date_modified": 1760458062594
+    "sell_order_count": "30",
+    "buy_order_count": "609",
+    "lowest_sell_order": "8.70",
+    "highest_buy_order": "8.53",
+    "date_modified": 1760501980027
   },
   {
     "hash_name": "Souvenir P2000 | Chainmail (Field-Tested)",
     "item_nameid": 17697891,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJB5N2_mo2KnvvLPr7Vn35cppck3rqZ9o73iQy3rkNpajqhdYOccQE4YFrX_QO4wbi5hpLvvsnBnHB9-n51RPMEETw",
     "sell_order_count": "12",
-    "buy_order_count": "191",
+    "buy_order_count": "192",
     "lowest_sell_order": "9.36",
-    "highest_buy_order": "7.86",
-    "date_modified": 1760458070761
+    "highest_buy_order": "8.05",
+    "date_modified": 1760501988259
   },
   {
     "hash_name": "Souvenir P2000 | Chainmail (Factory New)",
     "item_nameid": 17680878,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJB5N2_mo2KnvvLP7LWnn8fsZUiibHFo4n3iVHmqBFlMTqlIo_AcVVsYQnTq1PsyOjsjMe77s_PzGwj5Hc82z0nmw",
-    "sell_order_count": "25",
+    "sell_order_count": "27",
     "buy_order_count": "428",
-    "lowest_sell_order": "12.00",
-    "highest_buy_order": "9.63",
-    "date_modified": 1760458079033
+    "lowest_sell_order": "11.99",
+    "highest_buy_order": "9.69",
+    "date_modified": 1760501996397
   },
   {
     "hash_name": "Souvenir P2000 | Amber Fade (Well-Worn)",
     "item_nameid": 7742871,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJcAJE7dizq42Og_b4P7LSqWZU7Mxkh6eVpI7w3lDm-RU5ZDv2IY7DcwY7aVHR81TsxervjJDqu8vAmHFqvyYh-z-DyJSu7Zhz",
-    "sell_order_count": "1",
+    "sell_order_count": 0,
     "buy_order_count": "111",
-    "lowest_sell_order": "53.18",
-    "highest_buy_order": "28.44",
-    "date_modified": 1760458087215
+    "lowest_sell_order": "0.00",
+    "highest_buy_order": "28.67",
+    "date_modified": 1760502004653
   },
   {
     "hash_name": "Souvenir P2000 | Amber Fade (Minimal Wear)",
     "item_nameid": 2391426,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJcAJE7dizq42Og_b4P7LSqWdY781lxOjHrI-ligHj-UttMmGhIYKWIVA9M1-C-1C_yO--jce6tZvJmiNg6yI8pSGKfASXan4",
-    "sell_order_count": "17",
+    "sell_order_count": "18",
     "buy_order_count": "158",
     "lowest_sell_order": "24.00",
     "highest_buy_order": "16.64",
-    "date_modified": 1760458095365
+    "date_modified": 1760502012792
   },
   {
     "hash_name": "Souvenir P2000 | Amber Fade (Field-Tested)",
     "item_nameid": 2402986,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJcAJE7dizq42Og_b4P7LSqWZU7Mxkh6eVpI7w3lDm-RU5ZDv2IY7DcwY7aVHR81TsxervjJDqu8vAmHFqvyYh-z-DyJSu7Zhz",
     "sell_order_count": "18",
-    "buy_order_count": "186",
-    "lowest_sell_order": "19.57",
-    "highest_buy_order": "17.71",
-    "date_modified": 1760458103513
+    "buy_order_count": "183",
+    "lowest_sell_order": "19.50",
+    "highest_buy_order": "16.71",
+    "date_modified": 1760502021100
   },
   {
     "hash_name": "Souvenir P2000 | Amber Fade (Factory New)",
@@ -3785,39 +3785,39 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJcAJE7dizq42Og_b4P7LSqWdY781lxOjHrI-ligHj-UttMmGhIYKWIVA9M1-C-1C_yO--jce6tZvJmiNg6yI8pSGKfASXan4",
     "sell_order_count": "12",
     "buy_order_count": "131",
-    "lowest_sell_order": "33.71",
-    "highest_buy_order": "30.09",
-    "date_modified": 1760458111682
+    "lowest_sell_order": "33.69",
+    "highest_buy_order": "30.54",
+    "date_modified": 1760502029288
   },
   {
     "hash_name": "Souvenir Nova | Walnut (Well-Worn)",
     "item_nameid": 17664430,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj5Nr_Yg2YfvJck3LHFptjz3QHj_UM9ZmGid9DHJFJoN1mF81K-xOvu1sLq7siczGwj5HepTZ1lmQ",
-    "sell_order_count": "89",
+    "sell_order_count": "90",
     "buy_order_count": "454",
-    "lowest_sell_order": "1.00",
+    "lowest_sell_order": "0.99",
     "highest_buy_order": "0.57",
-    "date_modified": 1760458119829
+    "date_modified": 1760502037662
   },
   {
     "hash_name": "Souvenir Nova | Walnut (Minimal Wear)",
     "item_nameid": 17661987,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj4OrzZgiVQsMYj2bmZrI330Qy2-0Y_ajzwI4Kcdw9qMl2GqwW6kOq71p-4vZXA1zI97X73VbtW",
-    "sell_order_count": "159",
+    "sell_order_count": "157",
     "buy_order_count": "977",
     "lowest_sell_order": "1.50",
     "highest_buy_order": "1.29",
-    "date_modified": 1760458127970
+    "date_modified": 1760502045997
   },
   {
     "hash_name": "Souvenir Nova | Walnut (Field-Tested)",
     "item_nameid": 17661986,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj5Nr_Yg2YfvJck3LHFptjz3QHj_UM9ZmGid9DHJFJoN1mF81K-xOvu1sLq7siczGwj5HepTZ1lmQ",
-    "sell_order_count": "552",
+    "sell_order_count": "553",
     "buy_order_count": "2,040",
     "lowest_sell_order": "0.55",
     "highest_buy_order": "0.51",
-    "date_modified": 1760458136123
+    "date_modified": 1760502054199
   },
   {
     "hash_name": "Souvenir Nova | Walnut (Factory New)",
@@ -3827,37 +3827,37 @@
     "buy_order_count": "88",
     "lowest_sell_order": "15.00",
     "highest_buy_order": "12.09",
-    "date_modified": 1760458144264
+    "date_modified": 1760502062481
   },
   {
     "hash_name": "Souvenir Nova | Walnut (Battle-Scarred)",
     "item_nameid": 17661990,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj8NrrHjyVV68Mm3LyX9oin2lDlqBE9NzyiIdWTIAc_M1nUqFLtwe251p7v78id1zI97UJfQQ2A",
-    "sell_order_count": "168",
+    "sell_order_count": "164",
     "buy_order_count": "371",
     "lowest_sell_order": "0.53",
     "highest_buy_order": "0.46",
-    "date_modified": 1760458152513
+    "date_modified": 1760502070678
   },
   {
     "hash_name": "Souvenir Nova | Sobek's Bite (Well-Worn)",
     "item_nameid": 176372903,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhnwMzGfitD08-5loWAqPrxN7LEmyVQ7sYjjuuWrI332wTj-hc_YD_0IILHIQA4ZwmD_wfvkLy-1pO_tM6b1zI97R2tOv0A",
-    "sell_order_count": "16",
-    "buy_order_count": "3,779",
+    "sell_order_count": "14",
+    "buy_order_count": "3,781",
     "lowest_sell_order": "3.06",
-    "highest_buy_order": "2.58",
-    "date_modified": 1760458160677
+    "highest_buy_order": "2.62",
+    "date_modified": 1760502078936
   },
   {
     "hash_name": "Souvenir Nova | Sobek's Bite (Minimal Wear)",
     "item_nameid": 176372856,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhnwMzGfitD08-5loWAqPv9NLPF2D0F7ZFz37zHoNn3i1XgrRBkZDigJNWXewZtZlzZ_VS7wea71pXu75rXiSw0iqudPXk",
-    "sell_order_count": "7",
-    "buy_order_count": "3,751",
-    "lowest_sell_order": "9.94",
-    "highest_buy_order": "5.45",
-    "date_modified": 1760458168812
+    "sell_order_count": "3",
+    "buy_order_count": "3,752",
+    "lowest_sell_order": "9.80",
+    "highest_buy_order": "5.72",
+    "date_modified": 1760502087273
   },
   {
     "hash_name": "Souvenir Nova | Sobek's Bite (Field-Tested)",
@@ -3865,9 +3865,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhnwMzGfitD08-5loWAqPrxN7LEmyVQ7sYjjuuWrI332wTj-hc_YD_0IILHIQA4ZwmD_wfvkLy-1pO_tM6b1zI97R2tOv0A",
     "sell_order_count": "14",
     "buy_order_count": "4,091",
-    "lowest_sell_order": "4.67",
+    "lowest_sell_order": "4.65",
     "highest_buy_order": "3.10",
-    "date_modified": 1760458176960
+    "date_modified": 1760502095516
   },
   {
     "hash_name": "Souvenir Nova | Sobek's Bite (Factory New)",
@@ -3875,19 +3875,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhnwMzGfitD08-5loWAqPv9NLPF2D0F7ZFz37zHoNn3i1XgrRBkZDigJNWXewZtZlzZ_VS7wea71pXu75rXiSw0iqudPXk",
     "sell_order_count": "5",
     "buy_order_count": "4,432",
-    "lowest_sell_order": "35.81",
-    "highest_buy_order": "29.24",
-    "date_modified": 1760458185113
+    "lowest_sell_order": "35.80",
+    "highest_buy_order": "29.75",
+    "date_modified": 1760502103742
   },
   {
     "hash_name": "Souvenir Nova | Sobek's Bite (Battle-Scarred)",
     "item_nameid": 176372920,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhnwMzGfitD08-5loWAqP_xMq3I2DhU7cd13O-Vp4n3i1Lg-RdrNj_1J9KUcFc9M1qD81O5yb3rhse6upnXiSw0KztvbAY",
-    "sell_order_count": "11",
-    "buy_order_count": "3,865",
-    "lowest_sell_order": "3.35",
-    "highest_buy_order": "2.30",
-    "date_modified": 1760458193244
+    "sell_order_count": "9",
+    "buy_order_count": "3,895",
+    "lowest_sell_order": "3.37",
+    "highest_buy_order": "2.31",
+    "date_modified": 1760502111887
   },
   {
     "hash_name": "Souvenir Nova | Sand Dune (Well-Worn)",
@@ -3897,7 +3897,7 @@
     "buy_order_count": "73",
     "lowest_sell_order": "22.05",
     "highest_buy_order": "14.56",
-    "date_modified": 1760458201601
+    "date_modified": 1760502120137
   },
   {
     "hash_name": "Souvenir Nova | Sand Dune (Minimal Wear)",
@@ -3906,8 +3906,8 @@
     "sell_order_count": "6",
     "buy_order_count": "98",
     "lowest_sell_order": "41.47",
-    "highest_buy_order": "12.02",
-    "date_modified": 1760458209751
+    "highest_buy_order": "12.15",
+    "date_modified": 1760502128380
   },
   {
     "hash_name": "Souvenir Nova | Sand Dune (Field-Tested)",
@@ -3915,9 +3915,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzbcDNG09GzkImemrnxNumHxjgB7ZFwjLCX9t-l2Q3srxE5Y2qlcYLDIVA5M1yB-FXtxbrmm9bi6wCpJN0_",
     "sell_order_count": "17",
     "buy_order_count": "185",
-    "lowest_sell_order": "12.12",
-    "highest_buy_order": "7.32",
-    "date_modified": 1760458217888
+    "lowest_sell_order": "12.11",
+    "highest_buy_order": "7.36",
+    "date_modified": 1760502136586
   },
   {
     "hash_name": "Souvenir Nova | Sand Dune (Battle-Scarred)",
@@ -3927,117 +3927,117 @@
     "buy_order_count": "46",
     "lowest_sell_order": "15.35",
     "highest_buy_order": "9.37",
-    "date_modified": 1760458226043
+    "date_modified": 1760502144742
   },
   {
     "hash_name": "Souvenir Nova | Rain Station (Minimal Wear)",
     "item_nameid": 176519471,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjh0wfLBfwJR5N2mkZO0x6bLP7LWnn8f68Ek3-uS8Nrw3gHi8hU-amj3J4KRJFJvZQrTr1Lrk-rshJHv6J6by2wj5Hc6Qt_r0w",
-    "sell_order_count": "606",
-    "buy_order_count": "11,002",
+    "sell_order_count": "573",
+    "buy_order_count": "11,008",
     "lowest_sell_order": "0.07",
     "highest_buy_order": "0.06",
-    "date_modified": 1760458234198
+    "date_modified": 1760502152945
   },
   {
     "hash_name": "Souvenir Nova | Rain Station (Field-Tested)",
     "item_nameid": 176519472,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjh0wfLBfwJR5N2mkZO0x6bLPr7Vn35cppIoi76Xoo2l0VbirxI5ZTuid4aQcFA5Mg3Sr1DowbztgcC8up3BzHR9-n51mjJqIW4",
-    "sell_order_count": "556",
-    "buy_order_count": "11,507",
+    "sell_order_count": "550",
+    "buy_order_count": "11,521",
     "lowest_sell_order": "0.07",
     "highest_buy_order": "0.06",
-    "date_modified": 1760458242465
+    "date_modified": 1760502161182
   },
   {
     "hash_name": "Souvenir Nova | Rain Station (Factory New)",
     "item_nameid": 176519469,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjh0wfLBfwJR5N2mkZO0x6bLP7LWnn8f68Ek3-uS8Nrw3gHi8hU-amj3J4KRJFJvZQrTr1Lrk-rshJHv6J6by2wj5Hc6Qt_r0w",
-    "sell_order_count": "123",
-    "buy_order_count": "7,464",
-    "lowest_sell_order": "0.15",
+    "sell_order_count": "121",
+    "buy_order_count": "7,483",
+    "lowest_sell_order": "0.17",
     "highest_buy_order": "0.11",
-    "date_modified": 1760458250607
+    "date_modified": 1760502169395
   },
   {
     "hash_name": "Souvenir Nova | Quick Sand (Well-Worn)",
     "item_nameid": 176271523,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszcfi9M09-3mY-0h_b9Pa_CqWZU7Mxkh6eXpYqs3VHn8kJoZWj2do6QegI_ZAzV-Qe-wu3n0J7o787BwXpq7CUl-z-DyOsYhgYa",
-    "sell_order_count": "98",
+    "sell_order_count": "97",
     "buy_order_count": "2,900",
-    "lowest_sell_order": "0.13",
+    "lowest_sell_order": "0.14",
     "highest_buy_order": "0.09",
-    "date_modified": 1760458258861
+    "date_modified": 1760502177545
   },
   {
     "hash_name": "Souvenir Nova | Quick Sand (Minimal Wear)",
     "item_nameid": 176271519,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszcfi9M09-3mY-0h_b9Pa_CqWdY781lxL6Y9tSl3FDkqEM5Zmn1ctWXJFRsM1HQ_1S3yOm8gZLq6s7Mn3o3uiI8pSGKUzc46v4",
-    "sell_order_count": "152",
-    "buy_order_count": "3,406",
-    "lowest_sell_order": "0.14",
-    "highest_buy_order": "0.13",
-    "date_modified": 1760458267130
+    "sell_order_count": "150",
+    "buy_order_count": "3,363",
+    "lowest_sell_order": "0.15",
+    "highest_buy_order": "0.11",
+    "date_modified": 1760502185861
   },
   {
     "hash_name": "Souvenir Nova | Quick Sand (Field-Tested)",
     "item_nameid": 176271482,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszcfi9M09-3mY-0h_b9Pa_CqWZU7Mxkh6eXpYqs3VHn8kJoZWj2do6QegI_ZAzV-Qe-wu3n0J7o787BwXpq7CUl-z-DyOsYhgYa",
-    "sell_order_count": "494",
-    "buy_order_count": "8,313",
+    "sell_order_count": "492",
+    "buy_order_count": "8,316",
     "lowest_sell_order": "0.07",
     "highest_buy_order": "0.06",
-    "date_modified": 1760458275271
+    "date_modified": 1760502194029
   },
   {
     "hash_name": "Souvenir Nova | Quick Sand (Factory New)",
     "item_nameid": 176271528,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszcfi9M09-3mY-0h_b9Pa_CqWdY781lxL6Y9tSl3FDkqEM5Zmn1ctWXJFRsM1HQ_1S3yOm8gZLq6s7Mn3o3uiI8pSGKUzc46v4",
     "sell_order_count": "97",
-    "buy_order_count": "2,795",
+    "buy_order_count": "2,803",
     "lowest_sell_order": "0.37",
-    "highest_buy_order": "0.25",
-    "date_modified": 1760458283398
+    "highest_buy_order": "0.26",
+    "date_modified": 1760502202235
   },
   {
     "hash_name": "Souvenir Nova | Quick Sand (Battle-Scarred)",
     "item_nameid": 176271565,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszcfi9M09-3mY-0h_b9Pa_CqWNU6dNoxLvDpoj0ilG1-0FqMGinIIaQJ1NrYw7RrgLvw-6-gMe9usiYyXMwvnU8pSGKMuyp23E",
-    "sell_order_count": "104",
-    "buy_order_count": "2,770",
+    "sell_order_count": "102",
+    "buy_order_count": "2,769",
     "lowest_sell_order": "0.13",
     "highest_buy_order": "0.12",
-    "date_modified": 1760458291532
+    "date_modified": 1760502210394
   },
   {
     "hash_name": "Souvenir Nova | Predator (Well-Worn)",
     "item_nameid": 2388385,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-GkvP9JraflDhXvMdw27jFp4_32FLl-UpkNmj0LNKWcQI4NA3Wq1TvkL_p15K0uIOJlyUBLttwMQ",
     "sell_order_count": "26",
-    "buy_order_count": "573",
+    "buy_order_count": "572",
     "lowest_sell_order": "0.63",
-    "highest_buy_order": "0.28",
-    "date_modified": 1760458299703
+    "highest_buy_order": "0.29",
+    "date_modified": 1760502218702
   },
   {
     "hash_name": "Souvenir Nova | Predator (Minimal Wear)",
     "item_nameid": 2386991,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-HnvD8J_WBwzNV6pck273D9Nykigy2qEJlZT_wcoKRd1BrMg2DrlHsw73o1pG-ot2XnlWK9eWp",
-    "sell_order_count": "73",
+    "sell_order_count": "71",
     "buy_order_count": "584",
-    "lowest_sell_order": "0.43",
+    "lowest_sell_order": "0.47",
     "highest_buy_order": "0.31",
-    "date_modified": 1760458307824
+    "date_modified": 1760502226856
   },
   {
     "hash_name": "Souvenir Nova | Predator (Field-Tested)",
     "item_nameid": 2384123,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-GkvP9JraflDhXvMdw27jFp4_32FLl-UpkNmj0LNKWcQI4NA3Wq1TvkL_p15K0uIOJlyUBLttwMQ",
-    "sell_order_count": "377",
+    "sell_order_count": "374",
     "buy_order_count": "5,249",
-    "lowest_sell_order": "0.15",
+    "lowest_sell_order": "0.14",
     "highest_buy_order": "0.13",
-    "date_modified": 1760458316100
+    "date_modified": 1760502235244
   },
   {
     "hash_name": "Souvenir Nova | Predator (Factory New)",
@@ -4045,9 +4045,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-HnvD8J_WBwzNV6pck273D9Nykigy2qEJlZT_wcoKRd1BrMg2DrlHsw73o1pG-ot2XnlWK9eWp",
     "sell_order_count": "11",
     "buy_order_count": "145",
-    "lowest_sell_order": "11.20",
-    "highest_buy_order": "7.21",
-    "date_modified": 1760458324260
+    "lowest_sell_order": "10.98",
+    "highest_buy_order": "7.36",
+    "date_modified": 1760502243495
   },
   {
     "hash_name": "Souvenir Nova | Predator (Battle-Scarred)",
@@ -4057,7 +4057,7 @@
     "buy_order_count": "1,288",
     "lowest_sell_order": "0.18",
     "highest_buy_order": "0.16",
-    "date_modified": 1760458332405
+    "date_modified": 1760502251691
   },
   {
     "hash_name": "Souvenir Nova | Polar Mesh (Well-Worn)",
@@ -4067,27 +4067,27 @@
     "buy_order_count": "572",
     "lowest_sell_order": "0.36",
     "highest_buy_order": "0.26",
-    "date_modified": 1760458340676
+    "date_modified": 1760502259885
   },
   {
     "hash_name": "Souvenir Nova | Polar Mesh (Minimal Wear)",
     "item_nameid": 2384601,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zFdC5K092kl5SClMj3PLXFhGpC_Pp9g-7J4cL0jgG2-0NrZTv3dtWUJFQ9MFiBrwe5wLi8hZPo6ZrOmnE1vHQqtnvegVXp1ove-1eM",
-    "sell_order_count": "67",
+    "sell_order_count": "68",
     "buy_order_count": "578",
     "lowest_sell_order": "0.51",
-    "highest_buy_order": "0.50",
-    "date_modified": 1760458348830
+    "highest_buy_order": "0.49",
+    "date_modified": 1760502268074
   },
   {
     "hash_name": "Souvenir Nova | Polar Mesh (Field-Tested)",
     "item_nameid": 2384501,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zFdC5K092kl5SClMj3PLXFhGpC_Pp8j-3I4IG70VGyrkNuZ2H1cYCUdFBsY1rS81C5wOu8jMK1tJmcwXZnv3EhtnvanQv330-rScVwsw",
-    "sell_order_count": "380",
-    "buy_order_count": "2,510",
+    "sell_order_count": "381",
+    "buy_order_count": "2,465",
     "lowest_sell_order": "0.21",
-    "highest_buy_order": "0.20",
-    "date_modified": 1760458356957
+    "highest_buy_order": "0.16",
+    "date_modified": 1760502276231
   },
   {
     "hash_name": "Souvenir Nova | Polar Mesh (Factory New)",
@@ -4095,9 +4095,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zFdC5K092kl5SClMj3PLXFhGpC_Pp9g-7J4cL0jgG2-0NrZTv3dtWUJFQ9MFiBrwe5wLi8hZPo6ZrOmnE1vHQqtnvegVXp1ove-1eM",
     "sell_order_count": "13",
     "buy_order_count": "118",
-    "lowest_sell_order": "11.44",
-    "highest_buy_order": "6.92",
-    "date_modified": 1760458365107
+    "lowest_sell_order": "11.35",
+    "highest_buy_order": "7.02",
+    "date_modified": 1760502284533
   },
   {
     "hash_name": "Souvenir Nova | Polar Mesh (Battle-Scarred)",
@@ -4107,47 +4107,47 @@
     "buy_order_count": "991",
     "lowest_sell_order": "0.19",
     "highest_buy_order": "0.17",
-    "date_modified": 1760458373248
+    "date_modified": 1760502292668
   },
   {
     "hash_name": "Souvenir Nova | Mandrel (Well-Worn)",
     "item_nameid": 176006318,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszMZD5W_-OxhoWSqPrxN7LEmyUE6Z1137nEpN_wjgCwrkdramryJ4TEJFU6NVnT-Vjvleu7jMK4tcib1zI97aB3eEij",
-    "sell_order_count": "197",
-    "buy_order_count": "2,391",
+    "sell_order_count": "196",
+    "buy_order_count": "2,396",
     "lowest_sell_order": "0.07",
     "highest_buy_order": "0.06",
-    "date_modified": 1760458381383
+    "date_modified": 1760502300870
   },
   {
     "hash_name": "Souvenir Nova | Mandrel (Minimal Wear)",
     "item_nameid": 176006309,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszMZD5W_-OxhoWSqPv9NLPF2G8IsZ13ibiXpNSn0QTtqRJsMW73IISRdFM4YV7R8lC-wrvn0Z7p6ZXXiSw0dblmpDA",
-    "sell_order_count": "479",
-    "buy_order_count": "11,640",
+    "sell_order_count": "474",
+    "buy_order_count": "11,632",
     "lowest_sell_order": "0.05",
     "highest_buy_order": "0.04",
-    "date_modified": 1760458389669
+    "date_modified": 1760502309334
   },
   {
     "hash_name": "Souvenir Nova | Mandrel (Field-Tested)",
     "item_nameid": 176006315,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszMZD5W_-OxhoWSqPrxN7LEmyUE6Z1137nEpN_wjgCwrkdramryJ4TEJFU6NVnT-Vjvleu7jMK4tcib1zI97aB3eEij",
-    "sell_order_count": "1,808",
-    "buy_order_count": "12,447",
+    "sell_order_count": "1,796",
+    "buy_order_count": "12,442",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1760458397802
+    "date_modified": 1760502317554
   },
   {
     "hash_name": "Souvenir Nova | Mandrel (Factory New)",
     "item_nameid": 176006327,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszMZD5W_-OxhoWSqPv9NLPF2G8IsZ13ibiXpNSn0QTtqRJsMW73IISRdFM4YV7R8lC-wrvn0Z7p6ZXXiSw0dblmpDA",
-    "sell_order_count": "484",
-    "buy_order_count": "7,271",
+    "sell_order_count": "480",
+    "buy_order_count": "7,274",
     "lowest_sell_order": "0.10",
-    "highest_buy_order": "0.08",
-    "date_modified": 1760458405959
+    "highest_buy_order": "0.09",
+    "date_modified": 1760502325701
   },
   {
     "hash_name": "Souvenir Nova | Mandrel (Battle-Scarred)",
