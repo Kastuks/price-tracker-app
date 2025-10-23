@@ -36234,5 +36234,1135 @@
     "lowest_sell_order": "51.63",
     "highest_buy_order": "40.22",
     "date_modified": 1761227015763
+  },
+  {
+    "hash_name": "Galil AR | Phoenix Blacklight (Well-Worn)",
+    "item_nameid": 176209686,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJS5NOzmomTqOP1NKjuhn5D-Ml0teTE8YXghRrg_EFrYmryI4aUdgE3MwrR-ge-xL-5gpa0tZycyyEwsnMj5yuIlxXin1gSOWhAFeoF",
+    "sell_order_count": "2",
+    "buy_order_count": "876",
+    "lowest_sell_order": "105.70",
+    "highest_buy_order": "60.00",
+    "date_modified": 1761227105994
+  },
+  {
+    "hash_name": "Galil AR | Phoenix Blacklight (Minimal Wear)",
+    "item_nameid": 176209505,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJS5NOzmomTqOP1NKjuhn5D-Ml0teXI8oThxlK1_0M-Yjz2JY6RcVdtNw2Eq1a4k-66jJC8uZibyHNmunYktniIyxypwUYbz1r2sT4",
+    "sell_order_count": "12",
+    "buy_order_count": "1,246",
+    "lowest_sell_order": "136.27",
+    "highest_buy_order": "88.14",
+    "date_modified": 1761227114185
+  },
+  {
+    "hash_name": "Galil AR | Phoenix Blacklight (Field-Tested)",
+    "item_nameid": 176209410,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJS5NOzmomTqOP1NKjuhn5D-Ml0teTE8YXghRrg_EFrYmryI4aUdgE3MwrR-ge-xL-5gpa0tZycyyEwsnMj5yuIlxXin1gSOWhAFeoF",
+    "sell_order_count": "14",
+    "buy_order_count": "1,246",
+    "lowest_sell_order": "92.39",
+    "highest_buy_order": "79.04",
+    "date_modified": 1761227122353
+  },
+  {
+    "hash_name": "Galil AR | Phoenix Blacklight (Factory New)",
+    "item_nameid": 176209527,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJS5NOzmomTqOP1NKjuhn5D-Ml0teXI8oThxlK1_0M-Yjz2JY6RcVdtNw2Eq1a4k-66jJC8uZibyHNmunYktniIyxypwUYbz1r2sT4",
+    "sell_order_count": "28",
+    "buy_order_count": "1,432",
+    "lowest_sell_order": "332.98",
+    "highest_buy_order": "238.32",
+    "date_modified": 1761227130558
+  },
+  {
+    "hash_name": "Galil AR | Phoenix Blacklight (Battle-Scarred)",
+    "item_nameid": 176209586,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJS5NOzmomTqOP1NKjuhn5D-Ml0teHE9JrsxlLm_Bc9Y27ydYeRdQ9vZA2G-1bqkrrpgJDq7cianSM1unIh5XzemBepwUYbaWEOQTg",
+    "sell_order_count": "3",
+    "buy_order_count": "1,041",
+    "lowest_sell_order": "79.28",
+    "highest_buy_order": "66.09",
+    "date_modified": 1761227138716
+  },
+  {
+    "hash_name": "Galil AR | Orange DDPAT (Well-Worn)",
+    "item_nameid": 1321716,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJG6My3gL-Ehfb6NL7um25V4dB8xL-R992g0QLkqUo-MDihLdeUc1A7NVrR_gS3w-npjZO4vcmdmCRnuXY8pSGKBPwV0CU",
+    "sell_order_count": "8",
+    "buy_order_count": "447",
+    "lowest_sell_order": "18.49",
+    "highest_buy_order": "16.71",
+    "date_modified": 1761227146863
+  },
+  {
+    "hash_name": "Galil AR | Orange DDPAT (Minimal Wear)",
+    "item_nameid": 1321710,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJG6My3gL-Ehfb6NL7ummJW4NE_07uQodTz2w3t_BZra2GmJ4XDdQZsYgqB_1W9lOq9hZ656p2fwCBk6z5iuyjf9tkcZA",
+    "sell_order_count": "14",
+    "buy_order_count": "313",
+    "lowest_sell_order": "22.20",
+    "highest_buy_order": "20.97",
+    "date_modified": 1761227155099
+  },
+  {
+    "hash_name": "Galil AR | Orange DDPAT (Field-Tested)",
+    "item_nameid": 1321383,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJG6My3gL-Ehfb6NL7um25V4dB8xL-R992g0QLkqUo-MDihLdeUc1A7NVrR_gS3w-npjZO4vcmdmCRnuXY8pSGKBPwV0CU",
+    "sell_order_count": "42",
+    "buy_order_count": "711",
+    "lowest_sell_order": "13.89",
+    "highest_buy_order": "12.16",
+    "date_modified": 1761227163307
+  },
+  {
+    "hash_name": "Galil AR | Orange DDPAT (Factory New)",
+    "item_nameid": 1322632,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJG6My3gL-Ehfb6NL7ummJW4NE_07uQodTz2w3t_BZra2GmJ4XDdQZsYgqB_1W9lOq9hZ656p2fwCBk6z5iuyjf9tkcZA",
+    "sell_order_count": "4",
+    "buy_order_count": "375",
+    "lowest_sell_order": "85.33",
+    "highest_buy_order": "39.92",
+    "date_modified": 1761227171463
+  },
+  {
+    "hash_name": "Galil AR | Orange DDPAT (Battle-Scarred)",
+    "item_nameid": 1321435,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJG6My3gL-Ehfb6NL7unm5Q_tw_3uiT892hjg3i_kZrMD36LYDBIQ5oZgnTqwW7wOjtgsK8ucjBmCQw6D5iuyg3foCZaw",
+    "sell_order_count": "10",
+    "buy_order_count": "538",
+    "lowest_sell_order": "16.52",
+    "highest_buy_order": "13.69",
+    "date_modified": 1761227179689
+  },
+  {
+    "hash_name": "Galil AR | O-Ranger (Well-Worn)",
+    "item_nameid": 176504819,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfjh94863moeOqPH4OrjaqWZU7Mxkh6eU9I-njALm8hU6MWH1JIPEcw46NAvTrla_xOzvh5O9vMnIyiM2uXEm-z-DyJWCYaFU",
+    "sell_order_count": "170",
+    "buy_order_count": "27,372",
+    "lowest_sell_order": "0.16",
+    "highest_buy_order": "0.10",
+    "date_modified": 1761227187874
+  },
+  {
+    "hash_name": "Galil AR | O-Ranger (Minimal Wear)",
+    "item_nameid": 176504378,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfjh94863moeOqPH4OrjaqWdY781lxLjEod_x0AKy-hdqMDrwJYHBd1U-aV_S_FXswOy6gpa1757MzHY17ig8pSGKCxJIv1g",
+    "sell_order_count": "700",
+    "buy_order_count": "29,243",
+    "lowest_sell_order": "0.36",
+    "highest_buy_order": "0.35",
+    "date_modified": 1761227196049
+  },
+  {
+    "hash_name": "Galil AR | O-Ranger (Field-Tested)",
+    "item_nameid": 176504617,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfjh94863moeOqPH4OrjaqWZU7Mxkh6eU9I-njALm8hU6MWH1JIPEcw46NAvTrla_xOzvh5O9vMnIyiM2uXEm-z-DyJWCYaFU",
+    "sell_order_count": "1,974",
+    "buy_order_count": "59,113",
+    "lowest_sell_order": "0.17",
+    "highest_buy_order": "0.16",
+    "date_modified": 1761227204286
+  },
+  {
+    "hash_name": "Galil AR | O-Ranger (Factory New)",
+    "item_nameid": 176504737,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfjh94863moeOqPH4OrjaqWdY781lxLjEod_x0AKy-hdqMDrwJYHBd1U-aV_S_FXswOy6gpa1757MzHY17ig8pSGKCxJIv1g",
+    "sell_order_count": "464",
+    "buy_order_count": "22,556",
+    "lowest_sell_order": "0.52",
+    "highest_buy_order": "0.50",
+    "date_modified": 1761227212433
+  },
+  {
+    "hash_name": "Galil AR | O-Ranger (Battle-Scarred)",
+    "item_nameid": 176504556,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfjh94863moeOqPH4OrjaqWNU6dNoxOvD8Nin3ALgqBdpa2_6II7BJwM5YQqC_Fe3l7_n0cDutZqdwXthv3E8pSGKV1VdYPs",
+    "sell_order_count": "392",
+    "buy_order_count": "34,166",
+    "lowest_sell_order": "0.18",
+    "highest_buy_order": "0.09",
+    "date_modified": 1761227220617
+  },
+  {
+    "hash_name": "Galil AR | NV (Well-Worn)",
+    "item_nameid": 176460843,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJS49Cvq4eZkvL6DLzQmmJd18h0juDU-MKjjgCxqhBqZDz7cYPBeg85YlrW_gO5k-vshJO76ZTBySYwsnYhs3_ZgVXp1lfHVYXg",
+    "sell_order_count": "78",
+    "buy_order_count": "32,743",
+    "lowest_sell_order": "0.34",
+    "highest_buy_order": "0.32",
+    "date_modified": 1761227228805
+  },
+  {
+    "hash_name": "Galil AR | NV (Minimal Wear)",
+    "item_nameid": 176460726,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJS49Cvq4eZkvL6DLzQmmJd18l4jeHVu4qjiVDj-kc5Zjj2dtCWJwE-aVzZ_QfokOq-gMK9uMnPyidj7iAm5HnD30vgJMIz2RM",
+    "sell_order_count": "505",
+    "buy_order_count": "51,755",
+    "lowest_sell_order": "0.57",
+    "highest_buy_order": "0.57",
+    "date_modified": 1761227237064
+  },
+  {
+    "hash_name": "Galil AR | NV (Field-Tested)",
+    "item_nameid": 176460729,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJS49Cvq4eZkvL6DLzQmmJd18h0juDU-MKjjgCxqhBqZDz7cYPBeg85YlrW_gO5k-vshJO76ZTBySYwsnYhs3_ZgVXp1lfHVYXg",
+    "sell_order_count": "733",
+    "buy_order_count": "100,360",
+    "lowest_sell_order": "0.32",
+    "highest_buy_order": "0.31",
+    "date_modified": 1761227245203
+  },
+  {
+    "hash_name": "Galil AR | NV (Factory New)",
+    "item_nameid": 176460682,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJS49Cvq4eZkvL6DLzQmmJd18l4jeHVu4qjiVDj-kc5Zjj2dtCWJwE-aVzZ_QfokOq-gMK9uMnPyidj7iAm5HnD30vgJMIz2RM",
+    "sell_order_count": "919",
+    "buy_order_count": "53,105",
+    "lowest_sell_order": "0.84",
+    "highest_buy_order": "0.83",
+    "date_modified": 1761227253351
+  },
+  {
+    "hash_name": "Galil AR | NV (Battle-Scarred)",
+    "item_nameid": 176461010,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJS49Cvq4eZkvL6DLzQmmJd1810i__Yu9mhjFXk_UduMT2mLIKdJANtYwrXqwPrwrzugZXouZjAzHtmsiEk4nbD30vgQAosuAE",
+    "sell_order_count": "224",
+    "buy_order_count": "26,906",
+    "lowest_sell_order": "0.41",
+    "highest_buy_order": "0.40",
+    "date_modified": 1761227261538
+  },
+  {
+    "hash_name": "Galil AR | Metallic Squeezer (Well-Worn)",
+    "item_nameid": 176460867,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJN-tmkhIGYhMjkMrLfglRB7ctOh-zV9IDKhVGwogYxfTqnLY_Gc1Q6YgvR8lC-l-y7h57u7pXPyHFjsiB05yqOyha-hx9LP7NxxavJtw9XC-g",
+    "sell_order_count": "58",
+    "buy_order_count": "5,737",
+    "lowest_sell_order": "0.41",
+    "highest_buy_order": "0.40",
+    "date_modified": 1761227269731
+  },
+  {
+    "hash_name": "Galil AR | Metallic Squeezer (Minimal Wear)",
+    "item_nameid": 176460718,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJN-tmkhIGYhMjkMrLfglRB7ctOh-zV9IDKhF2zowdyNjjyLNKWcVRsNwrR_QS5yOfrhcW8vZTKwHpiuCYg5nfZmUO20EkfOPsv26KQpDttZA",
+    "sell_order_count": "268",
+    "buy_order_count": "20,134",
+    "lowest_sell_order": "1.15",
+    "highest_buy_order": "1.12",
+    "date_modified": 1761227277891
+  },
+  {
+    "hash_name": "Galil AR | Metallic Squeezer (Field-Tested)",
+    "item_nameid": 176460604,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJN-tmkhIGYhMjkMrLfglRB7ctOh-zV9IDKhVGwogYxfTqnLY_Gc1Q6YgvR8lC-l-y7h57u7pXPyHFjsiB05yqOyha-hx9LP7NxxavJtw9XC-g",
+    "sell_order_count": "655",
+    "buy_order_count": "31,475",
+    "lowest_sell_order": "0.66",
+    "highest_buy_order": "0.65",
+    "date_modified": 1761227286187
+  },
+  {
+    "hash_name": "Galil AR | Metallic Squeezer (Factory New)",
+    "item_nameid": 176460770,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJN-tmkhIGYhMjkMrLfglRB7ctOh-zV9IDKhF2zowdyNjjyLNKWcVRsNwrR_QS5yOfrhcW8vZTKwHpiuCYg5nfZmUO20EkfOPsv26KQpDttZA",
+    "sell_order_count": "352",
+    "buy_order_count": "17,889",
+    "lowest_sell_order": "2.80",
+    "highest_buy_order": "2.73",
+    "date_modified": 1761227294322
+  },
+  {
+    "hash_name": "Galil AR | Metallic Squeezer (Battle-Scarred)",
+    "item_nameid": 176460668,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJN-tmkhIGYhMjkMrLfglRB7ctOh-zV9IDKgFG1vQpyNm-hdYGTIAU2aA2F-VDowO6-gZToupjKynIysyQqs3mJyhCxgRBNbvsv26Ijq8r-8A",
+    "sell_order_count": "74",
+    "buy_order_count": "13,258",
+    "lowest_sell_order": "0.42",
+    "highest_buy_order": "0.38",
+    "date_modified": 1761227302470
+  },
+  {
+    "hash_name": "Galil AR | Kami (Well-Worn)",
+    "item_nameid": 8989566,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJF7dC_mL-Alvr9DLbUkmJE5Ysj3uiWrY6l3wzs8kU_ZzindY6QIFc9NQmB_VW3lenq1sW77ZXJyyYxpGB8si1hGRnL",
+    "sell_order_count": "28",
+    "buy_order_count": "5,571",
+    "lowest_sell_order": "1.68",
+    "highest_buy_order": "1.56",
+    "date_modified": 1761227310641
+  },
+  {
+    "hash_name": "Galil AR | Kami (Minimal Wear)",
+    "item_nameid": 8987888,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJF7dC_mL-Alvr9DLfYkWNFppIl2LmX9NSg3VLs8kc_Nm73ctWRIVc6NA2F-gC3xuvs0JDttMyfmiF9-n51KkOW17c",
+    "sell_order_count": "89",
+    "buy_order_count": "10,152",
+    "lowest_sell_order": "2.43",
+    "highest_buy_order": "2.09",
+    "date_modified": 1761227318824
+  },
+  {
+    "hash_name": "Galil AR | Kami (Field-Tested)",
+    "item_nameid": 8988558,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJF7dC_mL-Alvr9DLbUkmJE5Ysj3uiWrY6l3wzs8kU_ZzindY6QIFc9NQmB_VW3lenq1sW77ZXJyyYxpGB8si1hGRnL",
+    "sell_order_count": "197",
+    "buy_order_count": "12,442",
+    "lowest_sell_order": "1.56",
+    "highest_buy_order": "1.55",
+    "date_modified": 1761227327021
+  },
+  {
+    "hash_name": "Galil AR | Kami (Factory New)",
+    "item_nameid": 8988649,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJF7dC_mL-Alvr9DLfYkWNFppIl2LmX9NSg3VLs8kc_Nm73ctWRIVc6NA2F-gC3xuvs0JDttMyfmiF9-n51KkOW17c",
+    "sell_order_count": "75",
+    "buy_order_count": "10,667",
+    "lowest_sell_order": "4.16",
+    "highest_buy_order": "4.10",
+    "date_modified": 1761227335155
+  },
+  {
+    "hash_name": "Galil AR | Kami (Battle-Scarred)",
+    "item_nameid": 8989574,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJF7dC_mL-Alvr9DLPUl31IppIpibvHo9v3jlXi-kBpZGqmJIKTIQA5MAvW_wDrxOq8gZ-5tJTIyXt9-n51lHmUdHc",
+    "sell_order_count": "49",
+    "buy_order_count": "6,120",
+    "lowest_sell_order": "1.26",
+    "highest_buy_order": "1.18",
+    "date_modified": 1761227343434
+  },
+  {
+    "hash_name": "Galil AR | Hunting Blind (Well-Worn)",
+    "item_nameid": 2383751,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8Nqjum25V4dB8xO-Qp46m0FDj_ktqNWn7J9fHdQdsNVvXrgK-we7njcC0vciYwHVmsnE8pSGKXWf-8L4",
+    "sell_order_count": "9",
+    "buy_order_count": "2,113",
+    "lowest_sell_order": "3.60",
+    "highest_buy_order": "2.44",
+    "date_modified": 1761227351829
+  },
+  {
+    "hash_name": "Galil AR | Hunting Blind (Minimal Wear)",
+    "item_nameid": 2383812,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8NqjummJW4NE_jOjA8Y73jQ3t-EZsMW6hIobHJA47M12C-le3wLvnjJDv7ZTPzyNn7j5iuyhBizT7_A",
+    "sell_order_count": "53",
+    "buy_order_count": "879",
+    "lowest_sell_order": "3.61",
+    "highest_buy_order": "3.26",
+    "date_modified": 1761227359968
+  },
+  {
+    "hash_name": "Galil AR | Hunting Blind (Field-Tested)",
+    "item_nameid": 2383717,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8Nqjum25V4dB8xO-Qp46m0FDj_ktqNWn7J9fHdQdsNVvXrgK-we7njcC0vciYwHVmsnE8pSGKXWf-8L4",
+    "sell_order_count": "72",
+    "buy_order_count": "4,398",
+    "lowest_sell_order": "2.76",
+    "highest_buy_order": "2.24",
+    "date_modified": 1761227368112
+  },
+  {
+    "hash_name": "Galil AR | Hunting Blind (Factory New)",
+    "item_nameid": 2383836,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8NqjummJW4NE_jOjA8Y73jQ3t-EZsMW6hIobHJA47M12C-le3wLvnjJDv7ZTPzyNn7j5iuyhBizT7_A",
+    "sell_order_count": "22",
+    "buy_order_count": "1,473",
+    "lowest_sell_order": "6.92",
+    "highest_buy_order": "6.36",
+    "date_modified": 1761227376353
+  },
+  {
+    "hash_name": "Galil AR | Grey Smoke (Well-Worn)",
+    "item_nameid": 176504688,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfj5K0966m5KJqPXjDLzQmmJd6ddOh-zF_Jn4xgHm-0NpZDvyI4OQcA5oY1uD_AXvxLvthsO5uZnIzHE36CIk4y7eykCpwUYbgcFQ8Ls",
+    "sell_order_count": "263",
+    "buy_order_count": "10,872",
+    "lowest_sell_order": "0.06",
+    "highest_buy_order": "0.03",
+    "date_modified": 1761227384504
+  },
+  {
+    "hash_name": "Galil AR | Grey Smoke (Minimal Wear)",
+    "item_nameid": 176504434,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfj5K0966m5KJqPXjDLzQmmJd6ddOhuDG_Zi7jAO2_0tqZWuidYWTc1M-aFrSqVi9lLvmjMO875iYzSZluCJ05CnayQv3308a6uTYKQ",
+    "sell_order_count": "1,159",
+    "buy_order_count": "69,549",
+    "lowest_sell_order": "0.07",
+    "highest_buy_order": "0.06",
+    "date_modified": 1761227392653
+  },
+  {
+    "hash_name": "Galil AR | Grey Smoke (Field-Tested)",
+    "item_nameid": 176504418,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfj5K0966m5KJqPXjDLzQmmJd6ddOh-zF_Jn4xgHm-0NpZDvyI4OQcA5oY1uD_AXvxLvthsO5uZnIzHE36CIk4y7eykCpwUYbgcFQ8Ls",
+    "sell_order_count": "5,222",
+    "buy_order_count": "117,699",
+    "lowest_sell_order": "0.05",
+    "highest_buy_order": "0.04",
+    "date_modified": 1761227400812
+  },
+  {
+    "hash_name": "Galil AR | Grey Smoke (Factory New)",
+    "item_nameid": 176504460,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfj5K0966m5KJqPXjDLzQmmJd6ddOhuDG_Zi7jAO2_0tqZWuidYWTc1M-aFrSqVi9lLvmjMO875iYzSZluCJ05CnayQv3308a6uTYKQ",
+    "sell_order_count": "837",
+    "buy_order_count": "83,947",
+    "lowest_sell_order": "0.10",
+    "highest_buy_order": "0.09",
+    "date_modified": 1761227408994
+  },
+  {
+    "hash_name": "Galil AR | Grey Smoke (Battle-Scarred)",
+    "item_nameid": 176504666,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfj5K0966m5KJqPXjDLzQmmJd6ddOguzA45W70FbnrkU6ZzrwIY-XcAVqZ1uB_VW7x-bshMS1u87ByyY1uSkl5HiLmwv3308e91pQiA",
+    "sell_order_count": "739",
+    "buy_order_count": "10,477",
+    "lowest_sell_order": "0.05",
+    "highest_buy_order": "0.03",
+    "date_modified": 1761227417155
+  },
+  {
+    "hash_name": "Galil AR | Green Apple (Minimal Wear)",
+    "item_nameid": 176506208,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJF_tmzmr-HnvD8J_WCxjsHuZFz0rqY946h0Ae2rxBuYzr2LYPDcQ5oY1iGqFS6kObqhMS_ot2XnrGWJTew",
+    "sell_order_count": "569",
+    "buy_order_count": "55,712",
+    "lowest_sell_order": "0.32",
+    "highest_buy_order": "0.31",
+    "date_modified": 1761227425334
+  },
+  {
+    "hash_name": "Galil AR | Green Apple (Field-Tested)",
+    "item_nameid": 176506304,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJF_tmzmr-GkvP9JrafkjMA6pVy3uqSptyj2QGx8kc-MGv3J4Wdeg84ZVDQqAPsxeq805C9vYOJlyVdWSJZ8Q",
+    "sell_order_count": "627",
+    "buy_order_count": "67,149",
+    "lowest_sell_order": "0.26",
+    "highest_buy_order": "0.25",
+    "date_modified": 1761227433597
+  },
+  {
+    "hash_name": "Galil AR | Green Apple (Factory New)",
+    "item_nameid": 176506193,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJF_tmzmr-HnvD8J_WCxjsHuZFz0rqY946h0Ae2rxBuYzr2LYPDcQ5oY1iGqFS6kObqhMS_ot2XnrGWJTew",
+    "sell_order_count": "436",
+    "buy_order_count": "35,370",
+    "lowest_sell_order": "0.81",
+    "highest_buy_order": "0.80",
+    "date_modified": 1761227441743
+  },
+  {
+    "hash_name": "Galil AR | Firefight (Well-Worn)",
+    "item_nameid": 149865806,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPYgJF7dC_mIGZqP76ML7fk3lQ_MpjteTE8YXghRq3rUFoNTqncNPHIFU9ZljQ-FO-wO29hJDt6MvMzHZjs3Ur5CyPmxa2n1gSOY6AesOq",
+    "sell_order_count": "23",
+    "buy_order_count": "14,884",
+    "lowest_sell_order": "0.82",
+    "highest_buy_order": "0.78",
+    "date_modified": 1761227449924
+  },
+  {
+    "hash_name": "Galil AR | Firefight (Minimal Wear)",
+    "item_nameid": 149865815,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPYgJF7dC_mIGZqP76ML7fk3lQ_MpjteXI8oThxg3gqEo4Y22lIYaUdwY3Yw3R-gO5l-i615W87p3KwCFk6CNz43_VzRWpwUYbPluRbnk",
+    "sell_order_count": "75",
+    "buy_order_count": "14,023",
+    "lowest_sell_order": "1.15",
+    "highest_buy_order": "1.11",
+    "date_modified": 1761227458132
+  },
+  {
+    "hash_name": "Galil AR | Firefight (Field-Tested)",
+    "item_nameid": 149869048,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPYgJF7dC_mIGZqP76ML7fk3lQ_MpjteTE8YXghRq3rUFoNTqncNPHIFU9ZljQ-FO-wO29hJDt6MvMzHZjs3Ur5CyPmxa2n1gSOY6AesOq",
+    "sell_order_count": "127",
+    "buy_order_count": "22,935",
+    "lowest_sell_order": "0.78",
+    "highest_buy_order": "0.59",
+    "date_modified": 1761227466299
+  },
+  {
+    "hash_name": "Galil AR | Firefight (Factory New)",
+    "item_nameid": 149877360,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPYgJF7dC_mIGZqP76ML7fk3lQ_MpjteXI8oThxg3gqEo4Y22lIYaUdwY3Yw3R-gO5l-i615W87p3KwCFk6CNz43_VzRWpwUYbPluRbnk",
+    "sell_order_count": "60",
+    "buy_order_count": "11,515",
+    "lowest_sell_order": "5.94",
+    "highest_buy_order": "5.70",
+    "date_modified": 1761227474444
+  },
+  {
+    "hash_name": "Galil AR | Firefight (Battle-Scarred)",
+    "item_nameid": 149869063,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPYgJF7dC_mIGZqP76ML7fk3lQ_MpjteHE9JrsxlHiqhU6YTr2J4OdIw9rYlqD-1TsyOq51JG-75-czCBm6yUlsCzbzB2pwUYbiR6zG1w",
+    "sell_order_count": "49",
+    "buy_order_count": "10,861",
+    "lowest_sell_order": "0.84",
+    "highest_buy_order": "0.78",
+    "date_modified": 1761227482615
+  },
+  {
+    "hash_name": "Galil AR | Eco (Well-Worn)",
+    "item_nameid": 40092063,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-OlPjLPr7Vn35cppB33urF9I-h2FDnqks-ZWDzJIfAdVM-YlnYqAe4lO-6gcK-u5WcyXN9-n518QWMuwg",
+    "sell_order_count": "45",
+    "buy_order_count": "12,581",
+    "lowest_sell_order": "4.86",
+    "highest_buy_order": "3.71",
+    "date_modified": 1761227491013
+  },
+  {
+    "hash_name": "Galil AR | Eco (Minimal Wear)",
+    "item_nameid": 40094836,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-OlPjLP7LWnn8f6pAg3buWrN7z2gXm_0BqZjqlcIGVIANtYF7T_Vm9wu3p0MO8uZ7JzGwj5Hd0pQL-vQ",
+    "sell_order_count": "36",
+    "buy_order_count": "1,203",
+    "lowest_sell_order": "59.00",
+    "highest_buy_order": "58.83",
+    "date_modified": 1761227499187
+  },
+  {
+    "hash_name": "Galil AR | Eco (Field-Tested)",
+    "item_nameid": 40092026,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-OlPjLPr7Vn35cppB33urF9I-h2FDnqks-ZWDzJIfAdVM-YlnYqAe4lO-6gcK-u5WcyXN9-n518QWMuwg",
+    "sell_order_count": "199",
+    "buy_order_count": "43,538",
+    "lowest_sell_order": "6.99",
+    "highest_buy_order": "6.60",
+    "date_modified": 1761227507336
+  },
+  {
+    "hash_name": "Galil AR | Eco (Battle-Scarred)",
+    "item_nameid": 40092066,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-OlPjLO77QgHIfu5Bz0rqV8Nn331XtqhBrYzr0JtTAIA4-YF3Sq1LswrrvgZTvv8jBmGwj5HdaYfAmew",
+    "sell_order_count": "28",
+    "buy_order_count": "11,646",
+    "lowest_sell_order": "4.62",
+    "highest_buy_order": "3.51",
+    "date_modified": 1761227515472
+  },
+  {
+    "hash_name": "Galil AR | Dusk Ruins (Well-Worn)",
+    "item_nameid": 176209652,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJQ-dW4h7-ZkvPLPr7Vn35cppZw3uyTo4mhiwLk_RE-Nm-mdYGdIVU_ZF6F81S6x-m61JG-6szOnHp9-n51FmFf9m0",
+    "sell_order_count": "1",
+    "buy_order_count": "2,052",
+    "lowest_sell_order": "50.00",
+    "highest_buy_order": "20.07",
+    "date_modified": 1761227523661
+  },
+  {
+    "hash_name": "Galil AR | Dusk Ruins (Minimal Wear)",
+    "item_nameid": 176209579,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJQ-dW4h7-ZkvPLP7LWnn8fvMR1iLmSrYj32gTtrUdsYG-iIIGdcwdoZAqGqVjvwr-7g5-_6pvKzmwj5HdNZ6bMAg",
+    "sell_order_count": "11",
+    "buy_order_count": "2,544",
+    "lowest_sell_order": "21.13",
+    "highest_buy_order": "18.17",
+    "date_modified": 1761227531801
+  },
+  {
+    "hash_name": "Galil AR | Dusk Ruins (Field-Tested)",
+    "item_nameid": 176209240,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJQ-dW4h7-ZkvPLPr7Vn35cppZw3uyTo4mhiwLk_RE-Nm-mdYGdIVU_ZF6F81S6x-m61JG-6szOnHp9-n51FmFf9m0",
+    "sell_order_count": "11",
+    "buy_order_count": "2,097",
+    "lowest_sell_order": "19.86",
+    "highest_buy_order": "15.66",
+    "date_modified": 1761227539965
+  },
+  {
+    "hash_name": "Galil AR | Dusk Ruins (Factory New)",
+    "item_nameid": 176209451,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJQ-dW4h7-ZkvPLP7LWnn8fvMR1iLmSrYj32gTtrUdsYG-iIIGdcwdoZAqGqVjvwr-7g5-_6pvKzmwj5HdNZ6bMAg",
+    "sell_order_count": "25",
+    "buy_order_count": "3,145",
+    "lowest_sell_order": "41.22",
+    "highest_buy_order": "26.79",
+    "date_modified": 1761227548153
+  },
+  {
+    "hash_name": "Galil AR | Dusk Ruins (Battle-Scarred)",
+    "item_nameid": 176209345,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJQ-dW4h7-ZkvPLO77QgHIfuZAoi-rE8dTxjALtqRI6ZGj6dYfGcg5qMFnZ-VC5xr_tgsK1vszIzmwj5HfAxSh9uw",
+    "sell_order_count": "2",
+    "buy_order_count": "1,875",
+    "lowest_sell_order": "30.90",
+    "highest_buy_order": "12.68",
+    "date_modified": 1761227556405
+  },
+  {
+    "hash_name": "Galil AR | Destroyer (Well-Worn)",
+    "item_nameid": 176321232,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-PkuTgIbTIk3lu5cB1g_zMu4302QDj-0RoNWHxJ9OQIANsZQ3S8lDqxO68gcO5uJqYmnJmsnJ0t3fD30vgWgVg114",
+    "sell_order_count": "225",
+    "buy_order_count": "76,615",
+    "lowest_sell_order": "0.17",
+    "highest_buy_order": "0.06",
+    "date_modified": 1761227564667
+  },
+  {
+    "hash_name": "Galil AR | Destroyer (Minimal Wear)",
+    "item_nameid": 176321162,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-PkuTgIbTIk3lu5Mx2gv2PptTx0QXkrRI4ajv7ddOVJFI8MgrQ_wPswufsgZfvtM6fm3E37CEisGGdwUKaA92Obw",
+    "sell_order_count": "340",
+    "buy_order_count": "104,161",
+    "lowest_sell_order": "0.18",
+    "highest_buy_order": "0.17",
+    "date_modified": 1761227572833
+  },
+  {
+    "hash_name": "Galil AR | Destroyer (Field-Tested)",
+    "item_nameid": 176321166,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-PkuTgIbTIk3lu5cB1g_zMu4302QDj-0RoNWHxJ9OQIANsZQ3S8lDqxO68gcO5uJqYmnJmsnJ0t3fD30vgWgVg114",
+    "sell_order_count": "584",
+    "buy_order_count": "174,895",
+    "lowest_sell_order": "0.15",
+    "highest_buy_order": "0.14",
+    "date_modified": 1761227581019
+  },
+  {
+    "hash_name": "Galil AR | Destroyer (Factory New)",
+    "item_nameid": 176321176,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-PkuTgIbTIk3lu5Mx2gv2PptTx0QXkrRI4ajv7ddOVJFI8MgrQ_wPswufsgZfvtM6fm3E37CEisGGdwUKaA92Obw",
+    "sell_order_count": "201",
+    "buy_order_count": "42,065",
+    "lowest_sell_order": "0.51",
+    "highest_buy_order": "0.50",
+    "date_modified": 1761227589284
+  },
+  {
+    "hash_name": "Galil AR | Destroyer (Battle-Scarred)",
+    "item_nameid": 176321237,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-PkuTgIbTIk3lu4MBwnPCPotSh3ALgrkFlZD_wco6degA4aQnSrAO4left15O0tZjLwXY17CRw4GGdwUJLE0XMbg",
+    "sell_order_count": "478",
+    "buy_order_count": "61,663",
+    "lowest_sell_order": "0.16",
+    "highest_buy_order": "0.15",
+    "date_modified": 1761227597474
+  },
+  {
+    "hash_name": "Galil AR | Crimson Tsunami (Well-Worn)",
+    "item_nameid": 175880397,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-cluHxDLbUkmJE5Ysn3r2Vo92m2ADgqhU-N2_zdoXHIFRsMl2B81e-kLy9gZG77s6bwXQypGB8sprtzfIH",
+    "sell_order_count": "35",
+    "buy_order_count": "6,269",
+    "lowest_sell_order": "1.65",
+    "highest_buy_order": "1.52",
+    "date_modified": 1761227605672
+  },
+  {
+    "hash_name": "Galil AR | Crimson Tsunami (Minimal Wear)",
+    "item_nameid": 175880319,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-cluHxDLfYkWNFppcoi7CUoNj02w3tqhdlZD_0dtCXcgM4YFDX_QC5yL2715W77pSamHR9-n51E_-R9O0",
+    "sell_order_count": "122",
+    "buy_order_count": "20,845",
+    "lowest_sell_order": "2.77",
+    "highest_buy_order": "2.82",
+    "date_modified": 1761227613821
+  },
+  {
+    "hash_name": "Galil AR | Crimson Tsunami (Field-Tested)",
+    "item_nameid": 175880267,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-cluHxDLbUkmJE5Ysn3r2Vo92m2ADgqhU-N2_zdoXHIFRsMl2B81e-kLy9gZG77s6bwXQypGB8sprtzfIH",
+    "sell_order_count": "147",
+    "buy_order_count": "19,771",
+    "lowest_sell_order": "1.55",
+    "highest_buy_order": "1.53",
+    "date_modified": 1761227622005
+  },
+  {
+    "hash_name": "Galil AR | Crimson Tsunami (Factory New)",
+    "item_nameid": 175880306,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-cluHxDLfYkWNFppcoi7CUoNj02w3tqhdlZD_0dtCXcgM4YFDX_QC5yL2715W77pSamHR9-n51E_-R9O0",
+    "sell_order_count": "125",
+    "buy_order_count": "17,516",
+    "lowest_sell_order": "5.60",
+    "highest_buy_order": "5.66",
+    "date_modified": 1761227630158
+  },
+  {
+    "hash_name": "Galil AR | Crimson Tsunami (Battle-Scarred)",
+    "item_nameid": 175880383,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-cluHxDLPUl31IppxyjLqVo9T0iVDnqEE4a271doXEcFA_NAuGr1O9xerog5C675nBmiN9-n511UW4eQ0",
+    "sell_order_count": "27",
+    "buy_order_count": "7,326",
+    "lowest_sell_order": "1.47",
+    "highest_buy_order": "1.46",
+    "date_modified": 1761227638312
+  },
+  {
+    "hash_name": "Galil AR | Control (Well-Worn)",
+    "item_nameid": 176506339,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPcDFL4OO1m46fhfj4DKjFhGJa7fp8j-3I4IG72wG2_kc9Y22ndYPEdgZvYAqD-lm4xr25gsPpucycyXMw7nZ2tHnbzAv3309ImIbtGQ",
+    "sell_order_count": "17",
+    "buy_order_count": "5,788",
+    "lowest_sell_order": "0.70",
+    "highest_buy_order": "0.59",
+    "date_modified": 1761227646670
+  },
+  {
+    "hash_name": "Galil AR | Control (Minimal Wear)",
+    "item_nameid": 176506140,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPcDFL4OO1m46fhfj4DKjFhGJa7fp9g-7J4cKj3gfh_RE_Mjj6JY7GIQ8-Nw7WrgC5kubq15XtvZTBm3tj7CN043vZgVXp1i0izzaL",
+    "sell_order_count": "170",
+    "buy_order_count": "10,852",
+    "lowest_sell_order": "1.04",
+    "highest_buy_order": "1.01",
+    "date_modified": 1761227656519
+  },
+  {
+    "hash_name": "Galil AR | Control (Field-Tested)",
+    "item_nameid": 176506130,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPcDFL4OO1m46fhfj4DKjFhGJa7fp8j-3I4IG72wG2_kc9Y22ndYPEdgZvYAqD-lm4xr25gsPpucycyXMw7nZ2tHnbzAv3309ImIbtGQ",
+    "sell_order_count": "170",
+    "buy_order_count": "24,624",
+    "lowest_sell_order": "0.59",
+    "highest_buy_order": "0.57",
+    "date_modified": 1761227664683
+  },
+  {
+    "hash_name": "Galil AR | Control (Factory New)",
+    "item_nameid": 176506299,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPcDFL4OO1m46fhfj4DKjFhGJa7fp9g-7J4cKj3gfh_RE_Mjj6JY7GIQ8-Nw7WrgC5kubq15XtvZTBm3tj7CN043vZgVXp1i0izzaL",
+    "sell_order_count": "104",
+    "buy_order_count": "5,689",
+    "lowest_sell_order": "2.99",
+    "highest_buy_order": "2.90",
+    "date_modified": 1761227672851
+  },
+  {
+    "hash_name": "Galil AR | Control (Battle-Scarred)",
+    "item_nameid": 176506337,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPcDFL4OO1m46fhfj4DKjFhGJa7fp5j-jX7MKk3wPh-Uc9YWz0co-Sc1JraAnY8wPqwO-8gce_upTAznAxuSNw5XjagVXp1rYVXBgH",
+    "sell_order_count": "45",
+    "buy_order_count": "7,816",
+    "lowest_sell_order": "0.78",
+    "highest_buy_order": "0.51",
+    "date_modified": 1761227681237
+  },
+  {
+    "hash_name": "Galil AR | Connexion (Well-Worn)",
+    "item_nameid": 176185992,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPYgJF7dC_mL-bn_jxPbLJqWZU7Mxkh6eQ9I-njgS1-UNvNmzzI4HDdwZrZFDW_1i6x-bv0Me76c_BzXo263Nw-z-DyH5oWcwp",
+    "sell_order_count": "73",
+    "buy_order_count": "14,854",
+    "lowest_sell_order": "0.75",
+    "highest_buy_order": "0.41",
+    "date_modified": 1761227689429
+  },
+  {
+    "hash_name": "Galil AR | Connexion (Minimal Wear)",
+    "item_nameid": 176185944,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPYgJF7dC_mL-bn_jxPbLJqWdY781lxO2R89uliQSxr0I5MG73cIGQcgQ7YQzZ_li-yefpgZ697szPnHpjsiM8pSGKWlTPrTU",
+    "sell_order_count": "185",
+    "buy_order_count": "34,459",
+    "lowest_sell_order": "0.88",
+    "highest_buy_order": "0.87",
+    "date_modified": 1761227697596
+  },
+  {
+    "hash_name": "Galil AR | Connexion (Field-Tested)",
+    "item_nameid": 176185876,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPYgJF7dC_mL-bn_jxPbLJqWZU7Mxkh6eQ9I-njgS1-UNvNmzzI4HDdwZrZFDW_1i6x-bv0Me76c_BzXo263Nw-z-DyH5oWcwp",
+    "sell_order_count": "418",
+    "buy_order_count": "51,565",
+    "lowest_sell_order": "0.66",
+    "highest_buy_order": "0.54",
+    "date_modified": 1761227705756
+  },
+  {
+    "hash_name": "Galil AR | Connexion (Factory New)",
+    "item_nameid": 176185963,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPYgJF7dC_mL-bn_jxPbLJqWdY781lxO2R89uliQSxr0I5MG73cIGQcgQ7YQzZ_li-yefpgZ697szPnHpjsiM8pSGKWlTPrTU",
+    "sell_order_count": "131",
+    "buy_order_count": "24,646",
+    "lowest_sell_order": "2.37",
+    "highest_buy_order": "2.34",
+    "date_modified": 1761227713903
+  },
+  {
+    "hash_name": "Galil AR | Connexion (Battle-Scarred)",
+    "item_nameid": 176185942,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPYgJF7dC_mL-bn_jxPbLJqWNU6dNoxOuX9Nms2lK380NsYWGmdobEe1RvZlDXqVe_wOi6h8W5u5yby3Q2syc8pSGK9z8aR-s",
+    "sell_order_count": "187",
+    "buy_order_count": "22,882",
+    "lowest_sell_order": "0.63",
+    "highest_buy_order": "0.59",
+    "date_modified": 1761227722050
+  },
+  {
+    "hash_name": "Galil AR | Cold Fusion (Well-Worn)",
+    "item_nameid": 176012437,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJM-d-6kYGZqOT_JrfdhVRQ-dBwteTE8YXghRqy8hc9Y2undoHEdQQ4YV6FqQfoxu2-15G_6cjBm3oyvCFw7S7YzkTjn1gSOYu9AFib",
+    "sell_order_count": "139",
+    "buy_order_count": "37,703",
+    "lowest_sell_order": "0.14",
+    "highest_buy_order": "0.09",
+    "date_modified": 1761227730194
+  },
+  {
+    "hash_name": "Galil AR | Cold Fusion (Minimal Wear)",
+    "item_nameid": 176012402,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJM-d-6kYGZqOT_JrfdhVRQ-dBwteXI8oThxgax-EBoY2j1cIaUcgRvNVDQqwfrwb3ng8W0tJmdzXA1uSJ3sS3bzEepwUYbokjcZr4",
+    "sell_order_count": "773",
+    "buy_order_count": "66,488",
+    "lowest_sell_order": "0.14",
+    "highest_buy_order": "0.13",
+    "date_modified": 1761227738679
+  },
+  {
+    "hash_name": "Galil AR | Cold Fusion (Field-Tested)",
+    "item_nameid": 176012378,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJM-d-6kYGZqOT_JrfdhVRQ-dBwteTE8YXghRqy8hc9Y2undoHEdQQ4YV6FqQfoxu2-15G_6cjBm3oyvCFw7S7YzkTjn1gSOYu9AFib",
+    "sell_order_count": "968",
+    "buy_order_count": "185,248",
+    "lowest_sell_order": "0.15",
+    "highest_buy_order": "0.09",
+    "date_modified": 1761227746896
+  },
+  {
+    "hash_name": "Galil AR | Cold Fusion (Factory New)",
+    "item_nameid": 176012368,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJM-d-6kYGZqOT_JrfdhVRQ-dBwteXI8oThxgax-EBoY2j1cIaUcgRvNVDQqwfrwb3ng8W0tJmdzXA1uSJ3sS3bzEepwUYbokjcZr4",
+    "sell_order_count": "443",
+    "buy_order_count": "19,866",
+    "lowest_sell_order": "0.37",
+    "highest_buy_order": "0.36",
+    "date_modified": 1761227755045
+  },
+  {
+    "hash_name": "Galil AR | Cold Fusion (Battle-Scarred)",
+    "item_nameid": 176012418,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJM-d-6kYGZqOT_JrfdhVRQ-dBwteHE9JrsxlDi-UQ6Z2r7INKWdwBrMguBq1Lowua60JG6vpTPmnNq6Sgi7HrZnh2pwUYbyXEcZG8",
+    "sell_order_count": "250",
+    "buy_order_count": "50,938",
+    "lowest_sell_order": "0.11",
+    "highest_buy_order": "0.09",
+    "date_modified": 1761227763223
+  },
+  {
+    "hash_name": "Galil AR | Chromatic Aberration (Well-Worn)",
+    "item_nameid": 176240980,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-In-X7PrruhmJf4_p8j-3I4IG70VbiqRdvMWuiJo6ddgRtMlDU8wC-k-3mhMXptJ7IyyZrvScq4n7UzAv3309Cnh-qXA",
+    "sell_order_count": "83",
+    "buy_order_count": "16,025",
+    "lowest_sell_order": "3.30",
+    "highest_buy_order": "3.18",
+    "date_modified": 1761227771448
+  },
+  {
+    "hash_name": "Galil AR | Chromatic Aberration (Minimal Wear)",
+    "item_nameid": 176241041,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-In-X7PrruhmJf4_p9g-7J4cKi3gXi-RVtYmihLIaUJgc4YF2G-Fi6kObugcW_vsjNz3NquiMk4nyJgVXp1gPanSng",
+    "sell_order_count": "119",
+    "buy_order_count": "32,452",
+    "lowest_sell_order": "4.19",
+    "highest_buy_order": "5.08",
+    "date_modified": 1761227779614
+  },
+  {
+    "hash_name": "Galil AR | Chromatic Aberration (Field-Tested)",
+    "item_nameid": 176240942,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-In-X7PrruhmJf4_p8j-3I4IG70VbiqRdvMWuiJo6ddgRtMlDU8wC-k-3mhMXptJ7IyyZrvScq4n7UzAv3309Cnh-qXA",
+    "sell_order_count": "128",
+    "buy_order_count": "46,703",
+    "lowest_sell_order": "3.30",
+    "highest_buy_order": "2.81",
+    "date_modified": 1761227787811
+  },
+  {
+    "hash_name": "Galil AR | Chromatic Aberration (Factory New)",
+    "item_nameid": 176241046,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-In-X7PrruhmJf4_p9g-7J4cKi3gXi-RVtYmihLIaUJgc4YF2G-Fi6kObugcW_vsjNz3NquiMk4nyJgVXp1gPanSng",
+    "sell_order_count": "57",
+    "buy_order_count": "5,690",
+    "lowest_sell_order": "40.20",
+    "highest_buy_order": "38.66",
+    "date_modified": 1761227795977
+  },
+  {
+    "hash_name": "Galil AR | Chromatic Aberration (Battle-Scarred)",
+    "item_nameid": 176241099,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-In-X7PrruhmJf4_p5j-jX7ML33Aa3_0RpYW6ictPHIAc6NA7Y81G-kOzv05_tvsyanCBkuiUrsHfdgVXp1mIEZeU0",
+    "sell_order_count": "67",
+    "buy_order_count": "17,860",
+    "lowest_sell_order": "3.70",
+    "highest_buy_order": "3.68",
+    "date_modified": 1761227804121
+  },
+  {
+    "hash_name": "Galil AR | Chatterbox (Well-Worn)",
+    "item_nameid": 29207455,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-KleX1ILLemFRc7cF4n-SPp4rzigy1qEo6ZGzyJY6QcFRqaQ7Z_lHoxuzrjJDvuc_OnydmvnFx4mGdwULsM5Pj8Q",
+    "sell_order_count": "41",
+    "buy_order_count": "2,425",
+    "lowest_sell_order": "51.00",
+    "highest_buy_order": "39.64",
+    "date_modified": 1761227812333
+  },
+  {
+    "hash_name": "Galil AR | Chatterbox (Field-Tested)",
+    "item_nameid": 29222869,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-KleX1ILLemFRc7cF4n-SPp4rzigy1qEo6ZGzyJY6QcFRqaQ7Z_lHoxuzrjJDvuc_OnydmvnFx4mGdwULsM5Pj8Q",
+    "sell_order_count": "12",
+    "buy_order_count": "592",
+    "lowest_sell_order": "176.34",
+    "highest_buy_order": "129.92",
+    "date_modified": 1761227820674
+  },
+  {
+    "hash_name": "Galil AR | Chatterbox (Battle-Scarred)",
+    "item_nameid": 29207465,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-KleX1ILLemFRZ7cRnk6fDpd6n3wTmqRZpMm-iJYXGJgM8NwnY-QftxbvvhZC16p3BzHc3vCYl-z-DyAelw37a",
+    "sell_order_count": "83",
+    "buy_order_count": "4,987",
+    "lowest_sell_order": "43.18",
+    "highest_buy_order": "42.18",
+    "date_modified": 1761227828838
+  },
+  {
+    "hash_name": "Galil AR | Cerberus (Well-Worn)",
+    "item_nameid": 18531013,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJB6c60hpWYqPD1P7LdqWZU7Mxkh6fF8I6sjVbkrhJsMmyncY_Hegc8YV3X8lC8ye3ugcK07ZybzHFmsnR2-z-DyMZX64bv",
+    "sell_order_count": "8",
+    "buy_order_count": "645",
+    "lowest_sell_order": "21.59",
+    "highest_buy_order": "19.56",
+    "date_modified": 1761227837017
+  },
+  {
+    "hash_name": "Galil AR | Cerberus (Minimal Wear)",
+    "item_nameid": 18532779,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJB6c60hpWYqPD1P7LdqWdY781lxOvEpdusjVXg-BZlZjyhLdKUcVdoZVmB-li_ybvmg5Pq6czJnXs16CI8pSGK2oYjWKI",
+    "sell_order_count": "23",
+    "buy_order_count": "777",
+    "lowest_sell_order": "46.51",
+    "highest_buy_order": "46.34",
+    "date_modified": 1761227845193
+  },
+  {
+    "hash_name": "Galil AR | Cerberus (Field-Tested)",
+    "item_nameid": 18529302,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJB6c60hpWYqPD1P7LdqWZU7Mxkh6fF8I6sjVbkrhJsMmyncY_Hegc8YV3X8lC8ye3ugcK07ZybzHFmsnR2-z-DyMZX64bv",
+    "sell_order_count": "36",
+    "buy_order_count": "1,527",
+    "lowest_sell_order": "21.65",
+    "highest_buy_order": "21.41",
+    "date_modified": 1761227853365
+  },
+  {
+    "hash_name": "Galil AR | Cerberus (Factory New)",
+    "item_nameid": 18556292,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJB6c60hpWYqPD1P7LdqWdY781lxOvEpdusjVXg-BZlZjyhLdKUcVdoZVmB-li_ybvmg5Pq6czJnXs16CI8pSGK2oYjWKI",
+    "sell_order_count": "23",
+    "buy_order_count": "554",
+    "lowest_sell_order": "159.00",
+    "highest_buy_order": "112.44",
+    "date_modified": 1761227861504
+  },
+  {
+    "hash_name": "Galil AR | Cerberus (Battle-Scarred)",
+    "item_nameid": 18529300,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJB6c60hpWYqPD1P7LdqWNU6dNoxOjApNmgjlft80VvajugdYTBdwRtYQyD-1m4k-rsgZ--vZjMm3Q16Sk8pSGK6Co2rBQ",
+    "sell_order_count": "20",
+    "buy_order_count": "975",
+    "lowest_sell_order": "15.32",
+    "highest_buy_order": "15.52",
+    "date_modified": 1761227869692
+  },
+  {
+    "hash_name": "Galil AR | CAUTION! (Well-Worn)",
+    "item_nameid": 176263121,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-IluLgOrTfqWZU7Mxkh6fFotWj21Hk-kFvZTvwd46UdAc9NFqF-VW5l7i-gMPvtc7AmCNr73Ur-z-DyN8D6oM3",
+    "sell_order_count": "2",
+    "buy_order_count": "961",
+    "lowest_sell_order": "64.76",
+    "highest_buy_order": "43.43",
+    "date_modified": 1761227877995
+  },
+  {
+    "hash_name": "Galil AR | CAUTION! (Minimal Wear)",
+    "item_nameid": 176263132,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-IluLgOrTfqWdY781lxOiVoNTw0VXk-kY-ZGjwd4WQJAU2Y17T8li_webpgZO4uJ7Jmyc1u3Q8pSGK73r8Y-I",
+    "sell_order_count": "1",
+    "buy_order_count": "898",
+    "lowest_sell_order": "69.02",
+    "highest_buy_order": "45.00",
+    "date_modified": 1761227886189
+  },
+  {
+    "hash_name": "Galil AR | CAUTION! (Field-Tested)",
+    "item_nameid": 176263209,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-IluLgOrTfqWZU7Mxkh6fFotWj21Hk-kFvZTvwd46UdAc9NFqF-VW5l7i-gMPvtc7AmCNr73Ur-z-DyN8D6oM3",
+    "sell_order_count": "5",
+    "buy_order_count": "965",
+    "lowest_sell_order": "48.62",
+    "highest_buy_order": "45.77",
+    "date_modified": 1761227894343
+  },
+  {
+    "hash_name": "Galil AR | CAUTION! (Factory New)",
+    "item_nameid": 176263224,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-IluLgOrTfqWdY781lxOiVoNTw0VXk-kY-ZGjwd4WQJAU2Y17T8li_webpgZO4uJ7Jmyc1u3Q8pSGK73r8Y-I",
+    "sell_order_count": "8",
+    "buy_order_count": "879",
+    "lowest_sell_order": "136.58",
+    "highest_buy_order": "91.03",
+    "date_modified": 1761227902516
+  },
+  {
+    "hash_name": "Galil AR | CAUTION! (Battle-Scarred)",
+    "item_nameid": 176263346,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-IluLgOrTfqWNU6dNoxO-Z9Nz331Htr0Fqajv3dtWSdgY9aViG_QW7kuvp1pPqup-cznI37iM8pSGK9TXiFco",
+    "sell_order_count": "2",
+    "buy_order_count": "1,124",
+    "lowest_sell_order": "39.00",
+    "highest_buy_order": "36.74",
+    "date_modified": 1761227910671
+  },
+  {
+    "hash_name": "Galil AR | Blue Titanium (Factory New)",
+    "item_nameid": 3440922,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczJfwJW5ci3momemqSkJYTdn2xZ_IsjjurHoY6j2wPh80JkYWv7LYDBI1c7ZQ7Qrle9x-bsjMK6uZ_NmnJipGB8sjwoSATg",
+    "sell_order_count": "156",
+    "buy_order_count": "12,442",
+    "lowest_sell_order": "4.86",
+    "highest_buy_order": "4.68",
+    "date_modified": 1761227919071
+  },
+  {
+    "hash_name": "Galil AR | Black Sand (Well-Worn)",
+    "item_nameid": 175854248,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-Khbr3MrbeqWZU7Mxkh6eX8drzjAG1_Udta2ihd4ORIQU8MliD-VG_kua9hpC-7pTBzncwuSNz-z-DyLDkiz3y",
+    "sell_order_count": "275",
+    "buy_order_count": "25,343",
+    "lowest_sell_order": "0.47",
+    "highest_buy_order": "0.24",
+    "date_modified": 1761227927227
+  },
+  {
+    "hash_name": "Galil AR | Black Sand (Minimal Wear)",
+    "item_nameid": 175854237,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-Khbr3MrbeqWdY781lxL_Crdjw2AziqUo-NW72LIKcegE6ZlnYqQe6ybzp1Me7uZmbwHdiuSc8pSGKmqJCbm4",
+    "sell_order_count": "98",
+    "buy_order_count": "28,296",
+    "lowest_sell_order": "0.87",
+    "highest_buy_order": "0.86",
+    "date_modified": 1761227935427
+  },
+  {
+    "hash_name": "Galil AR | Black Sand (Field-Tested)",
+    "item_nameid": 175854272,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-Khbr3MrbeqWZU7Mxkh6eX8drzjAG1_Udta2ihd4ORIQU8MliD-VG_kua9hpC-7pTBzncwuSNz-z-DyLDkiz3y",
+    "sell_order_count": "98",
+    "buy_order_count": "31,321",
+    "lowest_sell_order": "0.69",
+    "highest_buy_order": "0.61",
+    "date_modified": 1761227943855
+  },
+  {
+    "hash_name": "Galil AR | Black Sand (Factory New)",
+    "item_nameid": 175854323,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-Khbr3MrbeqWdY781lxL_Crdjw2AziqUo-NW72LIKcegE6ZlnYqQe6ybzp1Me7uZmbwHdiuSc8pSGKmqJCbm4",
+    "sell_order_count": "58",
+    "buy_order_count": "10,945",
+    "lowest_sell_order": "2.87",
+    "highest_buy_order": "1.95",
+    "date_modified": 1761227951988
+  },
+  {
+    "hash_name": "Galil AR | Black Sand (Battle-Scarred)",
+    "item_nameid": 175854265,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-Khbr3MrbeqWNU6dNoxLCTotvx0Afi-0Q5ZWD3LNTAdQdoYgnTqFG5x-a6gcS8v8iYzSRqvyk8pSGKLJtqR2s",
+    "sell_order_count": "134",
+    "buy_order_count": "20,116",
+    "lowest_sell_order": "0.47",
+    "highest_buy_order": "0.20",
+    "date_modified": 1761227960146
+  },
+  {
+    "hash_name": "Galil AR | Aqua Terrace (Well-Worn)",
+    "item_nameid": 49431027,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczJfAJF6dO7kZSZnvTLIK_Uhnhu5cB1g_zMu9j2ilfs_xZoMG6gJdPAe1Q6Yl3X_FC_l7_vg8fvvZ_NzSdns3Yk4njD30vg9N5B6rM",
+    "sell_order_count": 0,
+    "buy_order_count": "86",
+    "lowest_sell_order": "0.00",
+    "highest_buy_order": "185.75",
+    "date_modified": 1761227968310
+  },
+  {
+    "hash_name": "Galil AR | Aqua Terrace (Minimal Wear)",
+    "item_nameid": 49419443,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczJfAJF6dO7kZSZnvTLIK_Uhnhu5Mx2gv2Prdj00AXh_0Y-Mjr6cYWUelc_ZA2C_Vm4wOrtg8S96Z_BzyExsyMl5GGdwUKtHdD6IA",
+    "sell_order_count": "2",
+    "buy_order_count": "147",
+    "lowest_sell_order": "448.99",
+    "highest_buy_order": "230.26",
+    "date_modified": 1761227976463
+  },
+  {
+    "hash_name": "Galil AR | Aqua Terrace (Field-Tested)",
+    "item_nameid": 49419466,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczJfAJF6dO7kZSZnvTLIK_Uhnhu5cB1g_zMu9j2ilfs_xZoMG6gJdPAe1Q6Yl3X_FC_l7_vg8fvvZ_NzSdns3Yk4njD30vg9N5B6rM",
+    "sell_order_count": "3",
+    "buy_order_count": "137",
+    "lowest_sell_order": "570.00",
+    "highest_buy_order": "207.95",
+    "date_modified": 1761227984624
+  },
+  {
+    "hash_name": "Galil AR | Aqua Terrace (Factory New)",
+    "item_nameid": 49450563,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczJfAJF6dO7kZSZnvTLIK_Uhnhu5Mx2gv2Prdj00AXh_0Y-Mjr6cYWUelc_ZA2C_Vm4wOrtg8S96Z_BzyExsyMl5GGdwUKtHdD6IA",
+    "sell_order_count": "12",
+    "buy_order_count": "182",
+    "lowest_sell_order": "279.94",
+    "highest_buy_order": "178.62",
+    "date_modified": 1761227992994
+  },
+  {
+    "hash_name": "Galil AR | Aqua Terrace (Battle-Scarred)",
+    "item_nameid": 49419473,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczJfAJF6dO7kZSZnvTLIK_Uhnhu4MBwnPCPrd30jAXn8hA6ZW2lcNOQdQU_aVnQ_Vi2lLjn0ZC6uZuYmHFr6HYr4WGdwULp-vKksg",
+    "sell_order_count": 0,
+    "buy_order_count": "74",
+    "lowest_sell_order": "0.00",
+    "highest_buy_order": "150.58",
+    "date_modified": 1761228001231
+  },
+  {
+    "hash_name": "Galil AR | Amber Fade (Well-Worn)",
+    "item_nameid": 176263254,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczJcAJE7dizq42Og_b4P7LSqWZU7Mxkh6fFptnz2g3nrxJuMW_wLIbHcwA3aQ3RrFjrle66gcPv6s7KzHo1snF2-z-DyJtLAjGu",
+    "sell_order_count": "8",
+    "buy_order_count": "3,736",
+    "lowest_sell_order": "25.18",
+    "highest_buy_order": "25.02",
+    "date_modified": 1761228009374
+  },
+  {
+    "hash_name": "Galil AR | Amber Fade (Minimal Wear)",
+    "item_nameid": 176262693,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczJcAJE7dizq42Og_b4P7LSqWdY781lxL2X9o2m2QGyqko9N2umJoKQJAE-M1DSrwW2kOa9jcW17Z7Jy3YyuSc8pSGKfUF7hxk",
+    "sell_order_count": "15",
+    "buy_order_count": "7,976",
+    "lowest_sell_order": "26.00",
+    "highest_buy_order": "24.90",
+    "date_modified": 1761228017683
+  },
+  {
+    "hash_name": "Galil AR | Amber Fade (Field-Tested)",
+    "item_nameid": 176262806,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczJcAJE7dizq42Og_b4P7LSqWZU7Mxkh6fFptnz2g3nrxJuMW_wLIbHcwA3aQ3RrFjrle66gcPv6s7KzHo1snF2-z-DyJtLAjGu",
+    "sell_order_count": "11",
+    "buy_order_count": "6,549",
+    "lowest_sell_order": "27.49",
+    "highest_buy_order": "25.69",
+    "date_modified": 1761228025830
   }
 ]
