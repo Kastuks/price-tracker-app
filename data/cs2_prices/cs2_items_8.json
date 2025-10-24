@@ -33118,27 +33118,127 @@
     "sell_order_count": "1",
     "buy_order_count": "263",
     "lowest_sell_order": "322.00",
-    "highest_buy_order": "138.02",
-    "date_modified": 1761302258851
+    "highest_buy_order": "137.68",
+    "date_modified": 1761341301302
   },
   {
     "hash_name": "SG 553 | Hazard Pay (Minimal Wear)",
     "item_nameid": 176263130,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-QD3KEyOF4j-1gSCGn20Qj52vXw9z6c32RbAV2XpF1Q-UN4Ra7x4bkPuy0tFTciYpCxC37jC1XrnE8Zorh1bo",
-    "sell_order_count": "2",
+    "sell_order_count": "3",
     "buy_order_count": "181",
-    "lowest_sell_order": "280.00",
-    "highest_buy_order": "159.50",
-    "date_modified": 1761302266978
+    "lowest_sell_order": "249.98",
+    "highest_buy_order": "159.08",
+    "date_modified": 1761341309513
   },
   {
     "hash_name": "SG 553 | Bulldozer (Well-Worn)",
     "item_nameid": 49499277,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I4M23bahhL-esA2KUyPt7_rNsGXGxkxkj4m-Dn9n7J3-fOgMkDpolE-9bthPtxIbiMuPm5wCMg41bjXKp3t_OfXM",
     "sell_order_count": "2",
-    "buy_order_count": "471",
-    "lowest_sell_order": "266.00",
-    "highest_buy_order": "148.53",
-    "date_modified": 1761302275121
+    "buy_order_count": "473",
+    "lowest_sell_order": "266.25",
+    "highest_buy_order": "154.79",
+    "date_modified": 1761341317720
+  },
+  {
+    "hash_name": "Nova | Baroque Orange (Battle-Scarred)",
+    "item_nameid": 176097425,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwiNW0OSrZqF5L6KsBmKR1_c45bgxTi2wk04isG-HyN-vJSqQPwYiXJpzQ-UO4UO6mtLnZujm4geIiJUFk3s0gJWr0A",
+    "sell_order_count": "2",
+    "buy_order_count": "2,845",
+    "lowest_sell_order": "81.68",
+    "highest_buy_order": "34.52",
+    "date_modified": 1761341325985
+  },
+  {
+    "hash_name": "MP9 | Stained Glass (Well-Worn)",
+    "item_nameid": 176097461,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_C9k_OavYapoJM-UAmaD0tF7teVgWiT9lkkj4G_dy96ueXzFOlIhCcEmTOMK4US4ltPiNu234Azai45HySz33zQJsHjMk215eQ",
+    "sell_order_count": "4",
+    "buy_order_count": "2,617",
+    "lowest_sell_order": "97.12",
+    "highest_buy_order": "69.64",
+    "date_modified": 1761341334213
+  },
+  {
+    "hash_name": "MP9 | Hydra (Battle-Scarred)",
+    "item_nameid": 176091860,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_jdk4uL3V6x0JOKSMW-VwPhv_rZqGXi2wUt_4G7Tmd2rcXrGOFcjX5YkR-9bsxm9kIDnNeK24QDXgo5bjXKpucMqn5s",
+    "sell_order_count": "47",
+    "buy_order_count": "8,186",
+    "lowest_sell_order": "5.00",
+    "highest_buy_order": "4.45",
+    "date_modified": 1761341342413
+  },
+  {
+    "hash_name": "MP7 | Teal Blossom (Well-Worn)",
+    "item_nameid": 176097325,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk7eeqV6N_JfWdMWqVxedjva9vHHzgwE8i5TmHntyoJHvEaw4lD5F5FrNesRS4m9XnNr_htVOPgopD02yg2VxxvrxI",
+    "sell_order_count": "2",
+    "buy_order_count": "820",
+    "lowest_sell_order": "148.35",
+    "highest_buy_order": "103.80",
+    "date_modified": 1761341350747
+  },
+  {
+    "hash_name": "MP7 | Teal Blossom (Battle-Scarred)",
+    "item_nameid": 176097755,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk7eeqV6N_JfWdMW-VwPhv_uU9Hn3klhgk4GqDwo34dirGbAJyWcAmQrNfthftx9GzNb7l5VaLjthbjXKpvvPLuxk",
+    "sell_order_count": "5",
+    "buy_order_count": "322",
+    "lowest_sell_order": "320.00",
+    "highest_buy_order": "103.19",
+    "date_modified": 1761341358916
+  },
+  {
+    "hash_name": "M4A1-S | Imminent Danger (Minimal Wear)",
+    "item_nameid": 176263500,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_eAMWrEwL9JpuR7WyC0miIrujqNjsGpciiVZgIpCpAjEOUPuhXuw93kZOzm4laPi4IRyij-2H9P6yc65rwCT-N7rc1sfRJu",
+    "sell_order_count": "2",
+    "buy_order_count": "208",
+    "lowest_sell_order": "1530.00",
+    "highest_buy_order": "573.67",
+    "date_modified": 1761341367111
+  },
+  {
+    "hash_name": "M4A1-S | Imminent Danger (Field-Tested)",
+    "item_nameid": 176263406,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_eAMWrEwL9JpuR7WyC0miIqtjmMj4K3cCiTbA91XJchRbEN4RnpkILiYerm5gfY34tAy332iSgauCxv4-9XBb1lpPME_lBc7Q",
+    "sell_order_count": "2",
+    "buy_order_count": "218",
+    "lowest_sell_order": "914.36",
+    "highest_buy_order": "439.69",
+    "date_modified": 1761341375431
+  },
+  {
+    "hash_name": "Desert Eagle | Sunset Storm 弐 (Minimal Wear)",
+    "item_nameid": 49431009,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-Re6FsM-ScHGqv0uZ5uu5WQyC0nQlp4DiDyov6JH7FZgAmX5N5F-RZ5hntw9HlNuPkswLa2d1NzCv63S0cvTErvbieIVxaew",
+    "sell_order_count": "4",
+    "buy_order_count": "154",
+    "lowest_sell_order": "854.77",
+    "highest_buy_order": "584.85",
+    "date_modified": 1761341383670
+  },
+  {
+    "hash_name": "Desert Eagle | Sunset Storm 壱 (Battle-Scarred)",
+    "item_nameid": 49487241,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-Re6FsM-ScHGqvw-J5v-VWRyyygwRp52_SzYz8cnLCOgRzW5RwQOZZt0TrlYC2Memz4FHa2ItMnH3633xKvzErvbgyNesyxA",
+    "sell_order_count": "2",
+    "buy_order_count": "86",
+    "lowest_sell_order": "409.02",
+    "highest_buy_order": "260.55",
+    "date_modified": 1761341391840
+  },
+  {
+    "hash_name": "CZ75-Auto | Emerald Quartz (Well-Worn)",
+    "item_nameid": 176097501,
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4s2ter1-NPGfAm6KxOpJt_NsSieMmBgjuiiI1NiueH2XaA52A8AmReYLuhPqmtLvZu3rsQHbg4gRz37-in4Y7itvsbkcEf1y5mdd0bw",
+    "sell_order_count": "2",
+    "buy_order_count": "663",
+    "lowest_sell_order": "373.54",
+    "highest_buy_order": "120.38",
+    "date_modified": 1761341400063
   }
 ]
