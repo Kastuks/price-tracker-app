@@ -28143,11 +28143,11 @@
     "hash_name": "StatTrak™ UMP-45 | Bone Pile (Field-Tested)",
     "item_nameid": 1546639,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwOP3YjZX4NCJkImKkOX1PoTThGpH5_p8j-3I4IG7i1Hi_hZkZ2H6LYPEIwA7YFiC_1DrxLzp0Z-96s-dzXBrsiQrsX-PnQv3309gGTL1eQ",
-    "sell_order_count": "37",
+    "sell_order_count": "39",
     "buy_order_count": "875",
-    "lowest_sell_order": "6.34",
+    "lowest_sell_order": "6.16",
     "highest_buy_order": "6.13",
-    "date_modified": 1764326202325
+    "date_modified": 1764365302233
   },
   {
     "hash_name": "StatTrak™ UMP-45 | Bone Pile (Factory New)",
@@ -28157,57 +28157,57 @@
     "buy_order_count": "164",
     "lowest_sell_order": "51.75",
     "highest_buy_order": "25.79",
-    "date_modified": 1764326210447
+    "date_modified": 1764365310435
   },
   {
     "hash_name": "StatTrak™ UMP-45 | Arctic Wolf (Well-Worn)",
     "item_nameid": 175967039,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJg4iCg_LLNbrfkVRc7cF4n-SPpY2l2lLtrRdsaz32JIKcIAY7aArYrlm3yei80MS1vsmdwXtkvikk4GGdwUI3jY188g",
-    "sell_order_count": "41",
-    "buy_order_count": "5,318",
+    "sell_order_count": "42",
+    "buy_order_count": "5,320",
     "lowest_sell_order": "0.78",
     "highest_buy_order": "0.60",
-    "date_modified": 1764326218578
+    "date_modified": 1764365318627
   },
   {
     "hash_name": "StatTrak™ UMP-45 | Arctic Wolf (Minimal Wear)",
     "item_nameid": 175966957,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJg4iCg_LLNbrfkVRd4cJ5nqeU9tv02FK3rkppNmD7LYCReg84Yl_RqVO5xLzrjcS9vMnOzSFksiF2-z-DyLGNX1bO",
-    "sell_order_count": "76",
-    "buy_order_count": "8,222",
-    "lowest_sell_order": "1.70",
-    "highest_buy_order": "1.47",
-    "date_modified": 1764326226705
+    "sell_order_count": "69",
+    "buy_order_count": "8,299",
+    "lowest_sell_order": "1.89",
+    "highest_buy_order": "1.46",
+    "date_modified": 1764365326762
   },
   {
     "hash_name": "StatTrak™ UMP-45 | Arctic Wolf (Field-Tested)",
     "item_nameid": 175966898,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJg4iCg_LLNbrfkVRc7cF4n-SPpY2l2lLtrRdsaz32JIKcIAY7aArYrlm3yei80MS1vsmdwXtkvikk4GGdwUI3jY188g",
-    "lowest_sell_order": "0.65",
-    "highest_buy_order": "0.64",
-    "date_modified": 1764326234834,
-    "sell_order_count": "100",
-    "buy_order_count": "13,837"
+    "lowest_sell_order": "0.86",
+    "highest_buy_order": "0.65",
+    "date_modified": 1764365334920,
+    "sell_order_count": "94",
+    "buy_order_count": "13,951"
   },
   {
     "hash_name": "StatTrak™ UMP-45 | Arctic Wolf (Factory New)",
     "item_nameid": 175966918,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJg4iCg_LLNbrfkVRd4cJ5nqeU9tv02FK3rkppNmD7LYCReg84Yl_RqVO5xLzrjcS9vMnOzSFksiF2-z-DyLGNX1bO",
-    "sell_order_count": "56",
-    "buy_order_count": "7,599",
-    "lowest_sell_order": "4.50",
-    "highest_buy_order": "4.31",
-    "date_modified": 1764326242974
+    "sell_order_count": "58",
+    "buy_order_count": "7,577",
+    "lowest_sell_order": "4.33",
+    "highest_buy_order": "4.28",
+    "date_modified": 1764365343041
   },
   {
     "hash_name": "StatTrak™ UMP-45 | Arctic Wolf (Battle-Scarred)",
     "item_nameid": 175966930,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJg4iCg_LLNbrfkVRZ7cRnk6fH8I2i0QS3qhBrajz2JtWTdgE4ZQ3XrgTswby605e8vZzPyHI2uSEg-z-DyEHD1vWa",
-    "sell_order_count": "32",
-    "buy_order_count": "6,723",
+    "sell_order_count": "35",
+    "buy_order_count": "6,720",
     "lowest_sell_order": "0.65",
     "highest_buy_order": "0.50",
-    "date_modified": 1764326251102
+    "date_modified": 1764365351296
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Titanium Bit (Minimal Wear)",
@@ -28217,7 +28217,7 @@
     "buy_order_count": "458",
     "lowest_sell_order": "11.75",
     "highest_buy_order": "10.21",
-    "date_modified": 1764326259235
+    "date_modified": 1764365359416
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Titanium Bit (Field-Tested)",
@@ -28227,7 +28227,7 @@
     "buy_order_count": "412",
     "lowest_sell_order": "14.08",
     "highest_buy_order": "12.10",
-    "date_modified": 1764326267371
+    "date_modified": 1764365367579
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Titanium Bit (Factory New)",
@@ -28237,267 +28237,267 @@
     "buy_order_count": "545",
     "lowest_sell_order": "14.73",
     "highest_buy_order": "13.01",
-    "date_modified": 1764326275505
+    "date_modified": 1764365375833
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Snek-9 (Well-Worn)",
     "item_nameid": 175999968,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b08-4lYuOqPrxN7LEmyUHupck3O-Tptr2jFDs_xVpMDj7IIKdIQI-ZlzY-1i7ybvp1pe-vp-f1zI97Q_BwMDO",
-    "sell_order_count": "123",
+    "sell_order_count": "119",
     "buy_order_count": "9,453",
-    "lowest_sell_order": "0.38",
+    "lowest_sell_order": "0.39",
     "highest_buy_order": "0.31",
-    "date_modified": 1764326283627
+    "date_modified": 1764365384039
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Snek-9 (Minimal Wear)",
     "item_nameid": 175999920,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b08-4lYuOqPv9NLPF2DgF7JAm3rDCod-g2wKx_hJta230IIXDdVU4Zg3ZqAK3wby6hpW9usjXiSw0CSL5JCA",
-    "sell_order_count": "66",
+    "sell_order_count": "64",
     "buy_order_count": "7,427",
-    "lowest_sell_order": "1.08",
+    "lowest_sell_order": "1.19",
     "highest_buy_order": "1.03",
-    "date_modified": 1764326291757
+    "date_modified": 1764365392162
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Snek-9 (Field-Tested)",
     "item_nameid": 175999999,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b08-4lYuOqPrxN7LEmyUHupck3O-Tptr2jFDs_xVpMDj7IIKdIQI-ZlzY-1i7ybvp1pe-vp-f1zI97Q_BwMDO",
-    "sell_order_count": "175",
-    "buy_order_count": "13,127",
-    "lowest_sell_order": "0.52",
-    "highest_buy_order": "0.48",
-    "date_modified": 1764326299880
+    "sell_order_count": "166",
+    "buy_order_count": "13,137",
+    "lowest_sell_order": "0.54",
+    "highest_buy_order": "0.47",
+    "date_modified": 1764365400306
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Snek-9 (Factory New)",
     "item_nameid": 176000080,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b08-4lYuOqPv9NLPF2DgF7JAm3rDCod-g2wKx_hJta230IIXDdVU4Zg3ZqAK3wby6hpW9usjXiSw0CSL5JCA",
     "sell_order_count": "31",
-    "buy_order_count": "4,853",
-    "lowest_sell_order": "4.60",
+    "buy_order_count": "4,854",
+    "lowest_sell_order": "4.68",
     "highest_buy_order": "4.26",
-    "date_modified": 1764326308005
+    "date_modified": 1764365408440
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Snek-9 (Battle-Scarred)",
     "item_nameid": 175999929,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b08-4lYuOqP_xMq3I2G4GsJYoj7jDoN6kjVLk_0c-ZDrwcNecdwM7NV7Q81m-k7zn0J7q7prXiSw08KRWVZk",
-    "sell_order_count": "54",
-    "buy_order_count": "6,087",
-    "lowest_sell_order": "0.32",
-    "highest_buy_order": "0.28",
-    "date_modified": 1764326316140
+    "sell_order_count": "57",
+    "buy_order_count": "6,084",
+    "lowest_sell_order": "0.31",
+    "highest_buy_order": "0.27",
+    "date_modified": 1764365416743
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Slag (Well-Worn)",
     "item_nameid": 176414086,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjh01vCRTjdX4tevlZKPqPL6NLLfk25D4ct2teTE8YXghRrt8hY6Yzj7JI_BdVQ3ZV3S-1G4w-fq0Z65uJrKwXNrvCYrs3yIyhW3n1gSOX0oSLLc",
-    "sell_order_count": "441",
-    "buy_order_count": "15,173",
-    "lowest_sell_order": "0.14",
+    "sell_order_count": "445",
+    "buy_order_count": "15,167",
+    "lowest_sell_order": "0.15",
     "highest_buy_order": "0.12",
-    "date_modified": 1764326324374
+    "date_modified": 1764365424885
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Slag (Minimal Wear)",
     "item_nameid": 176414097,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjh01vCRTjdX4tevlZKPqPL6NLLfk25D4ct2teXI8oThxg3sqUppZzrxJ4SVewRoMFHU8gW4ku69gZDo75mcz3oysnNztHjbnBCpwUYb_AiXdm0",
-    "sell_order_count": "493",
-    "buy_order_count": "8,344",
-    "lowest_sell_order": "0.30",
+    "sell_order_count": "494",
+    "buy_order_count": "8,321",
+    "lowest_sell_order": "0.29",
     "highest_buy_order": "0.28",
-    "date_modified": 1764326332500
+    "date_modified": 1764365433051
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Slag (Field-Tested)",
     "item_nameid": 176414058,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjh01vCRTjdX4tevlZKPqPL6NLLfk25D4ct2teTE8YXghRrt8hY6Yzj7JI_BdVQ3ZV3S-1G4w-fq0Z65uJrKwXNrvCYrs3yIyhW3n1gSOX0oSLLc",
-    "sell_order_count": "639",
-    "buy_order_count": "21,259",
-    "lowest_sell_order": "0.16",
+    "sell_order_count": "672",
+    "buy_order_count": "21,224",
+    "lowest_sell_order": "0.15",
     "highest_buy_order": "0.14",
-    "date_modified": 1764326340637
+    "date_modified": 1764365441182
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Slag (Factory New)",
     "item_nameid": 176414152,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjh01vCRTjdX4tevlZKPqPL6NLLfk25D4ct2teXI8oThxg3sqUppZzrxJ4SVewRoMFHU8gW4ku69gZDo75mcz3oysnNztHjbnBCpwUYb_AiXdm0",
-    "sell_order_count": "73",
-    "buy_order_count": "22,073",
-    "lowest_sell_order": "1.06",
+    "sell_order_count": "66",
+    "buy_order_count": "22,060",
+    "lowest_sell_order": "1.26",
     "highest_buy_order": "0.98",
-    "date_modified": 1764326348788
+    "date_modified": 1764365449342
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Slag (Battle-Scarred)",
     "item_nameid": 176414129,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjh01vCRTjdX4tevlZKPqPL6NLLfk25D4ct2teHE9JrsxgPkrhY_Mmz1LNDDe1VvMl3T_Vm8lOnpg5Dt6p_KwXVg7iMqtn2PyUGpwUYbkR2h3bU",
-    "sell_order_count": "323",
-    "buy_order_count": "15,971",
+    "sell_order_count": "325",
+    "buy_order_count": "15,860",
     "lowest_sell_order": "0.14",
-    "highest_buy_order": "0.13",
-    "date_modified": 1764326356922
+    "highest_buy_order": "0.12",
+    "date_modified": 1764365457469
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Sandstorm (Well-Worn)",
     "item_nameid": 7179481,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b08-3moSYg_jmPoTck29Y_cg_jOvArNjz0Vbh-0drN26gLdWQcABsZF3Y_1TswunmgZ6-u8udnXtjvT5iuyiy6ENJ0Q",
-    "sell_order_count": "38",
-    "buy_order_count": "2,864",
-    "lowest_sell_order": "1.22",
+    "sell_order_count": "32",
+    "buy_order_count": "2,853",
+    "lowest_sell_order": "1.38",
     "highest_buy_order": "1.04",
-    "date_modified": 1764326365052
+    "date_modified": 1764365465612
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Sandstorm (Minimal Wear)",
     "item_nameid": 7178723,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b08-3moSYg_jmPoTdn2xZ_It3j72Zot7w3w238xVpZGyncICUdAFtMAqGq1G8yeju0ce_u8ubnSc2pGB8sq8x5pLM",
     "sell_order_count": "77",
-    "buy_order_count": "4,324",
-    "lowest_sell_order": "4.57",
+    "buy_order_count": "4,322",
+    "lowest_sell_order": "4.56",
     "highest_buy_order": "3.96",
-    "date_modified": 1764326373183
+    "date_modified": 1764365473735
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Sandstorm (Field-Tested)",
     "item_nameid": 7178658,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b08-3moSYg_jmPoTck29Y_cg_jOvArNjz0Vbh-0drN26gLdWQcABsZF3Y_1TswunmgZ6-u8udnXtjvT5iuyiy6ENJ0Q",
     "sell_order_count": "487",
-    "buy_order_count": "28,138",
-    "lowest_sell_order": "0.82",
+    "buy_order_count": "28,208",
+    "lowest_sell_order": "0.81",
     "highest_buy_order": "0.77",
-    "date_modified": 1764326381358
+    "date_modified": 1764365481880
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Sandstorm (Battle-Scarred)",
     "item_nameid": 7178638,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b08-3moSYg_jmPoTZk2pH8Ytz0-vD9tv02A3m-xJlNj2gIYGSJgY9YV2FqwW5l-y-hsC0u8-byHJjpGB8slMFHggC",
-    "sell_order_count": "171",
-    "buy_order_count": "4,685",
-    "lowest_sell_order": "0.60",
-    "highest_buy_order": "0.51",
-    "date_modified": 1764326389502
+    "sell_order_count": "170",
+    "buy_order_count": "4,684",
+    "lowest_sell_order": "0.59",
+    "highest_buy_order": "0.52",
+    "date_modified": 1764365490023
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Rebel (Well-Worn)",
     "item_nameid": 176358830,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09qkkYWPmPrLPr7Vn35cppUjjr6Y8Nrw3FDtqkY_a2vwJYeUdAA6NwnY-lS9lObvjZe66p2YyXF9-n517zeAlqU",
-    "sell_order_count": "476",
-    "buy_order_count": "15,890",
-    "lowest_sell_order": "0.12",
+    "sell_order_count": "478",
+    "buy_order_count": "16,197",
+    "lowest_sell_order": "0.13",
     "highest_buy_order": "0.11",
-    "date_modified": 1764326397676
+    "date_modified": 1764365498143
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Rebel (Minimal Wear)",
     "item_nameid": 176358905,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09qkkYWPmPrLP7LWnn8fu8Ehib6V8drziw3nrUdqMm7ydYaUdVI-YF_S_VPqwL28hJ_pvZuawGwj5Hc-6dAL4Q",
-    "sell_order_count": "358",
-    "buy_order_count": "14,907",
-    "lowest_sell_order": "0.26",
+    "sell_order_count": "352",
+    "buy_order_count": "14,937",
+    "lowest_sell_order": "0.27",
     "highest_buy_order": "0.25",
-    "date_modified": 1764326405797
+    "date_modified": 1764365506277
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Rebel (Field-Tested)",
     "item_nameid": 176358873,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09qkkYWPmPrLPr7Vn35cppUjjr6Y8Nrw3FDtqkY_a2vwJYeUdAA6NwnY-lS9lObvjZe66p2YyXF9-n517zeAlqU",
-    "sell_order_count": "721",
-    "buy_order_count": "33,816",
+    "sell_order_count": "708",
+    "buy_order_count": "33,957",
     "lowest_sell_order": "0.14",
     "highest_buy_order": "0.12",
-    "date_modified": 1764326413991
+    "date_modified": 1764365514424
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Rebel (Factory New)",
     "item_nameid": 176358884,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09qkkYWPmPrLP7LWnn8fu8Ehib6V8drziw3nrUdqMm7ydYaUdVI-YF_S_VPqwL28hJ_pvZuawGwj5Hc-6dAL4Q",
-    "sell_order_count": "86",
-    "buy_order_count": "7,403",
-    "lowest_sell_order": "0.97",
+    "sell_order_count": "87",
+    "buy_order_count": "7,399",
+    "lowest_sell_order": "0.99",
     "highest_buy_order": "0.96",
-    "date_modified": 1764326422156
+    "date_modified": 1764365522567
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Rebel (Battle-Scarred)",
     "item_nameid": 176358854,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09qkkYWPmPrLO77QgHIfu5B1jL7AptSm31Ll-kBvN230JYCTewc2YwzZ-wC_kOnqjJ64uJXNyWwj5HcycfcxJg",
-    "sell_order_count": "299",
-    "buy_order_count": "14,767",
-    "lowest_sell_order": "0.13",
+    "sell_order_count": "297",
+    "buy_order_count": "14,747",
+    "lowest_sell_order": "0.12",
     "highest_buy_order": "0.11",
-    "date_modified": 1764326430355
+    "date_modified": 1764365530695
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Re-Entry (Well-Worn)",
     "item_nameid": 149887258,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD4b086zkIKHluTgDLbUkmJE5Ysoj-jHo9zw3Fbk8kFlZWChd4WScAU2ZA3U_gXow-vtgpLo7svBznVrpGB8sls2sxDi",
     "sell_order_count": "8",
-    "buy_order_count": "1,507",
+    "buy_order_count": "1,506",
     "lowest_sell_order": "2.39",
     "highest_buy_order": "2.36",
-    "date_modified": 1764326438476
+    "date_modified": 1764365538824
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Re-Entry (Minimal Wear)",
     "item_nameid": 149869075,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD4b086zkIKHluTgDLfYkWNFpsYm07jDoIj23ASw_RJrY276IdWScQY_Y1jRqFLolOvq1JK578ibyXN9-n51LxUvEdQ",
-    "sell_order_count": "72",
-    "buy_order_count": "5,492",
-    "lowest_sell_order": "2.41",
-    "highest_buy_order": "2.26",
-    "date_modified": 1764326446596
+    "sell_order_count": "67",
+    "buy_order_count": "5,498",
+    "lowest_sell_order": "2.85",
+    "highest_buy_order": "2.27",
+    "date_modified": 1764365546946
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Re-Entry (Field-Tested)",
     "item_nameid": 149882124,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD4b086zkIKHluTgDLbUkmJE5Ysoj-jHo9zw3Fbk8kFlZWChd4WScAU2ZA3U_gXow-vtgpLo7svBznVrpGB8sls2sxDi",
-    "sell_order_count": "38",
-    "buy_order_count": "5,995",
-    "lowest_sell_order": "2.21",
+    "sell_order_count": "39",
+    "buy_order_count": "6,012",
+    "lowest_sell_order": "2.20",
     "highest_buy_order": "2.16",
-    "date_modified": 1764326454727
+    "date_modified": 1764365555085
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Re-Entry (Factory New)",
     "item_nameid": 149869076,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD4b086zkIKHluTgDLfYkWNFpsYm07jDoIj23ASw_RJrY276IdWScQY_Y1jRqFLolOvq1JK578ibyXN9-n51LxUvEdQ",
     "sell_order_count": "47",
-    "buy_order_count": "4,836",
+    "buy_order_count": "4,834",
     "lowest_sell_order": "5.79",
     "highest_buy_order": "5.45",
-    "date_modified": 1764326462863
+    "date_modified": 1764365563219
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Jambiya (Well-Worn)",
     "item_nameid": 139654827,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09a3mYKCjvbLPr7Vn35cppx03OuQodrw3Aa380pvZDr7JNPGIAJrNwuF_1m8wb3nhp6475vKzHZ9-n515G_59fE",
-    "sell_order_count": "50",
+    "sell_order_count": "49",
     "buy_order_count": "4,747",
-    "lowest_sell_order": "0.49",
+    "lowest_sell_order": "0.51",
     "highest_buy_order": "0.47",
-    "date_modified": 1764326470988
+    "date_modified": 1764365571343
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Jambiya (Minimal Wear)",
     "item_nameid": 139673163,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09a3mYKCjvbLP7LWnn8f65J03b-Vp93xjgPl-xZpZGGlctSQdAM-M13W-1m9k-69hZW_us6by2wj5HfId4vF5g",
-    "sell_order_count": "63",
-    "buy_order_count": "4,294",
-    "lowest_sell_order": "1.57",
+    "sell_order_count": "61",
+    "buy_order_count": "4,293",
+    "lowest_sell_order": "1.66",
     "highest_buy_order": "1.56",
-    "date_modified": 1764326479106
+    "date_modified": 1764365579462
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Jambiya (Field-Tested)",
     "item_nameid": 139673161,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09a3mYKCjvbLPr7Vn35cppx03OuQodrw3Aa380pvZDr7JNPGIAJrNwuF_1m8wb3nhp6475vKzHZ9-n515G_59fE",
     "sell_order_count": "104",
-    "buy_order_count": "7,522",
-    "lowest_sell_order": "0.83",
-    "highest_buy_order": "0.80",
-    "date_modified": 1764326487229
+    "buy_order_count": "7,507",
+    "lowest_sell_order": "0.86",
+    "highest_buy_order": "0.78",
+    "date_modified": 1764365587579
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Jambiya (Factory New)",
@@ -28507,207 +28507,207 @@
     "buy_order_count": "3,415",
     "lowest_sell_order": "5.80",
     "highest_buy_order": "5.45",
-    "date_modified": 1764326495354
+    "date_modified": 1764365595740
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Jambiya (Battle-Scarred)",
     "item_nameid": 139673162,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09a3mYKCjvbLO77QgHIfupEhiL_CpI30iwS2_RU5am_yItDEJgFrN1zX-FW2k-bv0J7t78ucmGwj5HeLPq9_oQ",
-    "sell_order_count": "51",
-    "buy_order_count": "3,896",
-    "lowest_sell_order": "0.60",
+    "sell_order_count": "54",
+    "buy_order_count": "3,894",
+    "lowest_sell_order": "0.59",
     "highest_buy_order": "0.43",
-    "date_modified": 1764326503531
+    "date_modified": 1764365603866
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Isaac (Well-Worn)",
     "item_nameid": 8989589,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b092lnYmGmOHLPr7Vn35cpsMm0rmTpYj2ilft-UFoN2qiLYSSdAU3M1iFq1e-xuvmhZ-1tJTIz3p9-n51sW043UI",
     "sell_order_count": "102",
-    "buy_order_count": "5,960",
+    "buy_order_count": "5,975",
     "lowest_sell_order": "2.88",
-    "highest_buy_order": "2.77",
-    "date_modified": 1764326511666
+    "highest_buy_order": "2.79",
+    "date_modified": 1764365612007
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Isaac (Minimal Wear)",
     "item_nameid": 8988688,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b092lnYmGmOHLP7LWnn8fsMQm3rHA8N30igDlqEdrMm6mcYecelBsZQqCqFO9lLq-hpe8tJzMzmwj5HfUZ5uBQA",
-    "sell_order_count": "120",
-    "buy_order_count": "3,231",
-    "lowest_sell_order": "7.75",
-    "highest_buy_order": "7.50",
-    "date_modified": 1764326519835
+    "sell_order_count": "119",
+    "buy_order_count": "3,219",
+    "lowest_sell_order": "7.77",
+    "highest_buy_order": "7.09",
+    "date_modified": 1764365620137
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Isaac (Field-Tested)",
     "item_nameid": 8988653,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b092lnYmGmOHLPr7Vn35cpsMm0rmTpYj2ilft-UFoN2qiLYSSdAU3M1iFq1e-xuvmhZ-1tJTIz3p9-n51sW043UI",
-    "sell_order_count": "89",
-    "buy_order_count": "10,546",
-    "lowest_sell_order": "4.20",
-    "highest_buy_order": "4.15",
-    "date_modified": 1764326528003
+    "sell_order_count": "91",
+    "buy_order_count": "10,550",
+    "lowest_sell_order": "4.21",
+    "highest_buy_order": "4.16",
+    "date_modified": 1764365628280
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Isaac (Factory New)",
     "item_nameid": 8990343,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b092lnYmGmOHLP7LWnn8fsMQm3rHA8N30igDlqEdrMm6mcYecelBsZQqCqFO9lLq-hpe8tJzMzmwj5HfUZ5uBQA",
-    "sell_order_count": "33",
-    "buy_order_count": "355",
+    "sell_order_count": "31",
+    "buy_order_count": "354",
     "lowest_sell_order": "37.38",
     "highest_buy_order": "36.01",
-    "date_modified": 1764326536155
+    "date_modified": 1764365636528
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Isaac (Battle-Scarred)",
     "item_nameid": 8989590,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b092lnYmGmOHLO77QgHIfvZQgju-VpdXw3gHt8xdtMDvyJoKTdVQ2NAzY-1nvkO3t0Z6_vpjJzWwj5He8DLHyAw",
-    "sell_order_count": "72",
-    "buy_order_count": "2,196",
-    "lowest_sell_order": "2.41",
-    "highest_buy_order": "2.36",
-    "date_modified": 1764326544284
+    "sell_order_count": "69",
+    "buy_order_count": "2,218",
+    "lowest_sell_order": "2.49",
+    "highest_buy_order": "2.42",
+    "date_modified": 1764365644669
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Ice Cap (Well-Worn)",
     "item_nameid": 156113474,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tck29Y_cg_jrHH9oii2wO1-kE9Mmj0JNORJgRsZF3Y_QK5kujq18S66Z3NmyFm6T5iuyjBU2qPZg",
     "sell_order_count": "28",
-    "buy_order_count": "2,156",
+    "buy_order_count": "2,150",
     "lowest_sell_order": "0.38",
     "highest_buy_order": "0.36",
-    "date_modified": 1764326552412
+    "date_modified": 1764365652788
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Ice Cap (Minimal Wear)",
     "item_nameid": 156113456,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
-    "sell_order_count": "102",
-    "buy_order_count": "6,645",
-    "lowest_sell_order": "1.32",
-    "highest_buy_order": "1.30",
-    "date_modified": 1764326560545
+    "sell_order_count": "103",
+    "buy_order_count": "6,615",
+    "lowest_sell_order": "1.40",
+    "highest_buy_order": "1.31",
+    "date_modified": 1764365660909
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Ice Cap (Field-Tested)",
     "item_nameid": 156113514,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tck29Y_cg_jrHH9oii2wO1-kE9Mmj0JNORJgRsZF3Y_QK5kujq18S66Z3NmyFm6T5iuyjBU2qPZg",
-    "sell_order_count": "197",
-    "buy_order_count": "9,828",
+    "sell_order_count": "190",
+    "buy_order_count": "9,810",
     "lowest_sell_order": "0.38",
     "highest_buy_order": "0.34",
-    "date_modified": 1764326568708
+    "date_modified": 1764365669127
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Ice Cap (Factory New)",
     "item_nameid": 156113524,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4Tdn2xZ_It33r_Erd6g31Dg-0Q_N2umI9OXd1A2NQnZ81nqwLi7hZO_vZibmiM2pGB8svEKqPtn",
-    "sell_order_count": "85",
-    "buy_order_count": "7,366",
-    "lowest_sell_order": "2.44",
+    "sell_order_count": "86",
+    "buy_order_count": "7,463",
+    "lowest_sell_order": "2.42",
     "highest_buy_order": "2.36",
-    "date_modified": 1764326576869
+    "date_modified": 1764365677283
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Ice Cap (Battle-Scarred)",
     "item_nameid": 156140136,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD59teOlkYG0hPb4J4TZk2pH8Ysk3r2W8Nz30AHi-0ptYDihctKTJFRsMFmCqVG7xu7mjJe-78-cn3ZmpGB8svulqfnm",
-    "sell_order_count": "22",
-    "buy_order_count": "1,616",
-    "lowest_sell_order": "0.37",
+    "sell_order_count": "24",
+    "buy_order_count": "1,614",
+    "lowest_sell_order": "0.36",
     "highest_buy_order": "0.31",
-    "date_modified": 1764326585002
+    "date_modified": 1764365685411
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Fuel Injector (Well-Worn)",
     "item_nameid": 165027675,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b08-jhIWZlP_1IbzUklRc7cF4n-SPoIj2ilDsqUI9YT-ictDAJwRtM1qF_FC_wLzv0561vcmYyiQxviIjtGGdwUK6qqUWfQ",
-    "sell_order_count": "20",
+    "sell_order_count": "22",
     "buy_order_count": "4,506",
-    "lowest_sell_order": "11.45",
-    "highest_buy_order": "11.12",
-    "date_modified": 1764326593127
+    "lowest_sell_order": "11.33",
+    "highest_buy_order": "11.27",
+    "date_modified": 1764365693653
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Fuel Injector (Minimal Wear)",
     "item_nameid": 165065106,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b08-jhIWZlP_1IbzUklRd4cJ5nqeXrN2g0QG2qBBlYmHxJ4XGcVU7YlCE_Vbox726gpW5vs_AnCBhvikn-z-DyGApVKPW",
     "sell_order_count": "17",
-    "buy_order_count": "2,050",
-    "lowest_sell_order": "26.36",
+    "buy_order_count": "2,033",
+    "lowest_sell_order": "24.32",
     "highest_buy_order": "23.77",
-    "date_modified": 1764326601264
+    "date_modified": 1764365701828
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Fuel Injector (Field-Tested)",
     "item_nameid": 165030997,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b08-jhIWZlP_1IbzUklRc7cF4n-SPoIj2ilDsqUI9YT-ictDAJwRtM1qF_FC_wLzv0561vcmYyiQxviIjtGGdwUK6qqUWfQ",
-    "sell_order_count": "25",
-    "buy_order_count": "3,814",
-    "lowest_sell_order": "13.80",
-    "highest_buy_order": "13.74",
-    "date_modified": 1764326609401
+    "sell_order_count": "23",
+    "buy_order_count": "3,816",
+    "lowest_sell_order": "15.02",
+    "highest_buy_order": "13.76",
+    "date_modified": 1764365709988
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Fuel Injector (Factory New)",
     "item_nameid": 165100544,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b08-jhIWZlP_1IbzUklRd4cJ5nqeXrN2g0QG2qBBlYmHxJ4XGcVU7YlCE_Vbox726gpW5vs_AnCBhvikn-z-DyGApVKPW",
-    "sell_order_count": "15",
-    "buy_order_count": "902",
+    "sell_order_count": "14",
+    "buy_order_count": "899",
     "lowest_sell_order": "73.22",
-    "highest_buy_order": "64.09",
-    "date_modified": 1764326617550
+    "highest_buy_order": "64.18",
+    "date_modified": 1764365718152
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Fuel Injector (Battle-Scarred)",
     "item_nameid": 165031028,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b08-jhIWZlP_1IbzUklRZ7cRnk6eS9Img2Vbh_0Rkam7wJ4eccFA7Yg6D_lm-wO_thp60uJ_OznZq7nEn-z-DyJdhKAkJ",
-    "sell_order_count": "39",
-    "buy_order_count": "3,890",
-    "lowest_sell_order": "10.15",
-    "highest_buy_order": "9.73",
-    "date_modified": 1764326625684
+    "sell_order_count": "34",
+    "buy_order_count": "3,880",
+    "lowest_sell_order": "10.48",
+    "highest_buy_order": "9.90",
+    "date_modified": 1764365726283
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Fubar (Well-Worn)",
     "item_nameid": 176024878,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09qjloGZqPrxN7LEmyUEu8YpjL2V8dqk2FLh-0BlNWqmLIeXcwI6Yl2F_QPvlLy7hJ696cnB1zI97f6uDaeH",
-    "sell_order_count": "136",
-    "buy_order_count": "14,634",
+    "sell_order_count": "139",
+    "buy_order_count": "14,626",
     "lowest_sell_order": "0.20",
     "highest_buy_order": "0.16",
-    "date_modified": 1764326633818
+    "date_modified": 1764365734412
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Fubar (Minimal Wear)",
     "item_nameid": 176025195,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09qjloGZqPv9NLPF2D5S7pR00rrC8dyj2gfgrkU_ZjyiJoScIQA_YlvY_QO7kO_ugMO4tJjXiSw0KBPi4MQ",
-    "sell_order_count": "20",
+    "sell_order_count": "21",
     "buy_order_count": "2,763",
-    "lowest_sell_order": "3.17",
+    "lowest_sell_order": "3.14",
     "highest_buy_order": "3.06",
-    "date_modified": 1764326642031
+    "date_modified": 1764365742576
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Fubar (Field-Tested)",
     "item_nameid": 176024873,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09qjloGZqPrxN7LEmyUEu8YpjL2V8dqk2FLh-0BlNWqmLIeXcwI6Yl2F_QPvlLy7hJ696cnB1zI97f6uDaeH",
-    "sell_order_count": "74",
-    "buy_order_count": "26,577",
-    "lowest_sell_order": "0.47",
-    "highest_buy_order": "0.42",
-    "date_modified": 1764326650155
+    "sell_order_count": "103",
+    "buy_order_count": "26,553",
+    "lowest_sell_order": "0.39",
+    "highest_buy_order": "0.30",
+    "date_modified": 1764365750692
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Fubar (Battle-Scarred)",
     "item_nameid": 176024778,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09qjloGZqP_xMq3I2D0Jucci3r6R8YikjQSw-hduZW32d9PDdwI7NQ2Er1G8wOi8g8Dpu5TXiSw0R2v0Wxs",
-    "sell_order_count": "383",
-    "buy_order_count": "23,512",
+    "sell_order_count": "379",
+    "buy_order_count": "23,540",
     "lowest_sell_order": "0.15",
     "highest_buy_order": "0.14",
-    "date_modified": 1764326658314
+    "date_modified": 1764365758821
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Flash Out (Well-Worn)",
@@ -28715,49 +28715,49 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09q6lZODqPrxN7LEmyUC6pQoi-2Wo9Ws0VC2-0VpYDjzIILAcwdqYgyCrlG_kri9g5O4vJvM1zI97WQ-aWPL",
     "sell_order_count": "12",
     "buy_order_count": "7,278",
-    "lowest_sell_order": "0.59",
+    "lowest_sell_order": "0.52",
     "highest_buy_order": "0.48",
-    "date_modified": 1764326666464
+    "date_modified": 1764365766961
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Flash Out (Minimal Wear)",
     "item_nameid": 176091867,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09q6lZODqPv9NLPF2DIF7p130rHFoI_00QK3-0BtZzuhJ4fAdwA3Ml3W8ge-ku25hsW8tcvXiSw0OTIFK-o",
-    "sell_order_count": "70",
-    "buy_order_count": "11,369",
-    "lowest_sell_order": "0.60",
-    "highest_buy_order": "0.58",
-    "date_modified": 1764326674611
+    "sell_order_count": "72",
+    "buy_order_count": "11,335",
+    "lowest_sell_order": "0.58",
+    "highest_buy_order": "0.54",
+    "date_modified": 1764365775110
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Flash Out (Field-Tested)",
     "item_nameid": 176091821,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09q6lZODqPrxN7LEmyUC6pQoi-2Wo9Ws0VC2-0VpYDjzIILAcwdqYgyCrlG_kri9g5O4vJvM1zI97WQ-aWPL",
-    "sell_order_count": "158",
-    "buy_order_count": "19,308",
-    "lowest_sell_order": "0.27",
-    "highest_buy_order": "0.24",
-    "date_modified": 1764326682744
+    "sell_order_count": "156",
+    "buy_order_count": "19,314",
+    "lowest_sell_order": "0.29",
+    "highest_buy_order": "0.25",
+    "date_modified": 1764365783243
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Flash Out (Factory New)",
     "item_nameid": 176091869,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09q6lZODqPv9NLPF2DIF7p130rHFoI_00QK3-0BtZzuhJ4fAdwA3Ml3W8ge-ku25hsW8tcvXiSw0OTIFK-o",
-    "sell_order_count": "40",
-    "buy_order_count": "8,993",
-    "lowest_sell_order": "1.52",
-    "highest_buy_order": "1.41",
-    "date_modified": 1764326690967
+    "sell_order_count": "37",
+    "buy_order_count": "8,966",
+    "lowest_sell_order": "1.49",
+    "highest_buy_order": "1.40",
+    "date_modified": 1764365791369
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Flash Out (Battle-Scarred)",
     "item_nameid": 176091910,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09q6lZODqP_xMq3I2DME6Zdz27qWoImmiwbkr0JpZm2lIofBdQE7M1vR81K8xem5gZXo6MjXiSw0n51wWdY",
-    "sell_order_count": "53",
-    "buy_order_count": "8,620",
-    "lowest_sell_order": "0.26",
-    "highest_buy_order": "0.23",
-    "date_modified": 1764326699113
+    "sell_order_count": "54",
+    "buy_order_count": "8,618",
+    "lowest_sell_order": "0.27",
+    "highest_buy_order": "0.24",
+    "date_modified": 1764365799506
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Decimator (Well-Worn)",
@@ -28766,28 +28766,28 @@
     "sell_order_count": "6",
     "buy_order_count": "2,649",
     "lowest_sell_order": "39.67",
-    "highest_buy_order": "35.09",
-    "date_modified": 1764326707258
+    "highest_buy_order": "35.12",
+    "date_modified": 1764365807654
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Decimator (Minimal Wear)",
     "item_nameid": 176097167,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09izl4mGluP7IYTdn2xZ_Isk2LDD9NWii1Kx_EBqNj_zJ4PHIAY7M1HZrAW6w-rmhcDtuZnJwXUwpGB8sowd7BD4",
-    "sell_order_count": "10",
-    "buy_order_count": "2,841",
-    "lowest_sell_order": "104.62",
-    "highest_buy_order": "70.84",
-    "date_modified": 1764326715428
+    "sell_order_count": "9",
+    "buy_order_count": "2,840",
+    "lowest_sell_order": "104.65",
+    "highest_buy_order": "71.04",
+    "date_modified": 1764365815783
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Decimator (Field-Tested)",
     "item_nameid": 176097069,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09izl4mGluP7IYTck29Y_cg_ibHApYrw2FGy-EFtNWrwI9OUdwE5ZFrQ_Fe4l7q70cC5u53KzHtksj5iuyhxYPJsZQ",
-    "sell_order_count": "16",
-    "buy_order_count": "5,150",
+    "sell_order_count": "17",
+    "buy_order_count": "5,151",
     "lowest_sell_order": "37.83",
-    "highest_buy_order": "37.20",
-    "date_modified": 1764326723561
+    "highest_buy_order": "37.41",
+    "date_modified": 1764365823937
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Decimator (Factory New)",
@@ -28796,278 +28796,278 @@
     "sell_order_count": "5",
     "buy_order_count": "1,841",
     "lowest_sell_order": "208.85",
-    "highest_buy_order": "151.80",
-    "date_modified": 1764326731697
+    "highest_buy_order": "151.89",
+    "date_modified": 1764365832063
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Decimator (Battle-Scarred)",
     "item_nameid": 176096952,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09izl4mGluP7IYTZk2pH8Ysk2LmV8Iqj2Qy28xA_NmrxItWcIA43MF2G_1m4wevq1sS_7pmbn3BrpGB8sreSlwte",
-    "sell_order_count": "10",
-    "buy_order_count": "2,899",
+    "sell_order_count": "12",
+    "buy_order_count": "2,900",
     "lowest_sell_order": "38.09",
-    "highest_buy_order": "36.82",
-    "date_modified": 1764326739924
+    "highest_buy_order": "37.09",
+    "date_modified": 1764365840203
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Cut Out (Well-Worn)",
     "item_nameid": 175896306,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhhwszcdD4b09--lYyAqOf1J6_UhGVu5cB1g_zMu9qn2FfmrRJkZDyhLIGVcABrMArW_QK2xLvmjJa_tMzAznVr63Zz4nfD30vgma_ZiNk",
-    "sell_order_count": "10",
-    "buy_order_count": "1,638",
-    "lowest_sell_order": "4.14",
-    "highest_buy_order": "3.97",
-    "date_modified": 1764326748058
+    "sell_order_count": "9",
+    "buy_order_count": "1,636",
+    "lowest_sell_order": "4.17",
+    "highest_buy_order": "3.95",
+    "date_modified": 1764365848335
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Cut Out (Minimal Wear)",
     "item_nameid": 175896311,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhhwszcdD4b09--lYyAqOf1J6_UhGVu5Mx2gv2P9oqsiQHn_0U9MDzwd4fHIFBvY1DXrgS6yem6gMW7uJqcmHc36HInsWGdwUKjuMVR7w",
     "sell_order_count": "10",
-    "buy_order_count": "1,043",
+    "buy_order_count": "1,045",
     "lowest_sell_order": "8.22",
-    "highest_buy_order": "6.63",
-    "date_modified": 1764326756190
+    "highest_buy_order": "6.73",
+    "date_modified": 1764365856460
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Cut Out (Field-Tested)",
     "item_nameid": 175896328,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhhwszcdD4b09--lYyAqOf1J6_UhGVu5cB1g_zMu9qn2FfmrRJkZDyhLIGVcABrMArW_QK2xLvmjJa_tMzAznVr63Zz4nfD30vgma_ZiNk",
-    "sell_order_count": "14",
+    "sell_order_count": "13",
     "buy_order_count": "1,887",
     "lowest_sell_order": "5.67",
     "highest_buy_order": "4.95",
-    "date_modified": 1764326764313
+    "date_modified": 1764365864582
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Cut Out (Factory New)",
     "item_nameid": 175896421,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhhwszcdD4b09--lYyAqOf1J6_UhGVu5Mx2gv2P9oqsiQHn_0U9MDzwd4fHIFBvY1DXrgS6yem6gMW7uJqcmHc36HInsWGdwUKjuMVR7w",
     "sell_order_count": "5",
-    "buy_order_count": "338",
+    "buy_order_count": "339",
     "lowest_sell_order": "29.87",
-    "highest_buy_order": "16.17",
-    "date_modified": 1764326772467
+    "highest_buy_order": "16.18",
+    "date_modified": 1764365872723
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Cut Out (Battle-Scarred)",
     "item_nameid": 175896363,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhhwszcdD4b09--lYyAqOf1J6_UhGVu4MBwnPCPodv2i1Lk-0s6MT_zJNCQJwI2aFvU-Afvw-28g8PvucmbmnZmvCkh7GGdwUI_JhJXIg",
     "sell_order_count": "8",
-    "buy_order_count": "1,737",
+    "buy_order_count": "1,736",
     "lowest_sell_order": "4.95",
-    "highest_buy_order": "3.57",
-    "date_modified": 1764326780667
+    "highest_buy_order": "3.56",
+    "date_modified": 1764365880843
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Cracked Opal (Well-Worn)",
     "item_nameid": 175917336,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09-klYOAkvPLPKvQmlRc7cF4n-SP9I7z2QHg_EVsY2vxd9ORew9raA3Yr1i7lLjujJ7uu8ydmyZruygjtmGdwUI-X8mNFA",
-    "sell_order_count": "231",
-    "buy_order_count": "22,482",
-    "lowest_sell_order": "0.24",
-    "highest_buy_order": "0.20",
-    "date_modified": 1764326788888
+    "sell_order_count": "233",
+    "buy_order_count": "22,400",
+    "lowest_sell_order": "0.23",
+    "highest_buy_order": "0.19",
+    "date_modified": 1764365888977
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Cracked Opal (Minimal Wear)",
     "item_nameid": 175917325,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09-klYOAkvPLPKvQmlRd4cJ5nqeXotT30Q3n-EE6Z2ygcI-TJgM2YQnQ_ALtxe-9hpK1up6cnXJlsycq-z-DyGrIOK5I",
-    "sell_order_count": "166",
-    "buy_order_count": "12,440",
+    "sell_order_count": "160",
+    "buy_order_count": "12,457",
     "lowest_sell_order": "0.60",
     "highest_buy_order": "0.58",
-    "date_modified": 1764326797033
+    "date_modified": 1764365897124
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Cracked Opal (Field-Tested)",
     "item_nameid": 175917324,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09-klYOAkvPLPKvQmlRc7cF4n-SP9I7z2QHg_EVsY2vxd9ORew9raA3Yr1i7lLjujJ7uu8ydmyZruygjtmGdwUI-X8mNFA",
-    "sell_order_count": "215",
-    "buy_order_count": "29,535",
-    "lowest_sell_order": "0.28",
+    "sell_order_count": "216",
+    "buy_order_count": "29,519",
+    "lowest_sell_order": "0.30",
     "highest_buy_order": "0.26",
-    "date_modified": 1764326805259
+    "date_modified": 1764365905253
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Cracked Opal (Factory New)",
     "item_nameid": 175917372,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09-klYOAkvPLPKvQmlRd4cJ5nqeXotT30Q3n-EE6Z2ygcI-TJgM2YQnQ_ALtxe-9hpK1up6cnXJlsycq-z-DyGrIOK5I",
-    "sell_order_count": "43",
+    "sell_order_count": "44",
     "buy_order_count": "4,136",
     "lowest_sell_order": "3.00",
-    "highest_buy_order": "2.76",
-    "date_modified": 1764326813409
+    "highest_buy_order": "2.73",
+    "date_modified": 1764365913376
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Cracked Opal (Battle-Scarred)",
     "item_nameid": 175917308,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09-klYOAkvPLPKvQmlRZ7cRnk6eWoNzw0QDi-UZrYDuldoOcclM4ZFGC-1XrkOy915C06Z7KwCNn6Sgn-z-DyHJ01ri6",
-    "sell_order_count": "127",
-    "buy_order_count": "15,768",
+    "sell_order_count": "128",
+    "buy_order_count": "15,763",
     "lowest_sell_order": "0.25",
     "highest_buy_order": "0.21",
-    "date_modified": 1764326821534
+    "date_modified": 1764365921497
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Brother (Well-Worn)",
     "item_nameid": 176185879,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09ujkZKCm_v1DLbUkmJE5Ysoi-uZpNrz3lK1qRE9ZGulJ4PHdgI5aVGBrAe2xLq50MLtvJzJnSFqpGB8sk1_5Glq",
-    "sell_order_count": "143",
-    "buy_order_count": "19,657",
-    "lowest_sell_order": "0.70",
+    "sell_order_count": "149",
+    "buy_order_count": "19,641",
+    "lowest_sell_order": "0.63",
     "highest_buy_order": "0.58",
-    "date_modified": 1764326829651
+    "date_modified": 1764365929622
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Brother (Minimal Wear)",
     "item_nameid": 176185975,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09ujkZKCm_v1DLfYkWNFppR3jrqV9Nyl3lXnqENoNWmlIoeRJw9sZl-B8gDsw-nqg5677p7MzyR9-n51B85Ahh8",
-    "sell_order_count": "198",
-    "buy_order_count": "29,397",
-    "lowest_sell_order": "1.47",
-    "highest_buy_order": "1.31",
-    "date_modified": 1764326837854
+    "sell_order_count": "201",
+    "buy_order_count": "29,425",
+    "lowest_sell_order": "1.49",
+    "highest_buy_order": "1.32",
+    "date_modified": 1764365937790
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Brother (Field-Tested)",
     "item_nameid": 176185881,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09ujkZKCm_v1DLbUkmJE5Ysoi-uZpNrz3lK1qRE9ZGulJ4PHdgI5aVGBrAe2xLq50MLtvJzJnSFqpGB8sk1_5Glq",
-    "sell_order_count": "282",
-    "buy_order_count": "33,100",
-    "lowest_sell_order": "0.76",
-    "highest_buy_order": "0.66",
-    "date_modified": 1764326845996
+    "sell_order_count": "292",
+    "buy_order_count": "32,992",
+    "lowest_sell_order": "0.73",
+    "highest_buy_order": "0.71",
+    "date_modified": 1764365945913
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Brother (Factory New)",
     "item_nameid": 176186017,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09ujkZKCm_v1DLfYkWNFppR3jrqV9Nyl3lXnqENoNWmlIoeRJw9sZl-B8gDsw-nqg5677p7MzyR9-n51B85Ahh8",
-    "sell_order_count": "36",
-    "buy_order_count": "10,787",
-    "lowest_sell_order": "5.20",
+    "sell_order_count": "35",
+    "buy_order_count": "10,781",
+    "lowest_sell_order": "5.26",
     "highest_buy_order": "4.55",
-    "date_modified": 1764326854126
+    "date_modified": 1764365954042
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Brother (Battle-Scarred)",
     "item_nameid": 176185961,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09ujkZKCm_v1DLPUl31IppRzibjE8Ij2jQzm-ks-am_3cNWcegI6ZljQrFS4w7zm0J-_7s6dyCN9-n51F-AHa2U",
-    "sell_order_count": "116",
-    "buy_order_count": "19,961",
-    "lowest_sell_order": "0.69",
+    "sell_order_count": "117",
+    "buy_order_count": "19,895",
+    "lowest_sell_order": "0.60",
     "highest_buy_order": "0.58",
-    "date_modified": 1764326862269
+    "date_modified": 1764365962173
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Blue Titanium (Factory New)",
     "item_nameid": 1917304,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3czceClD4tWjmdPbgcj4OrzZgiUBucB007CXo9imiQ3krhdoYWnwJ4OScVM9N17Wq1Dqyefrh57uvcuc1zI97RKl-TLO",
     "sell_order_count": "80",
-    "buy_order_count": "1,015",
-    "lowest_sell_order": "7.82",
+    "buy_order_count": "1,017",
+    "lowest_sell_order": "7.70",
     "highest_buy_order": "7.33",
-    "date_modified": 1764326870423
+    "date_modified": 1764365970341
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Bamboozle (Well-Worn)",
     "item_nameid": 176042674,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b0963mYKEmMj5Nr_Yg2Yfu8EnjuuX8dyi2wbn-EJqZmH3INecdAA3MwzZrlO-ye3n05O47pyYnGwj5HdHFd1VJg",
-    "sell_order_count": "23",
-    "buy_order_count": "3,796",
-    "lowest_sell_order": "2.19",
+    "sell_order_count": "24",
+    "buy_order_count": "3,794",
+    "lowest_sell_order": "2.15",
     "highest_buy_order": "1.66",
-    "date_modified": 1764326878552
+    "date_modified": 1764365978462
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Bamboozle (Minimal Wear)",
     "item_nameid": 176042624,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b0963mYKEmMj4OrzZgiVQ7Zd03uvC9I-gi1G1_xBoMT31LIfBcFI3ZgrV_gO5yOzmh5a6upud1zI97Vaid7JV",
-    "sell_order_count": "46",
-    "buy_order_count": "6,542",
-    "lowest_sell_order": "2.72",
-    "highest_buy_order": "2.50",
-    "date_modified": 1764326886778
+    "sell_order_count": "48",
+    "buy_order_count": "6,530",
+    "lowest_sell_order": "2.59",
+    "highest_buy_order": "2.53",
+    "date_modified": 1764365986604
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Bamboozle (Field-Tested)",
     "item_nameid": 176042507,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b0963mYKEmMj5Nr_Yg2Yfu8EnjuuX8dyi2wbn-EJqZmH3INecdAA3MwzZrlO-ye3n05O47pyYnGwj5HdHFd1VJg",
-    "sell_order_count": "89",
-    "buy_order_count": "10,535",
-    "lowest_sell_order": "1.27",
-    "highest_buy_order": "1.24",
-    "date_modified": 1764326894983
+    "sell_order_count": "88",
+    "buy_order_count": "10,498",
+    "lowest_sell_order": "1.28",
+    "highest_buy_order": "1.26",
+    "date_modified": 1764365994726
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Bamboozle (Factory New)",
     "item_nameid": 176042625,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b0963mYKEmMj4OrzZgiVQ7Zd03uvC9I-gi1G1_xBoMT31LIfBcFI3ZgrV_gO5yOzmh5a6upud1zI97Vaid7JV",
-    "sell_order_count": "29",
-    "buy_order_count": "5,422",
-    "lowest_sell_order": "6.58",
+    "sell_order_count": "31",
+    "buy_order_count": "5,421",
+    "lowest_sell_order": "6.18",
     "highest_buy_order": "6.13",
-    "date_modified": 1764326903116
+    "date_modified": 1764366002867
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Bamboozle (Battle-Scarred)",
     "item_nameid": 176042511,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b0963mYKEmMj8NrrHjyVQvZZ32bjCrYqj3g3t-hVqZWyiIoOWeg5qYQ3V_lK8xOvpjcW_6Zmf1zI97c0lG7Q9",
-    "sell_order_count": "32",
-    "buy_order_count": "5,797",
-    "lowest_sell_order": "1.17",
+    "sell_order_count": "33",
+    "buy_order_count": "5,800",
+    "lowest_sell_order": "1.09",
     "highest_buy_order": "1.03",
-    "date_modified": 1764326911244
+    "date_modified": 1764366010996
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Avalanche (Well-Worn)",
     "item_nameid": 84465416,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b092glYyKmfT8NoTck29Y_cg_iLGQ8dWm2wCxrRJpZmnwIoPEdlc9MFGDrla-l-nrgce96cmbmCM3uz5iuyglY_aUIw",
-    "sell_order_count": "26",
-    "buy_order_count": "2,720",
-    "lowest_sell_order": "3.52",
+    "sell_order_count": "27",
+    "buy_order_count": "2,715",
+    "lowest_sell_order": "3.63",
     "highest_buy_order": "3.47",
-    "date_modified": 1764326919415
+    "date_modified": 1764366019127
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Avalanche (Minimal Wear)",
     "item_nameid": 84454654,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b092glYyKmfT8NoTdn2xZ_Isoj7iTrNShjQKxqUNlZz36JoWRcQBvYVvU81G8yea9hJLq6ZTBwSQ1pGB8stNRzk98",
-    "sell_order_count": "16",
-    "buy_order_count": "1,493",
-    "lowest_sell_order": "10.39",
-    "highest_buy_order": "9.20",
-    "date_modified": 1764326927530
+    "sell_order_count": "17",
+    "buy_order_count": "1,492",
+    "lowest_sell_order": "10.30",
+    "highest_buy_order": "9.24",
+    "date_modified": 1764366027265
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Avalanche (Field-Tested)",
     "item_nameid": 84454617,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b092glYyKmfT8NoTck29Y_cg_iLGQ8dWm2wCxrRJpZmnwIoPEdlc9MFGDrla-l-nrgce96cmbmCM3uz5iuyglY_aUIw",
-    "sell_order_count": "24",
-    "buy_order_count": "5,127",
-    "lowest_sell_order": "5.59",
-    "highest_buy_order": "4.38",
-    "date_modified": 1764326935656
+    "sell_order_count": "22",
+    "buy_order_count": "5,134",
+    "lowest_sell_order": "5.36",
+    "highest_buy_order": "4.46",
+    "date_modified": 1764366035412
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Avalanche (Factory New)",
     "item_nameid": 84465409,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b092glYyKmfT8NoTdn2xZ_Isoj7iTrNShjQKxqUNlZz36JoWRcQBvYVvU81G8yea9hJLq6ZTBwSQ1pGB8stNRzk98",
-    "sell_order_count": "18",
+    "sell_order_count": "17",
     "buy_order_count": "594",
-    "lowest_sell_order": "23.00",
+    "lowest_sell_order": "25.00",
     "highest_buy_order": "20.08",
-    "date_modified": 1764326943771
+    "date_modified": 1764366043555
   },
   {
     "hash_name": "StatTrak™ Tec-9 | Avalanche (Battle-Scarred)",
     "item_nameid": 84454642,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b092glYyKmfT8NoTZk2pH8YtwjOuWot-g2wy1_0BtNW73LY6cdwQ4NwqE_gW_xri5gcW77svNwSM3pGB8stkM4xtR",
-    "sell_order_count": "32",
-    "buy_order_count": "3,128",
+    "sell_order_count": "30",
+    "buy_order_count": "3,133",
     "lowest_sell_order": "3.18",
-    "highest_buy_order": "3.06",
-    "date_modified": 1764326951913
+    "highest_buy_order": "3.10",
+    "date_modified": 1764366051683
   },
   {
     "hash_name": "StatTrak™ Tacticians Music Kit Box",
@@ -29076,538 +29076,538 @@
     "sell_order_count": "6",
     "buy_order_count": "6,185",
     "lowest_sell_order": "7.51",
-    "highest_buy_order": "6.01",
-    "date_modified": 1764326960035
+    "highest_buy_order": "5.94",
+    "date_modified": 1764366059821
   },
   {
     "hash_name": "StatTrak™ Swap Tool",
     "item_nameid": 37769977,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7gNTPcUhvRpJWF7RTNu-wM7DbEl7KggZ4-ryL1Ew0PDNdT8V7Y3vxdjSw6Oka-2IkzwCsZUjj7iV99Sm3wPg810sPT79VCSvWQ",
-    "sell_order_count": "2,155",
+    "sell_order_count": "2,078",
     "buy_order_count": "24,463",
     "lowest_sell_order": "0.52",
-    "highest_buy_order": "0.49",
-    "date_modified": 1764326968167
+    "highest_buy_order": "0.48",
+    "date_modified": 1764366068040
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Turbo Peek (Well-Worn)",
     "item_nameid": 176263300,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5F09OgkZKflvzxDLbUkmJE5Ysm3r7AoYjw3waw8hFuN2uhd4XEdgU5YwuG_Ve_wuro0MO66pTImyA3pGB8skke3AaM",
     "sell_order_count": "10",
-    "buy_order_count": "5,823",
+    "buy_order_count": "5,822",
     "lowest_sell_order": "28.75",
-    "highest_buy_order": "24.46",
-    "date_modified": 1764326976331
+    "highest_buy_order": "24.67",
+    "date_modified": 1764366076165
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Turbo Peek (Minimal Wear)",
     "item_nameid": 176263122,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5F09OgkZKflvzxDLfYkWNFpsMh3rGUo47xiwGx-hBtMDv3doPEc1dsYViFqAO7lO7mhcDttc_JzSF9-n51raaoYu4",
-    "sell_order_count": "11",
-    "buy_order_count": "3,697",
-    "lowest_sell_order": "61.37",
-    "highest_buy_order": "50.96",
-    "date_modified": 1764326984476
+    "sell_order_count": "12",
+    "buy_order_count": "3,696",
+    "lowest_sell_order": "61.36",
+    "highest_buy_order": "51.19",
+    "date_modified": 1764366084292
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Turbo Peek (Field-Tested)",
     "item_nameid": 176262860,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5F09OgkZKflvzxDLbUkmJE5Ysm3r7AoYjw3waw8hFuN2uhd4XEdgU5YwuG_Ve_wuro0MO66pTImyA3pGB8skke3AaM",
-    "sell_order_count": "15",
-    "buy_order_count": "3,943",
+    "sell_order_count": "16",
+    "buy_order_count": "3,959",
     "lowest_sell_order": "29.86",
-    "highest_buy_order": "26.48",
-    "date_modified": 1764326992606
+    "highest_buy_order": "26.84",
+    "date_modified": 1764366092429
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Turbo Peek (Factory New)",
     "item_nameid": 176263042,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5F09OgkZKflvzxDLfYkWNFpsMh3rGUo47xiwGx-hBtMDv3doPEc1dsYViFqAO7lO7mhcDttc_JzSF9-n51raaoYu4",
     "sell_order_count": "13",
-    "buy_order_count": "2,458",
+    "buy_order_count": "2,461",
     "lowest_sell_order": "111.22",
-    "highest_buy_order": "93.61",
-    "date_modified": 1764327000738
+    "highest_buy_order": "93.85",
+    "date_modified": 1764366100599
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Turbo Peek (Battle-Scarred)",
     "item_nameid": 176263019,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5F09OgkZKflvzxDLPUl31IppUm2O-Z8dXz2gfnqhFvY2z7LI7Dc1A_ZQuB_Va5x-bujJPqtJnKnCF9-n51SDHhUV0",
     "sell_order_count": "10",
-    "buy_order_count": "3,358",
+    "buy_order_count": "3,355",
     "lowest_sell_order": "25.89",
-    "highest_buy_order": "25.66",
-    "date_modified": 1764327008873
+    "highest_buy_order": "25.85",
+    "date_modified": 1764366108716
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Slashed (Well-Worn)",
     "item_nameid": 8989624,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJnY2GmOXgMrfum25V4dB8xLGZp9zzjg3t-0dsa2j3JNfGdQZoYl6D_wW-w7y61sW7vZWayns36HY8pSGK_gLmvgk",
-    "sell_order_count": "154",
-    "buy_order_count": "4,635",
-    "lowest_sell_order": "1.62",
-    "highest_buy_order": "1.49",
-    "date_modified": 1764327017085
+    "sell_order_count": "152",
+    "buy_order_count": "4,654",
+    "lowest_sell_order": "1.74",
+    "highest_buy_order": "1.51",
+    "date_modified": 1764366116842
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Slashed (Field-Tested)",
     "item_nameid": 8988611,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJnY2GmOXgMrfum25V4dB8xLGZp9zzjg3t-0dsa2j3JNfGdQZoYl6D_wW-w7y61sW7vZWayns36HY8pSGK_gLmvgk",
-    "sell_order_count": "189",
-    "buy_order_count": "5,442",
-    "lowest_sell_order": "2.10",
-    "highest_buy_order": "1.91",
-    "date_modified": 1764327025238
+    "sell_order_count": "188",
+    "buy_order_count": "5,477",
+    "lowest_sell_order": "2.15",
+    "highest_buy_order": "1.95",
+    "date_modified": 1764366124971
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Slashed (Battle-Scarred)",
     "item_nameid": 8989638,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJnY2GmOXgMrfunm5Q_tw_3OuZ94330AK2-kdpNTj0cIGWJ1A2Y1HV-QS3kOju1pW-7cuYyndlvz5iuygV6xHwqw",
-    "sell_order_count": "80",
-    "buy_order_count": "1,671",
+    "sell_order_count": "81",
+    "buy_order_count": "1,666",
     "lowest_sell_order": "1.61",
     "highest_buy_order": "1.56",
-    "date_modified": 1764327033369
+    "date_modified": 1764366133110
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Rapid Transit (Well-Worn)",
     "item_nameid": 176461087,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwODPIWV9-M63mpOCg8jjO7LFk1Rc7cF4n-SP99TziQC1-EY9NTihcNOScwE_YlmC_gC9x-y7hZTv6p_Pzns1siV2sWGdwULxEOIPwg",
-    "sell_order_count": "21",
+    "sell_order_count": "23",
     "buy_order_count": "3,348",
-    "lowest_sell_order": "3.68",
+    "lowest_sell_order": "3.45",
     "highest_buy_order": "2.85",
-    "date_modified": 1764327041494
+    "date_modified": 1764366141236
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Rapid Transit (Minimal Wear)",
     "item_nameid": 176460750,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwODPIWV9-M63mpOCg8jjO7LFk1Rd4cJ5nqeYotX0jALkr0c4Z2vyJ9WQdVU_MwnWq1ntx7zrhMK675qamHs16yMq-z-DyI-XXQ19",
-    "sell_order_count": "37",
-    "buy_order_count": "6,101",
-    "lowest_sell_order": "8.25",
-    "highest_buy_order": "7.61",
-    "date_modified": 1764327049628
+    "sell_order_count": "47",
+    "buy_order_count": "6,104",
+    "lowest_sell_order": "7.72",
+    "highest_buy_order": "7.68",
+    "date_modified": 1764366149353
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Rapid Transit (Field-Tested)",
     "item_nameid": 176460584,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwODPIWV9-M63mpOCg8jjO7LFk1Rc7cF4n-SP99TziQC1-EY9NTihcNOScwE_YlmC_gC9x-y7hZTv6p_Pzns1siV2sWGdwULxEOIPwg",
-    "lowest_sell_order": "2.44",
-    "highest_buy_order": "2.15",
-    "date_modified": 1764327057764,
-    "sell_order_count": "134",
-    "buy_order_count": "8,045"
+    "lowest_sell_order": "2.65",
+    "highest_buy_order": "2.24",
+    "date_modified": 1764366157480,
+    "sell_order_count": "119",
+    "buy_order_count": "8,088"
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Rapid Transit (Factory New)",
     "item_nameid": 176460944,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwODPIWV9-M63mpOCg8jjO7LFk1Rd4cJ5nqeYotX0jALkr0c4Z2vyJ9WQdVU_MwnWq1ntx7zrhMK675qamHs16yMq-z-DyI-XXQ19",
-    "lowest_sell_order": "23.81",
-    "highest_buy_order": "18.89",
-    "date_modified": 1764327065987,
-    "sell_order_count": "23",
-    "buy_order_count": "3,449"
+    "lowest_sell_order": "20.58",
+    "highest_buy_order": "18.90",
+    "date_modified": 1764366165642,
+    "sell_order_count": "25",
+    "buy_order_count": "3,440"
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Rapid Transit (Battle-Scarred)",
     "item_nameid": 176460871,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwODPIWV9-M63mpOCg8jjO7LFk1RZ7cRnk6eTponz3FK1_RFvZjv7cdDDdwU-YA2E_la2wu2-15-5uZTOmydr6Skl-z-DyNcfG62T",
-    "sell_order_count": "13",
-    "buy_order_count": "3,746",
-    "lowest_sell_order": "2.19",
-    "highest_buy_order": "2.11",
-    "date_modified": 1764327074133
+    "sell_order_count": "6",
+    "buy_order_count": "3,757",
+    "lowest_sell_order": "2.53",
+    "highest_buy_order": "2.16",
+    "date_modified": 1764366173765
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Parallax (Well-Worn)",
     "item_nameid": 176209561,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJl4iZmPr1J7LSqWZU7Mxkh6eS9NSgjFXi_hY_ZW-hIo7BIQM4YwzW-VO3xrvp15a7vs_AwHBk6HNz-z-DyNOZu79Y",
-    "sell_order_count": "39",
-    "buy_order_count": "8,465",
-    "lowest_sell_order": "3.68",
-    "highest_buy_order": "3.64",
-    "date_modified": 1764327082279
+    "sell_order_count": "34",
+    "buy_order_count": "8,467",
+    "lowest_sell_order": "3.50",
+    "highest_buy_order": "3.41",
+    "date_modified": 1764366181902
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Parallax (Minimal Wear)",
     "item_nameid": 176209326,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJl4iZmPr1J7LSqWdY781lxL6S8Iqh0FDm8hVtNWmid4OXdA8-Z1CF_VK4wuy5jJO_6MvMyHVquyk8pSGKeqs6Ueg",
-    "sell_order_count": "31",
-    "buy_order_count": "5,100",
-    "lowest_sell_order": "9.35",
-    "highest_buy_order": "9.06",
-    "date_modified": 1764327090417
+    "sell_order_count": "27",
+    "buy_order_count": "5,099",
+    "lowest_sell_order": "9.44",
+    "highest_buy_order": "8.93",
+    "date_modified": 1764366190021
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Parallax (Field-Tested)",
     "item_nameid": 176209536,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJl4iZmPr1J7LSqWZU7Mxkh6eS9NSgjFXi_hY_ZW-hIo7BIQM4YwzW-VO3xrvp15a7vs_AwHBk6HNz-z-DyNOZu79Y",
-    "sell_order_count": "43",
-    "buy_order_count": "7,901",
-    "lowest_sell_order": "4.80",
-    "highest_buy_order": "4.09",
-    "date_modified": 1764327098540
+    "sell_order_count": "42",
+    "buy_order_count": "7,903",
+    "lowest_sell_order": "4.85",
+    "highest_buy_order": "4.10",
+    "date_modified": 1764366198171
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Parallax (Factory New)",
     "item_nameid": 176209570,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJl4iZmPr1J7LSqWdY781lxL6S8Iqh0FDm8hVtNWmid4OXdA8-Z1CF_VK4wuy5jJO_6MvMyHVquyk8pSGKeqs6Ueg",
-    "sell_order_count": "13",
-    "buy_order_count": "2,884",
-    "lowest_sell_order": "27.16",
-    "highest_buy_order": "20.55",
-    "date_modified": 1764327106665
+    "sell_order_count": "14",
+    "buy_order_count": "2,886",
+    "lowest_sell_order": "27.14",
+    "highest_buy_order": "20.59",
+    "date_modified": 1764366206329
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Parallax (Battle-Scarred)",
     "item_nameid": 176209564,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJl4iZmPr1J7LSqWNU6dNoxOzD89v3iQCxqkY-ZmzwctKSdwJvZV_U-lHqk-jrhMK8vZzKynJjs3U8pSGKknYiAwQ",
-    "sell_order_count": "41",
-    "buy_order_count": "7,690",
-    "lowest_sell_order": "3.63",
+    "sell_order_count": "34",
+    "buy_order_count": "7,669",
+    "lowest_sell_order": "3.61",
     "highest_buy_order": "3.56",
-    "date_modified": 1764327114794
+    "date_modified": 1764366214447
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Necropos (Well-Worn)",
     "item_nameid": 139654828,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJmoWIhfjkPKjum25V4dB8xL6R9o2m3wS2_UBpZWH1LYLGe1c_Y1zZ_VHokO-5gsC0tJubmHVk7iU8pSGKrbd3IkU",
-    "sell_order_count": "82",
-    "buy_order_count": "5,964",
-    "lowest_sell_order": "0.70",
-    "highest_buy_order": "0.65",
-    "date_modified": 1764327122921
+    "sell_order_count": "75",
+    "buy_order_count": "5,973",
+    "lowest_sell_order": "0.80",
+    "highest_buy_order": "0.58",
+    "date_modified": 1764366222567
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Necropos (Minimal Wear)",
     "item_nameid": 139673155,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJmoWIhfjkPKjummJW4NE_27CTpYjz3QO1_0pqNzj1LdDHeg85Y16Er1a5wee6jZPp7pidyHdjsj5iuygvdljw4g",
-    "sell_order_count": "77",
-    "buy_order_count": "4,959",
-    "lowest_sell_order": "1.74",
+    "sell_order_count": "75",
+    "buy_order_count": "4,953",
+    "lowest_sell_order": "1.77",
     "highest_buy_order": "1.52",
-    "date_modified": 1764327131053
+    "date_modified": 1764366230717
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Necropos (Field-Tested)",
     "item_nameid": 139673171,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJmoWIhfjkPKjum25V4dB8xL6R9o2m3wS2_UBpZWH1LYLGe1c_Y1zZ_VHokO-5gsC0tJubmHVk7iU8pSGKrbd3IkU",
-    "sell_order_count": "99",
-    "buy_order_count": "6,984",
-    "lowest_sell_order": "0.82",
+    "sell_order_count": "95",
+    "buy_order_count": "6,981",
+    "lowest_sell_order": "0.87",
     "highest_buy_order": "0.77",
-    "date_modified": 1764327139250
+    "date_modified": 1764366238866
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Necropos (Factory New)",
     "item_nameid": 139673192,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJmoWIhfjkPKjummJW4NE_27CTpYjz3QO1_0pqNzj1LdDHeg85Y16Er1a5wee6jZPp7pidyHdjsj5iuygvdljw4g",
-    "sell_order_count": "46",
+    "sell_order_count": "45",
     "buy_order_count": "1,779",
-    "lowest_sell_order": "7.96",
+    "lowest_sell_order": "7.99",
     "highest_buy_order": "7.19",
-    "date_modified": 1764327147416
+    "date_modified": 1764366247011
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Necropos (Battle-Scarred)",
     "item_nameid": 139673173,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJmoWIhfjkPKjunm5Q_tw_3LGQpY30ilLi8hc4ZGugcoGVIARrNV3X-QK7x-i-1pS0usyan3Vkvj5iuyhmm0aIjw",
-    "sell_order_count": "97",
-    "buy_order_count": "3,900",
+    "sell_order_count": "90",
+    "buy_order_count": "3,868",
     "lowest_sell_order": "0.59",
     "highest_buy_order": "0.58",
-    "date_modified": 1764327155557
+    "date_modified": 1764366255154
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Memorial (Well-Worn)",
     "item_nameid": 176506292,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwODPIWV97s6jgIGHnuTgDLbUkmJE5Yt02bDEo9StjA2w_BY-Y2CmIdSVelc-aArZ-gfsye65jZC7uZidmyZmpGB8sg4j4ZRT",
-    "lowest_sell_order": "0.15",
-    "highest_buy_order": "0.13",
-    "date_modified": 1764327163684,
-    "sell_order_count": "265",
-    "buy_order_count": "10,798"
+    "lowest_sell_order": "0.17",
+    "highest_buy_order": "0.12",
+    "date_modified": 1764366263307,
+    "sell_order_count": "257",
+    "buy_order_count": "10,780"
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Memorial (Minimal Wear)",
     "item_nameid": 176506300,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwODPIWV97s6jgIGHnuTgDLfYkWNFppcpiOuV9IinilXj80U6Zzr1LYWScwE8aF-GrFbtxOu90MPpvMnOynZ9-n51FELTlAE",
-    "sell_order_count": "408",
-    "buy_order_count": "8,164",
-    "lowest_sell_order": "0.59",
+    "sell_order_count": "400",
+    "buy_order_count": "8,168",
+    "lowest_sell_order": "0.64",
     "highest_buy_order": "0.58",
-    "date_modified": 1764327171806
+    "date_modified": 1764366271425
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Memorial (Field-Tested)",
     "item_nameid": 176506322,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwODPIWV97s6jgIGHnuTgDLbUkmJE5Yt02bDEo9StjA2w_BY-Y2CmIdSVelc-aArZ-gfsye65jZC7uZidmyZmpGB8sg4j4ZRT",
-    "sell_order_count": "722",
-    "buy_order_count": "16,612",
-    "lowest_sell_order": "0.25",
-    "highest_buy_order": "0.24",
-    "date_modified": 1764327179949
+    "sell_order_count": "692",
+    "buy_order_count": "16,595",
+    "lowest_sell_order": "0.28",
+    "highest_buy_order": "0.26",
+    "date_modified": 1764366279547
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Memorial (Factory New)",
     "item_nameid": 176506189,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwODPIWV97s6jgIGHnuTgDLfYkWNFppcpiOuV9IinilXj80U6Zzr1LYWScwE8aF-GrFbtxOu90MPpvMnOynZ9-n51FELTlAE",
-    "sell_order_count": "111",
-    "buy_order_count": "5,544",
-    "lowest_sell_order": "4.33",
+    "sell_order_count": "112",
+    "buy_order_count": "5,553",
+    "lowest_sell_order": "4.30",
     "highest_buy_order": "3.76",
-    "date_modified": 1764327188080
+    "date_modified": 1764366287689
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Memorial (Battle-Scarred)",
     "item_nameid": 176506291,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwODPIWV97s6jgIGHnuTgDLPUl31IpsF13b6XrIijjlW1qUo6YT32doSXIVVsY12Gr1ftleq6jMLovZuaz3R9-n51dxjQ0XE",
-    "sell_order_count": "296",
-    "buy_order_count": "16,287",
-    "lowest_sell_order": "0.17",
+    "sell_order_count": "304",
+    "buy_order_count": "16,301",
+    "lowest_sell_order": "0.16",
     "highest_buy_order": "0.15",
-    "date_modified": 1764327196204
+    "date_modified": 1764366295822
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Mainframe 001 (Well-Worn)",
     "item_nameid": 176185943,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJmYGCmfHmMrbUqWZU7Mxkh6fD9tTz2gbk-BJkYmqnI4TAcgZoMAuBrFW6krrngMS_6JvNzXI3uXEk-z-DyI9MKFX6",
-    "sell_order_count": "940",
-    "buy_order_count": "24,861",
+    "sell_order_count": "961",
+    "buy_order_count": "24,764",
     "lowest_sell_order": "0.14",
     "highest_buy_order": "0.11",
-    "date_modified": 1764327204368
+    "date_modified": 1764366303991
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Mainframe 001 (Minimal Wear)",
     "item_nameid": 176185948,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJmYGCmfHmMrbUqWdY781lxO3Eooig0VCx-kNkMm70JI7HdVBtYF_RrAe9l-rs1MW87ZmaznY37yU8pSGKN5v_aPg",
-    "sell_order_count": "614",
-    "buy_order_count": "26,146",
-    "lowest_sell_order": "0.24",
+    "sell_order_count": "578",
+    "buy_order_count": "26,628",
+    "lowest_sell_order": "0.27",
     "highest_buy_order": "0.23",
-    "date_modified": 1764327212505
+    "date_modified": 1764366312129
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Mainframe 001 (Field-Tested)",
     "item_nameid": 176185893,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJmYGCmfHmMrbUqWZU7Mxkh6fD9tTz2gbk-BJkYmqnI4TAcgZoMAuBrFW6krrngMS_6JvNzXI3uXEk-z-DyI9MKFX6",
-    "sell_order_count": "1,298",
-    "buy_order_count": "30,563",
+    "sell_order_count": "1,402",
+    "buy_order_count": "30,522",
     "lowest_sell_order": "0.16",
-    "highest_buy_order": "0.15",
-    "date_modified": 1764327220629
+    "highest_buy_order": "0.14",
+    "date_modified": 1764366320522
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Mainframe 001 (Factory New)",
     "item_nameid": 176185995,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJmYGCmfHmMrbUqWdY781lxO3Eooig0VCx-kNkMm70JI7HdVBtYF_RrAe9l-rs1MW87ZmaznY37yU8pSGKN5v_aPg",
     "sell_order_count": "202",
-    "buy_order_count": "19,406",
-    "lowest_sell_order": "1.27",
+    "buy_order_count": "19,389",
+    "lowest_sell_order": "1.30",
     "highest_buy_order": "1.20",
-    "date_modified": 1764327228756
+    "date_modified": 1764366328661
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred)",
     "item_nameid": 176185960,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJmYGCmfHmMrbUqWNU6dNoxLqZrI2i3wHi-hVrYTzzIIfDcAE3YQ3W81jtwO7njZ67tJjAyidkuSE8pSGKPOKNZbQ",
-    "sell_order_count": "596",
-    "buy_order_count": "25,571",
-    "lowest_sell_order": "0.14",
+    "sell_order_count": "586",
+    "buy_order_count": "25,678",
+    "lowest_sell_order": "0.12",
     "highest_buy_order": "0.11",
-    "date_modified": 1764327236877
+    "date_modified": 1764366336796
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Ghost Crusader (Minimal Wear)",
     "item_nameid": 149869018,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f1OD3Yi5FvISJlZKGlvT7Ib7ummJW4NE_0rDFoNvz0AbnqUNva2DzI4aUcAU9ZVjVr1W8kOns15a_up_Pm3Vruj5iuyjNAdbncQ",
-    "sell_order_count": "22",
-    "buy_order_count": "3,034",
-    "lowest_sell_order": "6.90",
-    "highest_buy_order": "5.94",
-    "date_modified": 1764327245037
+    "sell_order_count": "19",
+    "buy_order_count": "3,022",
+    "lowest_sell_order": "7.08",
+    "highest_buy_order": "5.98",
+    "date_modified": 1764366344948
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Ghost Crusader (Field-Tested)",
     "item_nameid": 149872455,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f1OD3Yi5FvISJlZKGlvT7Ib7um25V4dB8xOuZrYn0iwTsr0M9NjqhIdeWdVc3MAzRqwLowe_th8PqtZvMyndkuiQ8pSGKJTJZ9-Y",
     "sell_order_count": "46",
-    "buy_order_count": "5,139",
-    "lowest_sell_order": "2.83",
-    "highest_buy_order": "2.56",
-    "date_modified": 1764327253166
+    "buy_order_count": "5,135",
+    "lowest_sell_order": "2.53",
+    "highest_buy_order": "2.47",
+    "date_modified": 1764366353105
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Ghost Crusader (Factory New)",
     "item_nameid": 149892595,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f1OD3Yi5FvISJlZKGlvT7Ib7ummJW4NE_0rDFoNvz0AbnqUNva2DzI4aUcAU9ZVjVr1W8kOns15a_up_Pm3Vruj5iuyjNAdbncQ",
-    "sell_order_count": "27",
-    "buy_order_count": "516",
-    "lowest_sell_order": "23.20",
-    "highest_buy_order": "18.09",
-    "date_modified": 1764327261303
+    "sell_order_count": "23",
+    "buy_order_count": "517",
+    "lowest_sell_order": "23.43",
+    "highest_buy_order": "18.10",
+    "date_modified": 1764366361245
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Ghost Crusader (Battle-Scarred)",
     "item_nameid": 149869070,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f1OD3Yi5FvISJlZKGlvT7Ib7unm5Q_tw_j-uXpdSl2A3j_kE-MW6lJ9eRcFc5aA6CqFC7lefn05e9v5SayXpr6z5iuyhYu4XILg",
-    "sell_order_count": "37",
-    "buy_order_count": "6,765",
-    "lowest_sell_order": "2.56",
+    "sell_order_count": "36",
+    "buy_order_count": "6,709",
+    "lowest_sell_order": "2.54",
     "highest_buy_order": "2.50",
-    "date_modified": 1764327269433
+    "date_modified": 1764366369381
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Fever Dream (Well-Worn)",
     "item_nameid": 176118409,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu5cB1g_zMu9X321Xt_UdqZTv1IoOWIQY8Zg7UqQC4lLi9gp--6ZybwHM2snV27XnD30vgfQCQBPk",
-    "sell_order_count": "18",
+    "sell_order_count": "15",
     "buy_order_count": "7,797",
-    "lowest_sell_order": "3.98",
-    "highest_buy_order": "3.87",
-    "date_modified": 1764327277587
+    "lowest_sell_order": "4.07",
+    "highest_buy_order": "3.88",
+    "date_modified": 1764366377520
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Fever Dream (Minimal Wear)",
     "item_nameid": 176118397,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu5Mx2gv2Po4_z21Hm8kI5NmnzJteUJwJtZQ3TrlK3kL_n15C76JvAm3I37iBw5GGdwULIo9c5SQ",
-    "sell_order_count": "75",
-    "buy_order_count": "12,793",
-    "lowest_sell_order": "4.85",
-    "highest_buy_order": "4.73",
-    "date_modified": 1764327285713
+    "sell_order_count": "79",
+    "buy_order_count": "12,781",
+    "lowest_sell_order": "4.74",
+    "highest_buy_order": "4.66",
+    "date_modified": 1764366385747
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Fever Dream (Field-Tested)",
     "item_nameid": 176118342,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu5cB1g_zMu9X321Xt_UdqZTv1IoOWIQY8Zg7UqQC4lLi9gp--6ZybwHM2snV27XnD30vgfQCQBPk",
-    "sell_order_count": "174",
-    "buy_order_count": "15,308",
-    "lowest_sell_order": "2.37",
-    "highest_buy_order": "2.32",
-    "date_modified": 1764327293930
+    "sell_order_count": "150",
+    "buy_order_count": "15,361",
+    "lowest_sell_order": "2.42",
+    "highest_buy_order": "2.35",
+    "date_modified": 1764366393970
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Fever Dream (Factory New)",
     "item_nameid": 176118419,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu5Mx2gv2Po4_z21Hm8kI5NmnzJteUJwJtZQ3TrlK3kL_n15C76JvAm3I37iBw5GGdwULIo9c5SQ",
-    "sell_order_count": "29",
-    "buy_order_count": "5,481",
-    "lowest_sell_order": "11.35",
+    "sell_order_count": "25",
+    "buy_order_count": "5,480",
+    "lowest_sell_order": "13.39",
     "highest_buy_order": "10.30",
-    "date_modified": 1764327302089
+    "date_modified": 1764366402095
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Fever Dream (Battle-Scarred)",
     "item_nameid": 176118431,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu4MBwnPCPo4jxjQPir0NqMj3xJ9ORdlQ9Y1yG_Ffsw-q515a_6J-bzHRh7Ch2tGGdwULLwgklqg",
-    "sell_order_count": "62",
-    "buy_order_count": "10,407",
-    "lowest_sell_order": "2.27",
-    "highest_buy_order": "2.09",
-    "date_modified": 1764327310249
+    "sell_order_count": "60",
+    "buy_order_count": "10,368",
+    "lowest_sell_order": "2.25",
+    "highest_buy_order": "2.13",
+    "date_modified": 1764366410246
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Dragonfire (Well-Worn)",
     "item_nameid": 175854870,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkJKKkPj6NbLDk1RC68phj9bM8Ij8nVn6r0JtNjqhLIWQJlRvNwnUr1C6k7-6g5G_vsvBz3djvCN3syyMlkSxhwYMMLKTPmEptQ",
     "sell_order_count": "7",
-    "buy_order_count": "474",
+    "buy_order_count": "479",
     "lowest_sell_order": "103.50",
-    "highest_buy_order": "72.26",
-    "date_modified": 1764327318378
+    "highest_buy_order": "72.72",
+    "date_modified": 1764366418365
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Dragonfire (Minimal Wear)",
     "item_nameid": 175854412,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkJKKkPj6NbLDk1RC68phj9bN_Iv9nBq1qRA6azqld9PGdg89YVmDqFG9xLjtjcW5tZ-dmHc16CMm7XrbnRSyn1gSOeMQWfGG",
-    "sell_order_count": "15",
-    "buy_order_count": "573",
-    "lowest_sell_order": "132.44",
-    "highest_buy_order": "108.28",
-    "date_modified": 1764327326506
+    "sell_order_count": "16",
+    "buy_order_count": "577",
+    "lowest_sell_order": "132.22",
+    "highest_buy_order": "110.23",
+    "date_modified": 1764366426563
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Dragonfire (Field-Tested)",
     "item_nameid": 175854373,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkJKKkPj6NbLDk1RC68phj9bM8Ij8nVn6r0JtNjqhLIWQJlRvNwnUr1C6k7-6g5G_vsvBz3djvCN3syyMlkSxhwYMMLKTPmEptQ",
-    "sell_order_count": "15",
-    "buy_order_count": "709",
-    "lowest_sell_order": "95.22",
-    "highest_buy_order": "88.66",
-    "date_modified": 1764327334629
+    "sell_order_count": "18",
+    "buy_order_count": "712",
+    "lowest_sell_order": "94.00",
+    "highest_buy_order": "89.37",
+    "date_modified": 1764366434695
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Dragonfire (Factory New)",
     "item_nameid": 175854470,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkJKKkPj6NbLDk1RC68phj9bN_Iv9nBq1qRA6azqld9PGdg89YVmDqFG9xLjtjcW5tZ-dmHc16CMm7XrbnRSyn1gSOeMQWfGG",
-    "sell_order_count": "12",
-    "buy_order_count": "650",
-    "lowest_sell_order": "200.00",
-    "highest_buy_order": "167.03",
-    "date_modified": 1764327342775
+    "sell_order_count": "11",
+    "buy_order_count": "652",
+    "lowest_sell_order": "233.73",
+    "highest_buy_order": "167.13",
+    "date_modified": 1764366442839
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Dezastre (Well-Worn)",
     "item_nameid": 176414082,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwODPIWV96NmslZOfhfLLPr7Vn35cpp0pj7-Vot2niVW2-BY9a236IYSRdwU9aVvV-FO_wOjvhpW9vJnMnHF9-n51SyNPrp4",
-    "sell_order_count": "432",
-    "buy_order_count": "14,705",
-    "lowest_sell_order": "0.13",
+    "sell_order_count": "421",
+    "buy_order_count": "14,587",
+    "lowest_sell_order": "0.14",
     "highest_buy_order": "0.12",
-    "date_modified": 1764327350904
+    "date_modified": 1764366450961
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Dezastre (Minimal Wear)",
     "item_nameid": 176414047,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwODPIWV96NmslZOfhfLLP7LWnn8f6pAm2-yV9NWt2AG3rkc-YjzzcoOUIwE2aA7Q_VG_lenrgMe-6smYmGwj5HfHgtJwGw",
-    "sell_order_count": "456",
-    "buy_order_count": "14,989",
+    "sell_order_count": "458",
+    "buy_order_count": "15,035",
     "lowest_sell_order": "0.36",
     "highest_buy_order": "0.32",
-    "date_modified": 1764327359033
+    "date_modified": 1764366459125
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Dezastre (Field-Tested)",
     "item_nameid": 176414081,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwODPIWV96NmslZOfhfLLPr7Vn35cpp0pj7-Vot2niVW2-BY9a236IYSRdwU9aVvV-FO_wOjvhpW9vJnMnHF9-n51SyNPrp4",
-    "sell_order_count": "466",
-    "buy_order_count": "25,445",
-    "lowest_sell_order": "0.16",
+    "sell_order_count": "456",
+    "buy_order_count": "25,489",
+    "lowest_sell_order": "0.17",
     "highest_buy_order": "0.15",
-    "date_modified": 1764327367183
+    "date_modified": 1764366467243
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Dezastre (Factory New)",
     "item_nameid": 176414168,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwODPIWV96NmslZOfhfLLP7LWnn8f6pAm2-yV9NWt2AG3rkc-YjzzcoOUIwE2aA7Q_VG_lenrgMe-6smYmGwj5HfHgtJwGw",
-    "sell_order_count": "148",
-    "buy_order_count": "15,525",
-    "lowest_sell_order": "1.61",
-    "highest_buy_order": "1.53",
-    "date_modified": 1764327375328
+    "sell_order_count": "145",
+    "buy_order_count": "15,502",
+    "lowest_sell_order": "1.53",
+    "highest_buy_order": "1.50",
+    "date_modified": 1764366475394
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Dezastre (Battle-Scarred)",
     "item_nameid": 176414028,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwODPIWV96NmslZOfhfLLO77QgHIfuZBz2OiQ99jw2FXj-EZsZmHzIYCXIVM8MAqErFG2lbvq05O9vZmbz2wj5HdU72NFVw",
-    "sell_order_count": "380",
-    "buy_order_count": "17,214",
+    "sell_order_count": "372",
+    "buy_order_count": "17,168",
     "lowest_sell_order": "0.14",
     "highest_buy_order": "0.12",
-    "date_modified": 1764327383448
+    "date_modified": 1764366483525
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Death's Head (Well-Worn)",
     "item_nameid": 175896409,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkIWKg__nO77QklRc7cF4n-SPrdih2wfmrxU4ZzuhI9eSJANqNw3U-1Pvxe291MC6u5zKznUw7Cdz4GGdwUKvwte-Ew",
-    "sell_order_count": "5",
-    "buy_order_count": "902",
-    "lowest_sell_order": "18.14",
-    "highest_buy_order": "16.49",
-    "date_modified": 1764327391574
+    "sell_order_count": "4",
+    "buy_order_count": "901",
+    "lowest_sell_order": "18.23",
+    "highest_buy_order": "16.36",
+    "date_modified": 1764366491665
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Death's Head (Minimal Wear)",
@@ -29615,219 +29615,219 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkIWKg__nO77QklRd4cJ5nqeYp96i2Azg_Bc-Yj3zJNWUdlc8MwyC81HvxOjs1p_vuMyczHVrvHFz-z-DyFQxQtdU",
     "sell_order_count": "13",
     "buy_order_count": "1,055",
-    "lowest_sell_order": "21.32",
-    "highest_buy_order": "18.54",
-    "date_modified": 1764327399720
+    "lowest_sell_order": "21.12",
+    "highest_buy_order": "18.45",
+    "date_modified": 1764366499792
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Death's Head (Field-Tested)",
     "item_nameid": 175896362,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkIWKg__nO77QklRc7cF4n-SPrdih2wfmrxU4ZzuhI9eSJANqNw3U-1Pvxe291MC6u5zKznUw7Cdz4GGdwUKvwte-Ew",
-    "sell_order_count": "11",
-    "buy_order_count": "1,246",
+    "sell_order_count": "9",
+    "buy_order_count": "1,243",
     "lowest_sell_order": "21.21",
-    "highest_buy_order": "19.98",
-    "date_modified": 1764327407865
+    "highest_buy_order": "20.08",
+    "date_modified": 1764366507929
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Death's Head (Factory New)",
     "item_nameid": 175896366,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkIWKg__nO77QklRd4cJ5nqeYp96i2Azg_Bc-Yj3zJNWUdlc8MwyC81HvxOjs1p_vuMyczHVrvHFz-z-DyFQxQtdU",
-    "sell_order_count": "14",
-    "buy_order_count": "507",
-    "lowest_sell_order": "35.00",
+    "sell_order_count": "15",
+    "buy_order_count": "508",
+    "lowest_sell_order": "34.99",
     "highest_buy_order": "29.04",
-    "date_modified": 1764327415985
+    "date_modified": 1764366516046
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Death's Head (Battle-Scarred)",
     "item_nameid": 175896484,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkIWKg__nO77QklRZ7cRnk6fF8Nij3gHn-xFpNz2nJoKSJlQ4MwnW_QLvwr_njJC_tJ_My3sw7idw-z-DyC0Az09P",
     "sell_order_count": "5",
-    "buy_order_count": "918",
+    "buy_order_count": "917",
     "lowest_sell_order": "21.91",
     "highest_buy_order": "17.32",
-    "date_modified": 1764327424109
+    "date_modified": 1764366524208
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Dark Water (Minimal Wear)",
     "item_nameid": 15492597,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0v73azhA_t2JkIGZnMj4OrzZgiUCuZIh37CW89zxjAzj_0VrMGz1LIXDIAU-YVnT_Fbqwbzr1Je4vZma1zI97TW2zcpJ",
-    "sell_order_count": "103",
-    "buy_order_count": "3,732",
-    "lowest_sell_order": "5.12",
+    "sell_order_count": "105",
+    "buy_order_count": "3,719",
+    "lowest_sell_order": "5.18",
     "highest_buy_order": "4.99",
-    "date_modified": 1764327432239
+    "date_modified": 1764366532365
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Dark Water (Field-Tested)",
     "item_nameid": 15490376,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0v73azhA_t2JkIGZnMj5Nr_Yg2Yf7Z0i3OuRrNyijAPtqBBrYmH1ddTDJFQ6aV2DrlC4l-brgp7q6M-dyGwj5Hfvo1RWqQ",
-    "sell_order_count": "75",
-    "buy_order_count": "3,489",
-    "lowest_sell_order": "3.04",
+    "sell_order_count": "71",
+    "buy_order_count": "3,487",
+    "lowest_sell_order": "3.50",
     "highest_buy_order": "2.95",
-    "date_modified": 1764327440366
+    "date_modified": 1764366540502
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Bloodshot (Well-Worn)",
     "item_nameid": 176097539,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJgImInPvxIYTck29Y_cg_ibCY8dvw3wK2qkZsZ276dteRIwI4MFvZ8lO7webs0cW66cjAmyNm6T5iuyjOEYCyCg",
     "sell_order_count": "7",
-    "buy_order_count": "5,000",
+    "buy_order_count": "4,999",
     "lowest_sell_order": "35.81",
-    "highest_buy_order": "31.83",
-    "date_modified": 1764327448508
+    "highest_buy_order": "31.93",
+    "date_modified": 1764366548620
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Bloodshot (Minimal Wear)",
     "item_nameid": 176097552,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJgImInPvxIYTdn2xZ_Ish3ejFpI2g2lbs-0VuZG2nJI7AewM3MF3RqVnslO29jcPt6pzLnSZlpGB8skHz2ewN",
     "sell_order_count": "1",
-    "buy_order_count": "2,501",
-    "lowest_sell_order": "847.39",
-    "highest_buy_order": "163.16",
-    "date_modified": 1764327456636
+    "buy_order_count": "2,502",
+    "lowest_sell_order": "820.95",
+    "highest_buy_order": "165.64",
+    "date_modified": 1764366556766
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Bloodshot (Field-Tested)",
     "item_nameid": 176096842,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJgImInPvxIYTck29Y_cg_ibCY8dvw3wK2qkZsZ276dteRIwI4MFvZ8lO7webs0cW66cjAmyNm6T5iuyjOEYCyCg",
-    "sell_order_count": "21",
+    "sell_order_count": "18",
     "buy_order_count": "7,913",
-    "lowest_sell_order": "33.59",
-    "highest_buy_order": "33.05",
-    "date_modified": 1764327464768
+    "lowest_sell_order": "34.63",
+    "highest_buy_order": "33.23",
+    "date_modified": 1764366564889
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Bloodshot (Battle-Scarred)",
     "item_nameid": 176097607,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJgImInPvxIYTZk2pH8Ysmju2Y9omkjgLt8kVramv0dteVc1doaQ3Z-VTtkOm5jJG46MvPwHNgpGB8shaKwrtJ",
     "sell_order_count": "6",
-    "buy_order_count": "3,159",
+    "buy_order_count": "3,156",
     "lowest_sell_order": "31.63",
-    "highest_buy_order": "30.66",
-    "date_modified": 1764327472897
+    "highest_buy_order": "31.05",
+    "date_modified": 1764366573021
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Blood in the Water (Minimal Wear)",
     "item_nameid": 1918563,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3YjVD_teJmImMn-O6Y7qBkjIIucYpiLzCpNjw3Vfm-UU9Nz-icdPEewY4Nw7X8lm4kr-614j84sojlk7Ong",
     "sell_order_count": "5",
-    "buy_order_count": "266",
+    "buy_order_count": "267",
     "lowest_sell_order": "276.14",
     "highest_buy_order": "219.83",
-    "date_modified": 1764327481029
+    "date_modified": 1764366581391
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Blood in the Water (Field-Tested)",
     "item_nameid": 1920856,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3YjVD_teJmYWPnuL5feqIlDJUvJAjibGQrYrwigHj8hVkZmD7LYeQJwRtYFjT-1i3k-nog5Ci_MOeaYRNgso",
-    "sell_order_count": "4",
+    "sell_order_count": "5",
     "buy_order_count": "241",
-    "lowest_sell_order": "330.58",
-    "highest_buy_order": "156.74",
-    "date_modified": 1764327489172
+    "lowest_sell_order": "311.66",
+    "highest_buy_order": "156.98",
+    "date_modified": 1764366589520
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Big Iron (Well-Worn)",
     "item_nameid": 67073985,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJgIWIn_n9MLrdn39I18h0juDU-MKgjFHk_0Q5Y2D1IYSVIQ84NVzSrFbqkr-9jZW07Z2byCdn7yIk5SzYgVXp1g-09Tq8",
-    "sell_order_count": "2",
-    "buy_order_count": "681",
-    "lowest_sell_order": "25.00",
-    "highest_buy_order": "21.09",
-    "date_modified": 1764327497301
+    "sell_order_count": "1",
+    "buy_order_count": "686",
+    "lowest_sell_order": "27.71",
+    "highest_buy_order": "21.40",
+    "date_modified": 1764366597646
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Big Iron (Minimal Wear)",
     "item_nameid": 67067159,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJgIWIn_n9MLrdn39I18l4jeHVu9_w21C1_EFoYW-mcY7EewFsaV6D8lnsyOm8h5K7v57PzXJguiQk4nzD30vgifWnfbI",
     "sell_order_count": "17",
-    "buy_order_count": "650",
+    "buy_order_count": "649",
     "lowest_sell_order": "40.30",
     "highest_buy_order": "35.93",
-    "date_modified": 1764327505426
+    "date_modified": 1764366605776
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Big Iron (Field-Tested)",
     "item_nameid": 67064051,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJgIWIn_n9MLrdn39I18h0juDU-MKgjFHk_0Q5Y2D1IYSVIQ84NVzSrFbqkr-9jZW07Z2byCdn7yIk5SzYgVXp1g-09Tq8",
-    "sell_order_count": "22",
-    "buy_order_count": "1,520",
-    "lowest_sell_order": "24.08",
-    "highest_buy_order": "23.66",
-    "date_modified": 1764327513546
+    "sell_order_count": "25",
+    "buy_order_count": "1,522",
+    "lowest_sell_order": "24.00",
+    "highest_buy_order": "23.86",
+    "date_modified": 1764366613899
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Big Iron (Factory New)",
     "item_nameid": 67064064,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJgIWIn_n9MLrdn39I18l4jeHVu9_w21C1_EFoYW-mcY7EewFsaV6D8lnsyOm8h5K7v57PzXJguiQk4nzD30vgifWnfbI",
-    "sell_order_count": "11",
+    "sell_order_count": "10",
     "buy_order_count": "571",
     "lowest_sell_order": "69.27",
     "highest_buy_order": "58.80",
-    "date_modified": 1764327521671
+    "date_modified": 1764366622025
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Big Iron (Battle-Scarred)",
     "item_nameid": 67064086,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJgIWIn_n9MLrdn39I1810i__Yu9X32gCxr0ZqNWCgLNCQJFBrYgqC8lC_xr3s18W87p_AzHYw6XEi5SnD30vg13LruS4",
     "sell_order_count": "10",
-    "buy_order_count": "1,396",
+    "buy_order_count": "1,388",
     "lowest_sell_order": "23.14",
-    "highest_buy_order": "22.68",
-    "date_modified": 1764327529805
+    "highest_buy_order": "22.96",
+    "date_modified": 1764366630148
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Abyss (Well-Worn)",
     "item_nameid": 14962941,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0uL3fThU5d2inIGFqPrxN7LEmyUI6sYj0-2Rpoqs0Va1-kU9Njr3INPGIQc_NFnQrlm8k-foh8e9uJuc1zI97ciat2da",
-    "sell_order_count": "369",
-    "buy_order_count": "9,982",
-    "lowest_sell_order": "0.64",
+    "sell_order_count": "367",
+    "buy_order_count": "9,990",
+    "lowest_sell_order": "0.65",
     "highest_buy_order": "0.59",
-    "date_modified": 1764327537935
+    "date_modified": 1764366638280
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Abyss (Minimal Wear)",
     "item_nameid": 14962956,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0uL3fThU5d2inIGFqPv9NLPF2DsHuJwh37vHoN7wjFK38ks9Z2mlJdSdclNoNQ7Z_QK4x73mh8W1vZzXiSw02gYholY",
-    "sell_order_count": "218",
-    "buy_order_count": "10,523",
-    "lowest_sell_order": "2.81",
+    "sell_order_count": "217",
+    "buy_order_count": "10,507",
+    "lowest_sell_order": "2.46",
     "highest_buy_order": "2.39",
-    "date_modified": 1764327546064
+    "date_modified": 1764366646407
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Abyss (Field-Tested)",
     "item_nameid": 14962962,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0uL3fThU5d2inIGFqPrxN7LEmyUI6sYj0-2Rpoqs0Va1-kU9Njr3INPGIQc_NFnQrlm8k-foh8e9uJuc1zI97ciat2da",
-    "sell_order_count": "357",
-    "buy_order_count": "13,586",
-    "lowest_sell_order": "1.04",
-    "highest_buy_order": "0.88",
-    "date_modified": 1764327554183
+    "sell_order_count": "352",
+    "buy_order_count": "13,681",
+    "lowest_sell_order": "0.95",
+    "highest_buy_order": "0.89",
+    "date_modified": 1764366654579
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Abyss (Factory New)",
     "item_nameid": 14962990,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0uL3fThU5d2inIGFqPv9NLPF2DsHuJwh37vHoN7wjFK38ks9Z2mlJdSdclNoNQ7Z_QK4x73mh8W1vZzXiSw02gYholY",
-    "sell_order_count": "55",
-    "buy_order_count": "1,187",
-    "lowest_sell_order": "13.80",
+    "sell_order_count": "58",
+    "buy_order_count": "1,157",
+    "lowest_sell_order": "13.40",
     "highest_buy_order": "12.70",
-    "date_modified": 1764327562305
+    "date_modified": 1764366662725
   },
   {
     "hash_name": "StatTrak™ SSG 08 | Abyss (Battle-Scarred)",
     "item_nameid": 14962985,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0uL3fThU5d2inIGFqP_xMq3I2D9V65Uo2-uQo9X20VWy_RFlZGD1IdKcd1M-NFrTrlC8ybu61pO6u5zXiSw0eMtiF-M",
-    "sell_order_count": "195",
-    "buy_order_count": "7,483",
-    "lowest_sell_order": "0.59",
+    "sell_order_count": "200",
+    "buy_order_count": "7,505",
+    "lowest_sell_order": "0.57",
     "highest_buy_order": "0.54",
-    "date_modified": 1764327570450
+    "date_modified": 1764366670848
   },
   {
     "hash_name": "StatTrak™ SG 553 | Wave Spray (Well-Worn)",
@@ -29835,9 +29835,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3Yi1Q7cWJg4GdkuTLManQgGRu5cB1g_zMu9yi0ALkrxVvajz0d4GRIwQ3MFzSqAW9xr-50ZG6uMuYzSEy7ikntCzD30vgtBgf8QY",
     "lowest_sell_order": "6.90",
     "highest_buy_order": "5.36",
-    "date_modified": 1764327578570,
+    "date_modified": 1764366678961,
     "sell_order_count": "7",
-    "buy_order_count": "1,010"
+    "buy_order_count": "1,009"
   },
   {
     "hash_name": "StatTrak™ SG 553 | Wave Spray (Minimal Wear)",
@@ -29847,17 +29847,17 @@
     "buy_order_count": "491",
     "lowest_sell_order": "6.90",
     "highest_buy_order": "6.60",
-    "date_modified": 1764327586698
+    "date_modified": 1764366687112
   },
   {
     "hash_name": "StatTrak™ SG 553 | Wave Spray (Field-Tested)",
     "item_nameid": 1546480,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3Yi1Q7cWJg4GdkuTLManQgGRu5cB1g_zMu9yi0ALkrxVvajz0d4GRIwQ3MFzSqAW9xr-50ZG6uMuYzSEy7ikntCzD30vgtBgf8QY",
-    "sell_order_count": "78",
+    "sell_order_count": "79",
     "buy_order_count": "1,208",
     "lowest_sell_order": "5.19",
-    "highest_buy_order": "5.06",
-    "date_modified": 1764327594821
+    "highest_buy_order": "5.07",
+    "date_modified": 1764366695241
   },
   {
     "hash_name": "StatTrak™ SG 553 | Wave Spray (Factory New)",
@@ -29867,7 +29867,7 @@
     "buy_order_count": "192",
     "lowest_sell_order": "65.64",
     "highest_buy_order": "38.37",
-    "date_modified": 1764327602966
+    "date_modified": 1764366703389
   },
   {
     "hash_name": "StatTrak™ SG 553 | Wave Spray (Battle-Scarred)",
@@ -29877,7 +29877,7 @@
     "buy_order_count": "973",
     "lowest_sell_order": "5.45",
     "highest_buy_order": "4.57",
-    "date_modified": 1764327611107
+    "date_modified": 1764366711530
   },
   {
     "hash_name": "StatTrak™ SG 553 | Ultraviolet (Well-Worn)",
@@ -29885,29 +29885,29 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwPz3YShQ_NCzq42Ok_7hPvXVwT0B7ZRz2rCXpd2m21e3qkA5MGr3INeUdQY-MFzSrlm7lenrhJXvot2XnmpJOQ43",
     "sell_order_count": "39",
     "buy_order_count": "566",
-    "lowest_sell_order": "19.00",
-    "highest_buy_order": "18.65",
-    "date_modified": 1764327619239
+    "lowest_sell_order": "20.12",
+    "highest_buy_order": "18.51",
+    "date_modified": 1764366719666
   },
   {
     "hash_name": "StatTrak™ SG 553 | Ultraviolet (Minimal Wear)",
     "item_nameid": 1321392,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwPz3YShQ_NCzq4yCkP_gfeqEwWoGu5F30-2X8NWk3FfhqRVrNmmmcIPHcVc7NVvXq1LoyL3m05ai_MOewurX7_8",
     "lowest_sell_order": "23.95",
-    "highest_buy_order": "22.22",
-    "date_modified": 1764327627364,
-    "sell_order_count": "55",
-    "buy_order_count": "899"
+    "highest_buy_order": "21.98",
+    "date_modified": 1764366727814,
+    "sell_order_count": "53",
+    "buy_order_count": "897"
   },
   {
     "hash_name": "StatTrak™ SG 553 | Ultraviolet (Field-Tested)",
     "item_nameid": 1321371,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwPz3YShQ_NCzq42Ok_7hPvXVwT0B7ZRz2rCXpd2m21e3qkA5MGr3INeUdQY-MFzSrlm7lenrhJXvot2XnmpJOQ43",
-    "sell_order_count": "132",
-    "buy_order_count": "1,129",
-    "lowest_sell_order": "20.84",
+    "sell_order_count": "131",
+    "buy_order_count": "1,134",
+    "lowest_sell_order": "20.94",
     "highest_buy_order": "20.67",
-    "date_modified": 1764327635490
+    "date_modified": 1764366735969
   },
   {
     "hash_name": "StatTrak™ SG 553 | Ultraviolet (Factory New)",
@@ -29917,7 +29917,7 @@
     "buy_order_count": "529",
     "lowest_sell_order": "221.87",
     "highest_buy_order": "84.84",
-    "date_modified": 1764327643608
+    "date_modified": 1764366744109
   },
   {
     "hash_name": "StatTrak™ SG 553 | Ultraviolet (Battle-Scarred)",
@@ -29925,189 +29925,189 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwPz3YShQ_NCzq4iOluHtfenSzjtQsJ1w37HErd6i3ALlrUdrNW7xIoHBdwQ9aFiBr1jox7zu0J6i_MOe3HScVVw",
     "lowest_sell_order": "20.55",
     "highest_buy_order": "18.34",
-    "date_modified": 1764327651754,
-    "sell_order_count": "52",
-    "buy_order_count": "579"
+    "date_modified": 1764366752241,
+    "sell_order_count": "50",
+    "buy_order_count": "569"
   },
   {
     "hash_name": "StatTrak™ SG 553 | Triarch (Well-Worn)",
     "item_nameid": 165027719,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuYqJgJKCluX3O4Tck29Y_cg_ievFo9303wfmrkppZjj1JNWde1U5NwyC-FXowu_mgZbv75mfz3AxvT5iuyh0SQ-rNw",
-    "sell_order_count": "23",
-    "buy_order_count": "2,511",
+    "sell_order_count": "24",
+    "buy_order_count": "2,509",
     "lowest_sell_order": "1.20",
     "highest_buy_order": "0.92",
-    "date_modified": 1764327659877
+    "date_modified": 1764366760383
   },
   {
     "hash_name": "StatTrak™ SG 553 | Triarch (Minimal Wear)",
     "item_nameid": 165036839,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuYqJgJKCluX3O4Tdn2xZ_IsoibCRpI_0ilXs8hc5Mmv1coLEdA4-Y1DSrFm2l7jog5bp6JzKy3Q3pGB8slG-Uu2m",
-    "sell_order_count": "24",
-    "buy_order_count": "4,527",
-    "lowest_sell_order": "2.27",
-    "highest_buy_order": "1.81",
-    "date_modified": 1764327668004
+    "sell_order_count": "28",
+    "buy_order_count": "4,523",
+    "lowest_sell_order": "2.24",
+    "highest_buy_order": "1.86",
+    "date_modified": 1764366768513
   },
   {
     "hash_name": "StatTrak™ SG 553 | Triarch (Field-Tested)",
     "item_nameid": 165030986,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuYqJgJKCluX3O4Tck29Y_cg_ievFo9303wfmrkppZjj1JNWde1U5NwyC-FXowu_mgZbv75mfz3AxvT5iuyh0SQ-rNw",
-    "sell_order_count": "59",
-    "buy_order_count": "5,147",
-    "lowest_sell_order": "1.19",
+    "sell_order_count": "63",
+    "buy_order_count": "5,142",
+    "lowest_sell_order": "1.17",
     "highest_buy_order": "1.01",
-    "date_modified": 1764327676120
+    "date_modified": 1764366776633
   },
   {
     "hash_name": "StatTrak™ SG 553 | Triarch (Factory New)",
     "item_nameid": 165031005,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuYqJgJKCluX3O4Tdn2xZ_IsoibCRpI_0ilXs8hc5Mmv1coLEdA4-Y1DSrFm2l7jog5bp6JzKy3Q3pGB8slG-Uu2m",
-    "sell_order_count": "32",
-    "buy_order_count": "2,024",
+    "sell_order_count": "33",
+    "buy_order_count": "2,021",
     "lowest_sell_order": "6.78",
     "highest_buy_order": "6.10",
-    "date_modified": 1764327684256
+    "date_modified": 1764366784857
   },
   {
     "hash_name": "StatTrak™ SG 553 | Triarch (Battle-Scarred)",
     "item_nameid": 165031006,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuYqJgJKCluX3O4TZk2pH8Ytw2L_HpNSt3lW2_RZkNjqiJtKWelU8NQzXqAS7xLu8hZa0vMvAm3pkpGB8sm083rMA",
-    "sell_order_count": "26",
-    "buy_order_count": "1,831",
-    "lowest_sell_order": "0.99",
+    "sell_order_count": "23",
+    "buy_order_count": "1,830",
+    "lowest_sell_order": "1.01",
     "highest_buy_order": "0.92",
-    "date_modified": 1764327692384
+    "date_modified": 1764366792988
   },
   {
     "hash_name": "StatTrak™ SG 553 | Tiger Moth (Well-Worn)",
     "item_nameid": 84444479,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JgImMkuXLPrTFnlRc7cF4n-SP84qkiQOx_kBtNTj0J4SUJgQ2M13S_1jqyLi5hJ_ovp3OnCBm7iRw4WGdwULOWB4Dsw",
-    "sell_order_count": "39",
-    "buy_order_count": "3,938",
-    "lowest_sell_order": "2.18",
-    "highest_buy_order": "2.16",
-    "date_modified": 1764327700510
+    "sell_order_count": "31",
+    "buy_order_count": "3,931",
+    "lowest_sell_order": "2.21",
+    "highest_buy_order": "2.19",
+    "date_modified": 1764366801145
   },
   {
     "hash_name": "StatTrak™ SG 553 | Tiger Moth (Minimal Wear)",
     "item_nameid": 84454678,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JgImMkuXLPrTFnlRd4cJ5nqfFpomjiga1_RBkNW3yI4PDdwY2MgnY-AW8wLq8jZe06ZXNy3tlunV0-z-DyFzTC7d_",
-    "sell_order_count": "38",
+    "sell_order_count": "37",
     "buy_order_count": "2,774",
-    "lowest_sell_order": "4.42",
+    "lowest_sell_order": "4.63",
     "highest_buy_order": "4.00",
-    "date_modified": 1764327708655
+    "date_modified": 1764366809298
   },
   {
     "hash_name": "StatTrak™ SG 553 | Tiger Moth (Field-Tested)",
     "item_nameid": 84454652,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JgImMkuXLPrTFnlRc7cF4n-SP84qkiQOx_kBtNTj0J4SUJgQ2M13S_1jqyLi5hJ_ovp3OnCBm7iRw4WGdwULOWB4Dsw",
     "sell_order_count": "37",
-    "buy_order_count": "3,908",
+    "buy_order_count": "3,906",
     "lowest_sell_order": "2.36",
     "highest_buy_order": "2.32",
-    "date_modified": 1764327716813
+    "date_modified": 1764366817469
   },
   {
     "hash_name": "StatTrak™ SG 553 | Tiger Moth (Factory New)",
     "item_nameid": 84510768,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JgImMkuXLPrTFnlRd4cJ5nqfFpomjiga1_RBkNW3yI4PDdwY2MgnY-AW8wLq8jZe06ZXNy3tlunV0-z-DyFzTC7d_",
     "sell_order_count": "50",
-    "buy_order_count": "794",
-    "lowest_sell_order": "9.44",
-    "highest_buy_order": "9.40",
-    "date_modified": 1764327724931
+    "buy_order_count": "791",
+    "lowest_sell_order": "9.00",
+    "highest_buy_order": "7.78",
+    "date_modified": 1764366825609
   },
   {
     "hash_name": "StatTrak™ SG 553 | Tiger Moth (Battle-Scarred)",
     "item_nameid": 84454653,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JgImMkuXLPrTFnlRZ7cRnk6eZ9N-k2FLhrxBpMW7wI4aWIQM9NQnV_le_l7jmjZC9tJXNy3ZqvSAr-z-DyKUc0Wya",
-    "sell_order_count": "39",
-    "buy_order_count": "3,159",
-    "lowest_sell_order": "2.21",
-    "highest_buy_order": "2.16",
-    "date_modified": 1764327733068
+    "sell_order_count": "38",
+    "buy_order_count": "3,180",
+    "lowest_sell_order": "2.23",
+    "highest_buy_order": "2.21",
+    "date_modified": 1764366834009
   },
   {
     "hash_name": "StatTrak™ SG 553 | Pulse (Well-Worn)",
     "item_nameid": 7180223,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhJWHhPLLPr7Vn35cppQmjOqZ8Y_w21fs-ks-ajzxctDAdwU3ZVnZ-FPol-3qgsS8tZjPmid9-n51WHvqGVo",
-    "sell_order_count": "17",
-    "buy_order_count": "2,006",
+    "sell_order_count": "16",
+    "buy_order_count": "2,002",
     "lowest_sell_order": "5.98",
-    "highest_buy_order": "5.15",
-    "date_modified": 1764327741190
+    "highest_buy_order": "5.35",
+    "date_modified": 1764366842172
   },
   {
     "hash_name": "StatTrak™ SG 553 | Pulse (Minimal Wear)",
     "item_nameid": 7179645,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhJWHhPLLP7LWnn8f6cEk27jErNvw3QXhqkM4amvxJdSSe1Q_NA6GrlW9ye3q0cPqv5vBm2wj5HfR6Sg8zg",
-    "sell_order_count": "51",
-    "buy_order_count": "1,413",
-    "lowest_sell_order": "14.60",
-    "highest_buy_order": "13.01",
-    "date_modified": 1764327749314
+    "sell_order_count": "52",
+    "buy_order_count": "1,418",
+    "lowest_sell_order": "13.80",
+    "highest_buy_order": "13.02",
+    "date_modified": 1764366850337
   },
   {
     "hash_name": "StatTrak™ SG 553 | Pulse (Field-Tested)",
     "item_nameid": 7178714,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhJWHhPLLPr7Vn35cppQmjOqZ8Y_w21fs-ks-ajzxctDAdwU3ZVnZ-FPol-3qgsS8tZjPmid9-n51WHvqGVo",
-    "sell_order_count": "197",
-    "buy_order_count": "10,925",
+    "sell_order_count": "204",
+    "buy_order_count": "10,926",
     "lowest_sell_order": "4.95",
     "highest_buy_order": "4.51",
-    "date_modified": 1764327757566
+    "date_modified": 1764366858475
   },
   {
     "hash_name": "StatTrak™ SG 553 | Pulse (Battle-Scarred)",
     "item_nameid": 7179478,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhJWHhPLLO77QgHIfvcRw27GZ9t-s2QG3_BBqMmn0doOQcwA_YFrT81G9ley70Z676MvJwWwj5HdUelUeGQ",
-    "sell_order_count": "75",
-    "buy_order_count": "2,527",
+    "sell_order_count": "76",
+    "buy_order_count": "2,522",
     "lowest_sell_order": "4.56",
-    "highest_buy_order": "4.45",
-    "date_modified": 1764327765755
+    "highest_buy_order": "4.43",
+    "date_modified": 1764366866631
   },
   {
     "hash_name": "StatTrak™ SG 553 | Phantom (Well-Worn)",
     "item_nameid": 175917413,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JhIiKmeP7PoTck29Y_cg_ju2T84-gjgK2-0Y4N27xJo6SdFJtMg6DrADtx-u-hZK978-fz3Nm7z5iuyji3ZpA5w",
-    "sell_order_count": "15",
+    "sell_order_count": "17",
     "buy_order_count": "2,162",
-    "lowest_sell_order": "1.74",
+    "lowest_sell_order": "1.52",
     "highest_buy_order": "1.31",
-    "date_modified": 1764327773872
+    "date_modified": 1764366874747
   },
   {
     "hash_name": "StatTrak™ SG 553 | Phantom (Minimal Wear)",
     "item_nameid": 175917351,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JhIiKmeP7PoTdn2xZ_Isiib-Zotn23VC2rxBkMm2nIIWcdwFsaAnR_Fa7l73p1sC9tZnKmCcwpGB8spDlHme1",
-    "sell_order_count": "63",
-    "buy_order_count": "4,727",
-    "lowest_sell_order": "1.72",
+    "sell_order_count": "64",
+    "buy_order_count": "4,691",
+    "lowest_sell_order": "1.69",
     "highest_buy_order": "1.57",
-    "date_modified": 1764327782003
+    "date_modified": 1764366882917
   },
   {
     "hash_name": "StatTrak™ SG 553 | Phantom (Field-Tested)",
     "item_nameid": 175917292,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JhIiKmeP7PoTck29Y_cg_ju2T84-gjgK2-0Y4N27xJo6SdFJtMg6DrADtx-u-hZK978-fz3Nm7z5iuyji3ZpA5w",
-    "sell_order_count": "45",
-    "buy_order_count": "9,071",
-    "lowest_sell_order": "1.45",
-    "highest_buy_order": "1.09",
-    "date_modified": 1764327790133
+    "sell_order_count": "46",
+    "buy_order_count": "9,101",
+    "lowest_sell_order": "1.47",
+    "highest_buy_order": "1.10",
+    "date_modified": 1764366891081
   },
   {
     "hash_name": "StatTrak™ SG 553 | Phantom (Factory New)",
     "item_nameid": 175917332,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JhIiKmeP7PoTdn2xZ_Isiib-Zotn23VC2rxBkMm2nIIWcdwFsaAnR_Fa7l73p1sC9tZnKmCcwpGB8spDlHme1",
     "sell_order_count": "63",
-    "buy_order_count": "5,919",
+    "buy_order_count": "5,918",
     "lowest_sell_order": "3.87",
     "highest_buy_order": "3.74",
-    "date_modified": 1764327798273
+    "date_modified": 1764366899254
   },
   {
     "hash_name": "StatTrak™ SG 553 | Phantom (Battle-Scarred)",
@@ -30115,159 +30115,159 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JhIiKmeP7PoTZk2pH8YsojLzFrdWh3wHtrRJrMGj1co7BJwZqZlCF_AC6lb_s1JC9v5jOwXswpGB8soVc5PsS",
     "sell_order_count": "26",
     "buy_order_count": "3,379",
-    "lowest_sell_order": "1.05",
+    "lowest_sell_order": "1.08",
     "highest_buy_order": "1.00",
-    "date_modified": 1764327806409
+    "date_modified": 1764366907376
   },
   {
     "hash_name": "StatTrak™ SG 553 | Ol' Rusty (Well-Worn)",
     "item_nameid": 176186185,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JhpWYg-7LPr7Vn35cppMm07zFotit0Q3j_kRuam2gIdCRcgI9YA6Fr1O7le6708Xt6prOwSN9-n51UE2txSE",
-    "sell_order_count": "76",
-    "buy_order_count": "18,365",
-    "lowest_sell_order": "0.16",
+    "sell_order_count": "81",
+    "buy_order_count": "18,347",
+    "lowest_sell_order": "0.15",
     "highest_buy_order": "0.13",
-    "date_modified": 1764327814536
+    "date_modified": 1764366915538
   },
   {
     "hash_name": "StatTrak™ SG 553 | Ol' Rusty (Minimal Wear)",
     "item_nameid": 176185951,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JhpWYg-7LP7LWnn8f7Jd32r6QotWljVLj8hE4amugdoXAIQ5tYg2DrALsk-nr0JXv6JuYnGwj5HdgZxfpBA",
-    "sell_order_count": "512",
-    "buy_order_count": "30,428",
-    "lowest_sell_order": "0.21",
+    "sell_order_count": "488",
+    "buy_order_count": "30,499",
+    "lowest_sell_order": "0.20",
     "highest_buy_order": "0.19",
-    "date_modified": 1764327822661
+    "date_modified": 1764366923667
   },
   {
     "hash_name": "StatTrak™ SG 553 | Ol' Rusty (Field-Tested)",
     "item_nameid": 176185892,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JhpWYg-7LPr7Vn35cppMm07zFotit0Q3j_kRuam2gIdCRcgI9YA6Fr1O7le6708Xt6prOwSN9-n51UE2txSE",
-    "sell_order_count": "775",
-    "buy_order_count": "37,851",
-    "lowest_sell_order": "0.13",
-    "highest_buy_order": "0.12",
-    "date_modified": 1764327830807
+    "sell_order_count": "870",
+    "buy_order_count": "38,583",
+    "lowest_sell_order": "0.14",
+    "highest_buy_order": "0.13",
+    "date_modified": 1764366931842
   },
   {
     "hash_name": "StatTrak™ SG 553 | Ol' Rusty (Factory New)",
     "item_nameid": 176186065,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JhpWYg-7LP7LWnn8f7Jd32r6QotWljVLj8hE4amugdoXAIQ5tYg2DrALsk-nr0JXv6JuYnGwj5HdgZxfpBA",
-    "sell_order_count": "318",
-    "buy_order_count": "14,505",
-    "lowest_sell_order": "0.57",
+    "sell_order_count": "313",
+    "buy_order_count": "14,503",
+    "lowest_sell_order": "0.58",
     "highest_buy_order": "0.55",
-    "date_modified": 1764327838996
+    "date_modified": 1764366939961
   },
   {
     "hash_name": "StatTrak™ SG 553 | Ol' Rusty (Battle-Scarred)",
     "item_nameid": 176186009,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JhpWYg-7LO77QgHIfvpYojL2T9t3z2FLgqUE_a2r2doPBJwE6ZgqCqwfslb25gpDqtZXOzWwj5HdEjkHrcQ",
-    "sell_order_count": "173",
-    "buy_order_count": "18,953",
-    "lowest_sell_order": "0.19",
+    "sell_order_count": "180",
+    "buy_order_count": "18,630",
+    "lowest_sell_order": "0.15",
     "highest_buy_order": "0.14",
-    "date_modified": 1764327847142
+    "date_modified": 1764366948124
   },
   {
     "hash_name": "StatTrak™ SG 553 | Heavy Metal (Well-Worn)",
     "item_nameid": 176241002,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JkIWKg__5Nq_QmlRc7cF4n-SP84iljVLn_EU4YzyhLdecI1A7YlHVrlC7xOzv1MXpuM-ay3Ay6HQjtmGdwUIt2_XmMQ",
-    "sell_order_count": "97",
-    "buy_order_count": "8,559",
-    "lowest_sell_order": "0.40",
+    "sell_order_count": "101",
+    "buy_order_count": "8,540",
+    "lowest_sell_order": "0.39",
     "highest_buy_order": "0.36",
-    "date_modified": 1764327855304
+    "date_modified": 1764366956278
   },
   {
     "hash_name": "StatTrak™ SG 553 | Heavy Metal (Minimal Wear)",
     "item_nameid": 176241020,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JkIWKg__5Nq_QmlRd4cJ5nqeS9tWs2wXiqBVvZmqlLYGccVNtYFzS_FTtxr_shp68usnOmyBgvXYn-z-DyNhs9kJY",
-    "sell_order_count": "130",
-    "buy_order_count": "13,711",
-    "lowest_sell_order": "0.80",
+    "sell_order_count": "134",
+    "buy_order_count": "13,710",
+    "lowest_sell_order": "0.78",
     "highest_buy_order": "0.73",
-    "date_modified": 1764327863465
+    "date_modified": 1764366964450
   },
   {
     "hash_name": "StatTrak™ SG 553 | Heavy Metal (Field-Tested)",
     "item_nameid": 176241044,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JkIWKg__5Nq_QmlRc7cF4n-SP84iljVLn_EU4YzyhLdecI1A7YlHVrlC7xOzv1MXpuM-ay3Ay6HQjtmGdwUIt2_XmMQ",
-    "sell_order_count": "184",
-    "buy_order_count": "17,515",
-    "lowest_sell_order": "0.42",
-    "highest_buy_order": "0.41",
-    "date_modified": 1764327871592
+    "sell_order_count": "181",
+    "buy_order_count": "17,519",
+    "lowest_sell_order": "0.47",
+    "highest_buy_order": "0.39",
+    "date_modified": 1764366972605
   },
   {
     "hash_name": "StatTrak™ SG 553 | Heavy Metal (Factory New)",
     "item_nameid": 176241117,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JkIWKg__5Nq_QmlRd4cJ5nqeS9tWs2wXiqBVvZmqlLYGccVNtYFzS_FTtxr_shp68usnOmyBgvXYn-z-DyNhs9kJY",
-    "sell_order_count": "33",
-    "buy_order_count": "8,890",
-    "lowest_sell_order": "2.58",
-    "highest_buy_order": "1.90",
-    "date_modified": 1764327879727
+    "sell_order_count": "34",
+    "buy_order_count": "8,897",
+    "lowest_sell_order": "2.57",
+    "highest_buy_order": "1.91",
+    "date_modified": 1764366980769
   },
   {
     "hash_name": "StatTrak™ SG 553 | Heavy Metal (Battle-Scarred)",
     "item_nameid": 176240993,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JkIWKg__5Nq_QmlRZ7cRnk6fDpNmg3gXn8kA4ZWD0JY-TIQ49ZlyC_QC6w7u6hcK47cmay3IyvnIn-z-DyJqb5Wm2",
-    "sell_order_count": "52",
-    "buy_order_count": "18,211",
-    "lowest_sell_order": "0.40",
+    "sell_order_count": "54",
+    "buy_order_count": "18,203",
+    "lowest_sell_order": "0.42",
     "highest_buy_order": "0.36",
-    "date_modified": 1764327887881
+    "date_modified": 1764366988898
   },
   {
     "hash_name": "StatTrak™ SG 553 | Dragon Tech (Well-Worn)",
     "item_nameid": 176321333,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mJkuXLN6nQkWRf18h0juDU-MLw2gbm-kpqMW2lI4SVdwdtZQvQ-FK5x7_pjJG0u8yYnXNk7CIh5yyLgVXp1oqX5zw8",
-    "sell_order_count": "43",
-    "buy_order_count": "5,208",
-    "lowest_sell_order": "0.78",
+    "sell_order_count": "42",
+    "buy_order_count": "5,211",
+    "lowest_sell_order": "0.77",
     "highest_buy_order": "0.72",
-    "date_modified": 1764327896013
+    "date_modified": 1764366997114
   },
   {
     "hash_name": "StatTrak™ SG 553 | Dragon Tech (Minimal Wear)",
     "item_nameid": 176321259,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mJkuXLN6nQkWRf18l4jeHVu9Wm0VXmqkNsZm32dtKSIARtNw3Q_FS3kOnq0JC6vMmamHZiv3Ir53vD30vg_3B8jwE",
-    "sell_order_count": "162",
-    "buy_order_count": "10,912",
-    "lowest_sell_order": "1.54",
+    "sell_order_count": "174",
+    "buy_order_count": "10,889",
+    "lowest_sell_order": "1.52",
     "highest_buy_order": "1.33",
-    "date_modified": 1764327904168
+    "date_modified": 1764367005292
   },
   {
     "hash_name": "StatTrak™ SG 553 | Dragon Tech (Field-Tested)",
     "item_nameid": 176321272,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mJkuXLN6nQkWRf18h0juDU-MLw2gbm-kpqMW2lI4SVdwdtZQvQ-FK5x7_pjJG0u8yYnXNk7CIh5yyLgVXp1oqX5zw8",
-    "sell_order_count": "428",
-    "buy_order_count": "11,423",
-    "lowest_sell_order": "0.73",
+    "sell_order_count": "406",
+    "buy_order_count": "11,380",
+    "lowest_sell_order": "0.77",
     "highest_buy_order": "0.69",
-    "date_modified": 1764327912306
+    "date_modified": 1764367013455
   },
   {
     "hash_name": "StatTrak™ SG 553 | Dragon Tech (Factory New)",
     "item_nameid": 176321283,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mJkuXLN6nQkWRf18l4jeHVu9Wm0VXmqkNsZm32dtKSIARtNw3Q_FS3kOnq0JC6vMmamHZiv3Ir53vD30vg_3B8jwE",
-    "sell_order_count": "118",
-    "buy_order_count": "7,324",
+    "sell_order_count": "121",
+    "buy_order_count": "7,264",
     "lowest_sell_order": "3.41",
     "highest_buy_order": "3.16",
-    "date_modified": 1764327920433
+    "date_modified": 1764367021582
   },
   {
     "hash_name": "StatTrak™ SG 553 | Dragon Tech (Battle-Scarred)",
     "item_nameid": 176321278,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mJkuXLN6nQkWRf1810i__Yu96t3Aey-ENsNT-hJIWcewVqYVzX8le_lL--jZ-86JufyHFnviQl4nfD30vgDMhl7qI",
-    "sell_order_count": "33",
-    "buy_order_count": "5,635",
-    "lowest_sell_order": "0.98",
-    "highest_buy_order": "0.65",
-    "date_modified": 1764327928562
+    "sell_order_count": "44",
+    "buy_order_count": "5,610",
+    "lowest_sell_order": "0.70",
+    "highest_buy_order": "0.66",
+    "date_modified": 1764367029784
   },
   {
     "hash_name": "StatTrak™ SG 553 | Darkwing (Well-Worn)",
@@ -30275,29 +30275,29 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JkIGZnOD9Pbzum25V4dB8xL2Xptvz21bi-EA-MD_3JoDAdgA9ZFzX_lfswL3qh8K86pudzSZls3U8pSGKUIi-Z_8",
     "sell_order_count": "59",
     "buy_order_count": "9,624",
-    "lowest_sell_order": "0.96",
+    "lowest_sell_order": "0.94",
     "highest_buy_order": "0.84",
-    "date_modified": 1764327936739
+    "date_modified": 1764367038026
   },
   {
     "hash_name": "StatTrak™ SG 553 | Darkwing (Minimal Wear)",
     "item_nameid": 176118355,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JkIGZnOD9PbzummJW4NE_27rCpo6n3QC1_kc6ZW31ItSQewM6MFuGrwDtkLjthJ_v7p3MnXFqsz5iuyigvJplYA",
-    "sell_order_count": "51",
-    "buy_order_count": "11,247",
-    "lowest_sell_order": "2.57",
+    "sell_order_count": "52",
+    "buy_order_count": "11,244",
+    "lowest_sell_order": "2.69",
     "highest_buy_order": "2.21",
-    "date_modified": 1764327944905
+    "date_modified": 1764367046208
   },
   {
     "hash_name": "StatTrak™ SG 553 | Darkwing (Field-Tested)",
     "item_nameid": 176118313,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JkIGZnOD9Pbzum25V4dB8xL2Xptvz21bi-EA-MD_3JoDAdgA9ZFzX_lfswL3qh8K86pudzSZls3U8pSGKUIi-Z_8",
     "sell_order_count": "108",
-    "buy_order_count": "12,242",
-    "lowest_sell_order": "1.15",
+    "buy_order_count": "12,325",
+    "lowest_sell_order": "1.18",
     "highest_buy_order": "0.97",
-    "date_modified": 1764327953034
+    "date_modified": 1764367054352
   },
   {
     "hash_name": "StatTrak™ SG 553 | Darkwing (Factory New)",
@@ -30305,189 +30305,189 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JkIGZnOD9PbzummJW4NE_27rCpo6n3QC1_kc6ZW31ItSQewM6MFuGrwDtkLjthJ_v7p3MnXFqsz5iuyigvJplYA",
     "sell_order_count": "40",
     "buy_order_count": "6,158",
-    "lowest_sell_order": "9.81",
+    "lowest_sell_order": "9.70",
     "highest_buy_order": "9.14",
-    "date_modified": 1764327961156
+    "date_modified": 1764367062539
   },
   {
     "hash_name": "StatTrak™ SG 553 | Darkwing (Battle-Scarred)",
     "item_nameid": 176118406,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JkIGZnOD9Pbzunm5Q_tw_jLDHpN6l3Ffj-0M9MD3ycNeRIQ9vZlnS-AK7k-znhZe16s_LzHQ3vj5iuyg5MG80_Q",
-    "sell_order_count": "37",
-    "buy_order_count": "9,455",
-    "lowest_sell_order": "0.96",
+    "sell_order_count": "40",
+    "buy_order_count": "9,436",
+    "lowest_sell_order": "0.87",
     "highest_buy_order": "0.82",
-    "date_modified": 1764327969291
+    "date_modified": 1764367070659
   },
   {
     "hash_name": "StatTrak™ SG 553 | Danger Close (Well-Worn)",
     "item_nameid": 176024870,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-Jm5aOhcj8NrrFk29u5cB1g_zMu9yki1axrkQ-MDqiIIadelI_Ml7X_la3lOjs08TuuJ7IzyEx7yQk5irD30vg2D2kd6M",
-    "sell_order_count": "21",
+    "sell_order_count": "23",
     "buy_order_count": "4,216",
     "lowest_sell_order": "0.30",
     "highest_buy_order": "0.23",
-    "date_modified": 1764327977443
+    "date_modified": 1764367078832
   },
   {
     "hash_name": "StatTrak™ SG 553 | Danger Close (Minimal Wear)",
     "item_nameid": 176024850,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-Jm5aOhcj8NrrFk29u5Mx2gv2Poon2jg3hqUI_NW32cIKXcQU5ZQrT-FS8l7y-jMK07ZiYm3E26CNx4GGdwUIFyUA0fQ",
-    "sell_order_count": "84",
-    "buy_order_count": "12,678",
+    "sell_order_count": "83",
+    "buy_order_count": "12,655",
     "lowest_sell_order": "0.37",
     "highest_buy_order": "0.31",
-    "date_modified": 1764327985578
+    "date_modified": 1764367086965
   },
   {
     "hash_name": "StatTrak™ SG 553 | Danger Close (Field-Tested)",
     "item_nameid": 176024836,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-Jm5aOhcj8NrrFk29u5cB1g_zMu9yki1axrkQ-MDqiIIadelI_Ml7X_la3lOjs08TuuJ7IzyEx7yQk5irD30vg2D2kd6M",
-    "sell_order_count": "383",
-    "buy_order_count": "27,183",
-    "lowest_sell_order": "0.19",
+    "sell_order_count": "360",
+    "buy_order_count": "27,215",
+    "lowest_sell_order": "0.20",
     "highest_buy_order": "0.18",
-    "date_modified": 1764327993695
+    "date_modified": 1764367095167
   },
   {
     "hash_name": "StatTrak™ SG 553 | Danger Close (Factory New)",
     "item_nameid": 176024926,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-Jm5aOhcj8NrrFk29u5Mx2gv2Poon2jg3hqUI_NW32cIKXcQU5ZQrT-FS8l7y-jMK07ZiYm3E26CNx4GGdwUIFyUA0fQ",
-    "sell_order_count": "68",
-    "buy_order_count": "4,692",
+    "sell_order_count": "69",
+    "buy_order_count": "4,687",
     "lowest_sell_order": "1.22",
     "highest_buy_order": "1.09",
-    "date_modified": 1764328001853
+    "date_modified": 1764367103303
   },
   {
     "hash_name": "StatTrak™ SG 553 | Danger Close (Battle-Scarred)",
     "item_nameid": 176024817,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-Jm5aOhcj8NrrFk29u4MBwnPCP9titiQHmrRI9YDrzJ4fGewJqNF_X_1Hqle_rgp-57pvAn3NkuycmsGGdwUIqKzXA3Q",
-    "sell_order_count": "89",
-    "buy_order_count": "11,948",
-    "lowest_sell_order": "0.24",
-    "highest_buy_order": "0.21",
-    "date_modified": 1764328009982
+    "sell_order_count": "87",
+    "buy_order_count": "11,848",
+    "lowest_sell_order": "0.27",
+    "highest_buy_order": "0.20",
+    "date_modified": 1764367111475
   },
   {
     "hash_name": "StatTrak™ SG 553 | Cyrex (Well-Worn)",
     "item_nameid": 49399567,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mZku_LPr7Vn35cppx3jOjAoYjz2gC1r0NsZG3zLdCWI1I_Mw7U_VW2wLvohJHouZzNnXF9-n51UtgDaag",
-    "sell_order_count": "17",
+    "sell_order_count": "14",
     "buy_order_count": "903",
-    "lowest_sell_order": "10.89",
-    "highest_buy_order": "10.93",
-    "date_modified": 1764328018101
+    "lowest_sell_order": "11.50",
+    "highest_buy_order": "10.32",
+    "date_modified": 1764367119595
   },
   {
     "hash_name": "StatTrak™ SG 553 | Cyrex (Minimal Wear)",
     "item_nameid": 49399554,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mZku_LP7LWnn8fsMZ12LuSp9ik0Qzl_BI5N2ulJoGTIFJvNQ3V-wO8yebphZbquZzByGwj5Hd6-umspQ",
     "sell_order_count": "13",
-    "buy_order_count": "709",
+    "buy_order_count": "653",
     "lowest_sell_order": "19.04",
-    "highest_buy_order": "18.22",
-    "date_modified": 1764328026237
+    "highest_buy_order": "18.11",
+    "date_modified": 1764367127787
   },
   {
     "hash_name": "StatTrak™ SG 553 | Cyrex (Field-Tested)",
     "item_nameid": 49365706,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mZku_LPr7Vn35cppx3jOjAoYjz2gC1r0NsZG3zLdCWI1I_Mw7U_VW2wLvohJHouZzNnXF9-n51UtgDaag",
-    "sell_order_count": "11",
-    "buy_order_count": "1,038",
-    "lowest_sell_order": "12.50",
-    "highest_buy_order": "11.91",
-    "date_modified": 1764328034360
+    "sell_order_count": "13",
+    "buy_order_count": "1,037",
+    "lowest_sell_order": "12.95",
+    "highest_buy_order": "12.12",
+    "date_modified": 1764367135932
   },
   {
     "hash_name": "StatTrak™ SG 553 | Cyrex (Factory New)",
     "item_nameid": 49399584,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mZku_LP7LWnn8fsMZ12LuSp9ik0Qzl_BI5N2ulJoGTIFJvNQ3V-wO8yebphZbquZzByGwj5Hd6-umspQ",
     "sell_order_count": "11",
-    "buy_order_count": "522",
-    "lowest_sell_order": "74.42",
+    "buy_order_count": "524",
+    "lowest_sell_order": "73.44",
     "highest_buy_order": "50.75",
-    "date_modified": 1764328042483
+    "date_modified": 1764367144134
   },
   {
     "hash_name": "StatTrak™ SG 553 | Cyrex (Battle-Scarred)",
     "item_nameid": 49419407,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mZku_LO77QgHIfvp0pi72QrNSn3gKyqhI6N2r6LYOdcFVvYF3Q-FS_xOi7hcXp6prAmmwj5Hf7p48cSg",
     "sell_order_count": "18",
-    "buy_order_count": "1,123",
+    "buy_order_count": "1,120",
     "lowest_sell_order": "10.81",
-    "highest_buy_order": "10.52",
-    "date_modified": 1764328050618
+    "highest_buy_order": "10.73",
+    "date_modified": 1764367152303
   },
   {
     "hash_name": "StatTrak™ SG 553 | Cyberforce (Well-Worn)",
     "item_nameid": 176358897,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mJkuXyPKnSk1Rc7cF4n-SPpYqs2QXs_UVtYG2iJ4GcdlNsZgzQqQS3wufv18Tpu5XIwCc3uid34WGdwUKJa4Kb1w",
-    "sell_order_count": "166",
-    "buy_order_count": "12,433",
-    "lowest_sell_order": "0.12",
+    "sell_order_count": "155",
+    "buy_order_count": "12,462",
+    "lowest_sell_order": "0.14",
     "highest_buy_order": "0.11",
-    "date_modified": 1764328058753
+    "date_modified": 1764367160583
   },
   {
     "hash_name": "StatTrak™ SG 553 | Cyberforce (Minimal Wear)",
     "item_nameid": 176358834,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mJkuXyPKnSk1Rd4cJ5nqeUrYigi1ax-kNrYGDycYaVJAM_YFrWr1PslLvuhJbt7c_Nyic36Chz-z-DyLGz3UUL",
-    "sell_order_count": "487",
-    "buy_order_count": "14,882",
-    "lowest_sell_order": "0.26",
-    "highest_buy_order": "0.25",
-    "date_modified": 1764328066874
+    "sell_order_count": "473",
+    "buy_order_count": "15,064",
+    "lowest_sell_order": "0.27",
+    "highest_buy_order": "0.24",
+    "date_modified": 1764367168719
   },
   {
     "hash_name": "StatTrak™ SG 553 | Cyberforce (Field-Tested)",
     "item_nameid": 176358783,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mJkuXyPKnSk1Rc7cF4n-SPpYqs2QXs_UVtYG2iJ4GcdlNsZgzQqQS3wufv18Tpu5XIwCc3uid34WGdwUKJa4Kb1w",
-    "sell_order_count": "1,097",
-    "buy_order_count": "37,424",
-    "lowest_sell_order": "0.13",
+    "sell_order_count": "1,080",
+    "buy_order_count": "37,820",
+    "lowest_sell_order": "0.14",
     "highest_buy_order": "0.11",
-    "date_modified": 1764328074999
+    "date_modified": 1764367176934
   },
   {
     "hash_name": "StatTrak™ SG 553 | Cyberforce (Factory New)",
     "item_nameid": 176358928,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mJkuXyPKnSk1Rd4cJ5nqeUrYigi1ax-kNrYGDycYaVJAM_YFrWr1PslLvuhJbt7c_Nyic36Chz-z-DyLGz3UUL",
-    "sell_order_count": "162",
+    "sell_order_count": "164",
     "buy_order_count": "11,411",
-    "lowest_sell_order": "1.06",
+    "lowest_sell_order": "1.03",
     "highest_buy_order": "0.97",
-    "date_modified": 1764328083134
+    "date_modified": 1764367185087
   },
   {
     "hash_name": "StatTrak™ SG 553 | Cyberforce (Battle-Scarred)",
     "item_nameid": 176358838,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl5mJkuXyPKnSk1RZ7cRnk6eS9o6h2gTt-UJtZWulIYXDIwRvaQ6E_gK2wbi9jMPo6s6azXpkuSUq-z-DyBtDiyCS",
-    "sell_order_count": "290",
-    "buy_order_count": "13,207",
-    "lowest_sell_order": "0.12",
+    "sell_order_count": "269",
+    "buy_order_count": "13,162",
+    "lowest_sell_order": "0.13",
     "highest_buy_order": "0.11",
-    "date_modified": 1764328091255
+    "date_modified": 1764367193273
   },
   {
     "hash_name": "StatTrak™ SG 553 | Colony IV (Well-Worn)",
     "item_nameid": 176097019,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhoWKlOP7IYTck29Y_cg_2LzE8Inz0QDj_Rc9ZD_2dY-RewdqMAmG-1e_x-3rhJ_q7s_KyHRmuz5iuyhYtefGBg",
-    "sell_order_count": "13",
-    "buy_order_count": "2,732",
-    "lowest_sell_order": "14.50",
-    "highest_buy_order": "13.71",
-    "date_modified": 1764328099377
+    "sell_order_count": "12",
+    "buy_order_count": "2,736",
+    "lowest_sell_order": "14.65",
+    "highest_buy_order": "13.86",
+    "date_modified": 1764367201511
   },
   {
     "hash_name": "StatTrak™ SG 553 | Colony IV (Minimal Wear)",
     "item_nameid": 176097114,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhoWKlOP7IYTdn2xZ_Isoj-2Q8ImjjVXt8kc6NW7zd4-dcQQ7YljU-AS7xe3qjZfp6J6czSEypGB8sijjaezs",
-    "sell_order_count": "7",
-    "buy_order_count": "2,403",
-    "lowest_sell_order": "43.19",
-    "highest_buy_order": "37.61",
-    "date_modified": 1764328107519
+    "sell_order_count": "6",
+    "buy_order_count": "2,404",
+    "lowest_sell_order": "43.29",
+    "highest_buy_order": "37.80",
+    "date_modified": 1764367209761
   },
   {
     "hash_name": "StatTrak™ SG 553 | Colony IV (Field-Tested)",
@@ -30497,37 +30497,37 @@
     "buy_order_count": "4,050",
     "lowest_sell_order": "18.40",
     "highest_buy_order": "16.70",
-    "date_modified": 1764328115680
+    "date_modified": 1764367217890
   },
   {
     "hash_name": "StatTrak™ SG 553 | Colony IV (Factory New)",
     "item_nameid": 176097483,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhoWKlOP7IYTdn2xZ_Isoj-2Q8ImjjVXt8kc6NW7zd4-dcQQ7YljU-AS7xe3qjZfp6J6czSEypGB8sijjaezs",
     "sell_order_count": "7",
-    "buy_order_count": "2,474",
-    "lowest_sell_order": "123.41",
+    "buy_order_count": "2,475",
+    "lowest_sell_order": "122.19",
     "highest_buy_order": "80.08",
-    "date_modified": 1764328123816
+    "date_modified": 1764367226057
   },
   {
     "hash_name": "StatTrak™ SG 553 | Colony IV (Battle-Scarred)",
     "item_nameid": 176096861,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhoWKlOP7IYTZk2pH8Yt0i7zDpNrx2wXkqEJpMmmhLY-dJFI8YVrS_AW5xu_q08e_7p2dyiEypGB8ssvzU35U",
-    "sell_order_count": "9",
-    "buy_order_count": "2,693",
-    "lowest_sell_order": "15.73",
-    "highest_buy_order": "15.71",
-    "date_modified": 1764328131955
+    "sell_order_count": "6",
+    "buy_order_count": "2,690",
+    "lowest_sell_order": "17.31",
+    "highest_buy_order": "16.00",
+    "date_modified": 1764367234197
   },
   {
     "hash_name": "StatTrak™ SG 553 | Atlas (Well-Worn)",
     "item_nameid": 149872481,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JlZSHluTLPr7Vn35cppR03eyR99303wS2qRU_YGH6d9WSI1A_YV6GrFLtk-7o05G_6siYnXp9-n51DX9huQ0",
-    "sell_order_count": "34",
-    "buy_order_count": "2,722",
+    "sell_order_count": "36",
+    "buy_order_count": "2,723",
     "lowest_sell_order": "0.29",
     "highest_buy_order": "0.28",
-    "date_modified": 1764328140080
+    "date_modified": 1764367242383
   },
   {
     "hash_name": "StatTrak™ SG 553 | Atlas (Minimal Wear)",
@@ -30535,19 +30535,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JlZSHluTLP7LWnn8fu8N30u_FrYn02lDh_BVra2j1ddKcJ1I_M1zT_Ve3l7zrg8W86pvJn2wj5Hd8P8m2Lg",
     "sell_order_count": "51",
     "buy_order_count": "6,287",
-    "lowest_sell_order": "0.46",
+    "lowest_sell_order": "0.43",
     "highest_buy_order": "0.37",
-    "date_modified": 1764328148217
+    "date_modified": 1764367250505
   },
   {
     "hash_name": "StatTrak™ SG 553 | Atlas (Field-Tested)",
     "item_nameid": 149865817,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JlZSHluTLPr7Vn35cppR03eyR99303wS2qRU_YGH6d9WSI1A_YV6GrFLtk-7o05G_6siYnXp9-n51DX9huQ0",
     "sell_order_count": "127",
-    "buy_order_count": "17,129",
+    "buy_order_count": "17,102",
     "lowest_sell_order": "0.25",
     "highest_buy_order": "0.21",
-    "date_modified": 1764328156358
+    "date_modified": 1764367258670
   },
   {
     "hash_name": "StatTrak™ SG 553 | Atlas (Factory New)",
@@ -30557,577 +30557,577 @@
     "buy_order_count": "2,775",
     "lowest_sell_order": "1.55",
     "highest_buy_order": "1.26",
-    "date_modified": 1764328164488
+    "date_modified": 1764367266810
   },
   {
     "hash_name": "StatTrak™ SG 553 | Atlas (Battle-Scarred)",
     "item_nameid": 149869020,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JlZSHluTLO77QgHIfupEo3-2Vot_03VG28kdqZGnxLdWXIQVvZ1CDqwS7kLzvhMC5tJqYwGwj5Hep-UktJA",
-    "sell_order_count": "35",
+    "sell_order_count": "39",
     "buy_order_count": "7,338",
     "lowest_sell_order": "0.25",
     "highest_buy_order": "0.19",
-    "date_modified": 1764328172645
+    "date_modified": 1764367274972
   },
   {
     "hash_name": "StatTrak™ SG 553 | Aloha (Well-Worn)",
     "item_nameid": 175967095,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3YjoXv4-JlYyEn_bLPr7Vn35cppEk37qR9tqh3VKy-xA-ZGGhJ9CQcAc2aQvZqwO8kOm908LqupjPynd9-n51SLU9YjU",
-    "sell_order_count": "84",
-    "buy_order_count": "9,711",
-    "lowest_sell_order": "0.17",
+    "sell_order_count": "86",
+    "buy_order_count": "9,709",
+    "lowest_sell_order": "0.16",
     "highest_buy_order": "0.14",
-    "date_modified": 1764328180766
+    "date_modified": 1764367283133
   },
   {
     "hash_name": "StatTrak™ SG 553 | Aloha (Minimal Wear)",
     "item_nameid": 175966785,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3YjoXv4-JlYyEn_bLP7LWnn8fuJQi3L-TooqmjQzm_EQ5NTv0ctTGIQ46ZQuC_wO3l-i5gcC-u8ifzGwj5Hf4HQKc2g",
-    "sell_order_count": "377",
-    "buy_order_count": "18,931",
+    "sell_order_count": "379",
+    "buy_order_count": "18,954",
     "lowest_sell_order": "0.31",
     "highest_buy_order": "0.28",
-    "date_modified": 1764328188897
+    "date_modified": 1764367291298
   },
   {
     "hash_name": "StatTrak™ SG 553 | Aloha (Field-Tested)",
     "item_nameid": 175966818,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3YjoXv4-JlYyEn_bLPr7Vn35cppEk37qR9tqh3VKy-xA-ZGGhJ9CQcAc2aQvZqwO8kOm908LqupjPynd9-n51SLU9YjU",
-    "sell_order_count": "617",
-    "buy_order_count": "29,774",
-    "lowest_sell_order": "0.16",
+    "sell_order_count": "610",
+    "buy_order_count": "29,829",
+    "lowest_sell_order": "0.17",
     "highest_buy_order": "0.14",
-    "date_modified": 1764328197037
+    "date_modified": 1764367299414
   },
   {
     "hash_name": "StatTrak™ SG 553 | Aloha (Factory New)",
     "item_nameid": 175966789,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3YjoXv4-JlYyEn_bLP7LWnn8fuJQi3L-TooqmjQzm_EQ5NTv0ctTGIQ46ZQuC_wO3l-i5gcC-u8ifzGwj5Hf4HQKc2g",
-    "sell_order_count": "275",
-    "buy_order_count": "11,230",
+    "sell_order_count": "270",
+    "buy_order_count": "11,208",
     "lowest_sell_order": "0.73",
     "highest_buy_order": "0.69",
-    "date_modified": 1764328205156
+    "date_modified": 1764367307601
   },
   {
     "hash_name": "StatTrak™ SG 553 | Aloha (Battle-Scarred)",
     "item_nameid": 175967027,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3YjoXv4-JlYyEn_bLO77QgHIfu5x327iZp9ih21Lm80RrYmqmINWTcQFqaVCBqAe-kLi60ZO16ZTAnGwj5HfcNVfhkg",
-    "sell_order_count": "109",
-    "buy_order_count": "6,579",
-    "lowest_sell_order": "0.13",
+    "sell_order_count": "106",
+    "buy_order_count": "6,578",
+    "lowest_sell_order": "0.14",
     "highest_buy_order": "0.11",
-    "date_modified": 1764328213305
+    "date_modified": 1764367315815
   },
   {
     "hash_name": "StatTrak™ SG 553 | Aerial (Well-Worn)",
     "item_nameid": 156117108,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JlYWZnvb4DLbUkmJE5Yski76S946t2AW3rxdpMWiictKcdwY9NAuG-lfsk-y9hcS1uZ7BzHZrpGB8smL5eQCm",
-    "sell_order_count": "31",
-    "buy_order_count": "1,734",
-    "lowest_sell_order": "0.41",
+    "sell_order_count": "29",
+    "buy_order_count": "1,735",
+    "lowest_sell_order": "0.42",
     "highest_buy_order": "0.37",
-    "date_modified": 1764328221444
+    "date_modified": 1764367323963
   },
   {
     "hash_name": "StatTrak™ SG 553 | Aerial (Minimal Wear)",
     "item_nameid": 156113496,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JlYWZnvb4DLfYkWNFppIojrvAp9Wi0VDlqEFoNmj0JoKXIVI_NV6B_la4kOq8hZ_otZrNnSN9-n51JAyt268",
-    "sell_order_count": "194",
-    "buy_order_count": "5,591",
-    "lowest_sell_order": "0.47",
+    "sell_order_count": "190",
+    "buy_order_count": "5,583",
+    "lowest_sell_order": "0.48",
     "highest_buy_order": "0.43",
-    "date_modified": 1764328229569
+    "date_modified": 1764367332093
   },
   {
     "hash_name": "StatTrak™ SG 553 | Aerial (Field-Tested)",
     "item_nameid": 156113463,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JlYWZnvb4DLbUkmJE5Yski76S946t2AW3rxdpMWiictKcdwY9NAuG-lfsk-y9hcS1uZ7BzHZrpGB8smL5eQCm",
-    "sell_order_count": "196",
-    "buy_order_count": "14,741",
+    "sell_order_count": "198",
+    "buy_order_count": "14,736",
     "lowest_sell_order": "0.28",
     "highest_buy_order": "0.27",
-    "date_modified": 1764328237699
+    "date_modified": 1764367340340
   },
   {
     "hash_name": "StatTrak™ SG 553 | Aerial (Factory New)",
     "item_nameid": 156113499,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JlYWZnvb4DLfYkWNFppIojrvAp9Wi0VDlqEFoNmj0JoKXIVI_NV6B_la4kOq8hZ_otZrNnSN9-n51JAyt268",
-    "sell_order_count": "108",
-    "buy_order_count": "4,498",
-    "lowest_sell_order": "1.16",
+    "sell_order_count": "109",
+    "buy_order_count": "4,495",
+    "lowest_sell_order": "1.12",
     "highest_buy_order": "1.10",
-    "date_modified": 1764328245831
+    "date_modified": 1764367348467
   },
   {
     "hash_name": "StatTrak™ SG 553 | Aerial (Battle-Scarred)",
     "item_nameid": 156116510,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JlYWZnvb4DLPUl31IpsAoj7DCoIj2jgXs_RU9Nm7zIoPAdQA3NVHXq1m5kr-8gcW77czJwSN9-n51HHVjyUM",
-    "sell_order_count": "28",
-    "buy_order_count": "3,177",
-    "lowest_sell_order": "0.30",
+    "sell_order_count": "30",
+    "buy_order_count": "3,176",
+    "lowest_sell_order": "0.28",
     "highest_buy_order": "0.24",
-    "date_modified": 1764328253973
+    "date_modified": 1764367356742
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Trail Blazer (Well-Worn)",
     "item_nameid": 176460906,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODLcC8QvOOwgZKSqOP7I7Tum25V4dB8xLvErdnwilWw-xY-N2v6ctSQdwJvaF7V_wW2wLy808S5upnJyiNjuCk8pSGKifVcBhM",
-    "sell_order_count": "55",
-    "buy_order_count": "6,876",
-    "lowest_sell_order": "0.28",
+    "sell_order_count": "57",
+    "buy_order_count": "6,875",
+    "lowest_sell_order": "0.26",
     "highest_buy_order": "0.21",
-    "date_modified": 1764328262094
+    "date_modified": 1764367364868
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Trail Blazer (Minimal Wear)",
     "item_nameid": 176460711,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODLcC8QvOOwgZKSqOP7I7TummJW4NE_0r7C8dj3jQTs-RVkNW77cYaSIwNsYFnU8lW3yOi7jJG4vc6bm3Aw6D5iuyg-kGGpmQ",
     "sell_order_count": "115",
-    "buy_order_count": "8,646",
-    "lowest_sell_order": "0.71",
+    "buy_order_count": "8,644",
+    "lowest_sell_order": "0.77",
     "highest_buy_order": "0.61",
-    "date_modified": 1764328270271
+    "date_modified": 1764367373030
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Trail Blazer (Field-Tested)",
     "item_nameid": 176460463,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODLcC8QvOOwgZKSqOP7I7Tum25V4dB8xLvErdnwilWw-xY-N2v6ctSQdwJvaF7V_wW2wLy808S5upnJyiNjuCk8pSGKifVcBhM",
-    "sell_order_count": "162",
-    "buy_order_count": "12,028",
+    "sell_order_count": "166",
+    "buy_order_count": "12,039",
     "lowest_sell_order": "0.27",
     "highest_buy_order": "0.24",
-    "date_modified": 1764328278393
+    "date_modified": 1764367381186
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Trail Blazer (Factory New)",
     "item_nameid": 176460870,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODLcC8QvOOwgZKSqOP7I7TummJW4NE_0r7C8dj3jQTs-RVkNW77cYaSIwNsYFnU8lW3yOi7jJG4vc6bm3Aw6D5iuyg-kGGpmQ",
-    "sell_order_count": "68",
+    "sell_order_count": "69",
     "buy_order_count": "5,134",
-    "lowest_sell_order": "1.41",
+    "lowest_sell_order": "1.40",
     "highest_buy_order": "1.38",
-    "date_modified": 1764328286529
+    "date_modified": 1764367389341
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Trail Blazer (Battle-Scarred)",
     "item_nameid": 176460951,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODLcC8QvOOwgZKSqOP7I7Tunm5Q_tw_27mV84733wHh_kU4NTqgI9KVcwA3aV3T_we7lOa9gZK16JnNyHFnvD5iuyiAXW15kw",
-    "sell_order_count": "32",
-    "buy_order_count": "12,132",
-    "lowest_sell_order": "0.23",
+    "sell_order_count": "34",
+    "buy_order_count": "12,133",
+    "lowest_sell_order": "0.20",
     "highest_buy_order": "0.18",
-    "date_modified": 1764328294651
+    "date_modified": 1764367397465
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Torn (Well-Worn)",
     "item_nameid": 176097288,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODYTi5B7c7kxL-Yg-X9OL7DqW9E-9FOh-zF_Jn4xg228kduZWrwJ9WQJg9oYFvT-1nrlO280Z7utJ_OyXA3v3Vx5S3byUGpwUYbNHLg2JI",
-    "sell_order_count": "19",
+    "sell_order_count": "21",
     "buy_order_count": "3,242",
-    "lowest_sell_order": "0.98",
+    "lowest_sell_order": "0.97",
     "highest_buy_order": "0.66",
-    "date_modified": 1764328302851
+    "date_modified": 1764367405620
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Torn (Minimal Wear)",
     "item_nameid": 176096697,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODYTi5B7c7kxL-Yg-X9OL7DqW9E-9FOhuDG_Zi7iw3n_hZsNz2mJdXDcAI5MA3RqQS_kujqhcK9vM7KmyFjuSJ2tHuPlwv3309nbCkLkQ",
     "sell_order_count": "17",
-    "buy_order_count": "4,514",
+    "buy_order_count": "4,515",
     "lowest_sell_order": "1.74",
-    "highest_buy_order": "1.46",
-    "date_modified": 1764328310968
+    "highest_buy_order": "1.49",
+    "date_modified": 1764367413757
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Torn (Field-Tested)",
     "item_nameid": 176096530,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODYTi5B7c7kxL-Yg-X9OL7DqW9E-9FOh-zF_Jn4xg228kduZWrwJ9WQJg9oYFvT-1nrlO280Z7utJ_OyXA3v3Vx5S3byUGpwUYbNHLg2JI",
-    "sell_order_count": "34",
+    "sell_order_count": "36",
     "buy_order_count": "7,313",
-    "lowest_sell_order": "0.88",
+    "lowest_sell_order": "0.85",
     "highest_buy_order": "0.77",
-    "date_modified": 1764328319104
+    "date_modified": 1764367421917
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Torn (Factory New)",
     "item_nameid": 176096423,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODYTi5B7c7kxL-Yg-X9OL7DqW9E-9FOhuDG_Zi7iw3n_hZsNz2mJdXDcAI5MA3RqQS_kujqhcK9vM7KmyFjuSJ2tHuPlwv3309nbCkLkQ",
     "sell_order_count": "27",
-    "buy_order_count": "4,889",
-    "lowest_sell_order": "2.46",
+    "buy_order_count": "4,888",
+    "lowest_sell_order": "2.47",
     "highest_buy_order": "2.21",
-    "date_modified": 1764328327232
+    "date_modified": 1764367430046
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Powercore (Well-Worn)",
     "item_nameid": 165031017,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-bmODxIbjehG5u5cB1g_zMu9qjigfj-Rc6NmH0ddeRcQQ3MguE_wO4l-q5g5--75XNwHA26ygq4CzD30vgsSuamnA",
-    "sell_order_count": "31",
-    "buy_order_count": "2,494",
-    "lowest_sell_order": "1.07",
+    "sell_order_count": "35",
+    "buy_order_count": "2,493",
+    "lowest_sell_order": "1.04",
     "highest_buy_order": "0.93",
-    "date_modified": 1764328335362
+    "date_modified": 1764367438201
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Powercore (Minimal Wear)",
     "item_nameid": 165031031,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-bmODxIbjehG5u5Mx2gv2P8Nun21awrxA5Zz-gdtDHc1BqZ13Yr1nqk7rv1MC6tJvMwXc3uCcj4mGdwUIWzmZ4LQ",
     "sell_order_count": "19",
-    "buy_order_count": "3,722",
-    "lowest_sell_order": "2.08",
+    "buy_order_count": "3,716",
+    "lowest_sell_order": "1.96",
     "highest_buy_order": "1.84",
-    "date_modified": 1764328343504
+    "date_modified": 1764367446349
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Powercore (Field-Tested)",
     "item_nameid": 165027705,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-bmODxIbjehG5u5cB1g_zMu9qjigfj-Rc6NmH0ddeRcQQ3MguE_wO4l-q5g5--75XNwHA26ygq4CzD30vgsSuamnA",
-    "sell_order_count": "55",
-    "buy_order_count": "4,459",
-    "lowest_sell_order": "1.24",
-    "highest_buy_order": "1.17",
-    "date_modified": 1764328351621
+    "sell_order_count": "58",
+    "buy_order_count": "4,455",
+    "lowest_sell_order": "1.09",
+    "highest_buy_order": "0.97",
+    "date_modified": 1764367454522
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Powercore (Factory New)",
     "item_nameid": 165047008,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-bmODxIbjehG5u5Mx2gv2P8Nun21awrxA5Zz-gdtDHc1BqZ13Yr1nqk7rv1MC6tJvMwXc3uCcj4mGdwUIWzmZ4LQ",
     "sell_order_count": "16",
-    "buy_order_count": "2,630",
-    "lowest_sell_order": "6.96",
-    "highest_buy_order": "6.05",
-    "date_modified": 1764328359770
+    "buy_order_count": "2,629",
+    "lowest_sell_order": "6.84",
+    "highest_buy_order": "6.00",
+    "date_modified": 1764367462661
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Powercore (Battle-Scarred)",
     "item_nameid": 165027709,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-bmODxIbjehG5u4MBwnPCPpI_30Aa1_BZoMmH0cI_HIAc7YgyCrgTtk-nr0ZW-7czNzScwsnVz5GGdwULOEONTNQ",
     "sell_order_count": "32",
-    "buy_order_count": "2,542",
-    "lowest_sell_order": "0.96",
+    "buy_order_count": "2,541",
+    "lowest_sell_order": "0.92",
     "highest_buy_order": "0.89",
-    "date_modified": 1764328367892
+    "date_modified": 1764367470805
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Poultrygeist (Well-Worn)",
     "item_nameid": 176288672,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODYTi5B7c6Jl4iClPzxPb3YkWNF18h0juDU-MKt0Vbh8kVlNW77LIORdA8_Y17W_1fsyLu9jcO_7s_Bn3Ji6XJ2sHrUgVXp1vJUtrjY",
-    "sell_order_count": "129",
-    "buy_order_count": "6,352",
-    "lowest_sell_order": "0.15",
+    "sell_order_count": "120",
+    "buy_order_count": "6,344",
+    "lowest_sell_order": "0.14",
     "highest_buy_order": "0.10",
-    "date_modified": 1764328376083
+    "date_modified": 1764367478958
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Poultrygeist (Field-Tested)",
     "item_nameid": 176288563,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODYTi5B7c6Jl4iClPzxPb3YkWNF18h0juDU-MKt0Vbh8kVlNW77LIORdA8_Y17W_1fsyLu9jcO_7s_Bn3Ji6XJ2sHrUgVXp1vJUtrjY",
-    "sell_order_count": "803",
-    "buy_order_count": "38,054",
-    "lowest_sell_order": "0.13",
+    "sell_order_count": "777",
+    "buy_order_count": "38,226",
+    "lowest_sell_order": "0.15",
     "highest_buy_order": "0.12",
-    "date_modified": 1764328384220
+    "date_modified": 1764367487196
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Poultrygeist (Factory New)",
     "item_nameid": 176288472,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODYTi5B7c6Jl4iClPzxPb3YkWNF18l4jeHVu4j32APmqhZlMjqgJNLBegJvNVCB81O5lLy71pW0u5vOzXdgunUr7HvD30vgK7egzrs",
-    "sell_order_count": "482",
-    "buy_order_count": "11,515",
+    "sell_order_count": "479",
+    "buy_order_count": "11,455",
     "lowest_sell_order": "0.54",
     "highest_buy_order": "0.53",
-    "date_modified": 1764328392364
+    "date_modified": 1764367495342
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Poultrygeist (Battle-Scarred)",
     "item_nameid": 176288602,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODYTi5B7c6Jl4iClPzxPb3YkWNF1810i__Yu46m21Hh_ENvY232d4KXcwc9MlHTqVHsye2518C_6szAwSMxsnEg5inD30vg70WsNG0",
-    "sell_order_count": "89",
-    "buy_order_count": "10,107",
-    "lowest_sell_order": "0.15",
-    "highest_buy_order": "0.14",
-    "date_modified": 1764328400505
+    "sell_order_count": "94",
+    "buy_order_count": "10,114",
+    "lowest_sell_order": "0.14",
+    "highest_buy_order": "0.13",
+    "date_modified": 1764367503564
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Outbreak (Well-Worn)",
     "item_nameid": 84444546,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PvRTi5B7c7kxL-BgvnzP77DqWZU7Mxkh6eZpN732wbgrkVtMWCnIYaScgQ5MFGC81W-wuvtg8W8tZ-YyXZm73Ei-z-DyM0O9FQC",
-    "sell_order_count": "84",
+    "sell_order_count": "85",
     "buy_order_count": "2,598",
-    "lowest_sell_order": "0.34",
+    "lowest_sell_order": "0.32",
     "highest_buy_order": "0.27",
-    "date_modified": 1764328408636
+    "date_modified": 1764367511715
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Outbreak (Minimal Wear)",
     "item_nameid": 84444508,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PvRTi5B7c7kxL-BgvnzP77DqWdY781lxL3Fp92l3gTn-kVkMWunIIeXc1I7NwrT-wW7xrvu1MTq7ZyamCBisiA8pSGKl2kPDUY",
-    "sell_order_count": "63",
+    "sell_order_count": "61",
     "buy_order_count": "3,846",
     "lowest_sell_order": "0.80",
     "highest_buy_order": "0.77",
-    "date_modified": 1764328416760
+    "date_modified": 1764367519888
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Outbreak (Field-Tested)",
     "item_nameid": 84444467,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PvRTi5B7c7kxL-BgvnzP77DqWZU7Mxkh6eZpN732wbgrkVtMWCnIYaScgQ5MFGC81W-wuvtg8W8tZ-YyXZm73Ei-z-DyM0O9FQC",
-    "sell_order_count": "50",
-    "buy_order_count": "7,341",
-    "lowest_sell_order": "0.34",
+    "sell_order_count": "49",
+    "buy_order_count": "7,340",
+    "lowest_sell_order": "0.42",
     "highest_buy_order": "0.34",
-    "date_modified": 1764328424955
+    "date_modified": 1764367528022
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Outbreak (Factory New)",
     "item_nameid": 84444523,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PvRTi5B7c7kxL-BgvnzP77DqWdY781lxL3Fp92l3gTn-kVkMWunIIeXc1I7NwrT-wW7xrvu1MTq7ZyamCBisiA8pSGKl2kPDUY",
     "sell_order_count": "61",
-    "buy_order_count": "3,798",
+    "buy_order_count": "3,793",
     "lowest_sell_order": "1.38",
-    "highest_buy_order": "1.31",
-    "date_modified": 1764328433124
+    "highest_buy_order": "1.30",
+    "date_modified": 1764367536189
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Outbreak (Battle-Scarred)",
     "item_nameid": 84454658,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PvRTi5B7c7kxL-BgvnzP77DqWNU6dNoxL6Y89Txig3n_hVlYDygLdCWJwJvNVzRrlTol-jvgse9vJTBzHdl7yY8pSGKeuTqj-4",
-    "sell_order_count": "40",
-    "buy_order_count": "2,928",
-    "lowest_sell_order": "0.36",
-    "highest_buy_order": "0.26",
-    "date_modified": 1764328441250
+    "sell_order_count": "39",
+    "buy_order_count": "2,929",
+    "lowest_sell_order": "0.39",
+    "highest_buy_order": "0.27",
+    "date_modified": 1764367544381
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Jungle Slipstream (Well-Worn)",
     "item_nameid": 175917278,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PvRTi5B7c7kxL-BgvnzP77uhWdY-NZlmOzA-LP4jVC9vh5yYW-ncYWRcQ9vYVuCqATrxL291sW5vpvAySYwuiEq4nvUmkG0hREdOPsv26Kz6vlvJg",
-    "sell_order_count": "51",
-    "buy_order_count": "5,159",
+    "sell_order_count": "50",
+    "buy_order_count": "5,158",
     "lowest_sell_order": "0.27",
     "highest_buy_order": "0.26",
-    "date_modified": 1764328449377
+    "date_modified": 1764367552593
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Jungle Slipstream (Minimal Wear)",
     "item_nameid": 175917288,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PvRTi5B7c7kxL-BgvnzP77uhWdY-NZlmOzA-LP5gVO8v104Yzz6JteTcQM3ZgvU-QK-ye_rh5G16J_AyHprvCAnt3jdyxSxhE0fcKUx0ro1hi2K",
-    "sell_order_count": "102",
-    "buy_order_count": "11,318",
+    "sell_order_count": "109",
+    "buy_order_count": "11,270",
     "lowest_sell_order": "0.36",
     "highest_buy_order": "0.32",
-    "date_modified": 1764328457527
+    "date_modified": 1764367560706
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Jungle Slipstream (Field-Tested)",
     "item_nameid": 175917240,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PvRTi5B7c7kxL-BgvnzP77uhWdY-NZlmOzA-LP4jVC9vh5yYW-ncYWRcQ9vYVuCqATrxL291sW5vpvAySYwuiEq4nvUmkG0hREdOPsv26Kz6vlvJg",
-    "sell_order_count": "111",
-    "buy_order_count": "17,123",
+    "sell_order_count": "108",
+    "buy_order_count": "17,118",
     "lowest_sell_order": "0.23",
     "highest_buy_order": "0.21",
-    "date_modified": 1764328465672
+    "date_modified": 1764367568862
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Jungle Slipstream (Factory New)",
     "item_nameid": 175917361,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PvRTi5B7c7kxL-BgvnzP77uhWdY-NZlmOzA-LP5gVO8v104Yzz6JteTcQM3ZgvU-QK-ye_rh5G16J_AyHprvCAnt3jdyxSxhE0fcKUx0ro1hi2K",
-    "sell_order_count": "110",
-    "buy_order_count": "6,019",
-    "lowest_sell_order": "0.69",
+    "sell_order_count": "105",
+    "buy_order_count": "6,032",
+    "lowest_sell_order": "0.76",
     "highest_buy_order": "0.65",
-    "date_modified": 1764328473827
+    "date_modified": 1764367577008
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Jungle Slipstream (Battle-Scarred)",
     "item_nameid": 175917380,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PvRTi5B7c7kxL-BgvnzP77uhWdY-NZlmOzA-LP9jVWisl09Z2CmLICUcwQ8ZAvX_ATsl-_mgpfuup6YnHQ17Cgls3nVzEa1hxEacKUx0lELsuYt",
     "sell_order_count": "28",
-    "buy_order_count": "2,817",
-    "lowest_sell_order": "0.27",
+    "buy_order_count": "2,816",
+    "lowest_sell_order": "0.28",
     "highest_buy_order": "0.20",
-    "date_modified": 1764328481950
+    "date_modified": 1764367585156
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Grotto (Well-Worn)",
     "item_nameid": 29205267,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTi5B7c7kxL-Hkvb_DLbUkmJE5Ysp3O-T9N2ti1Cx-0tpam_3dYeVd1U9Zl_X_1nvxbrm1pbovJibySNqpGB8suevkqI_",
     "sell_order_count": "13",
-    "buy_order_count": "1,944",
+    "buy_order_count": "1,943",
     "lowest_sell_order": "0.84",
-    "highest_buy_order": "0.43",
-    "date_modified": 1764328490085
+    "highest_buy_order": "0.42",
+    "date_modified": 1764367593297
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Grotto (Minimal Wear)",
     "item_nameid": 29205243,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTi5B7c7kxL-Hkvb_DLfYkWNFpp133LGX9o2mjVHmqUU-N2Ghd4WWcFdqaQnV8lC9ybzuhZ-5tcnAz3d9-n51z0AeyDY",
-    "sell_order_count": "88",
+    "sell_order_count": "90",
     "buy_order_count": "3,267",
     "lowest_sell_order": "0.87",
     "highest_buy_order": "0.73",
-    "date_modified": 1764328498271
+    "date_modified": 1764367601459
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Grotto (Field-Tested)",
     "item_nameid": 29205220,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTi5B7c7kxL-Hkvb_DLbUkmJE5Ysp3O-T9N2ti1Cx-0tpam_3dYeVd1U9Zl_X_1nvxbrm1pbovJibySNqpGB8suevkqI_",
-    "sell_order_count": "97",
-    "buy_order_count": "6,702",
-    "lowest_sell_order": "0.52",
+    "sell_order_count": "95",
+    "buy_order_count": "6,703",
+    "lowest_sell_order": "0.48",
     "highest_buy_order": "0.42",
-    "date_modified": 1764328506500
+    "date_modified": 1764367609584
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Grotto (Factory New)",
     "item_nameid": 29205244,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTi5B7c7kxL-Hkvb_DLfYkWNFpp133LGX9o2mjVHmqUU-N2Ghd4WWcFdqaQnV8lC9ybzuhZ-5tcnAz3d9-n51z0AeyDY",
-    "sell_order_count": "137",
-    "buy_order_count": "4,183",
-    "lowest_sell_order": "1.42",
+    "sell_order_count": "135",
+    "buy_order_count": "4,178",
+    "lowest_sell_order": "1.40",
     "highest_buy_order": "1.18",
-    "date_modified": 1764328514641
+    "date_modified": 1764367617739
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Grotto (Battle-Scarred)",
     "item_nameid": 29209305,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTi5B7c7kxL-Hkvb_DLPUl31Ipp110-jE9tWiiQbmqEBkMW-hdoXHcVNqZw2G81nsk-69g5Dq7pmdzHN9-n51X2lO4Ec",
-    "sell_order_count": "49",
-    "buy_order_count": "1,541",
+    "sell_order_count": "48",
+    "buy_order_count": "1,539",
     "lowest_sell_order": "0.62",
     "highest_buy_order": "0.46",
-    "date_modified": 1764328522843
+    "date_modified": 1764367625856
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Green Marine (Well-Worn)",
     "item_nameid": 67061057,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-bkvb3NrbQnW5DuJZOh-zF_Jn4xg3t-RVoN2CgdYTEIVJtMliGrFXowuu5hZ-06JqazHEx6HJz5XeOnUCpwUYbrJKZAnc",
-    "sell_order_count": "47",
+    "sell_order_count": "49",
     "buy_order_count": "3,177",
     "lowest_sell_order": "0.47",
     "highest_buy_order": "0.42",
-    "date_modified": 1764328531003
+    "date_modified": 1764367634006
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Green Marine (Field-Tested)",
     "item_nameid": 67061016,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-bkvb3NrbQnW5DuJZOh-zF_Jn4xg3t-RVoN2CgdYTEIVJtMliGrFXowuu5hZ-06JqazHEx6HJz5XeOnUCpwUYbrJKZAnc",
-    "sell_order_count": "64",
-    "buy_order_count": "6,589",
-    "lowest_sell_order": "0.37",
-    "highest_buy_order": "0.30",
-    "date_modified": 1764328547320
+    "sell_order_count": "66",
+    "buy_order_count": "6,586",
+    "lowest_sell_order": "0.30",
+    "highest_buy_order": "0.29",
+    "date_modified": 1764367650318
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Green Marine (Factory New)",
     "item_nameid": 67061044,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-bkvb3NrbQnW5DuJZOhuDG_Zi7i1a2-UBrZWr7doCRelJoMgrZ-Vi4leu6gcS86cvImiZj7CJ2t3bezQv3309CBl-2Fw",
-    "sell_order_count": "47",
+    "sell_order_count": "46",
     "buy_order_count": "2,160",
-    "lowest_sell_order": "2.10",
+    "lowest_sell_order": "2.15",
     "highest_buy_order": "1.72",
-    "date_modified": 1764328555471
+    "date_modified": 1764367658464
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Green Marine (Battle-Scarred)",
     "item_nameid": 67064057,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-bkvb3NrbQnW5DuJZOguzA45W7jlbi8kFsaz3yI4ORelQ6YVqD_Vm8kL3pjZW5757MnXNnsid07H_flgv3308MZL6YOA",
-    "sell_order_count": "35",
-    "buy_order_count": "4,266",
+    "sell_order_count": "34",
+    "buy_order_count": "4,267",
     "lowest_sell_order": "0.38",
     "highest_buy_order": "0.28",
-    "date_modified": 1764328563600
+    "date_modified": 1764367666609
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Fragments (Well-Worn)",
     "item_nameid": 176358915,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c6JkpKKkPrxPa_CqWld6cZ6teTE8YXghRrm-0tkMm2ncoCRJgFsYlvY-Vm8wu3s1p-87cjAnCAx6SAr5y6In0exn1gSOSIzMTE5",
-    "sell_order_count": "56",
-    "buy_order_count": "11,929",
-    "lowest_sell_order": "0.14",
+    "sell_order_count": "59",
+    "buy_order_count": "11,927",
+    "lowest_sell_order": "0.13",
     "highest_buy_order": "0.12",
-    "date_modified": 1764328571762
+    "date_modified": 1764367674752
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Fragments (Minimal Wear)",
     "item_nameid": 176358837,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c6JkpKKkPrxPa_CqWld6cZ6teXI8oThxgPm-0FsMTz7J4PGdlU2Zl6C_Va4x7_n1MPo7c7IwXQ17yAit3aPyUSpwUYb2tfbJpM",
-    "sell_order_count": "489",
-    "buy_order_count": "13,035",
+    "sell_order_count": "490",
+    "buy_order_count": "13,003",
     "lowest_sell_order": "0.25",
     "highest_buy_order": "0.23",
-    "date_modified": 1764328579965
+    "date_modified": 1764367682898
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Fragments (Field-Tested)",
     "item_nameid": 176358876,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c6JkpKKkPrxPa_CqWld6cZ6teTE8YXghRrm-0tkMm2ncoCRJgFsYlvY-Vm8wu3s1p-87cjAnCAx6SAr5y6In0exn1gSOSIzMTE5",
-    "sell_order_count": "840",
-    "buy_order_count": "39,816",
+    "sell_order_count": "832",
+    "buy_order_count": "39,745",
     "lowest_sell_order": "0.13",
     "highest_buy_order": "0.11",
-    "date_modified": 1764328588087
+    "date_modified": 1764367691035
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Fragments (Factory New)",
     "item_nameid": 176358912,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c6JkpKKkPrxPa_CqWld6cZ6teXI8oThxgPm-0FsMTz7J4PGdlU2Zl6C_Va4x7_n1MPo7c7IwXQ17yAit3aPyUSpwUYb2tfbJpM",
-    "sell_order_count": "167",
-    "buy_order_count": "10,132",
+    "sell_order_count": "161",
+    "buy_order_count": "10,134",
     "lowest_sell_order": "0.69",
     "highest_buy_order": "0.66",
-    "date_modified": 1764328596211
+    "date_modified": 1764367699187
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Fragments (Battle-Scarred)",
     "item_nameid": 176358918,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c6JkpKKkPrxPa_CqWld6cZ6teHE9JrsxgbgqUdla2D1IoSXcVQ8ZgnQ-wW2l-650Zfv6pSdzyBrvXIg5nfVyxCpwUYbvUAHK_U",
-    "sell_order_count": "289",
-    "buy_order_count": "16,853",
-    "lowest_sell_order": "0.12",
+    "sell_order_count": "274",
+    "buy_order_count": "16,843",
+    "lowest_sell_order": "0.13",
     "highest_buy_order": "0.10",
-    "date_modified": 1764328604350
+    "date_modified": 1764367707322
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Enforcer (Well-Worn)",
     "item_nameid": 176118381,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-OmfH7IbjUhFRc7cF4n-SPrdWkjFXi_RJsMDjxdoLBcg83YQmFrlC9kr3thJa66cvNwXJruiMm42GdwUKU0NrPFA",
-    "sell_order_count": "26",
-    "buy_order_count": "7,528",
-    "lowest_sell_order": "0.99",
+    "sell_order_count": "30",
+    "buy_order_count": "7,527",
+    "lowest_sell_order": "0.80",
     "highest_buy_order": "0.77",
-    "date_modified": 1764328612477
+    "date_modified": 1764367715470
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Enforcer (Minimal Wear)",
     "item_nameid": 176118408,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-OmfH7IbjUhFRd4cJ5nqfF9Inw3wO1-RA6Nzz6I4LDdVRsMw7V-AW3lefq0J7t7svPm3BiviFx-z-DyJBF3MU6",
-    "sell_order_count": "34",
-    "buy_order_count": "10,973",
-    "lowest_sell_order": "2.18",
+    "sell_order_count": "37",
+    "buy_order_count": "10,966",
+    "lowest_sell_order": "2.14",
     "highest_buy_order": "2.07",
-    "date_modified": 1764328620602
+    "date_modified": 1764367723608
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Enforcer (Field-Tested)",
     "item_nameid": 176118291,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-OmfH7IbjUhFRc7cF4n-SPrdWkjFXi_RJsMDjxdoLBcg83YQmFrlC9kr3thJa66cvNwXJruiMm42GdwUKU0NrPFA",
-    "sell_order_count": "73",
-    "buy_order_count": "10,746",
-    "lowest_sell_order": "1.09",
-    "highest_buy_order": "0.95",
-    "date_modified": 1764328628747
+    "sell_order_count": "68",
+    "buy_order_count": "10,738",
+    "lowest_sell_order": "1.00",
+    "highest_buy_order": "0.87",
+    "date_modified": 1764367731771
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Enforcer (Factory New)",
     "item_nameid": 176118425,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-OmfH7IbjUhFRd4cJ5nqfF9Inw3wO1-RA6Nzz6I4LDdVRsMw7V-AW3lefq0J7t7svPm3BiviFx-z-DyJBF3MU6",
     "sell_order_count": "21",
-    "buy_order_count": "6,744",
+    "buy_order_count": "6,748",
     "lowest_sell_order": "7.29",
-    "highest_buy_order": "6.25",
-    "date_modified": 1764328636882
+    "highest_buy_order": "6.27",
+    "date_modified": 1764367739917
   },
   {
     "hash_name": "StatTrak™ SCAR-20 | Enforcer (Battle-Scarred)",
@@ -31443,11 +31443,11 @@
     "hash_name": "StatTrak™ SCAR-20 | Green Marine (Minimal Wear)",
     "item_nameid": 67061003,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-bkvb3NrbQnW5DuJZOhuDG_Zi7i1a2-UBrZWr7doCRelJoMgrZ-Vi4leu6gcS86cvImiZj7CJ2t3bezQv3309CBl-2Fw",
-    "sell_order_count": "53",
+    "sell_order_count": "56",
     "buy_order_count": "3,519",
     "lowest_sell_order": "0.87",
     "highest_buy_order": "0.70",
-    "date_modified": 1764328539196
+    "date_modified": 1764367642138
   },
   {
     "hash_name": "StatTrak™ Sawed-Off | Zander (Factory New)",
