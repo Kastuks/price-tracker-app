@@ -33124,10 +33124,10 @@
     "item_nameid": 2424347,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wjFL0P-re6xSNPGdMWuZxuZi_rIxSirkkElyt2qEzI2heXiTaVIiX5siROQJtxnul4XnYbvgswOMgolbjXKpnRk9Yjk",
     "sell_order_count": "1",
-    "buy_order_count": "238",
+    "buy_order_count": "240",
     "lowest_sell_order": "575.00",
-    "highest_buy_order": "133.00",
-    "date_modified": 1764914238471
+    "highest_buy_order": "148.82",
+    "date_modified": 1764957353214
   },
   {
     "hash_name": "SG 553 | Hazard Pay (Minimal Wear)",
@@ -33137,7 +33137,7 @@
     "buy_order_count": "180",
     "lowest_sell_order": "217.60",
     "highest_buy_order": "165.03",
-    "date_modified": 1764914246623
+    "date_modified": 1764957361383
   },
   {
     "hash_name": "SG 553 | Bulldozer (Well-Worn)",
@@ -33147,7 +33147,7 @@
     "buy_order_count": "471",
     "lowest_sell_order": "269.00",
     "highest_buy_order": "173.73",
-    "date_modified": 1764914254771
+    "date_modified": 1764957369551
   },
   {
     "hash_name": "Nova | Baroque Orange (Battle-Scarred)",
@@ -33157,7 +33157,7 @@
     "buy_order_count": "2,592",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "39.95",
-    "date_modified": 1764914435257
+    "date_modified": 1764957550446
   },
   {
     "hash_name": "MP9 | Stained Glass (Well-Worn)",
@@ -33167,17 +33167,17 @@
     "buy_order_count": "2,616",
     "lowest_sell_order": "121.44",
     "highest_buy_order": "73.32",
-    "date_modified": 1764914525584
+    "date_modified": 1764957641214
   },
   {
     "hash_name": "MP9 | Hydra (Battle-Scarred)",
     "item_nameid": 176091860,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_jdk4uL3V6x0JOKSMW-VwPhv_rZqGXi2wUt_4G7Tmd2rcXrGOFcjX5YkR-9bsxm9kIDnNeK24QDXgo5bjXKpucMqn5s",
-    "sell_order_count": "64",
+    "sell_order_count": "65",
     "buy_order_count": "8,115",
-    "lowest_sell_order": "6.00",
-    "highest_buy_order": "5.95",
-    "date_modified": 1764914533760
+    "lowest_sell_order": "5.75",
+    "highest_buy_order": "5.70",
+    "date_modified": 1764957649601
   },
   {
     "hash_name": "MP7 | Teal Blossom (Well-Worn)",
@@ -33187,17 +33187,17 @@
     "buy_order_count": "819",
     "lowest_sell_order": "147.83",
     "highest_buy_order": "103.44",
-    "date_modified": 1764914582633
+    "date_modified": 1764957699114
   },
   {
     "hash_name": "MP7 | Teal Blossom (Battle-Scarred)",
     "item_nameid": 176097755,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk7eeqV6N_JfWdMW-VwPhv_uU9Hn3klhgk4GqDwo34dirGbAJyWcAmQrNfthftx9GzNb7l5VaLjthbjXKpvvPLuxk",
-    "sell_order_count": "5",
+    "sell_order_count": "6",
     "buy_order_count": "320",
-    "lowest_sell_order": "199.00",
+    "lowest_sell_order": "143.75",
     "highest_buy_order": "102.84",
-    "date_modified": 1764914590762
+    "date_modified": 1764957707263
   },
   {
     "hash_name": "M4A1-S | Imminent Danger (Minimal Wear)",
@@ -33207,17 +33207,17 @@
     "buy_order_count": "205",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "952.22",
-    "date_modified": 1764914886926
+    "date_modified": 1764958065250
   },
   {
     "hash_name": "M4A1-S | Imminent Danger (Field-Tested)",
     "item_nameid": 176263406,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_eAMWrEwL9JpuR7WyC0miIqtjmMj4K3cCiTbA91XJchRbEN4RnpkILiYerm5gfY34tAy332iSgauCxv4-9XBb1lpPME_lBc7Q",
-    "sell_order_count": "1",
+    "sell_order_count": 0,
     "buy_order_count": "206",
-    "lowest_sell_order": "1275.41",
+    "lowest_sell_order": "0.00",
     "highest_buy_order": "701.07",
-    "date_modified": 1764914895232
+    "date_modified": 1764958073415
   },
   {
     "hash_name": "Desert Eagle | Sunset Storm 弐 (Minimal Wear)",
@@ -33226,8 +33226,8 @@
     "sell_order_count": "6",
     "buy_order_count": "149",
     "lowest_sell_order": "798.22",
-    "highest_buy_order": "558.39",
-    "date_modified": 1764914977338
+    "highest_buy_order": "558.51",
+    "date_modified": 1764958156273
   },
   {
     "hash_name": "Desert Eagle | Sunset Storm 壱 (Battle-Scarred)",
@@ -33237,7 +33237,7 @@
     "buy_order_count": "82",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "207.52",
-    "date_modified": 1764914985712
+    "date_modified": 1764958164458
   },
   {
     "hash_name": "CZ75-Auto | Emerald Quartz (Well-Worn)",
@@ -33247,7 +33247,7 @@
     "buy_order_count": "654",
     "lowest_sell_order": "177.45",
     "highest_buy_order": "77.99",
-    "date_modified": 1764915002233
+    "date_modified": 1764958180787
   },
   {
     "hash_name": "AWP | Fade (Minimal Wear)",
@@ -38083,31 +38083,31 @@
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | flameZ Triple Entry",
     "item_nameid": 176537002,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "49",
-    "buy_order_count": "291",
-    "lowest_sell_order": "0.32",
-    "highest_buy_order": "0.27",
-    "date_modified": 1764912948837
+    "sell_order_count": "46",
+    "buy_order_count": "288",
+    "lowest_sell_order": "0.34",
+    "highest_buy_order": "0.23",
+    "date_modified": 1764956061307
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | flameZ Retake Denied",
     "item_nameid": 176536970,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "39",
+    "sell_order_count": "38",
     "buy_order_count": "286",
-    "lowest_sell_order": "0.59",
+    "lowest_sell_order": "0.58",
     "highest_buy_order": "0.40",
-    "date_modified": 1764912957000
+    "date_modified": 1764956069537
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | flameZ Double Train Kill",
     "item_nameid": 176536889,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "71",
+    "sell_order_count": "72",
     "buy_order_count": "390",
     "lowest_sell_order": "0.27",
     "highest_buy_order": "0.21",
-    "date_modified": 1764912965172
+    "date_modified": 1764956077865
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | flameZ Double Nuke Kill",
@@ -38117,27 +38117,27 @@
     "buy_order_count": "103",
     "lowest_sell_order": "0.99",
     "highest_buy_order": "0.66",
-    "date_modified": 1764912973564
+    "date_modified": 1764956086286
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | flameZ Double Dust II Kill",
     "item_nameid": 176536852,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "133",
-    "buy_order_count": "418",
-    "lowest_sell_order": "0.25",
-    "highest_buy_order": "0.18",
-    "date_modified": 1764912981803
+    "sell_order_count": "132",
+    "buy_order_count": "417",
+    "lowest_sell_order": "0.26",
+    "highest_buy_order": "0.23",
+    "date_modified": 1764956094435
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | flameZ Clutch Denied",
     "item_nameid": 176537038,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "147",
-    "buy_order_count": "411",
+    "sell_order_count": "148",
+    "buy_order_count": "408",
     "lowest_sell_order": "0.25",
     "highest_buy_order": "0.21",
-    "date_modified": 1764912989994
+    "date_modified": 1764956102592
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | flameZ Almost Clutch",
@@ -38147,7 +38147,7 @@
     "buy_order_count": "248",
     "lowest_sell_order": "0.32",
     "highest_buy_order": "0.23",
-    "date_modified": 1764912998406
+    "date_modified": 1764956110973
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Fire Fight",
@@ -38157,27 +38157,27 @@
     "buy_order_count": "54",
     "lowest_sell_order": "3.74",
     "highest_buy_order": "1.49",
-    "date_modified": 1764913006555
+    "date_modified": 1764956119380
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Fierce Fight",
     "item_nameid": 176537094,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "18",
-    "buy_order_count": "335",
-    "lowest_sell_order": "0.57",
-    "highest_buy_order": "0.53",
-    "date_modified": 1764913014658
+    "sell_order_count": "17",
+    "buy_order_count": "334",
+    "lowest_sell_order": "0.59",
+    "highest_buy_order": "0.52",
+    "date_modified": 1764956127760
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Fear Him",
     "item_nameid": 176536912,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "156",
-    "buy_order_count": "674",
-    "lowest_sell_order": "0.24",
-    "highest_buy_order": "0.21",
-    "date_modified": 1764913023017
+    "sell_order_count": "158",
+    "buy_order_count": "673",
+    "lowest_sell_order": "0.25",
+    "highest_buy_order": "0.20",
+    "date_modified": 1764956136235
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Fast Reactions",
@@ -38186,28 +38186,28 @@
     "sell_order_count": "5",
     "buy_order_count": "130",
     "lowest_sell_order": "3.07",
-    "highest_buy_order": "2.15",
-    "date_modified": 1764913031136
+    "highest_buy_order": "2.19",
+    "date_modified": 1764956144383
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Fast MP9 Double Kill",
     "item_nameid": 176536854,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "62",
-    "buy_order_count": "365",
+    "sell_order_count": "63",
+    "buy_order_count": "364",
     "lowest_sell_order": "1.24",
     "highest_buy_order": "1.16",
-    "date_modified": 1764913039534
+    "date_modified": 1764956152542
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Fast Double",
     "item_nameid": 176537125,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "42",
-    "buy_order_count": "304",
+    "sell_order_count": "41",
+    "buy_order_count": "303",
     "lowest_sell_order": "0.30",
     "highest_buy_order": "0.27",
-    "date_modified": 1764913047958
+    "date_modified": 1764956160911
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | FAMAS Specialist",
@@ -38217,7 +38217,7 @@
     "buy_order_count": "56",
     "lowest_sell_order": "1.50",
     "highest_buy_order": "0.43",
-    "date_modified": 1764913056064
+    "date_modified": 1764956169072
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | FalleN King Of Banana",
@@ -38227,17 +38227,17 @@
     "buy_order_count": "401",
     "lowest_sell_order": "14.78",
     "highest_buy_order": "9.70",
-    "date_modified": 1764913064255
+    "date_modified": 1764956177458
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | FalleN Double Nuke Kill",
     "item_nameid": 176537248,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "5",
+    "sell_order_count": "6",
     "buy_order_count": "63",
     "lowest_sell_order": "6.64",
     "highest_buy_order": "3.77",
-    "date_modified": 1764913072426
+    "date_modified": 1764956185858
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | FalleN Double Anubis Kill",
@@ -38247,57 +38247,57 @@
     "buy_order_count": "292",
     "lowest_sell_order": "5.49",
     "highest_buy_order": "2.82",
-    "date_modified": 1764913080602
+    "date_modified": 1764956194318
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | FalleN Closer",
     "item_nameid": 176537473,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "9",
-    "buy_order_count": "80",
-    "lowest_sell_order": "7.99",
+    "sell_order_count": "8",
+    "buy_order_count": "81",
+    "lowest_sell_order": "8.00",
     "highest_buy_order": "4.69",
-    "date_modified": 1764913088712
+    "date_modified": 1764956202478
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Failed Revenge",
     "item_nameid": 176537077,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "35",
+    "sell_order_count": "34",
     "buy_order_count": "272",
     "lowest_sell_order": "0.43",
     "highest_buy_order": "0.30",
-    "date_modified": 1764913097131
+    "date_modified": 1764956210856
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Exposed",
     "item_nameid": 176537172,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "36",
+    "sell_order_count": "37",
     "buy_order_count": "510",
     "lowest_sell_order": "0.58",
     "highest_buy_order": "0.57",
-    "date_modified": 1764913105341
+    "date_modified": 1764956219015
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Exploit",
     "item_nameid": 176537257,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "13",
-    "buy_order_count": "372",
+    "buy_order_count": "373",
     "lowest_sell_order": "3.42",
-    "highest_buy_order": "0.62",
-    "date_modified": 1764913113513
+    "highest_buy_order": "0.66",
+    "date_modified": 1764956227387
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | EliGE: The Clutch God",
     "item_nameid": 176537069,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "32",
-    "buy_order_count": "619",
+    "buy_order_count": "621",
     "lowest_sell_order": "8.25",
-    "highest_buy_order": "5.87",
-    "date_modified": 1764913121661
+    "highest_buy_order": "6.09",
+    "date_modified": 1764956235562
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Eco Tastes Good",
@@ -38307,27 +38307,27 @@
     "buy_order_count": "481",
     "lowest_sell_order": "0.89",
     "highest_buy_order": "0.87",
-    "date_modified": 1764913129781
+    "date_modified": 1764956243697
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Eco Frags",
     "item_nameid": 176537136,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "18",
+    "sell_order_count": "19",
     "buy_order_count": "395",
     "lowest_sell_order": "1.06",
     "highest_buy_order": "0.31",
-    "date_modified": 1764913138216
+    "date_modified": 1764956251846
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Eco Fragger",
     "item_nameid": 176536914,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "173",
-    "buy_order_count": "664",
+    "sell_order_count": "169",
+    "buy_order_count": "663",
     "lowest_sell_order": "0.25",
     "highest_buy_order": "0.20",
-    "date_modified": 1764913146741
+    "date_modified": 1764956260019
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Eco Finisher",
@@ -38337,37 +38337,37 @@
     "buy_order_count": "96",
     "lowest_sell_order": "0.46",
     "highest_buy_order": "0.30",
-    "date_modified": 1764913154845
+    "date_modified": 1764956268147
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Eco Farmer",
     "item_nameid": 176537331,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "12",
-    "buy_order_count": "33",
-    "lowest_sell_order": "3.14",
+    "sell_order_count": "13",
+    "buy_order_count": "34",
+    "lowest_sell_order": "3.13",
     "highest_buy_order": "1.35",
-    "date_modified": 1764913163012
+    "date_modified": 1764956276300
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Dust II Retake King",
     "item_nameid": 176536882,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "129",
+    "sell_order_count": "127",
     "buy_order_count": "607",
     "lowest_sell_order": "0.25",
     "highest_buy_order": "0.14",
-    "date_modified": 1764913171348
+    "date_modified": 1764956284765
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Duals No Damage",
     "item_nameid": 176537274,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "16",
+    "sell_order_count": "15",
     "buy_order_count": "40",
     "lowest_sell_order": "0.85",
     "highest_buy_order": "0.32",
-    "date_modified": 1764913179508
+    "date_modified": 1764956292912
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Double Spraydown",
@@ -38377,7 +38377,7 @@
     "buy_order_count": "297",
     "lowest_sell_order": "0.31",
     "highest_buy_order": "0.15",
-    "date_modified": 1764913187629
+    "date_modified": 1764956301073
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Double Pistol Kill",
@@ -38387,27 +38387,27 @@
     "buy_order_count": "929",
     "lowest_sell_order": "0.94",
     "highest_buy_order": "0.77",
-    "date_modified": 1764913196084
+    "date_modified": 1764956309232
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Double Kill To Victory",
     "item_nameid": 176537451,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "29",
-    "buy_order_count": "41",
-    "lowest_sell_order": "1.88",
+    "buy_order_count": "40",
+    "lowest_sell_order": "1.87",
     "highest_buy_order": "1.43",
-    "date_modified": 1764913204214
+    "date_modified": 1764956317362
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Double Into Victory",
     "item_nameid": 176537144,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "28",
+    "sell_order_count": "26",
     "buy_order_count": "345",
     "lowest_sell_order": "0.32",
     "highest_buy_order": "0.29",
-    "date_modified": 1764913212577
+    "date_modified": 1764956325517
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Double Glock Down",
@@ -38417,7 +38417,7 @@
     "buy_order_count": "64",
     "lowest_sell_order": "1.07",
     "highest_buy_order": "0.76",
-    "date_modified": 1764913220947
+    "date_modified": 1764956333921
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Double From The Defender",
@@ -38427,77 +38427,77 @@
     "buy_order_count": "511",
     "lowest_sell_order": "0.27",
     "highest_buy_order": "0.21",
-    "date_modified": 1764913229053
+    "date_modified": 1764956342083
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Double Duals Dominate",
     "item_nameid": 176537208,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "25",
+    "sell_order_count": "24",
     "buy_order_count": "93",
     "lowest_sell_order": "0.63",
     "highest_buy_order": "0.35",
-    "date_modified": 1764913237155
+    "date_modified": 1764956350231
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Double Down",
     "item_nameid": 176537212,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "40",
-    "buy_order_count": "162",
-    "lowest_sell_order": "0.27",
-    "highest_buy_order": "0.24",
-    "date_modified": 1764913245330
+    "buy_order_count": "160",
+    "lowest_sell_order": "0.26",
+    "highest_buy_order": "0.16",
+    "date_modified": 1764956358596
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Double AWP Entry",
     "item_nameid": 176537280,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "4",
-    "buy_order_count": "119",
+    "buy_order_count": "120",
     "lowest_sell_order": "3.19",
     "highest_buy_order": "1.68",
-    "date_modified": 1764913253540
+    "date_modified": 1764956366757
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | donk Triple Kill",
     "item_nameid": 176537218,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "21",
+    "sell_order_count": "20",
     "buy_order_count": "653",
-    "lowest_sell_order": "19.11",
+    "lowest_sell_order": "18.90",
     "highest_buy_order": "13.85",
-    "date_modified": 1764913261651
+    "date_modified": 1764956374918
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | donk Ace",
     "item_nameid": 176536879,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "69",
-    "buy_order_count": "1,232",
-    "lowest_sell_order": "11.98",
+    "sell_order_count": "61",
+    "buy_order_count": "1,245",
+    "lowest_sell_order": "12.01",
     "highest_buy_order": "11.80",
-    "date_modified": 1764913269774
+    "date_modified": 1764956383378
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Don't Bring A Knife To A Gunfight",
     "item_nameid": 176536858,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "54",
-    "buy_order_count": "1,704",
-    "lowest_sell_order": "15.73",
-    "highest_buy_order": "12.19",
-    "date_modified": 1764913277912
+    "sell_order_count": "55",
+    "buy_order_count": "1,701",
+    "lowest_sell_order": "13.75",
+    "highest_buy_order": "10.96",
+    "date_modified": 1764956391520
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Domination",
     "item_nameid": 176537215,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "31",
+    "sell_order_count": "29",
     "buy_order_count": "206",
     "lowest_sell_order": "0.76",
     "highest_buy_order": "0.31",
-    "date_modified": 1764913286030
+    "date_modified": 1764956399674
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | dgt Triple Kill",
@@ -38507,17 +38507,17 @@
     "buy_order_count": "42",
     "lowest_sell_order": "0.64",
     "highest_buy_order": "0.47",
-    "date_modified": 1764913294405
+    "date_modified": 1764956408078
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | dgt Clutch Attempt",
     "item_nameid": 176537324,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "19",
-    "buy_order_count": "38",
-    "lowest_sell_order": "1.30",
-    "highest_buy_order": "1.26",
-    "date_modified": 1764913302767
+    "sell_order_count": "18",
+    "buy_order_count": "35",
+    "lowest_sell_order": "1.15",
+    "highest_buy_order": "0.63",
+    "date_modified": 1764956416227
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | dgt Almost Clutch",
@@ -38527,7 +38527,7 @@
     "buy_order_count": "139",
     "lowest_sell_order": "1.18",
     "highest_buy_order": "0.95",
-    "date_modified": 1764913310914
+    "date_modified": 1764956424611
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Denied",
@@ -38537,57 +38537,57 @@
     "buy_order_count": "469",
     "lowest_sell_order": "0.76",
     "highest_buy_order": "0.54",
-    "date_modified": 1764913319283
+    "date_modified": 1764956433002
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Defending Connector",
     "item_nameid": 176536935,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "46",
-    "buy_order_count": "1,060",
+    "sell_order_count": "45",
+    "buy_order_count": "1,059",
     "lowest_sell_order": "0.29",
     "highest_buy_order": "0.27",
-    "date_modified": 1764913327401
+    "date_modified": 1764956441134
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Defender",
     "item_nameid": 176536999,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "28",
-    "buy_order_count": "470",
+    "sell_order_count": "29",
+    "buy_order_count": "469",
     "lowest_sell_order": "0.32",
     "highest_buy_order": "0.23",
-    "date_modified": 1764913335698
+    "date_modified": 1764956449275
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | flameZ: The Entry Demon",
     "item_nameid": 176537116,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "47",
-    "buy_order_count": "311",
+    "sell_order_count": "46",
+    "buy_order_count": "309",
     "lowest_sell_order": "0.39",
     "highest_buy_order": "0.37",
-    "date_modified": 1764913343864
+    "date_modified": 1764956457661
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | flameZ Triple Kill vs MOUZ",
     "item_nameid": 176537078,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "41",
+    "sell_order_count": "40",
     "buy_order_count": "331",
     "lowest_sell_order": "0.39",
     "highest_buy_order": "0.37",
-    "date_modified": 1764913352039
+    "date_modified": 1764956465813
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Failed Lurk",
     "item_nameid": 176537040,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "66",
-    "buy_order_count": "490",
+    "buy_order_count": "488",
     "lowest_sell_order": "0.28",
     "highest_buy_order": "0.27",
-    "date_modified": 1764913360179
+    "date_modified": 1764956473966
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Eyes Open",
@@ -38597,7 +38597,7 @@
     "buy_order_count": "312",
     "lowest_sell_order": "1.21",
     "highest_buy_order": "0.95",
-    "date_modified": 1764913368350
+    "date_modified": 1764956482345
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Deagle Supremacy",
@@ -38607,7 +38607,7 @@
     "buy_order_count": "373",
     "lowest_sell_order": "0.47",
     "highest_buy_order": "0.29",
-    "date_modified": 1764913376458
+    "date_modified": 1764956490510
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Deadly Defense",
@@ -38617,17 +38617,17 @@
     "buy_order_count": "261",
     "lowest_sell_order": "1.01",
     "highest_buy_order": "0.43",
-    "date_modified": 1764913384611
+    "date_modified": 1764956498687
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Deadly Deagle",
     "item_nameid": 176537107,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "21",
+    "sell_order_count": "20",
     "buy_order_count": "573",
     "lowest_sell_order": "0.73",
     "highest_buy_order": "0.48",
-    "date_modified": 1764913392770
+    "date_modified": 1764956506828
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | dav1deus Double Mirage Kill",
@@ -38637,17 +38637,17 @@
     "buy_order_count": "34",
     "lowest_sell_order": "0.32",
     "highest_buy_order": "0.17",
-    "date_modified": 1764913400906
+    "date_modified": 1764956514964
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | dav1deuS Double Anubis Kill",
     "item_nameid": 176537327,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "11",
+    "sell_order_count": "12",
     "buy_order_count": "58",
     "lowest_sell_order": "2.55",
     "highest_buy_order": "0.73",
-    "date_modified": 1764913409030
+    "date_modified": 1764956523099
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | dav1deuS Clutch Denied",
@@ -38657,7 +38657,7 @@
     "buy_order_count": "64",
     "lowest_sell_order": "0.34",
     "highest_buy_order": "0.26",
-    "date_modified": 1764913417247
+    "date_modified": 1764956531339
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | dav1deuS Almost Clutch",
@@ -38667,7 +38667,7 @@
     "buy_order_count": "62",
     "lowest_sell_order": "0.71",
     "highest_buy_order": "0.27",
-    "date_modified": 1764913425494
+    "date_modified": 1764956539482
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Dancing Legend",
@@ -38677,17 +38677,17 @@
     "buy_order_count": "297",
     "lowest_sell_order": "0.63",
     "highest_buy_order": "0.55",
-    "date_modified": 1764913433890
+    "date_modified": 1764956547611
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Damage Dealer",
     "item_nameid": 176537086,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "16",
+    "sell_order_count": "17",
     "buy_order_count": "339",
-    "lowest_sell_order": "1.79",
+    "lowest_sell_order": "1.75",
     "highest_buy_order": "0.74",
-    "date_modified": 1764913442029
+    "date_modified": 1764956555980
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Cover Fire",
@@ -38697,7 +38697,7 @@
     "buy_order_count": "366",
     "lowest_sell_order": "0.31",
     "highest_buy_order": "0.27",
-    "date_modified": 1764913450191
+    "date_modified": 1764956564141
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Clutching Up",
@@ -38705,9 +38705,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "9",
     "buy_order_count": "368",
-    "lowest_sell_order": "1.47",
+    "lowest_sell_order": "1.46",
     "highest_buy_order": "1.03",
-    "date_modified": 1764913458348
+    "date_modified": 1764956572535
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Clutching MP9",
@@ -38717,7 +38717,7 @@
     "buy_order_count": "103",
     "lowest_sell_order": "1.00",
     "highest_buy_order": "0.61",
-    "date_modified": 1764913466487
+    "date_modified": 1764956580673
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Clutch Win",
@@ -38727,17 +38727,17 @@
     "buy_order_count": "502",
     "lowest_sell_order": "0.70",
     "highest_buy_order": "0.34",
-    "date_modified": 1764913474862
+    "date_modified": 1764956588834
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Clutch Veteran",
     "item_nameid": 176536855,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "133",
+    "sell_order_count": "132",
     "buy_order_count": "711",
     "lowest_sell_order": "0.24",
     "highest_buy_order": "0.20",
-    "date_modified": 1764913482966
+    "date_modified": 1764956596967
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Clutch or Nothing",
@@ -38747,17 +38747,17 @@
     "buy_order_count": "312",
     "lowest_sell_order": "4.96",
     "highest_buy_order": "2.73",
-    "date_modified": 1764913491094
+    "date_modified": 1764956605355
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Clutch King",
     "item_nameid": 176536905,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "30",
-    "buy_order_count": "542",
-    "lowest_sell_order": "0.83",
-    "highest_buy_order": "0.55",
-    "date_modified": 1764913499197
+    "sell_order_count": "29",
+    "buy_order_count": "543",
+    "lowest_sell_order": "0.86",
+    "highest_buy_order": "0.63",
+    "date_modified": 1764956613511
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Clutch Double Kill",
@@ -38767,7 +38767,7 @@
     "buy_order_count": "644",
     "lowest_sell_order": "0.26",
     "highest_buy_order": "0.24",
-    "date_modified": 1764913507314
+    "date_modified": 1764956621649
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Clutch and Defuse",
@@ -38777,27 +38777,27 @@
     "buy_order_count": "492",
     "lowest_sell_order": "2.53",
     "highest_buy_order": "1.11",
-    "date_modified": 1764913515460
+    "date_modified": 1764956630048
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Closing Out",
     "item_nameid": 176537282,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "17",
+    "sell_order_count": "18",
     "buy_order_count": "38",
-    "lowest_sell_order": "0.87",
+    "lowest_sell_order": "0.80",
     "highest_buy_order": "0.36",
-    "date_modified": 1764913523595
+    "date_modified": 1764956638197
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Closing Kills",
     "item_nameid": 176536967,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "125",
-    "buy_order_count": "1,014",
+    "sell_order_count": "124",
+    "buy_order_count": "1,012",
     "lowest_sell_order": "0.25",
     "highest_buy_order": "0.20",
-    "date_modified": 1764913531764
+    "date_modified": 1764956646389
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Close Call",
@@ -38807,57 +38807,57 @@
     "buy_order_count": "93",
     "lowest_sell_order": "0.54",
     "highest_buy_order": "0.26",
-    "date_modified": 1764913540034
+    "date_modified": 1764956654758
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Cleaning Up",
     "item_nameid": 176536960,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "31",
+    "sell_order_count": "30",
     "buy_order_count": "386",
     "lowest_sell_order": "0.49",
     "highest_buy_order": "0.21",
-    "date_modified": 1764913548246
+    "date_modified": 1764956662896
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Clean Defense Double",
     "item_nameid": 176537049,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "54",
-    "buy_order_count": "1,001",
+    "buy_order_count": "1,000",
     "lowest_sell_order": "0.28",
     "highest_buy_order": "0.27",
-    "date_modified": 1764913556389
+    "date_modified": 1764956671035
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | chopper Triple Entry",
     "item_nameid": 176536861,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "54",
-    "buy_order_count": "825",
+    "buy_order_count": "824",
     "lowest_sell_order": "0.37",
     "highest_buy_order": "0.26",
-    "date_modified": 1764913564738
+    "date_modified": 1764956679193
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | chopper Double Kill",
     "item_nameid": 176537054,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "41",
-    "buy_order_count": "323",
+    "buy_order_count": "324",
     "lowest_sell_order": "0.27",
-    "highest_buy_order": "0.18",
-    "date_modified": 1764913573100
+    "highest_buy_order": "0.19",
+    "date_modified": 1764956687520
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Cheeky Boost",
     "item_nameid": 176537005,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "48",
-    "buy_order_count": "345",
+    "sell_order_count": "50",
+    "buy_order_count": "343",
     "lowest_sell_order": "0.25",
     "highest_buy_order": "0.23",
-    "date_modified": 1764913581241
+    "date_modified": 1764956695684
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Chaos Mode",
@@ -38867,67 +38867,67 @@
     "buy_order_count": "41",
     "lowest_sell_order": "0.86",
     "highest_buy_order": "0.52",
-    "date_modified": 1764913589558
+    "date_modified": 1764956704066
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Catches Smoke",
     "item_nameid": 176537024,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "38",
-    "buy_order_count": "780",
+    "buy_order_count": "779",
     "lowest_sell_order": "0.38",
     "highest_buy_order": "0.37",
-    "date_modified": 1764913597938
+    "date_modified": 1764956712215
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Captain Brazil",
     "item_nameid": 176537375,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "14",
+    "sell_order_count": "15",
     "buy_order_count": "61",
     "lowest_sell_order": "2.80",
     "highest_buy_order": "2.30",
-    "date_modified": 1764913606066
+    "date_modified": 1764956720362
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Burning Triple Kill",
     "item_nameid": 176536926,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "50",
+    "sell_order_count": "49",
     "buy_order_count": "643",
     "lowest_sell_order": "0.34",
     "highest_buy_order": "0.27",
-    "date_modified": 1764913614207
+    "date_modified": 1764956728502
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Brollan Triple Kill",
     "item_nameid": 176536971,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "91",
-    "buy_order_count": "818",
+    "sell_order_count": "93",
+    "buy_order_count": "810",
     "lowest_sell_order": "0.27",
-    "highest_buy_order": "0.21",
-    "date_modified": 1764913622328
+    "highest_buy_order": "0.20",
+    "date_modified": 1764956736654
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Brollan Smoke Criminal",
     "item_nameid": 176537103,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "91",
+    "sell_order_count": "90",
     "buy_order_count": "388",
     "lowest_sell_order": "0.26",
     "highest_buy_order": "0.18",
-    "date_modified": 1764913630448
+    "date_modified": 1764956744806
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Brollan Double Kill",
     "item_nameid": 176536919,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "65",
+    "sell_order_count": "69",
     "buy_order_count": "744",
     "lowest_sell_order": "0.25",
     "highest_buy_order": "0.19",
-    "date_modified": 1764913638983
+    "date_modified": 1764956752947
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Brollan Double Deagle",
@@ -38937,7 +38937,7 @@
     "buy_order_count": "331",
     "lowest_sell_order": "0.48",
     "highest_buy_order": "0.37",
-    "date_modified": 1764913647121
+    "date_modified": 1764956761087
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Brollan Closer",
@@ -38947,7 +38947,7 @@
     "buy_order_count": "204",
     "lowest_sell_order": "0.29",
     "highest_buy_order": "0.27",
-    "date_modified": 1764913655468
+    "date_modified": 1764956769217
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Boost Kill",
@@ -38957,7 +38957,7 @@
     "buy_order_count": "339",
     "lowest_sell_order": "0.49",
     "highest_buy_order": "0.31",
-    "date_modified": 1764913663652
+    "date_modified": 1764956777389
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Boom",
@@ -38967,7 +38967,7 @@
     "buy_order_count": "147",
     "lowest_sell_order": "0.53",
     "highest_buy_order": "0.37",
-    "date_modified": 1764913671805
+    "date_modified": 1764956785549
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Bombsite Cleared",
@@ -38977,47 +38977,47 @@
     "buy_order_count": "325",
     "lowest_sell_order": "0.66",
     "highest_buy_order": "0.34",
-    "date_modified": 1764913679919
+    "date_modified": 1764956793686
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Bombsite Battle",
     "item_nameid": 176537231,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "18",
+    "sell_order_count": "19",
     "buy_order_count": "91",
     "lowest_sell_order": "1.42",
     "highest_buy_order": "0.92",
-    "date_modified": 1764913688080
+    "date_modified": 1764956802064
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Bodyblocking Smokes",
     "item_nameid": 176537184,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "25",
+    "sell_order_count": "27",
     "buy_order_count": "144",
-    "lowest_sell_order": "1.28",
+    "lowest_sell_order": "0.80",
     "highest_buy_order": "0.24",
-    "date_modified": 1764913696207
+    "date_modified": 1764956810226
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Blocking B",
     "item_nameid": 176537004,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "42",
+    "sell_order_count": "43",
     "buy_order_count": "681",
     "lowest_sell_order": "0.34",
     "highest_buy_order": "0.32",
-    "date_modified": 1764913704367
+    "date_modified": 1764956818390
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | bLitz Triple Kill vs Vitality",
     "item_nameid": 176536895,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "156",
-    "buy_order_count": "685",
-    "lowest_sell_order": "0.24",
-    "highest_buy_order": "0.19",
-    "date_modified": 1764913712722
+    "sell_order_count": "155",
+    "buy_order_count": "684",
+    "lowest_sell_order": "0.25",
+    "highest_buy_order": "0.18",
+    "date_modified": 1764956826533
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | bLitz Triple Kill vs paiN",
@@ -39027,17 +39027,17 @@
     "buy_order_count": "259",
     "lowest_sell_order": "0.28",
     "highest_buy_order": "0.15",
-    "date_modified": 1764913720908
+    "date_modified": 1764956834671
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | bLitz Kobe",
     "item_nameid": 176537048,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "61",
-    "buy_order_count": "570",
-    "lowest_sell_order": "0.38",
+    "sell_order_count": "64",
+    "buy_order_count": "569",
+    "lowest_sell_order": "0.32",
     "highest_buy_order": "0.27",
-    "date_modified": 1764913729053
+    "date_modified": 1764956842832
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | bLitz Double Smoke Kill",
@@ -39047,7 +39047,7 @@
     "buy_order_count": "438",
     "lowest_sell_order": "0.29",
     "highest_buy_order": "0.21",
-    "date_modified": 1764913737391
+    "date_modified": 1764956851028
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | bLitz Double Headshot",
@@ -39055,39 +39055,39 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "43",
     "buy_order_count": "113",
-    "lowest_sell_order": "0.31",
+    "lowest_sell_order": "0.30",
     "highest_buy_order": "0.26",
-    "date_modified": 1764913745506
+    "date_modified": 1764956859191
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | bLitz Double Dust II Kill",
     "item_nameid": 176536903,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "154",
-    "buy_order_count": "611",
+    "buy_order_count": "607",
     "lowest_sell_order": "0.25",
     "highest_buy_order": "0.21",
-    "date_modified": 1764913753651
+    "date_modified": 1764956867335
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | bLitz Double Connector Kill",
     "item_nameid": 176536949,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "119",
-    "buy_order_count": "1,277",
+    "sell_order_count": "120",
+    "buy_order_count": "1,275",
     "lowest_sell_order": "0.25",
     "highest_buy_order": "0.20",
-    "date_modified": 1764913761828
+    "date_modified": 1764956875728
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | bLitz Almost The Hero",
     "item_nameid": 176536965,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "113",
-    "buy_order_count": "1,145",
+    "buy_order_count": "1,144",
     "lowest_sell_order": "0.24",
     "highest_buy_order": "0.21",
-    "date_modified": 1764913769954
+    "date_modified": 1764956883904
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | biguzera Double Kill",
@@ -39097,37 +39097,37 @@
     "buy_order_count": "69",
     "lowest_sell_order": "1.77",
     "highest_buy_order": "0.54",
-    "date_modified": 1764913778106
+    "date_modified": 1764956892293
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Baited Into A Double Kill",
     "item_nameid": 176536834,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "57",
+    "sell_order_count": "54",
     "buy_order_count": "637",
-    "lowest_sell_order": "0.25",
+    "lowest_sell_order": "0.26",
     "highest_buy_order": "0.20",
-    "date_modified": 1764913786231
+    "date_modified": 1764956900427
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Backup Is Here",
     "item_nameid": 176536950,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "60",
-    "buy_order_count": "345",
-    "lowest_sell_order": "0.27",
-    "highest_buy_order": "0.24",
-    "date_modified": 1764913794418
+    "sell_order_count": "61",
+    "buy_order_count": "344",
+    "lowest_sell_order": "0.26",
+    "highest_buy_order": "0.23",
+    "date_modified": 1764956908782
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Backstabber",
     "item_nameid": 176537236,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "23",
+    "sell_order_count": "22",
     "buy_order_count": "65",
     "lowest_sell_order": "0.49",
     "highest_buy_order": "0.38",
-    "date_modified": 1764913802569
+    "date_modified": 1764956916939
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | b1t: The Nuke Cowboy",
@@ -39137,17 +39137,17 @@
     "buy_order_count": "64",
     "lowest_sell_order": "1.09",
     "highest_buy_order": "0.63",
-    "date_modified": 1764913810863
+    "date_modified": 1764956925082
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | b1t: The Mirage Cowboy",
     "item_nameid": 176537071,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "42",
+    "sell_order_count": "43",
     "buy_order_count": "372",
     "lowest_sell_order": "0.48",
     "highest_buy_order": "0.37",
-    "date_modified": 1764913818975
+    "date_modified": 1764956933458
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | b1t Double MP9 Kill",
@@ -39157,17 +39157,17 @@
     "buy_order_count": "327",
     "lowest_sell_order": "0.42",
     "highest_buy_order": "0.25",
-    "date_modified": 1764913827120
+    "date_modified": 1764956941620
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | b1t Double Entry",
     "item_nameid": 176537128,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "29",
+    "sell_order_count": "30",
     "buy_order_count": "308",
-    "lowest_sell_order": "0.57",
+    "lowest_sell_order": "0.55",
     "highest_buy_order": "0.25",
-    "date_modified": 1764913835421
+    "date_modified": 1764956949767
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | b1t Double AK Kill",
@@ -39177,17 +39177,17 @@
     "buy_order_count": "282",
     "lowest_sell_order": "0.97",
     "highest_buy_order": "0.54",
-    "date_modified": 1764913843582
+    "date_modified": 1764956958145
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | B Site Survivor",
     "item_nameid": 176537161,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "28",
-    "buy_order_count": "122",
-    "lowest_sell_order": "0.63",
-    "highest_buy_order": "0.48",
-    "date_modified": 1764913851689
+    "sell_order_count": "29",
+    "buy_order_count": "121",
+    "lowest_sell_order": "0.60",
+    "highest_buy_order": "0.47",
+    "date_modified": 1764956966286
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | AWP Slayer",
@@ -39197,117 +39197,117 @@
     "buy_order_count": "315",
     "lowest_sell_order": "1.04",
     "highest_buy_order": "0.35",
-    "date_modified": 1764913860155
+    "date_modified": 1764956974432
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | AWP Shutdown",
     "item_nameid": 176537045,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "27",
-    "buy_order_count": "162",
-    "lowest_sell_order": "0.94",
+    "sell_order_count": "25",
+    "buy_order_count": "161",
+    "lowest_sell_order": "0.99",
     "highest_buy_order": "0.82",
-    "date_modified": 1764913868270
+    "date_modified": 1764956982821
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | AWP Kill",
     "item_nameid": 176537304,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "12",
+    "sell_order_count": "11",
     "buy_order_count": "137",
-    "lowest_sell_order": "0.84",
+    "lowest_sell_order": "0.82",
     "highest_buy_order": "0.38",
-    "date_modified": 1764913876690
+    "date_modified": 1764956990967
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | AWP Double Kill",
     "item_nameid": 176537196,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "18",
-    "buy_order_count": "151",
+    "sell_order_count": "17",
+    "buy_order_count": "150",
     "lowest_sell_order": "0.73",
     "highest_buy_order": "0.72",
-    "date_modified": 1764913884842
+    "date_modified": 1764956999281
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | AWP Denied",
     "item_nameid": 176536973,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "41",
-    "buy_order_count": "358",
+    "buy_order_count": "357",
     "lowest_sell_order": "0.41",
     "highest_buy_order": "0.30",
-    "date_modified": 1764913892986
+    "date_modified": 1764957007674
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | AWP Defender",
     "item_nameid": 176537174,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "47",
+    "sell_order_count": "48",
     "buy_order_count": "314",
     "lowest_sell_order": "0.49",
     "highest_buy_order": "0.36",
-    "date_modified": 1764913901371
+    "date_modified": 1764957015840
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Awareness",
     "item_nameid": 176536933,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "53",
-    "buy_order_count": "750",
+    "sell_order_count": "51",
+    "buy_order_count": "743",
     "lowest_sell_order": "0.92",
     "highest_buy_order": "0.86",
-    "date_modified": 1764913909931
+    "date_modified": 1764957023994
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Applaud The Spray Transfer",
     "item_nameid": 176537301,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "19",
-    "buy_order_count": "108",
+    "sell_order_count": "14",
+    "buy_order_count": "107",
     "lowest_sell_order": "1.92",
-    "highest_buy_order": "1.00",
-    "date_modified": 1764913918060
+    "highest_buy_order": "0.96",
+    "date_modified": 1764957032330
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | apEX: The Joker",
     "item_nameid": 176536898,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "123",
-    "buy_order_count": "684",
-    "lowest_sell_order": "0.25",
+    "sell_order_count": "127",
+    "buy_order_count": "682",
+    "lowest_sell_order": "0.24",
     "highest_buy_order": "0.18",
-    "date_modified": 1764913926186
+    "date_modified": 1764957040483
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | apEX: Help Is Here",
     "item_nameid": 176536897,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "148",
-    "buy_order_count": "949",
+    "sell_order_count": "143",
+    "buy_order_count": "940",
     "lowest_sell_order": "0.25",
     "highest_buy_order": "0.20",
-    "date_modified": 1764913934332
+    "date_modified": 1764957048631
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | apEX Triple Kill",
     "item_nameid": 176536875,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "137",
-    "buy_order_count": "4,175",
+    "sell_order_count": "136",
+    "buy_order_count": "4,104",
     "lowest_sell_order": "0.34",
     "highest_buy_order": "0.32",
-    "date_modified": 1764913942660
+    "date_modified": 1764957056781
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | apEX Double Kill",
     "item_nameid": 176536849,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "151",
-    "buy_order_count": "4,026",
+    "sell_order_count": "156",
+    "buy_order_count": "4,020",
     "lowest_sell_order": "0.32",
     "highest_buy_order": "0.31",
-    "date_modified": 1764913950764
+    "date_modified": 1764957064929
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Anchoring Double Kill",
@@ -39317,7 +39317,7 @@
     "buy_order_count": "109",
     "lowest_sell_order": "1.20",
     "highest_buy_order": "1.10",
-    "date_modified": 1764913959154
+    "date_modified": 1764957073079
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Anchor Man",
@@ -39325,29 +39325,29 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "13",
     "buy_order_count": "46",
-    "lowest_sell_order": "2.47",
+    "lowest_sell_order": "3.19",
     "highest_buy_order": "1.09",
-    "date_modified": 1764913967306
+    "date_modified": 1764957081225
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | An Entry And A Donk",
     "item_nameid": 176537010,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "35",
+    "sell_order_count": "37",
     "buy_order_count": "429",
-    "lowest_sell_order": "0.85",
+    "lowest_sell_order": "0.83",
     "highest_buy_order": "0.71",
-    "date_modified": 1764913975420
+    "date_modified": 1764957089550
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Always Buy A Defuser",
     "item_nameid": 176536978,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "52",
-    "buy_order_count": "678",
+    "sell_order_count": "53",
+    "buy_order_count": "679",
     "lowest_sell_order": "0.28",
-    "highest_buy_order": "0.18",
-    "date_modified": 1764913983538
+    "highest_buy_order": "0.24",
+    "date_modified": 1764957097689
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Almost There",
@@ -39357,7 +39357,7 @@
     "buy_order_count": "441",
     "lowest_sell_order": "5.43",
     "highest_buy_order": "2.43",
-    "date_modified": 1764913991929
+    "date_modified": 1764957106145
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Almost 500 Damage",
@@ -39367,27 +39367,27 @@
     "buy_order_count": "617",
     "lowest_sell_order": "0.30",
     "highest_buy_order": "0.24",
-    "date_modified": 1764914000067
+    "date_modified": 1764957114284
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Almost",
     "item_nameid": 176536908,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "52",
-    "buy_order_count": "360",
-    "lowest_sell_order": "0.36",
+    "buy_order_count": "359",
+    "lowest_sell_order": "0.34",
     "highest_buy_order": "0.30",
-    "date_modified": 1764914008536
+    "date_modified": 1764957122423
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Aleksib Double Kill",
     "item_nameid": 176537227,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "40",
-    "buy_order_count": "107",
+    "buy_order_count": "108",
     "lowest_sell_order": "0.48",
-    "highest_buy_order": "0.31",
-    "date_modified": 1764914016723
+    "highest_buy_order": "0.32",
+    "date_modified": 1764957130830
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Airborne",
@@ -39397,97 +39397,97 @@
     "buy_order_count": "93",
     "lowest_sell_order": "9.25",
     "highest_buy_order": "7.07",
-    "date_modified": 1764914024918
+    "date_modified": 1764957138982
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Afterplant Secured",
     "item_nameid": 176537372,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "13",
-    "buy_order_count": "77",
+    "buy_order_count": "76",
     "lowest_sell_order": "4.87",
     "highest_buy_order": "3.30",
-    "date_modified": 1764914033061
+    "date_modified": 1764957147123
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | Ace Unleashed",
     "item_nameid": 176536932,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "18",
+    "sell_order_count": "19",
     "buy_order_count": "418",
     "lowest_sell_order": "2.92",
     "highest_buy_order": "2.41",
-    "date_modified": 1764914041179
+    "date_modified": 1764957155475
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | A Triple Into Overtime",
     "item_nameid": 176537480,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "7",
-    "buy_order_count": "60",
-    "lowest_sell_order": "13.22",
+    "buy_order_count": "59",
+    "lowest_sell_order": "12.76",
     "highest_buy_order": "3.75",
-    "date_modified": 1764914049323
+    "date_modified": 1764957163852
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | A Triple And Icy Veins",
     "item_nameid": 176536931,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "28",
-    "buy_order_count": "334",
+    "buy_order_count": "332",
     "lowest_sell_order": "0.73",
     "highest_buy_order": "0.66",
-    "date_modified": 1764914057665
+    "date_modified": 1764957172088
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | A Defender",
     "item_nameid": 176537021,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "172",
-    "buy_order_count": "706",
-    "lowest_sell_order": "0.26",
+    "sell_order_count": "173",
+    "buy_order_count": "705",
+    "lowest_sell_order": "0.25",
     "highest_buy_order": "0.19",
-    "date_modified": 1764914065809
+    "date_modified": 1764957180474
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 910 Triple Kill vs Vitality",
     "item_nameid": 176536843,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "131",
-    "buy_order_count": "862",
+    "sell_order_count": "134",
+    "buy_order_count": "856",
     "lowest_sell_order": "0.25",
     "highest_buy_order": "0.23",
-    "date_modified": 1764914074159
+    "date_modified": 1764957188711
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 910 Triple Kill vs FaZe",
     "item_nameid": 176536998,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "76",
+    "sell_order_count": "79",
     "buy_order_count": "973",
     "lowest_sell_order": "0.54",
     "highest_buy_order": "0.40",
-    "date_modified": 1764914082522
+    "date_modified": 1764957196843
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 910 Spray and Pray",
     "item_nameid": 176537065,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "37",
+    "sell_order_count": "36",
     "buy_order_count": "600",
-    "lowest_sell_order": "0.64",
+    "lowest_sell_order": "0.65",
     "highest_buy_order": "0.58",
-    "date_modified": 1764914090697
+    "date_modified": 1764957205232
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 910 Double Kill",
     "item_nameid": 176536958,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "131",
-    "buy_order_count": "685",
+    "buy_order_count": "682",
     "lowest_sell_order": "0.26",
     "highest_buy_order": "0.21",
-    "date_modified": 1764914098999
+    "date_modified": 1764957213380
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 910 Double Deagle",
@@ -39497,77 +39497,77 @@
     "buy_order_count": "354",
     "lowest_sell_order": "0.43",
     "highest_buy_order": "0.41",
-    "date_modified": 1764914107125
+    "date_modified": 1764957221523
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 910 Double AWP Kill",
     "item_nameid": 176537192,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "26",
-    "buy_order_count": "308",
-    "lowest_sell_order": "0.59",
-    "highest_buy_order": "0.37",
-    "date_modified": 1764914115237
+    "sell_order_count": "27",
+    "buy_order_count": "307",
+    "lowest_sell_order": "0.58",
+    "highest_buy_order": "0.35",
+    "date_modified": 1764957229711
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 910 Clutch Denied",
     "item_nameid": 176536995,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "125",
+    "sell_order_count": "126",
     "buy_order_count": "813",
-    "lowest_sell_order": "0.26",
+    "lowest_sell_order": "0.25",
     "highest_buy_order": "0.21",
-    "date_modified": 1764914123380
+    "date_modified": 1764957237861
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 910 Ace",
     "item_nameid": 176536837,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "162",
+    "sell_order_count": "159",
     "buy_order_count": "2,634",
     "lowest_sell_order": "1.89",
-    "highest_buy_order": "1.70",
-    "date_modified": 1764914131503
+    "highest_buy_order": "1.72",
+    "date_modified": 1764957246017
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 8HP Clutch",
     "item_nameid": 176537291,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "20",
-    "buy_order_count": "30",
-    "lowest_sell_order": "1.95",
-    "highest_buy_order": "1.08",
-    "date_modified": 1764914139650
+    "buy_order_count": "29",
+    "lowest_sell_order": "1.07",
+    "highest_buy_order": "0.69",
+    "date_modified": 1764957254392
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 3-2-1-GO!",
     "item_nameid": 176537395,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "12",
+    "sell_order_count": "13",
     "buy_order_count": "58",
     "lowest_sell_order": "1.55",
     "highest_buy_order": "0.78",
-    "date_modified": 1764914147798
+    "date_modified": 1764957262554
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 2K Spraydown",
     "item_nameid": 176537007,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "81",
+    "sell_order_count": "85",
     "buy_order_count": "347",
-    "lowest_sell_order": "0.25",
+    "lowest_sell_order": "0.24",
     "highest_buy_order": "0.18",
-    "date_modified": 1764914156181
+    "date_modified": 1764957270946
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 2K Dualies",
     "item_nameid": 176536976,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "41",
-    "buy_order_count": "695",
+    "sell_order_count": "42",
+    "buy_order_count": "694",
     "lowest_sell_order": "0.78",
-    "highest_buy_order": "0.60",
-    "date_modified": 1764914164296
+    "highest_buy_order": "0.58",
+    "date_modified": 1764957279176
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 2 Pistol Headshots",
@@ -39575,9 +39575,9 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "80",
     "buy_order_count": "469",
-    "lowest_sell_order": "0.26",
+    "lowest_sell_order": "0.27",
     "highest_buy_order": "0.19",
-    "date_modified": 1764914172439
+    "date_modified": 1764957287329
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 2 In The Back",
@@ -39587,7 +39587,7 @@
     "buy_order_count": "139",
     "lowest_sell_order": "0.52",
     "highest_buy_order": "0.38",
-    "date_modified": 1764914180733
+    "date_modified": 1764957295695
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 2 Crucial Misses",
@@ -39597,1357 +39597,1357 @@
     "buy_order_count": "502",
     "lowest_sell_order": "1.40",
     "highest_buy_order": "1.35",
-    "date_modified": 1764914188882
+    "date_modified": 1764957303857
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 1v2 Denied",
     "item_nameid": 176537089,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
     "sell_order_count": "39",
-    "buy_order_count": "536",
+    "buy_order_count": "535",
     "lowest_sell_order": "0.31",
     "highest_buy_order": "0.26",
-    "date_modified": 1764914197027
+    "date_modified": 1764957312232
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 1v2 Clutch",
     "item_nameid": 176537014,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "44",
+    "sell_order_count": "46",
     "buy_order_count": "350",
-    "lowest_sell_order": "0.49",
+    "lowest_sell_order": "0.48",
     "highest_buy_order": "0.37",
-    "date_modified": 1764914205377
+    "date_modified": 1764957320364
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 180 One Tap",
     "item_nameid": 176536894,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "110",
+    "sell_order_count": "106",
     "buy_order_count": "668",
     "lowest_sell_order": "0.25",
     "highest_buy_order": "0.24",
-    "date_modified": 1764914213517
+    "date_modified": 1764957328745
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 100 Utility Damage",
     "item_nameid": 176536977,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "24",
-    "buy_order_count": "923",
-    "lowest_sell_order": "0.81",
-    "highest_buy_order": "0.53",
-    "date_modified": 1764914221700
+    "sell_order_count": "25",
+    "buy_order_count": "921",
+    "lowest_sell_order": "0.77",
+    "highest_buy_order": "0.52",
+    "date_modified": 1764957336911
   },
   {
     "hash_name": "Souvenir Charm | Austin 2025 Highlight | 1 Holds 1 Dodges",
     "item_nameid": 176536927,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWgIGjFtQQgu4z31VjyUk-hzMOur3Rdt6D4MfFvcvaXXTPDwrsu5bAxF3-1kBt26jzXyt-reHmVPQEoDowwG7ARMLjdZw",
-    "sell_order_count": "46",
-    "buy_order_count": "857",
-    "lowest_sell_order": "0.80",
+    "sell_order_count": "48",
+    "buy_order_count": "873",
+    "lowest_sell_order": "0.76",
     "highest_buy_order": "0.76",
-    "date_modified": 1764914230071
+    "date_modified": 1764957345070
   },
   {
     "hash_name": "Sealed Genesis Terminal",
     "item_nameid": 176549056,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnRk7P6he6FpbqWXCzSVkL4h6bExTHuwx0wk6mjUmdn_Iy2TbAUkCZslQu8CtBTrkNz5d7S1oNprwEg",
-    "sell_order_count": "203,287",
-    "buy_order_count": "776,626",
-    "lowest_sell_order": "0.35",
-    "highest_buy_order": "0.34",
-    "date_modified": 1764914262932
+    "sell_order_count": "208,886",
+    "buy_order_count": "785,561",
+    "lowest_sell_order": "0.34",
+    "highest_buy_order": "0.31",
+    "date_modified": 1764957377705
   },
   {
     "hash_name": "SCAR-20 | Caged (Well-Worn)",
     "item_nameid": 176550601,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCS2kRQyvnODzN-rdHjEbgQgD8NyRu9Z5hDtldTgNOO241bYio8Wzyn7jnlM6Cdo_a9cBkO_7gO1",
-    "sell_order_count": "196",
-    "buy_order_count": "17,201",
+    "sell_order_count": "208",
+    "buy_order_count": "17,364",
     "lowest_sell_order": "0.14",
     "highest_buy_order": "0.13",
-    "date_modified": 1764914271092
+    "date_modified": 1764957385884
   },
   {
     "hash_name": "SCAR-20 | Caged (Minimal Wear)",
     "item_nameid": 176550575,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCW6khUz_W_SmNirdSmVOFcmDJEjQrEPtROwxtGyYevqsgPcg98RxXishi1Bui91o7FVKL5cNSg",
-    "sell_order_count": "467",
-    "buy_order_count": "10,875",
+    "sell_order_count": "479",
+    "buy_order_count": "10,190",
     "lowest_sell_order": "0.37",
     "highest_buy_order": "0.36",
-    "date_modified": 1764914279496
+    "date_modified": 1764957394026
   },
   {
     "hash_name": "SCAR-20 | Caged (Field-Tested)",
     "item_nameid": 176550508,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCS2kRQyvnODzN-rdHjEbgQgD8NyRu9Z5hDtldTgNOO241bYio8Wzyn7jnlM6Cdo_a9cBkO_7gO1",
-    "sell_order_count": "207",
-    "buy_order_count": "27,950",
-    "lowest_sell_order": "0.18",
-    "highest_buy_order": "0.17",
-    "date_modified": 1764914287647
+    "sell_order_count": "242",
+    "buy_order_count": "27,538",
+    "lowest_sell_order": "0.17",
+    "highest_buy_order": "0.16",
+    "date_modified": 1764957402409
   },
   {
     "hash_name": "SCAR-20 | Caged (Factory New)",
     "item_nameid": 176550595,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCW6khUz_W_SmNirdSmVOFcmDJEjQrEPtROwxtGyYevqsgPcg98RxXishi1Bui91o7FVKL5cNSg",
-    "sell_order_count": "213",
-    "buy_order_count": "13,606",
+    "sell_order_count": "215",
+    "buy_order_count": "13,863",
     "lowest_sell_order": "1.10",
     "highest_buy_order": "1.08",
-    "date_modified": 1764914295790
+    "date_modified": 1764957410593
   },
   {
     "hash_name": "SCAR-20 | Caged (Battle-Scarred)",
     "item_nameid": 176550597,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept_JfaBD2SEyOF4j_c9cCG2lAs-_WWAz4yudnKVaQYkWMRyROMN4xPtm4ayYerjsgDe3oIRnij-2itK6Sx1o7FVab00kb8",
-    "sell_order_count": "266",
-    "buy_order_count": "18,308",
+    "sell_order_count": "298",
+    "buy_order_count": "18,119",
     "lowest_sell_order": "0.13",
-    "highest_buy_order": "0.11",
-    "date_modified": 1764914303932
+    "highest_buy_order": "0.08",
+    "date_modified": 1764957418969
   },
   {
     "hash_name": "P250 | Bullfrog (Well-Worn)",
     "item_nameid": 176550609,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRarFhLPaBAWCvzOtyufRkAX7hkRki5T_TmYmoIn2SZw4iCMMjRLIDuxK8lIHkY-PmsQOPiYpAyH7gznQeDW_IraQ",
-    "sell_order_count": "182",
-    "buy_order_count": "17,227",
-    "lowest_sell_order": "0.15",
+    "sell_order_count": "231",
+    "buy_order_count": "17,241",
+    "lowest_sell_order": "0.14",
     "highest_buy_order": "0.13",
-    "date_modified": 1764914312059
+    "date_modified": 1764957427323
   },
   {
     "hash_name": "P250 | Bullfrog (Minimal Wear)",
     "item_nameid": 176550541,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRarFhLPaBAWCvzedxuPUnG3q1kEUl6mnRmYz6JXvBOlQgXsMiRe5ZtxnpmoLiZuO0sVbcjo8XyTK-0H1rEQ3j6Q",
-    "sell_order_count": "283",
-    "buy_order_count": "16,618",
+    "sell_order_count": "296",
+    "buy_order_count": "15,779",
     "lowest_sell_order": "0.37",
-    "highest_buy_order": "0.36",
-    "date_modified": 1764914320180
+    "highest_buy_order": "0.35",
+    "date_modified": 1764957435473
   },
   {
     "hash_name": "P250 | Bullfrog (Field-Tested)",
     "item_nameid": 176550567,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRarFhLPaBAWCvzOtyufRkAX7hkRki5T_TmYmoIn2SZw4iCMMjRLIDuxK8lIHkY-PmsQOPiYpAyH7gznQeDW_IraQ",
-    "sell_order_count": "428",
-    "buy_order_count": "36,730",
-    "lowest_sell_order": "0.19",
-    "highest_buy_order": "0.17",
-    "date_modified": 1764914328314
+    "sell_order_count": "375",
+    "buy_order_count": "37,596",
+    "lowest_sell_order": "0.18",
+    "highest_buy_order": "0.16",
+    "date_modified": 1764957443615
   },
   {
     "hash_name": "P250 | Bullfrog (Factory New)",
     "item_nameid": 176550549,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRarFhLPaBAWCvzedxuPUnG3q1kEUl6mnRmYz6JXvBOlQgXsMiRe5ZtxnpmoLiZuO0sVbcjo8XyTK-0H1rEQ3j6Q",
-    "sell_order_count": "163",
-    "buy_order_count": "20,116",
+    "sell_order_count": "160",
+    "buy_order_count": "20,476",
     "lowest_sell_order": "1.17",
     "highest_buy_order": "1.08",
-    "date_modified": 1764914336609
+    "date_modified": 1764957451985
   },
   {
     "hash_name": "P250 | Bullfrog (Battle-Scarred)",
     "item_nameid": 176550553,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRarFhLPaBAWCvyet3pvgnGHjmlk8jtT_Sytqgd36QawZ0A5QlEe4JukG8xN3mZevk4AeP2t5CnjK-0H22HNEFCA",
-    "sell_order_count": "269",
-    "buy_order_count": "28,453",
-    "lowest_sell_order": "0.14",
+    "sell_order_count": "300",
+    "buy_order_count": "28,114",
+    "lowest_sell_order": "0.13",
     "highest_buy_order": "0.12",
-    "date_modified": 1764914344752
+    "date_modified": 1764957460127
   },
   {
     "hash_name": "P2000 | Red Wing (Well-Worn)",
     "item_nameid": 176550586,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0OL8OPQ9H_SWC3ev0-tyj-xsSyCmmFNysmyAn4updX6SblJ1CMEhFO9ctxCwx9O0MLvjsQaL3osWxHr3h38a8G81tHOSVfEu",
-    "sell_order_count": "352",
-    "buy_order_count": "19,816",
-    "lowest_sell_order": "0.15",
+    "sell_order_count": "394",
+    "buy_order_count": "19,965",
+    "lowest_sell_order": "0.14",
     "highest_buy_order": "0.13",
-    "date_modified": 1764914353043
+    "date_modified": 1764957468534
   },
   {
     "hash_name": "P2000 | Red Wing (Minimal Wear)",
     "item_nameid": 176550561,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0OL8OPQ9H_SWC3ev0-tyj-1gSCGn20RysWvczNqpeS3GOlQoXsYhTLJbuhfulIHjPurktVHfjY8Wmyuo2H5XrnE8nnCGDRE",
-    "sell_order_count": "501",
-    "buy_order_count": "13,256",
+    "sell_order_count": "508",
+    "buy_order_count": "12,478",
     "lowest_sell_order": "0.37",
     "highest_buy_order": "0.36",
-    "date_modified": 1764914361190
+    "date_modified": 1764957476687
   },
   {
     "hash_name": "P2000 | Red Wing (Field-Tested)",
     "item_nameid": 176550546,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0OL8OPQ9H_SWC3ev0-tyj-xsSyCmmFNysmyAn4updX6SblJ1CMEhFO9ctxCwx9O0MLvjsQaL3osWxHr3h38a8G81tHOSVfEu",
-    "sell_order_count": "503",
-    "buy_order_count": "33,231",
-    "lowest_sell_order": "0.18",
+    "sell_order_count": "521",
+    "buy_order_count": "32,957",
+    "lowest_sell_order": "0.17",
     "highest_buy_order": "0.16",
-    "date_modified": 1764914369293
+    "date_modified": 1764957484833
   },
   {
     "hash_name": "P2000 | Red Wing (Factory New)",
     "item_nameid": 176550614,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0OL8OPQ9H_SWC3ev0-tyj-1gSCGn20RysWvczNqpeS3GOlQoXsYhTLJbuhfulIHjPurktVHfjY8Wmyuo2H5XrnE8nnCGDRE",
-    "sell_order_count": "268",
-    "buy_order_count": "14,984",
-    "lowest_sell_order": "1.18",
-    "highest_buy_order": "1.15",
-    "date_modified": 1764914377422
+    "sell_order_count": "280",
+    "buy_order_count": "14,837",
+    "lowest_sell_order": "1.17",
+    "highest_buy_order": "1.16",
+    "date_modified": 1764957492976
   },
   {
     "hash_name": "P2000 | Red Wing (Battle-Scarred)",
     "item_nameid": 176550641,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0OL8OPQ9H_SWC3ev0-tyj-lsTj-q2xh0tWzWzomudCmVb1MpC8RxEecL5kPpxtfhZu3h5AOPioJEzCz4iH9XrnE89OEh2Aw",
-    "sell_order_count": "311",
-    "buy_order_count": "16,259",
-    "lowest_sell_order": "0.13",
+    "sell_order_count": "330",
+    "buy_order_count": "15,959",
+    "lowest_sell_order": "0.12",
     "highest_buy_order": "0.11",
-    "date_modified": 1764914385541
+    "date_modified": 1764957501349
   },
   {
     "hash_name": "Nova | Ocular (Well-Worn)",
     "item_nameid": 176550565,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fORZ6d4LPGBMWqVxedjva89GHzrwhh14jvQm46geC2fOw8hCcF0QeALs0S7lNLjZezj5gWKi94U02yg2ZCbkb4B",
-    "sell_order_count": "160",
-    "buy_order_count": "7,117",
-    "lowest_sell_order": "0.83",
-    "highest_buy_order": "0.77",
-    "date_modified": 1764914393659
+    "sell_order_count": "159",
+    "buy_order_count": "7,188",
+    "lowest_sell_order": "0.85",
+    "highest_buy_order": "0.76",
+    "date_modified": 1764957509491
   },
   {
     "hash_name": "Nova | Ocular (Minimal Wear)",
     "item_nameid": 176550594,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fORZ6d4LPGBMWuZxuZi_uU6GHixlk13sjzRwo2oeS_DOwQhCpMhQuRc5EHumoezNe3htgLX3YJbjXKpiWHwHrY",
-    "sell_order_count": "362",
-    "buy_order_count": "8,091",
-    "lowest_sell_order": "2.07",
+    "sell_order_count": "358",
+    "buy_order_count": "7,724",
+    "lowest_sell_order": "2.03",
     "highest_buy_order": "2.02",
-    "date_modified": 1764914402023
+    "date_modified": 1764957517650
   },
   {
     "hash_name": "Nova | Ocular (Field-Tested)",
     "item_nameid": 176550564,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fORZ6d4LPGBMWqVxedjva89GHzrwhh14jvQm46geC2fOw8hCcF0QeALs0S7lNLjZezj5gWKi94U02yg2ZCbkb4B",
-    "sell_order_count": "245",
-    "buy_order_count": "8,244",
+    "sell_order_count": "244",
+    "buy_order_count": "8,151",
     "lowest_sell_order": "1.03",
     "highest_buy_order": "1.01",
-    "date_modified": 1764914410162
+    "date_modified": 1764957525797
   },
   {
     "hash_name": "Nova | Ocular (Factory New)",
     "item_nameid": 176550607,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fORZ6d4LPGBMWuZxuZi_uU6GHixlk13sjzRwo2oeS_DOwQhCpMhQuRc5EHumoezNe3htgLX3YJbjXKpiWHwHrY",
-    "sell_order_count": "110",
-    "buy_order_count": "8,368",
-    "lowest_sell_order": "6.14",
+    "sell_order_count": "114",
+    "buy_order_count": "8,374",
+    "lowest_sell_order": "6.04",
     "highest_buy_order": "5.82",
-    "date_modified": 1764914418483
+    "date_modified": 1764957533979
   },
   {
     "hash_name": "Nova | Ocular (Battle-Scarred)",
     "item_nameid": 176550592,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fORZ6d4LPGBMW-VwPhv_uNoSizhlEx35jzdnt_4dHOWawEhCcciF7EIsRTtldDgPr625Ffdit5bjXKpzNgouho",
-    "sell_order_count": "181",
-    "buy_order_count": "5,446",
-    "lowest_sell_order": "0.63",
-    "highest_buy_order": "0.61",
-    "date_modified": 1764914426859
+    "sell_order_count": "196",
+    "buy_order_count": "5,411",
+    "lowest_sell_order": "0.62",
+    "highest_buy_order": "0.60",
+    "date_modified": 1764957542291
   },
   {
     "hash_name": "Music Kit | Tigercub, The Perfume of Decay",
     "item_nameid": 176545334,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIXKQ4ER24YXLugipQEn0mpPl_icD6qD4a6c7I6XGWTbFx7ZysbIxG3C3zEtz4G6BmImoImXXMFEshFifrQ",
-    "sell_order_count": "331",
-    "buy_order_count": "3,658",
-    "lowest_sell_order": "0.50",
+    "sell_order_count": "356",
+    "buy_order_count": "3,403",
+    "lowest_sell_order": "0.49",
     "highest_buy_order": "0.47",
-    "date_modified": 1764914443369
+    "date_modified": 1764957558603
   },
   {
     "hash_name": "Music Kit | Selective Response, No Love Only Pleasure",
     "item_nameid": 176545330,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJn6b4FVh_ZHx-Fz0URL_jZPfrXMVtqH2a_Q0cfLBDWbJk-p0sbNoHnrmxx8m42jdy9f7InieOgciDZZ1EPlK7EehqW9d7Q",
-    "sell_order_count": "503",
-    "buy_order_count": "3,119",
-    "lowest_sell_order": "1.50",
-    "highest_buy_order": "1.23",
-    "date_modified": 1764914451709
+    "sell_order_count": "544",
+    "buy_order_count": "3,105",
+    "lowest_sell_order": "1.34",
+    "highest_buy_order": "1.18",
+    "date_modified": 1764957566737
   },
   {
     "hash_name": "Music Kit | PVRIS, Evergreen",
     "item_nameid": 176545321,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJW2F7EVKpNa671jlEk-pmpLj-HtZ6qv8Ofc6JaWRXGTIw750srVqSXCwlBgi423XmMHpLywuexEzEA",
-    "sell_order_count": "54",
-    "buy_order_count": "3,349",
-    "lowest_sell_order": "5.33",
-    "highest_buy_order": "5.29",
-    "date_modified": 1764914459856
+    "sell_order_count": "59",
+    "buy_order_count": "3,318",
+    "lowest_sell_order": "5.20",
+    "highest_buy_order": "5.13",
+    "date_modified": 1764957575157
   },
   {
     "hash_name": "Music Kit | Killer Mike, MICHAEL",
     "item_nameid": 176545317,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPnKb6VNn-Y7_72a3EFOlz8biqnRd6ab3bvA_cvTDC2XImOwi4-U8S37nxk5y5D7Sw9v9I37DcEZ-XeFRCz_X",
-    "sell_order_count": "36",
-    "buy_order_count": "6,272",
-    "lowest_sell_order": "20.02",
-    "highest_buy_order": "17.71",
-    "date_modified": 1764914467999
+    "sell_order_count": "42",
+    "buy_order_count": "6,286",
+    "lowest_sell_order": "17.85",
+    "highest_buy_order": "17.72",
+    "date_modified": 1764957583358
   },
   {
     "hash_name": "Music Kit | Juelz, Floorspace",
     "item_nameid": 176545335,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuP26S6UxKpNW661yyF0Xwyc7kryMIuqCtOqdudaPEDTeUw-11seQ4H3G3zRwk4DuGn8HpLyxF_Gg6fw",
-    "sell_order_count": "174",
-    "buy_order_count": "2,980",
-    "lowest_sell_order": "2.79",
-    "highest_buy_order": "2.43",
-    "date_modified": 1764914476200
+    "sell_order_count": "181",
+    "buy_order_count": "2,989",
+    "lowest_sell_order": "2.55",
+    "highest_buy_order": "2.45",
+    "date_modified": 1764957591495
   },
   {
     "hash_name": "Music Kit | Jonathan Young, Starship Velociraptor",
     "item_nameid": 176545328,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuP3SZ5EJ99Ynt5UzpRiKhz9i0-3YCvvD7P_xrJanECDWTme0m5-drHn7hwkpw52zTzYv9cH2eOA4nFNIuEiP11Fka",
-    "sell_order_count": "258",
-    "buy_order_count": "3,420",
-    "lowest_sell_order": "1.32",
+    "sell_order_count": "260",
+    "buy_order_count": "3,432",
+    "lowest_sell_order": "1.38",
     "highest_buy_order": "1.18",
-    "date_modified": 1764914484332
+    "date_modified": 1764957599913
   },
   {
     "hash_name": "Music Kit | James and the Cold Gun, Chewing Glass",
     "item_nameid": 176545326,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuP3qa4EV0-oPg4lzkThH1mYPuwnIKofD-PPxseajKDTCTkbgg6OI4TCzmxURw42yDzI6hcy-ebgN1XJEiQ-MU8k7vPe1y5g0",
-    "sell_order_count": "329",
-    "buy_order_count": "3,105",
+    "sell_order_count": "348",
+    "buy_order_count": "3,071",
     "lowest_sell_order": "0.59",
     "highest_buy_order": "0.52",
-    "date_modified": 1764914492761
+    "date_modified": 1764957608120
   },
   {
     "hash_name": "Music Kit | HEALTH, RAT WARS",
     "item_nameid": 176545327,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPX6W6UJ9y9elpAHkF0_wz8C5r3BeuvH4Pfw8IaPACzWSmbkgtrI6Hy2xwBh34mrcyt63MSXA80s-Xh8",
-    "sell_order_count": "99",
-    "buy_order_count": "3,097",
-    "lowest_sell_order": "2.18",
-    "highest_buy_order": "1.85",
-    "date_modified": 1764914500913
+    "sell_order_count": "103",
+    "buy_order_count": "3,104",
+    "lowest_sell_order": "2.15",
+    "highest_buy_order": "1.80",
+    "date_modified": 1764957616486
   },
   {
     "hash_name": "Music Kit | Ghost, Skeletá",
     "item_nameid": 176545325,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMnOY9kJKpNa6uwzmFkT1zMHlpXMMvKv5Oqc0caHBX2bCmb8ltbIxH37klE0h4W_cm8HpLyyghyHkLA",
-    "sell_order_count": "461",
-    "buy_order_count": "3,524",
-    "lowest_sell_order": "1.32",
-    "highest_buy_order": "1.11",
-    "date_modified": 1764914509049
+    "sell_order_count": "515",
+    "buy_order_count": "3,519",
+    "lowest_sell_order": "1.28",
+    "highest_buy_order": "1.06",
+    "date_modified": 1764957624875
   },
   {
     "hash_name": "Music Kit | Adam Beyer, Red Room",
     "item_nameid": 176545324,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNH-W6FRw7YLm1Qm2D0ypm86w-CcL6vT-OP05caHDWmHHmOh35eI5HS_jwE4msmTXwtepcniJLlh3Piv7u7I",
-    "sell_order_count": "107",
-    "buy_order_count": "3,182",
-    "lowest_sell_order": "7.20",
-    "highest_buy_order": "7.14",
-    "date_modified": 1764914517238
+    "sell_order_count": "111",
+    "buy_order_count": "3,176",
+    "lowest_sell_order": "7.26",
+    "highest_buy_order": "6.30",
+    "date_modified": 1764957633079
   },
   {
     "hash_name": "MP9 | Broken Record (Well-Worn)",
     "item_nameid": 176550517,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0OSnZr1hH_2WCm6FzKBwsrVrSi_qxhkhtTjUw9r8dH-ealMkDpNxEORZu0G-koDmZOLitQWMlcsbmgk3EYUu",
-    "sell_order_count": "200",
-    "buy_order_count": "19,235",
-    "lowest_sell_order": "0.16",
-    "highest_buy_order": "0.13",
-    "date_modified": 1764914541919
+    "sell_order_count": "239",
+    "buy_order_count": "19,397",
+    "lowest_sell_order": "0.13",
+    "highest_buy_order": "0.12",
+    "date_modified": 1764957657776
   },
   {
     "hash_name": "MP9 | Broken Record (Minimal Wear)",
     "item_nameid": 176550572,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0OSnZr1hH_yaCW-Ej78gs7M_Hy-xxUUi4WWHyd6tJ33EOAAkXsckE-4M5Baxw9O2ZOO3sgzAy9USMhZdDpQ",
-    "sell_order_count": "485",
-    "buy_order_count": "11,013",
-    "lowest_sell_order": "0.37",
-    "highest_buy_order": "0.36",
-    "date_modified": 1764914550041
+    "sell_order_count": "486",
+    "buy_order_count": "10,981",
+    "lowest_sell_order": "0.36",
+    "highest_buy_order": "0.34",
+    "date_modified": 1764957666008
   },
   {
     "hash_name": "MP9 | Broken Record (Field-Tested)",
     "item_nameid": 176550529,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0OSnZr1hH_2WCm6FzKBwsrVrSi_qxhkhtTjUw9r8dH-ealMkDpNxEORZu0G-koDmZOLitQWMlcsbmgk3EYUu",
-    "sell_order_count": "345",
-    "buy_order_count": "37,796",
-    "lowest_sell_order": "0.18",
-    "highest_buy_order": "0.16",
-    "date_modified": 1764914558179
+    "sell_order_count": "333",
+    "buy_order_count": "37,694",
+    "lowest_sell_order": "0.16",
+    "highest_buy_order": "0.15",
+    "date_modified": 1764957674381
   },
   {
     "hash_name": "MP9 | Broken Record (Factory New)",
     "item_nameid": 176550580,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0OSnZr1hH_yaCW-Ej78gs7M_Hy-xxUUi4WWHyd6tJ33EOAAkXsckE-4M5Baxw9O2ZOO3sgzAy9USMhZdDpQ",
-    "sell_order_count": "187",
-    "buy_order_count": "14,188",
+    "sell_order_count": "197",
+    "buy_order_count": "14,112",
     "lowest_sell_order": "1.12",
-    "highest_buy_order": "1.10",
-    "date_modified": 1764914566322
+    "highest_buy_order": "1.11",
+    "date_modified": 1764957682526
   },
   {
     "hash_name": "MP9 | Broken Record (Battle-Scarred)",
     "item_nameid": 176550608,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0OSnZr1hH_iWD3GJj7Zw47M4GXnqlkRwtWnSm46rIHPCbgcpD5clQucPtBHpwNCzNOnq7g3Ay9US1guvzq0",
-    "sell_order_count": "224",
-    "buy_order_count": "17,809",
-    "lowest_sell_order": "0.14",
-    "highest_buy_order": "0.11",
-    "date_modified": 1764914574514
+    "sell_order_count": "248",
+    "buy_order_count": "17,423",
+    "lowest_sell_order": "0.12",
+    "highest_buy_order": "0.09",
+    "date_modified": 1764957690668
   },
   {
     "hash_name": "MP7 | Smoking Kills (Well-Worn)",
     "item_nameid": 176550527,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf8DIM0OGjZ69kLvesBW6czf1JprNWQiy3nAgq_TjSyIn8cy2eb1UjW5p4R-JeuhC_xIC1P-zn7wOIjItCn3383Hgf6n11o7FVl5bdg0g",
-    "sell_order_count": "213",
-    "buy_order_count": "3,469",
-    "lowest_sell_order": "7.76",
-    "highest_buy_order": "7.30",
-    "date_modified": 1764914599145
+    "sell_order_count": "226",
+    "buy_order_count": "3,474",
+    "lowest_sell_order": "7.44",
+    "highest_buy_order": "7.38",
+    "date_modified": 1764957715438
   },
   {
     "hash_name": "MP7 | Smoking Kills (Minimal Wear)",
     "item_nameid": 176550500,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf8DIM0OGjZ69kLvesBW6czf1JprNWQyC0nQlp4z7QmI2pdyjEP1ByD5BwTLQDsRXrktXjP-ri5FHYjIpExCX73CJJ6zErvbgKbpbVdg",
-    "sell_order_count": "270",
-    "buy_order_count": "3,779",
-    "lowest_sell_order": "17.08",
-    "highest_buy_order": "16.34",
-    "date_modified": 1764914607267
+    "sell_order_count": "284",
+    "buy_order_count": "3,824",
+    "lowest_sell_order": "15.30",
+    "highest_buy_order": "16.42",
+    "date_modified": 1764957723854
   },
   {
     "hash_name": "MP7 | Smoking Kills (Field-Tested)",
     "item_nameid": 176550518,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf8DIM0OGjZ69kLvesBW6czf1JprNWQiy3nAgq_TjSyIn8cy2eb1UjW5p4R-JeuhC_xIC1P-zn7wOIjItCn3383Hgf6n11o7FVl5bdg0g",
-    "sell_order_count": "252",
-    "buy_order_count": "4,718",
-    "lowest_sell_order": "8.70",
-    "highest_buy_order": "8.41",
-    "date_modified": 1764914615399
+    "sell_order_count": "254",
+    "buy_order_count": "4,742",
+    "lowest_sell_order": "9.04",
+    "highest_buy_order": "8.45",
+    "date_modified": 1764957732004
   },
   {
     "hash_name": "MP7 | Smoking Kills (Factory New)",
     "item_nameid": 176550548,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf8DIM0OGjZ69kLvesBW6czf1JprNWQyC0nQlp4z7QmI2pdyjEP1ByD5BwTLQDsRXrktXjP-ri5FHYjIpExCX73CJJ6zErvbgKbpbVdg",
     "sell_order_count": "61",
-    "buy_order_count": "3,146",
+    "buy_order_count": "3,144",
     "lowest_sell_order": "48.59",
-    "highest_buy_order": "47.05",
-    "date_modified": 1764914623722
+    "highest_buy_order": "47.08",
+    "date_modified": 1764957740226
   },
   {
     "hash_name": "MP7 | Smoking Kills (Battle-Scarred)",
     "item_nameid": 176550495,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf8DIM0OGjZ69kLvesBW6czf1JprNWRyyygwRp6mzdnNisdymeawAhC5pyE-ICuhO6m4K1Pu_j5VOKio5CyHqoj3gfvTErvbgU-ZVOwA",
-    "sell_order_count": "161",
-    "buy_order_count": "3,300",
-    "lowest_sell_order": "6.17",
-    "highest_buy_order": "6.09",
-    "date_modified": 1764914631856
+    "sell_order_count": "167",
+    "buy_order_count": "3,370",
+    "lowest_sell_order": "5.91",
+    "highest_buy_order": "5.83",
+    "date_modified": 1764957748398
   },
   {
     "hash_name": "MP5-SD | Focus (Well-Worn)",
     "item_nameid": 176550623,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1W_6e9bJtuKOKcA2KvzOtyufRkAXG2l09-tm-AmIqvdS7EZgB2Wcd4ELRYukO-ktPnZuLq5APe39pHxCvgznQe-6Bb5MM",
-    "sell_order_count": "369",
-    "buy_order_count": "22,477",
-    "lowest_sell_order": "0.15",
-    "highest_buy_order": "0.13",
-    "date_modified": 1764914640206
+    "sell_order_count": "428",
+    "buy_order_count": "22,331",
+    "lowest_sell_order": "0.14",
+    "highest_buy_order": "0.12",
+    "date_modified": 1764957756539
   },
   {
     "hash_name": "MP5-SD | Focus (Minimal Wear)",
     "item_nameid": 176550559,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1W_6e9bJtuKOKcA2KvzedxuPUnG3rmxU525WTdztqhIH-XOwYiA8QjR-AOtRC6kIfhNuPntgbfio1EmzK-0H16sAwJOA",
-    "sell_order_count": "510",
-    "buy_order_count": "20,460",
-    "lowest_sell_order": "0.37",
-    "highest_buy_order": "0.35",
-    "date_modified": 1764914648389
+    "sell_order_count": "514",
+    "buy_order_count": "19,678",
+    "lowest_sell_order": "0.36",
+    "highest_buy_order": "0.34",
+    "date_modified": 1764957764705
   },
   {
     "hash_name": "MP5-SD | Focus (Field-Tested)",
     "item_nameid": 176550605,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1W_6e9bJtuKOKcA2KvzOtyufRkAXG2l09-tm-AmIqvdS7EZgB2Wcd4ELRYukO-ktPnZuLq5APe39pHxCvgznQe-6Bb5MM",
-    "sell_order_count": "285",
-    "buy_order_count": "32,222",
-    "lowest_sell_order": "0.19",
+    "sell_order_count": "290",
+    "buy_order_count": "32,229",
+    "lowest_sell_order": "0.17",
     "highest_buy_order": "0.16",
-    "date_modified": 1764914656543
+    "date_modified": 1764957773205
   },
   {
     "hash_name": "MP5-SD | Focus (Factory New)",
     "item_nameid": 176550585,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1W_6e9bJtuKOKcA2KvzedxuPUnG3rmxU525WTdztqhIH-XOwYiA8QjR-AOtRC6kIfhNuPntgbfio1EmzK-0H16sAwJOA",
-    "sell_order_count": "144",
-    "buy_order_count": "19,561",
-    "lowest_sell_order": "1.11",
-    "highest_buy_order": "1.10",
-    "date_modified": 1764914664956
+    "sell_order_count": "157",
+    "buy_order_count": "19,650",
+    "lowest_sell_order": "1.12",
+    "highest_buy_order": "1.11",
+    "date_modified": 1764957781598
   },
   {
     "hash_name": "MP5-SD | Focus (Battle-Scarred)",
     "item_nameid": 176550613,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1W_6e9bJtuKOKcA2Kvyet3pvgnGXDkwUlz42WAyYuqc3iRbAEpD8NwEeZb5hfswNXvYb6z4gyIi98XnjK-0H0fSCFZeg",
-    "sell_order_count": "218",
-    "buy_order_count": "23,103",
-    "lowest_sell_order": "0.14",
-    "highest_buy_order": "0.11",
-    "date_modified": 1764914673075
+    "sell_order_count": "248",
+    "buy_order_count": "22,584",
+    "lowest_sell_order": "0.08",
+    "highest_buy_order": "0.09",
+    "date_modified": 1764957789984
   },
   {
     "hash_name": "MAG-7 | MAGnitude (Well-Worn)",
     "item_nameid": 176550568,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wi9a6KWRa61_I_yWMWSf0f5zot5kSi26gBBp6zyDnImpdS2SPQEhDJMmE7Zb40Lslt3nM7ni5ATdjNkWzSz7jy1P5jErvbg9Ye7QIw",
-    "sell_order_count": "196",
-    "buy_order_count": "25,232",
-    "lowest_sell_order": "0.14",
-    "highest_buy_order": "0.13",
-    "date_modified": 1764914681202
+    "sell_order_count": "219",
+    "buy_order_count": "25,530",
+    "lowest_sell_order": "0.13",
+    "highest_buy_order": "0.12",
+    "date_modified": 1764957798171
   },
   {
     "hash_name": "MAG-7 | MAGnitude (Minimal Wear)",
     "item_nameid": 176550563,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wi9a6KWRa61_I_yWMWSf0f5zot5lRi67gVN34z_Xwo36J32VPFclWZN3TeUJsxjukNXjYe-0tQTc3oNCyXqrjHgY8G81tEUQW-wE",
-    "sell_order_count": "405",
-    "buy_order_count": "15,434",
-    "lowest_sell_order": "0.37",
+    "sell_order_count": "445",
+    "buy_order_count": "14,633",
+    "lowest_sell_order": "0.36",
     "highest_buy_order": "0.35",
-    "date_modified": 1764914689351
+    "date_modified": 1764957806332
   },
   {
     "hash_name": "MAG-7 | MAGnitude (Field-Tested)",
     "item_nameid": 176550617,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wi9a6KWRa61_I_yWMWSf0f5zot5kSi26gBBp6zyDnImpdS2SPQEhDJMmE7Zb40Lslt3nM7ni5ATdjNkWzSz7jy1P5jErvbg9Ye7QIw",
-    "sell_order_count": "420",
-    "buy_order_count": "43,580",
-    "lowest_sell_order": "0.18",
+    "sell_order_count": "360",
+    "buy_order_count": "43,444",
+    "lowest_sell_order": "0.17",
     "highest_buy_order": "0.16",
-    "date_modified": 1764914697703
+    "date_modified": 1764957814470
   },
   {
     "hash_name": "MAG-7 | MAGnitude (Factory New)",
     "item_nameid": 176550621,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wi9a6KWRa61_I_yWMWSf0f5zot5lRi67gVN34z_Xwo36J32VPFclWZN3TeUJsxjukNXjYe-0tQTc3oNCyXqrjHgY8G81tEUQW-wE",
-    "sell_order_count": "166",
-    "buy_order_count": "12,760",
-    "lowest_sell_order": "1.10",
+    "sell_order_count": "159",
+    "buy_order_count": "13,029",
+    "lowest_sell_order": "1.16",
     "highest_buy_order": "1.09",
-    "date_modified": 1764914705814
+    "date_modified": 1764957853811
   },
   {
     "hash_name": "MAG-7 | MAGnitude (Battle-Scarred)",
     "item_nameid": 176550555,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wi9a6KWRa61_I_yWMWSf0f5zot5hSiiljFN35Gndntz8eXqQPVR0X5N3ReEIuhHtlofgZO205wzeioxAmX78i3sb8G81tFghpsmu",
-    "sell_order_count": "243",
-    "buy_order_count": "25,761",
-    "lowest_sell_order": "0.13",
-    "highest_buy_order": "0.11",
-    "date_modified": 1764914714163
+    "sell_order_count": "249",
+    "buy_order_count": "25,519",
+    "lowest_sell_order": "0.10",
+    "highest_buy_order": "0.08",
+    "date_modified": 1764957861963
   },
   {
     "hash_name": "MAC-10 | Cat Fight (Well-Worn)",
     "item_nameid": 176550578,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJtmIf2aDWaE2-tJveRtRjy-2x9-tWzSz4z6cymTPFQjW5pxTO5Z5Bi8ktflMbmx5lfbi44WmH7_jSlXrnE85dLwvOo",
-    "sell_order_count": "180",
-    "buy_order_count": "6,420",
+    "sell_order_count": "174",
+    "buy_order_count": "6,488",
     "lowest_sell_order": "0.81",
     "highest_buy_order": "0.76",
-    "date_modified": 1764914722293
+    "date_modified": 1764957870168
   },
   {
     "hash_name": "MAC-10 | Cat Fight (Minimal Wear)",
     "item_nameid": 176550540,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJtmIf2aDWaE2-tJvOhuRz39l0lx42_Qz9v_cC2SagNyX8RwEbZbskHpltKzYriw4QPeioIWxXqv3DQJsHgCTO4phQ",
-    "sell_order_count": "280",
-    "buy_order_count": "8,193",
-    "lowest_sell_order": "2.07",
+    "sell_order_count": "277",
+    "buy_order_count": "8,170",
+    "lowest_sell_order": "2.04",
     "highest_buy_order": "2.03",
-    "date_modified": 1764914730432
+    "date_modified": 1764957878569
   },
   {
     "hash_name": "MAC-10 | Cat Fight (Field-Tested)",
     "item_nameid": 176550536,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJtmIf2aDWaE2-tJveRtRjy-2x9-tWzSz4z6cymTPFQjW5pxTO5Z5Bi8ktflMbmx5lfbi44WmH7_jSlXrnE85dLwvOo",
-    "sell_order_count": "262",
-    "buy_order_count": "10,944",
-    "lowest_sell_order": "1.17",
+    "sell_order_count": "266",
+    "buy_order_count": "11,060",
+    "lowest_sell_order": "1.06",
     "highest_buy_order": "1.01",
-    "date_modified": 1764914738583
+    "date_modified": 1764957916859
   },
   {
     "hash_name": "MAC-10 | Cat Fight (Factory New)",
     "item_nameid": 176550516,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJtmIf2aDWaE2-tJvOhuRz39l0lx42_Qz9v_cC2SagNyX8RwEbZbskHpltKzYriw4QPeioIWxXqv3DQJsHgCTO4phQ",
-    "sell_order_count": "114",
-    "buy_order_count": "8,589",
-    "lowest_sell_order": "5.99",
+    "sell_order_count": "115",
+    "buy_order_count": "8,595",
+    "lowest_sell_order": "6.05",
     "highest_buy_order": "5.95",
-    "date_modified": 1764914746725
+    "date_modified": 1764957925005
   },
   {
     "hash_name": "MAC-10 | Cat Fight (Battle-Scarred)",
     "item_nameid": 176550604,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJtmIf2aDWaE2-tJuORoWTD9kE4k4GvRm977cXqXO1JzApF5TeZZtEK_m9a0Y-23tleIg4gTnC39hjQJsHiHj9-_Hg",
-    "sell_order_count": "172",
-    "buy_order_count": "6,002",
-    "lowest_sell_order": "0.80",
-    "highest_buy_order": "0.66",
-    "date_modified": 1764914755060
+    "sell_order_count": "183",
+    "buy_order_count": "5,961",
+    "lowest_sell_order": "0.60",
+    "highest_buy_order": "0.63",
+    "date_modified": 1764957933147
   },
   {
     "hash_name": "M4A4 | Full Throttle (Well-Worn)",
     "item_nameid": 176550504,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwi8P7qaRe69_MuKHMWCCxOt4j-xsSyCmmFMl4WvSzY74d3_COAB2A5pyQOAOtxW_kYexY-O35QzWiYhNyH_93y5P8G81tNq8CZTf",
-    "sell_order_count": "75",
-    "buy_order_count": "1,495",
-    "lowest_sell_order": "49.58",
-    "highest_buy_order": "45.00",
-    "date_modified": 1764914763170
+    "sell_order_count": "77",
+    "buy_order_count": "1,502",
+    "lowest_sell_order": "48.00",
+    "highest_buy_order": "45.01",
+    "date_modified": 1764957941326
   },
   {
     "hash_name": "M4A4 | Full Throttle (Minimal Wear)",
     "item_nameid": 176550515,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwi8P7qaRe69_MuKHMWCCxOt4j-1gSCGn20kk4mSHn97_eXqTOgMkXpdzR-MNsxO7w9e2Yrnk5VbciIhDznj8iy9XrnE8J4rQ87g",
-    "sell_order_count": "75",
-    "buy_order_count": "1,782",
-    "lowest_sell_order": "132.76",
-    "highest_buy_order": "127.77",
-    "date_modified": 1764914771313
+    "sell_order_count": "76",
+    "buy_order_count": "1,787",
+    "lowest_sell_order": "132.75",
+    "highest_buy_order": "127.84",
+    "date_modified": 1764957949502
   },
   {
     "hash_name": "M4A4 | Full Throttle (Field-Tested)",
     "item_nameid": 176550509,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwi8P7qaRe69_MuKHMWCCxOt4j-xsSyCmmFMl4WvSzY74d3_COAB2A5pyQOAOtxW_kYexY-O35QzWiYhNyH_93y5P8G81tNq8CZTf",
-    "sell_order_count": "85",
-    "buy_order_count": "2,346",
-    "lowest_sell_order": "74.46",
+    "sell_order_count": "95",
+    "buy_order_count": "2,341",
+    "lowest_sell_order": "70.00",
     "highest_buy_order": "69.26",
-    "date_modified": 1764914779524
+    "date_modified": 1764957957659
   },
   {
     "hash_name": "M4A4 | Full Throttle (Factory New)",
     "item_nameid": 176550762,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwi8P7qaRe69_MuKHMWCCxOt4j-1gSCGn20kk4mSHn97_eXqTOgMkXpdzR-MNsxO7w9e2Yrnk5VbciIhDznj8iy9XrnE8J4rQ87g",
-    "sell_order_count": "14",
-    "buy_order_count": "1,025",
+    "sell_order_count": "15",
+    "buy_order_count": "1,024",
     "lowest_sell_order": "390.00",
     "highest_buy_order": "366.79",
-    "date_modified": 1764914787626
+    "date_modified": 1764957966056
   },
   {
     "hash_name": "M4A4 | Full Throttle (Battle-Scarred)",
     "item_nameid": 176550519,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwi8P7qaRe69_MuKHMWCCxOt4j-lsTj-q20QltjvVydn7eS6Waw8nCZBxF-QPtUG7x9TlN-m04QOMgtoTyST_hy9XrnE8DEj4Hh4",
-    "sell_order_count": "77",
-    "buy_order_count": "2,012",
-    "lowest_sell_order": "36.84",
+    "sell_order_count": "78",
+    "buy_order_count": "2,005",
+    "lowest_sell_order": "39.90",
     "highest_buy_order": "38.91",
-    "date_modified": 1764914795992
+    "date_modified": 1764957974207
   },
   {
     "hash_name": "M4A1-S | Solitude (Well-Worn)",
     "item_nameid": 176545319,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H-OcDW-vzOFjvvVoRiegqhBzsmyWpYL8JSLSMxgmXJB5Qe8O5hLrkoDlNOix5wTcg4JHzXr5inxJvy5vtr4CV6Ytq63fkUifZonb9V4d",
-    "sell_order_count": "901",
-    "buy_order_count": "6,737",
-    "lowest_sell_order": "1.97",
-    "highest_buy_order": "1.79",
-    "date_modified": 1764914804390
+    "sell_order_count": "961",
+    "buy_order_count": "6,744",
+    "lowest_sell_order": "2.16",
+    "highest_buy_order": "1.76",
+    "date_modified": 1764957982456
   },
   {
     "hash_name": "M4A1-S | Solitude (Minimal Wear)",
     "item_nameid": 176545316,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H-OcDW-vzOFjvvVoRiegqhBzsmyWpYPwJiPTcFIoXpslROVftRK5kYblN7zq5VbX3YtMmH_8ji5MvX1qtu1XWPFxrvLJz1aW589-peo",
-    "sell_order_count": "2,271",
-    "buy_order_count": "8,160",
-    "lowest_sell_order": "6.64",
-    "highest_buy_order": "6.29",
-    "date_modified": 1764914812541
+    "sell_order_count": "2,320",
+    "buy_order_count": "8,226",
+    "lowest_sell_order": "6.32",
+    "highest_buy_order": "6.10",
+    "date_modified": 1764957990844
   },
   {
     "hash_name": "M4A1-S | Solitude (Field-Tested)",
     "item_nameid": 176545315,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H-OcDW-vzOFjvvVoRiegqhBzsmyWpYL8JSLSMxgmXJB5Qe8O5hLrkoDlNOix5wTcg4JHzXr5inxJvy5vtr4CV6Ytq63fkUifZonb9V4d",
-    "sell_order_count": "9,418",
-    "buy_order_count": "21,274",
-    "lowest_sell_order": "1.98",
-    "highest_buy_order": "1.96",
-    "date_modified": 1764914820906
+    "sell_order_count": "9,516",
+    "buy_order_count": "20,461",
+    "lowest_sell_order": "2.01",
+    "highest_buy_order": "1.92",
+    "date_modified": 1764957998977
   },
   {
     "hash_name": "M4A1-S | Solitude (Factory New)",
     "item_nameid": 176545314,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H-OcDW-vzOFjvvVoRiegqhBzsmyWpYPwJiPTcFIoXpslROVftRK5kYblN7zq5VbX3YtMmH_8ji5MvX1qtu1XWPFxrvLJz1aW589-peo",
-    "sell_order_count": "1,170",
-    "buy_order_count": "4,408",
-    "lowest_sell_order": "40.14",
-    "highest_buy_order": "40.10",
-    "date_modified": 1764914829027
+    "sell_order_count": "1,164",
+    "buy_order_count": "4,386",
+    "lowest_sell_order": "40.38",
+    "highest_buy_order": "40.19",
+    "date_modified": 1764958007217
   },
   {
     "hash_name": "M4A1-S | Solitude (Battle-Scarred)",
     "item_nameid": 176545318,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H-OcDW-vzOFjvvVoRiegqhBzsmyWpYf8ID3ecFRyD5J4EeMDsha4kta2NePr5g2N2I4RyHmqiH5A7yg46-oEVqUs8vbJz1aWWe_f1K8",
-    "sell_order_count": "4,183",
-    "buy_order_count": "11,610",
-    "lowest_sell_order": "1.43",
-    "highest_buy_order": "1.21",
-    "date_modified": 1764914837225
+    "sell_order_count": "4,268",
+    "buy_order_count": "11,704",
+    "lowest_sell_order": "1.27",
+    "highest_buy_order": "1.22",
+    "date_modified": 1764958015645
   },
   {
     "hash_name": "M4A1-S | Liquidation (Well-Worn)",
     "item_nameid": 176550533,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_3HDzaD_v9jueJicCW6hAgutzyRk4D3HibCOl9lV4x4ELNfsBe5kYLjMejitFeMi49Gyyz93SJB7nlttuhRA_Im-6GGjwuTL_Rjtu8gPRgx",
-    "sell_order_count": "305",
-    "buy_order_count": "6,971",
-    "lowest_sell_order": "3.54",
-    "highest_buy_order": "3.47",
-    "date_modified": 1764914845709
+    "sell_order_count": "314",
+    "buy_order_count": "7,018",
+    "lowest_sell_order": "3.40",
+    "highest_buy_order": "3.33",
+    "date_modified": 1764958023814
   },
   {
     "hash_name": "M4A1-S | Liquidation (Minimal Wear)",
     "item_nameid": 176550497,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_3HDzaD_v9jueJicCW6hAgutzyRk4D3HifOOV5kFJtwQLQCshW4kYazNOngsQGMj4tAyXj8iy1N7CxqsulQVqt0-aaFhwrfcepqI4yC_kU",
-    "sell_order_count": "471",
-    "buy_order_count": "8,624",
-    "lowest_sell_order": "10.41",
-    "highest_buy_order": "10.04",
-    "date_modified": 1764914853866
+    "sell_order_count": "464",
+    "buy_order_count": "8,724",
+    "lowest_sell_order": "10.70",
+    "highest_buy_order": "10.19",
+    "date_modified": 1764958032194
   },
   {
     "hash_name": "M4A1-S | Liquidation (Field-Tested)",
     "item_nameid": 176550498,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_3HDzaD_v9jueJicCW6hAgutzyRk4D3HibCOl9lV4x4ELNfsBe5kYLjMejitFeMi49Gyyz93SJB7nlttuhRA_Im-6GGjwuTL_Rjtu8gPRgx",
-    "sell_order_count": "428",
-    "buy_order_count": "10,793",
-    "lowest_sell_order": "4.96",
-    "highest_buy_order": "4.80",
-    "date_modified": 1764914862084
+    "sell_order_count": "423",
+    "buy_order_count": "10,835",
+    "lowest_sell_order": "5.45",
+    "highest_buy_order": "4.87",
+    "date_modified": 1764958040583
   },
   {
     "hash_name": "M4A1-S | Liquidation (Factory New)",
     "item_nameid": 176550524,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_3HDzaD_v9jueJicCW6hAgutzyRk4D3HifOOV5kFJtwQLQCshW4kYazNOngsQGMj4tAyXj8iy1N7CxqsulQVqt0-aaFhwrfcepqI4yC_kU",
-    "sell_order_count": "227",
-    "buy_order_count": "7,724",
-    "lowest_sell_order": "28.30",
-    "highest_buy_order": "27.31",
-    "date_modified": 1764914870568
+    "sell_order_count": "238",
+    "buy_order_count": "7,709",
+    "lowest_sell_order": "27.00",
+    "highest_buy_order": "26.75",
+    "date_modified": 1764958048736
   },
   {
     "hash_name": "M4A1-S | Liquidation (Battle-Scarred)",
     "item_nameid": 176550544,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_3HDzaD_v9jueJicCW6hAgutzyRk4D3HiPCP0BpFMRyQrIItBbtktezZeu24AeKjoJMxX_52HtKuio94exXUfVz-vLf2gDfcepqN2IItO8",
-    "sell_order_count": "182",
-    "buy_order_count": "8,045",
-    "lowest_sell_order": "3.48",
-    "highest_buy_order": "3.45",
-    "date_modified": 1764914878693
+    "sell_order_count": "206",
+    "buy_order_count": "8,146",
+    "lowest_sell_order": "3.45",
+    "highest_buy_order": "3.42",
+    "date_modified": 1764958056880
   },
   {
     "hash_name": "Glock-18 | Mirror Mosaic (Minimal Wear)",
     "item_nameid": 176550496,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1c4_2tY5tgKeKBAXWvzO9std5_HRajkBw1vwKJk4jxNWXFP1UhDsYkRbUMsxC6lNSzNO7lsQaK2dpCyH2rjS5J5i054exUVqQi5OSJ2C0RseXl",
-    "sell_order_count": "236",
-    "buy_order_count": "3,761",
-    "lowest_sell_order": "17.17",
-    "highest_buy_order": "16.82",
-    "date_modified": 1764914903346
+    "sell_order_count": "235",
+    "buy_order_count": "3,768",
+    "lowest_sell_order": "16.96",
+    "highest_buy_order": "16.85",
+    "date_modified": 1764958081782
   },
   {
     "hash_name": "Glock-18 | Mirror Mosaic (Field-Tested)",
     "item_nameid": 176550494,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1c4_2tY5tgKeKBAXWvzO9std5_HRajkBw1vwKIn4vwNCaJagYiWJFzQ-cOuhC6w93lYby34wHb39oXmSz2iyhAvS9usexRUKcm-rqX0V-HCRcuyA",
-    "sell_order_count": "217",
-    "buy_order_count": "4,714",
-    "lowest_sell_order": "9.24",
-    "highest_buy_order": "8.59",
-    "date_modified": 1764914911502
+    "sell_order_count": "222",
+    "buy_order_count": "4,653",
+    "lowest_sell_order": "9.13",
+    "highest_buy_order": "8.56",
+    "date_modified": 1764958090201
   },
   {
     "hash_name": "Glock-18 | Mirror Mosaic (Factory New)",
     "item_nameid": 176550493,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1c4_2tY5tgKeKBAXWvzO9std5_HRajkBw1vwKJk4jxNWXFP1UhDsYkRbUMsxC6lNSzNO7lsQaK2dpCyH2rjS5J5i054exUVqQi5OSJ2C0RseXl",
     "sell_order_count": "83",
-    "buy_order_count": "2,859",
-    "lowest_sell_order": "51.66",
-    "highest_buy_order": "51.11",
-    "date_modified": 1764914919874
+    "buy_order_count": "2,855",
+    "lowest_sell_order": "52.21",
+    "highest_buy_order": "51.13",
+    "date_modified": 1764958098343
   },
   {
     "hash_name": "Glock-18 | Mirror Mosaic (Battle-Scarred)",
     "item_nameid": 176550502,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1c4_2tY5tgKeKBAXWvzO9std5_HRajkBw1vwKNn47vOGXBZlQgDJF1ReRY4xm_k9WyNeri7wTf3tlNyS2sjC1J6nppt-sEAKNz5OSJ2OtfsuS0",
-    "sell_order_count": "194",
-    "buy_order_count": "3,013",
-    "lowest_sell_order": "6.50",
-    "highest_buy_order": "6.30",
-    "date_modified": 1764914928034
+    "sell_order_count": "193",
+    "buy_order_count": "2,947",
+    "lowest_sell_order": "6.32",
+    "highest_buy_order": "6.28",
+    "date_modified": 1764958106763
   },
   {
     "hash_name": "Dual Berettas | Angel Eyes (Well-Worn)",
     "item_nameid": 176550547,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6FhKeSWMWWZw-J_s-BlcCi9khgrjDCAnobsLGXFbFIoXMcmFLYJuxXskdSxZe-35gLZj4NAxC753CsYvCc54L1RA6tw5OSJ2CRHxPv8",
-    "sell_order_count": "186",
-    "buy_order_count": "5,556",
-    "lowest_sell_order": "0.83",
+    "sell_order_count": "189",
+    "buy_order_count": "5,655",
+    "lowest_sell_order": "0.82",
     "highest_buy_order": "0.76",
-    "date_modified": 1764914936194
+    "date_modified": 1764958115134
   },
   {
     "hash_name": "Dual Berettas | Angel Eyes (Minimal Wear)",
     "item_nameid": 176550513,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6FhKeSWMWWZw-J_s-BlcCi9khgrjDGMnYftb32WZlN1W8B5R7UN50brwYDlPrm3s1CPjYoXmCn3hnlJuCpi574EAqA7uvqAcmHsw_M",
-    "sell_order_count": "311",
-    "buy_order_count": "7,920",
-    "lowest_sell_order": "2.12",
+    "sell_order_count": "317",
+    "buy_order_count": "7,970",
+    "lowest_sell_order": "2.07",
     "highest_buy_order": "2.02",
-    "date_modified": 1764914944587
+    "date_modified": 1764958123603
   },
   {
     "hash_name": "Dual Berettas | Angel Eyes (Field-Tested)",
     "item_nameid": 176550523,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6FhKeSWMWWZw-J_s-BlcCi9khgrjDCAnobsLGXFbFIoXMcmFLYJuxXskdSxZe-35gLZj4NAxC753CsYvCc54L1RA6tw5OSJ2CRHxPv8",
-    "sell_order_count": "248",
-    "buy_order_count": "8,400",
-    "lowest_sell_order": "1.05",
+    "sell_order_count": "232",
+    "buy_order_count": "8,503",
+    "lowest_sell_order": "1.11",
     "highest_buy_order": "1.01",
-    "date_modified": 1764914952709
+    "date_modified": 1764958131770
   },
   {
     "hash_name": "Dual Berettas | Angel Eyes (Factory New)",
     "item_nameid": 176550634,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6FhKeSWMWWZw-J_s-BlcCi9khgrjDGMnYftb32WZlN1W8B5R7UN50brwYDlPrm3s1CPjYoXmCn3hnlJuCpi574EAqA7uvqAcmHsw_M",
-    "sell_order_count": "144",
-    "buy_order_count": "5,478",
-    "lowest_sell_order": "5.91",
+    "sell_order_count": "147",
+    "buy_order_count": "5,462",
+    "lowest_sell_order": "5.88",
     "highest_buy_order": "5.86",
-    "date_modified": 1764914960834
+    "date_modified": 1764958139989
   },
   {
     "hash_name": "Dual Berettas | Angel Eyes (Battle-Scarred)",
     "item_nameid": 176550587,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6FhKeSWMWWZw-J_s-BlcCi9khgrjDWAm5ngb3mTbQFxDpRxQe5fsBLrw4K0NOPj5geK399Mm3j92iMcun4_4btQAKU7uvqAk0ie0Hw",
-    "sell_order_count": "231",
-    "buy_order_count": "5,414",
-    "lowest_sell_order": "0.69",
-    "highest_buy_order": "0.63",
-    "date_modified": 1764914969208
+    "sell_order_count": "227",
+    "buy_order_count": "5,442",
+    "lowest_sell_order": "0.62",
+    "highest_buy_order": "0.60",
+    "date_modified": 1764958148133
   },
   {
     "hash_name": "Deluge Music Kit Box",
     "item_nameid": 176545339,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj5_0ruQhb4iqnk-C5O6PeRa6V9M-WfCymSkLh3tuI-TSi2x09-5WjQmN-peXmXOAAnAsQhTeEIsxS9xoHiZO7g-UWA3Dv1K2DB",
-    "sell_order_count": "31",
+    "sell_order_count": "34",
     "buy_order_count": "1,488",
-    "lowest_sell_order": "5.07",
+    "lowest_sell_order": "5.06",
     "highest_buy_order": "4.34",
-    "date_modified": 1764914994110
+    "date_modified": 1764958172630
   },
   {
     "hash_name": "Charm | Splatter Cat",
     "item_nameid": 176553267,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYSRj9kpXh6Wxd7fT2PfI6caLKCzPGlupw57M-Si3ll0915G_cnNf8IHOQaQ9xDcciW6dU5VLj8T4g",
-    "sell_order_count": "4,399",
-    "buy_order_count": "28,093",
-    "lowest_sell_order": "0.16",
+    "sell_order_count": "4,281",
+    "buy_order_count": "27,984",
+    "lowest_sell_order": "0.17",
     "highest_buy_order": "0.15",
-    "date_modified": 1764915010347
+    "date_modified": 1764958189197
   },
   {
     "hash_name": "Charm | Quick Silver",
     "item_nameid": 176553237,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWQiy_gRgj_TyGm9yrIH2Xag4jCsAmR7QIuxK6wdW1Me3isQTeg95BySWqiSoc6ip1o7FVnjjo-Cs",
     "sell_order_count": "51",
-    "buy_order_count": "3,789",
-    "lowest_sell_order": "32.00",
+    "buy_order_count": "3,796",
+    "lowest_sell_order": "32.09",
     "highest_buy_order": "30.22",
-    "date_modified": 1764915018587
+    "date_modified": 1764958197374
   },
   {
     "hash_name": "Charm | Pocket Pop",
     "item_nameid": 176553258,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWXyajhhQkvzjLn9yvcCqTawQmCcNzQeMO5ES7w9fkMOi071PX3owTxHiq3SoY6HtjsPFCD_QPDFMsOw",
-    "sell_order_count": "424",
-    "buy_order_count": "10,684",
-    "lowest_sell_order": "1.29",
-    "highest_buy_order": "1.17",
-    "date_modified": 1764915026707
+    "sell_order_count": "434",
+    "buy_order_count": "10,566",
+    "lowest_sell_order": "1.23",
+    "highest_buy_order": "1.21",
+    "date_modified": 1764958205542
   },
   {
     "hash_name": "Charm | Piñatita",
     "item_nameid": 176553239,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWXyC9lAkm_TvSnImreCrBbgclApcmELVf4xaxkt3kYu7i4gHajIITmy3-jSxN7np1o7FVfeaxZHk",
-    "sell_order_count": "183",
-    "buy_order_count": "5,848",
+    "sell_order_count": "181",
+    "buy_order_count": "5,863",
     "lowest_sell_order": "8.59",
-    "highest_buy_order": "8.57",
-    "date_modified": 1764915034831
+    "highest_buy_order": "8.58",
+    "date_modified": 1764958213906
   },
   {
     "hash_name": "Charm | Magmatude",
     "item_nameid": 176553227,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWQyC_nRIzuziEnsGgJymSZwd0CZpyQu5buxO9wNbmPrzm5wCLg95Fmyz_3y1Nuydq4OZXT-N7raqdv_up",
-    "sell_order_count": "594",
-    "buy_order_count": "10,868",
-    "lowest_sell_order": "1.96",
+    "sell_order_count": "618",
+    "buy_order_count": "10,828",
+    "lowest_sell_order": "1.90",
     "highest_buy_order": "1.79",
-    "date_modified": 1764915042986
+    "date_modified": 1764958222101
   },
   {
     "hash_name": "Charm | Lil' Zen",
     "item_nameid": 176553225,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYWBT_h5fu-mwNuPGvMfZvJqTHVzKWk7l0suNoTnC1xEt24mWHn4mpIiiTbVMnDZcjW6dU5dt_V7mT",
-    "sell_order_count": "2,013",
-    "buy_order_count": "27,539",
+    "sell_order_count": "2,012",
+    "buy_order_count": "27,421",
     "lowest_sell_order": "0.30",
-    "highest_buy_order": "0.29",
-    "date_modified": 1764915051122
+    "highest_buy_order": "0.28",
+    "date_modified": 1764958230252
   },
   {
     "hash_name": "Charm | Lil' Yeti",
     "item_nameid": 176553224,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYWBjll9jkriRZ6_T9bqU-cPWWCjSWlbdw4ec_HSzmlBhy62-DzN2rcnKXa1MkFNIuEhFsBJD7",
-    "sell_order_count": "235",
-    "buy_order_count": "5,908",
-    "lowest_sell_order": "10.21",
-    "highest_buy_order": "9.95",
-    "date_modified": 1764915059279
+    "sell_order_count": "225",
+    "buy_order_count": "5,925",
+    "lowest_sell_order": "10.20",
+    "highest_buy_order": "9.98",
+    "date_modified": 1764958238668
   },
   {
     "hash_name": "Charm | Lil' Vino",
     "item_nameid": 176553301,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWWCC9kBAmuDiX1IyseS6VPVUpD8d3TeIOs0HuwdXuNem2slfc2IJGzin7iClK6y9osO4cEf1yjt0gqQU",
-    "sell_order_count": "4,946",
-    "buy_order_count": "42,583",
+    "sell_order_count": "5,073",
+    "buy_order_count": "42,675",
     "lowest_sell_order": "0.14",
     "highest_buy_order": "0.12",
-    "date_modified": 1764915067621
+    "date_modified": 1764958246828
   },
   {
     "hash_name": "Charm | Lil' Tusk",
     "item_nameid": 176553268,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWXCC_mQQivziVko73NWWWPQZ1XJYjQ7ICshS5wYbvNbzm5Q3Z2d9FnC_9jihJ53pvtuZTAPIs5OSJ2HrqJ1iJ",
-    "sell_order_count": "3,539",
-    "buy_order_count": "35,123",
-    "lowest_sell_order": "0.15",
+    "sell_order_count": "3,602",
+    "buy_order_count": "35,200",
+    "lowest_sell_order": "0.14",
     "highest_buy_order": "0.13",
-    "date_modified": 1764915075731
+    "date_modified": 1764958254978
   },
   {
     "hash_name": "Charm | Lil' Smokey",
     "item_nameid": 176553257,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWTCC0lA9p4T-Gwov_JC6eOlV1CsMiF-YOu0TrxtzvNrnrsVDd34lAz3mth34c6TErvbidFtVFLA",
-    "sell_order_count": "7,454",
-    "buy_order_count": "46,495",
-    "lowest_sell_order": "0.13",
+    "sell_order_count": "7,450",
+    "buy_order_count": "46,622",
+    "lowest_sell_order": "0.14",
     "highest_buy_order": "0.12",
-    "date_modified": 1764915083839
+    "date_modified": 1764958263361
   },
   {
     "hash_name": "Charm | Lil' Serpent",
     "item_nameid": 176553241,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWTSixjA4ioS2AlJu3dHqUOAdyApFwQ-EP4xSww9C2N-ng7wKN2IgRzyT6jXkY7HtvsLwAAr1lpPOCysF-Wg",
-    "sell_order_count": "63",
-    "buy_order_count": "3,276",
-    "lowest_sell_order": "22.11",
-    "highest_buy_order": "20.42",
-    "date_modified": 1764915092195
+    "sell_order_count": "65",
+    "buy_order_count": "3,278",
+    "lowest_sell_order": "22.05",
+    "highest_buy_order": "20.44",
+    "date_modified": 1764958271531
   },
   {
     "hash_name": "Charm | Lil' Prick",
     "item_nameid": 176553251,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWTCiwgQg0_W3Sw96sdi-eaQQpWZd0TLMLsUS9x4HmNriz5VTe2INGyC-s33kd63t1o7FVmySIAJw",
     "sell_order_count": "155",
-    "buy_order_count": "5,946",
-    "lowest_sell_order": "4.06",
-    "highest_buy_order": "4.04",
-    "date_modified": 1764915100351
+    "buy_order_count": "5,932",
+    "lowest_sell_order": "3.93",
+    "highest_buy_order": "3.91",
+    "date_modified": 1764958279662
   },
   {
     "hash_name": "Charm | Lil' No. 2",
     "item_nameid": 176553248,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWXyy9lhQr_W3UydqudnKeaQ90C8dzEbMCtBTrx4fuYe_q4AKPi95DnCuriy9L6id1o7FVafR7t3g",
-    "sell_order_count": "2,060",
-    "buy_order_count": "33,413",
-    "lowest_sell_order": "0.27",
-    "highest_buy_order": "0.25",
-    "date_modified": 1764915108507
+    "sell_order_count": "2,069",
+    "buy_order_count": "33,417",
+    "lowest_sell_order": "0.34",
+    "highest_buy_order": "0.26",
+    "date_modified": 1764958287810
   },
   {
     "hash_name": "Charm | Lil' Moments",
     "item_nameid": 176553284,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWXSynhxIxui6MlYG3cCiTbAZyC5V4QuQOsxOwkoDuM-Pj41Pf2YNFy32oiixJ6yg5sr0FAr1lpPOteIXY7Q",
-    "sell_order_count": "302",
-    "buy_order_count": "10,481",
-    "lowest_sell_order": "2.21",
+    "sell_order_count": "305",
+    "buy_order_count": "10,477",
+    "lowest_sell_order": "2.30",
     "highest_buy_order": "2.20",
-    "date_modified": 1764915116632
+    "date_modified": 1764958295948
   },
   {
     "hash_name": "Charm | Lil' Hero",
     "item_nameid": 176553232,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWXCy9gRwu_WTRmN2gInOVaw5zW5IiELZfsxS-xtTlNOiz5FbZ2I9Eni6oiCgYu3x1o7FViJKqI0o",
-    "sell_order_count": "173",
-    "buy_order_count": "6,254",
-    "lowest_sell_order": "11.00",
-    "highest_buy_order": "10.59",
-    "date_modified": 1764915124987
+    "sell_order_count": "180",
+    "buy_order_count": "6,239",
+    "lowest_sell_order": "10.84",
+    "highest_buy_order": "10.62",
+    "date_modified": 1764958304135
   },
   {
     "hash_name": "Charm | Lil' Happy",
     "item_nameid": 176553236,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWRyijhQRptz-Hm9avI3PEbQElC5Z1E-ENt0a_w4C0ZLu3swPd2YsRnyj9j3lJ6TErvbiJfX6BLQ",
-    "sell_order_count": "212",
-    "buy_order_count": "6,564",
-    "lowest_sell_order": "7.43",
-    "highest_buy_order": "7.08",
-    "date_modified": 1764915133104
+    "sell_order_count": "209",
+    "buy_order_count": "6,585",
+    "lowest_sell_order": "7.55",
+    "highest_buy_order": "7.16",
+    "date_modified": 1764958312465
   },
   {
     "hash_name": "Charm | Lil' Goop",
     "item_nameid": 176553226,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWXCW6mBhp4GvRm9uod3LFbQ4hCMR5ROdctUTrmoayYrjr4lHejd8Xzn393CJNvzErvbjzLkd00g",
-    "sell_order_count": "467",
-    "buy_order_count": "12,115",
-    "lowest_sell_order": "2.08",
+    "sell_order_count": "486",
+    "buy_order_count": "12,119",
+    "lowest_sell_order": "2.07",
     "highest_buy_order": "1.98",
-    "date_modified": 1764915141444
+    "date_modified": 1764958320606
   },
   {
     "hash_name": "Charm | Lil' Ferno",
     "item_nameid": 176553280,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYSBPym5jk9CNJ9rz2PfI4efGVX2GSwusgsudoHX3nxUUm62rSzt2hdi_EOAcoCJQhFLZZrFDmxdLG36W1",
-    "sell_order_count": "80",
-    "buy_order_count": "3,702",
-    "lowest_sell_order": "31.08",
-    "highest_buy_order": "30.52",
-    "date_modified": 1764915149588
+    "sell_order_count": "75",
+    "buy_order_count": "3,701",
+    "lowest_sell_order": "31.07",
+    "highest_buy_order": "30.90",
+    "date_modified": 1764958328786
   },
   {
     "hash_name": "Charm | Lil' Facelift",
     "item_nameid": 176553286,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYQAflm5Wuq3NeuaurMaZvJfWQXz6Tle90s-RoTXm2zRx-52rRm4mrdHPBPFcgCYwwG7DquA5lNA",
-    "sell_order_count": "490",
-    "buy_order_count": "7,410",
-    "lowest_sell_order": "0.48",
+    "sell_order_count": "496",
+    "buy_order_count": "7,397",
+    "lowest_sell_order": "0.49",
     "highest_buy_order": "0.46",
-    "date_modified": 1764915157712
+    "date_modified": 1764958336951
   },
   {
     "hash_name": "Charm | Lil' Eldritch",
     "item_nameid": 176553244,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWTD27gBEvpnPRydz4dX6fbAQjDMAlRLNZ4RS4ktazY7jq5lHbj9hGxH78i3xK5is4_a9cBvLjG2Ew",
-    "sell_order_count": "66",
-    "buy_order_count": "4,841",
-    "lowest_sell_order": "37.99",
-    "highest_buy_order": "34.10",
-    "date_modified": 1764915166068
+    "sell_order_count": "63",
+    "buy_order_count": "4,839",
+    "lowest_sell_order": "37.55",
+    "highest_buy_order": "34.19",
+    "date_modified": 1764958345098
   },
   {
     "hash_name": "Charm | Lil' Eco",
     "item_nameid": 176553260,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYRB7-0MayrHQDt_asOKVuI6DKC2HHlO0us7E7HC-ylx9wt2WAn96hcC3BP1c-SswnTJI0rrM",
-    "sell_order_count": "209",
-    "buy_order_count": "5,965",
+    "sell_order_count": "195",
+    "buy_order_count": "5,970",
     "lowest_sell_order": "6.49",
-    "highest_buy_order": "6.44",
-    "date_modified": 1764915174368
+    "highest_buy_order": "6.40",
+    "date_modified": 1764958353238
   },
   {
     "hash_name": "Charm | Lil' Dumplin'",
     "item_nameid": 176553283,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYRRT8jYPts3AMv6Soa_U1daGRCzTDx-0g57QxFi_glEsktTzTzdeteHKSaldxA5ZuBbldJRClM_o",
-    "sell_order_count": "428",
-    "buy_order_count": "12,470",
-    "lowest_sell_order": "1.03",
-    "highest_buy_order": "0.97",
-    "date_modified": 1764915182531
+    "sell_order_count": "433",
+    "buy_order_count": "12,438",
+    "lowest_sell_order": "0.98",
+    "highest_buy_order": "0.96",
+    "date_modified": 1764958361383
   },
   {
     "hash_name": "Charm | Lil' Curse",
     "item_nameid": 176553266,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWTiewnBgppz6QiJz8b3LBZldyWZpxTeAJukXpkoDnYezisw3Y2ohNyCr83S1P6H0_4OxRUKE7uvqARoy1QzA",
-    "sell_order_count": "5,828",
-    "buy_order_count": "29,066",
+    "sell_order_count": "6,062",
+    "buy_order_count": "28,930",
     "lowest_sell_order": "0.13",
     "highest_buy_order": "0.11",
-    "date_modified": 1764915190665
+    "date_modified": 1764958369582
   },
   {
     "hash_name": "Charm | Lil' Chomper",
     "item_nameid": 176553289,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYQxL8nJfj_DYVuKr_OvA_JqTBVmGVwr516bdoSyuykBwh5WnWm46vdHOUawZ2C8NxTPlK7EfUlR4T0g",
-    "sell_order_count": "550",
-    "buy_order_count": "9,475",
-    "lowest_sell_order": "0.47",
-    "highest_buy_order": "0.46",
-    "date_modified": 1764915198790
+    "sell_order_count": "539",
+    "buy_order_count": "9,458",
+    "lowest_sell_order": "0.50",
+    "highest_buy_order": "0.43",
+    "date_modified": 1764958377961
   },
   {
     "hash_name": "Charm | Lil' Chirp",
     "item_nameid": 176553265,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWQyC_nRwzsDWJk4H-b3qSZg8hCMFzRLUD50W-moXmYenn4Q3bgtlNyi_5jXhLuihq6-dXUaY7uvqAOIvZC3w",
-    "sell_order_count": "152",
-    "buy_order_count": "5,813",
-    "lowest_sell_order": "5.21",
-    "highest_buy_order": "4.90",
-    "date_modified": 1764915206911
+    "sell_order_count": "151",
+    "buy_order_count": "5,822",
+    "lowest_sell_order": "5.01",
+    "highest_buy_order": "5.00",
+    "date_modified": 1764958386334
   },
   {
     "hash_name": "Charm | Lil' Cackle",
     "item_nameid": 176553238,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWQyC_mRIr_WTQnImtIn2WaAUgC5RxFuUL4BK4ktbmP-i07waKiYNNnyuqinhIvCx1o7FVIQay8B4",
-    "sell_order_count": "3,162",
-    "buy_order_count": "32,807",
-    "lowest_sell_order": "0.17",
+    "sell_order_count": "3,192",
+    "buy_order_count": "32,719",
+    "lowest_sell_order": "0.19",
     "highest_buy_order": "0.15",
-    "date_modified": 1764915215055
+    "date_modified": 1764958394799
   },
   {
     "hash_name": "Charm | Lil' Buns",
     "item_nameid": 176553240,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWTCGyhxAlpi-Cn523cCiROFVyXJd4RecM5EO8wdPjMu6z5FCPjY9AySv32HlB7i9s6r5RVL1lpPPNR0m2-A",
-    "sell_order_count": "588",
-    "buy_order_count": "9,593",
+    "sell_order_count": "577",
+    "buy_order_count": "9,522",
     "lowest_sell_order": "0.89",
     "highest_buy_order": "0.88",
-    "date_modified": 1764915223409
+    "date_modified": 1764958403287
   },
   {
     "hash_name": "Charm | Lil' Boo",
     "item_nameid": 176553275,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWQjynkBovvC6R1NatdHuTPQAiCJF1Re8KsBOwlda0M7vm7gOMj4kUnC__jysf5ytv4OccEf1yvJT6JNo",
-    "sell_order_count": "37",
-    "buy_order_count": "5,402",
-    "lowest_sell_order": "95.46",
-    "highest_buy_order": "91.83",
-    "date_modified": 1764915231772
+    "sell_order_count": "32",
+    "buy_order_count": "5,403",
+    "lowest_sell_order": "102.01",
+    "highest_buy_order": "92.13",
+    "date_modified": 1764958411683
   },
   {
     "hash_name": "Charm | Lil' Bloody",
     "item_nameid": 176553231,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYQhH-iZiurSRf6_CoO_JveaaWWGKWkrwn5bQ_HH7hxBlx5jnUzY6heHnCOFUkCowwG7B4Rw9v_g",
     "sell_order_count": "491",
-    "buy_order_count": "13,294",
-    "lowest_sell_order": "1.40",
-    "highest_buy_order": "1.20",
-    "date_modified": 1764915240192
+    "buy_order_count": "13,278",
+    "lowest_sell_order": "1.39",
+    "highest_buy_order": "1.16",
+    "date_modified": 1764958419828
   },
   {
     "hash_name": "Charm | Lil' Baller",
     "item_nameid": 176553255,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWTSignhgzsTyJlsH8eX6QOFcoWJRzTe8NshTpwIXkMeyztQ3eit1GzCWsj39Junw95btXT-N7rTQtXshi",
-    "sell_order_count": "4,213",
-    "buy_order_count": "35,465",
+    "sell_order_count": "4,250",
+    "buy_order_count": "35,335",
     "lowest_sell_order": "0.15",
     "highest_buy_order": "0.13",
-    "date_modified": 1764915248295
+    "date_modified": 1764958427977
   },
   {
     "hash_name": "Charm | Hungry Eyes",
     "item_nameid": 176553254,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYRAT0nYTp6TZe_bz6MPQ1cajHWDOSkr0l57M_Fy3qlEgk5GjTyNb9JCrEb1ByWZB5E7EKrFDmxdkwt6BH",
-    "sell_order_count": "174",
-    "buy_order_count": "6,076",
-    "lowest_sell_order": "5.21",
-    "highest_buy_order": "5.00",
-    "date_modified": 1764915256442
+    "sell_order_count": "172",
+    "buy_order_count": "6,059",
+    "lowest_sell_order": "5.18",
+    "highest_buy_order": "4.80",
+    "date_modified": 1764958436217
   },
   {
     "hash_name": "Charm | Hang Loose",
     "item_nameid": 176553274,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWXDyhkw4yo3ODnIr6dn_CPFMnW5V0ROZc4BfqxIbiNuzq5wDbjN4TnH_9ii9O7So6_a9cBvkNWLss",
     "sell_order_count": "729",
-    "buy_order_count": "6,916",
+    "buy_order_count": "6,888",
     "lowest_sell_order": "0.60",
     "highest_buy_order": "0.59",
-    "date_modified": 1764915264584
+    "date_modified": 1764958444588
   },
   {
     "hash_name": "Charm | Gritty",
     "item_nameid": 176553233,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYVRjjjJnys3UCu6v9bKFsJqPGWmaTlL9w4LQwGXnjlBgl4D_Tn4z4eHPEZlQmCsZuBbld0IAavwI",
-    "sell_order_count": "5,436",
-    "buy_order_count": "37,150",
+    "sell_order_count": "5,594",
+    "buy_order_count": "37,072",
     "lowest_sell_order": "0.14",
     "highest_buy_order": "0.12",
-    "date_modified": 1764915272713
+    "date_modified": 1764958452732
   },
   {
     "hash_name": "Charm | Glitter Bomb",
     "item_nameid": 176553290,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYRQ_4jpDh-ScVuKL_OfA6IqjCVmLBw-106LhtF3iwlxl25jjRnoz8J3yQaFUiW8YjQvlK7EdUhqzlag",
-    "sell_order_count": "68",
-    "buy_order_count": "3,560",
-    "lowest_sell_order": "21.30",
-    "highest_buy_order": "20.36",
-    "date_modified": 1764915280864
+    "sell_order_count": "65",
+    "buy_order_count": "3,562",
+    "lowest_sell_order": "21.64",
+    "highest_buy_order": "20.39",
+    "date_modified": 1764958461136
   },
   {
     "hash_name": "Charm | Fluffy",
     "item_nameid": 176553259,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYVBr9h9i4pSNZt6utafQ1c_HHXDDCkb0ksedoHXHmwU915WvcyYqod3rGPVAgFNIuEgyLFPIo",
-    "sell_order_count": "6,667",
-    "buy_order_count": "31,181",
+    "sell_order_count": "6,651",
+    "buy_order_count": "30,774",
     "lowest_sell_order": "0.14",
     "highest_buy_order": "0.12",
-    "date_modified": 1764915289196
+    "date_modified": 1764958469274
   },
   {
     "hash_name": "Charm | Flash Bomb",
     "item_nameid": 176553276,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYRxHwjZ6urntYuvP4PPBpefHLW2WSwOwi4OU9HX3jlhlw4GvVzI6hcnPEaQIgX4wwG7A37UcOsA",
     "sell_order_count": "247",
-    "buy_order_count": "5,682",
-    "lowest_sell_order": "5.40",
-    "highest_buy_order": "5.26",
-    "date_modified": 1764915297333
+    "buy_order_count": "5,676",
+    "lowest_sell_order": "5.35",
+    "highest_buy_order": "5.15",
+    "date_modified": 1764958477643
   },
   {
     "hash_name": "Charm | Eye of Ball",
     "item_nameid": 176553302,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYTh7yi5r0sycI7av2MPFvdKTAXTeUkb4n5eQ7GHqxw0l2627Xy9_8dXufb1R0DZpuBbldqSZztl4",
-    "sell_order_count": "214",
-    "buy_order_count": "5,657",
-    "lowest_sell_order": "4.97",
-    "highest_buy_order": "4.86",
-    "date_modified": 1764915305443
+    "sell_order_count": "205",
+    "buy_order_count": "5,674",
+    "lowest_sell_order": "5.38",
+    "highest_buy_order": "4.90",
+    "date_modified": 1764958485799
   },
   {
     "hash_name": "Charm | Dr. Brian",
     "item_nameid": 176553245,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYRQ_zjJ_h82xf7qX2a_NpdPHGX2HIxbcgsrNqSXGxwE5yt2SGnI2qdi6SagAlX5AjW6dU5e3pHsJ2",
-    "sell_order_count": "515",
-    "buy_order_count": "9,914",
-    "lowest_sell_order": "0.80",
+    "sell_order_count": "513",
+    "buy_order_count": "9,904",
+    "lowest_sell_order": "0.81",
     "highest_buy_order": "0.73",
-    "date_modified": 1764915313796
+    "date_modified": 1764958493947
   },
   {
     "hash_name": "Charm | Dead Weight",
     "item_nameid": 176553300,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWTSa3jB8mtHPWyN_7J3-Rb1AkD5UjQOMNsxewl9fgY7_g5wDWjYlNnC72hyNK6Sxp_a9cBlxC0gfT",
-    "sell_order_count": "3,390",
-    "buy_order_count": "34,274",
-    "lowest_sell_order": "0.20",
+    "sell_order_count": "3,451",
+    "buy_order_count": "34,203",
+    "lowest_sell_order": "0.18",
     "highest_buy_order": "0.16",
-    "date_modified": 1764915321931
+    "date_modified": 1764958502104
   },
   {
     "hash_name": "Charm | Butane Buddy",
     "item_nameid": 176553295,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYTRT2loLl72xZvvH2PfFuJKLLVj_Ax7d06bg4THi1wElz52iDmN6qJHmRaFVyAsBzW6dU5Yl-Omi4",
-    "sell_order_count": "87",
-    "buy_order_count": "5,478",
-    "lowest_sell_order": "83.53",
-    "highest_buy_order": "78.50",
-    "date_modified": 1764915330063
+    "sell_order_count": "86",
+    "buy_order_count": "5,483",
+    "lowest_sell_order": "83.98",
+    "highest_buy_order": "78.93",
+    "date_modified": 1764958510269
   },
   {
     "hash_name": "Charm | Bomb Tag",
     "item_nameid": 176553277,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYRAv4jZXl7yNP6rysP6FudaCVDzDGl-h36LA-F37glkkmtWzVyNb6eSjGagF0WZRwRLMOrFDmxQ9RjmHC",
-    "sell_order_count": "437",
-    "buy_order_count": "7,977",
-    "lowest_sell_order": "0.76",
-    "highest_buy_order": "0.57",
-    "date_modified": 1764915338404
+    "sell_order_count": "449",
+    "buy_order_count": "7,962",
+    "lowest_sell_order": "0.77",
+    "highest_buy_order": "0.65",
+    "date_modified": 1764958518431
   },
   {
     "hash_name": "Charm | Biomech",
     "item_nameid": 176553278,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYQxT-k5Pj9WxauvSrbPE-JanDV2TIkO1y6bBoGiu1kEojtjvVzdz_ci2fbQEhCsZ2W6dU5Z-pmlUG",
-    "sell_order_count": "4,772",
-    "buy_order_count": "26,369",
-    "lowest_sell_order": "0.13",
+    "sell_order_count": "4,781",
+    "buy_order_count": "25,353",
+    "lowest_sell_order": "0.16",
     "highest_buy_order": "0.12",
-    "date_modified": 1764915346569
+    "date_modified": 1764958526565
   },
   {
     "hash_name": "Charm | Big Brain",
     "item_nameid": 176553294,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYE02hl4eu-HsM7aGvOvU_JKaWVmHExexz4LFsG36yxksj5j7VnIn8cHmVbFcpXIwwG7Cs8sAzYA",
-    "sell_order_count": "704",
-    "buy_order_count": "10,394",
-    "lowest_sell_order": "0.66",
+    "sell_order_count": "678",
+    "buy_order_count": "10,414",
+    "lowest_sell_order": "0.65",
     "highest_buy_order": "0.55",
-    "date_modified": 1764915354742
+    "date_modified": 1764958534930
   },
   {
     "hash_name": "Charm | 8 Ball IGL",
     "item_nameid": 176553273,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWlJ3mY6ls6_4TL7lvYGR_wkpqurXsIvqL9bP06IqORCjfBxL105rVoH3GxwU9y5GvTnt_9d3iTbQIjWYwwG7C_lOK34g",
-    "sell_order_count": "55",
-    "buy_order_count": "3,943",
-    "lowest_sell_order": "48.71",
-    "highest_buy_order": "45.46",
-    "date_modified": 1764915363071
+    "sell_order_count": "51",
+    "buy_order_count": "3,941",
+    "lowest_sell_order": "48.43",
+    "highest_buy_order": "45.48",
+    "date_modified": 1764958543080
   },
   {
     "hash_name": "AWP | Ice Coaled (Well-Worn)",
     "item_nameid": 176550505,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0PutbZtuL_GfC2OvzOtyufRkAXrmlkoj42jRmY6qdiqROgQpWcNwFOELskS4wIflNuuw5VHXid5Dn3ngznQeo-nPzak",
-    "sell_order_count": "235",
-    "buy_order_count": "4,082",
-    "lowest_sell_order": "10.52",
-    "highest_buy_order": "9.91",
-    "date_modified": 1764915371176
+    "sell_order_count": "236",
+    "buy_order_count": "4,060",
+    "lowest_sell_order": "8.00",
+    "highest_buy_order": "10.58",
+    "date_modified": 1764958551236
   },
   {
     "hash_name": "AWP | Ice Coaled (Minimal Wear)",
     "item_nameid": 176550503,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0PutbZtuL_GfC2OvzedxuPUnS3u3wR8lsTzTn4qqcXuXOlQmCpUiQOdYtUG_ltXgP-u04wWL3Y9NnjK-0H2dw8uldQ",
-    "sell_order_count": "263",
-    "buy_order_count": "3,749",
-    "lowest_sell_order": "28.00",
+    "sell_order_count": "253",
+    "buy_order_count": "3,755",
+    "lowest_sell_order": "29.56",
     "highest_buy_order": "26.00",
-    "date_modified": 1764915379288
+    "date_modified": 1764958559628
   },
   {
     "hash_name": "AWP | Ice Coaled (Field-Tested)",
     "item_nameid": 176550499,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0PutbZtuL_GfC2OvzOtyufRkAXrmlkoj42jRmY6qdiqROgQpWcNwFOELskS4wIflNuuw5VHXid5Dn3ngznQeo-nPzak",
-    "sell_order_count": "236",
-    "buy_order_count": "4,514",
-    "lowest_sell_order": "15.43",
-    "highest_buy_order": "13.40",
-    "date_modified": 1764915387468
+    "sell_order_count": "224",
+    "buy_order_count": "4,587",
+    "lowest_sell_order": "15.49",
+    "highest_buy_order": "13.84",
+    "date_modified": 1764958567802
   },
   {
     "hash_name": "AWP | Ice Coaled (Factory New)",
     "item_nameid": 176550610,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0PutbZtuL_GfC2OvzedxuPUnS3u3wR8lsTzTn4qqcXuXOlQmCpUiQOdYtUG_ltXgP-u04wWL3Y9NnjK-0H2dw8uldQ",
-    "sell_order_count": "98",
-    "buy_order_count": "2,623",
-    "lowest_sell_order": "63.44",
-    "highest_buy_order": "60.60",
-    "date_modified": 1764915395683
+    "sell_order_count": "100",
+    "buy_order_count": "2,619",
+    "lowest_sell_order": "63.32",
+    "highest_buy_order": "60.64",
+    "date_modified": 1764958575943
   },
   {
     "hash_name": "AWP | Ice Coaled (Battle-Scarred)",
     "item_nameid": 176550525,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0PutbZtuL_GfC2Ovyet3pvgnTn6xzEh24G7RmN2qI3_Gb1QkD5IkEOMDt0TsltKyY-2wslTfiowXmTK-0H2_BAXxRg",
-    "sell_order_count": "252",
-    "buy_order_count": "4,193",
-    "lowest_sell_order": "10.19",
-    "highest_buy_order": "10.17",
-    "date_modified": 1764915403797
+    "sell_order_count": "275",
+    "buy_order_count": "4,099",
+    "lowest_sell_order": "10.05",
+    "highest_buy_order": "9.98",
+    "date_modified": 1764958584339
   },
   {
     "hash_name": "Austin 2025 Train Souvenir Highlight Package",
