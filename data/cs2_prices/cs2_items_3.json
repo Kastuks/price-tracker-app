@@ -16083,11 +16083,11 @@
     "hash_name": "Sticker | kauez (Holo) | Shanghai 2024",
     "item_nameid": 176475451,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ_JBFSrIWtJAtvnaPKIGwb6o3ukdTZwa6nYrmCxmhQ6ZZw3LmRot-ii1DmrhY9MT-lJoSLMlhplE9KaKE",
-    "sell_order_count": "37",
+    "sell_order_count": "38",
     "buy_order_count": "983",
-    "lowest_sell_order": "0.62",
+    "lowest_sell_order": "0.61",
     "highest_buy_order": "0.54",
-    "date_modified": 1765056852278
+    "date_modified": 1765103395630
   },
   {
     "hash_name": "Sticker | kauez (Holo) | Copenhagen 2024",
@@ -16097,47 +16097,47 @@
     "buy_order_count": "1,282",
     "lowest_sell_order": "0.59",
     "highest_buy_order": "0.47",
-    "date_modified": 1765056860442
+    "date_modified": 1765103404024
   },
   {
     "hash_name": "Sticker | kauez (Gold) | Shanghai 2024",
     "item_nameid": 176475460,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ_JBFSrIWiJAtknaecJW0T7Ym1kNWPk_OsZ72IwTIFusMp07jApYih3VXsqUFkYmugcYOLMlhpv38zyiY",
     "sell_order_count": "5",
-    "buy_order_count": "311",
+    "buy_order_count": "262",
     "lowest_sell_order": "3.01",
     "highest_buy_order": "2.53",
-    "date_modified": 1765056868560
+    "date_modified": 1765103412423
   },
   {
     "hash_name": "Sticker | kauez (Gold) | Copenhagen 2024",
     "item_nameid": 176420969,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ_JBFSrIWiJAtknaSfJ2kbtd7gwIPTx6-iMeqGk21X68Qpj77D9o2ljAXh-BduNTv7cI-LMlhpsHFWFfo",
     "sell_order_count": "23",
-    "buy_order_count": "447",
+    "buy_order_count": "441",
     "lowest_sell_order": "1.66",
     "highest_buy_order": "1.12",
-    "date_modified": 1765056876690
+    "date_modified": 1765103420733
   },
   {
     "hash_name": "Sticker | kauez (Glitter) | Shanghai 2024",
     "item_nameid": 176475404,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ_JBFSrIWiJw50x_baP24Q6tjkzdKPwaHxa-LSkmhU650p3rqY94mi3wWy-xBpMTqid9OSJFMgIQaH8nIEYWk",
-    "sell_order_count": "68",
-    "buy_order_count": "91",
-    "lowest_sell_order": "0.09",
+    "sell_order_count": "67",
+    "buy_order_count": "90",
+    "lowest_sell_order": "0.12",
     "highest_buy_order": "0.07",
-    "date_modified": 1765056884955
+    "date_modified": 1765103428871
   },
   {
     "hash_name": "Sticker | kauez (Glitter) | Copenhagen 2024",
     "item_nameid": 176420827,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ_JBFSrIWiJw50x_baPz4bv4XjkIWNkqamYL_SkzwFvp1zj-rA89Si3FLgqBBlNzr2I4WQJwUgIQaHrVCcD8s",
-    "sell_order_count": "433",
-    "buy_order_count": "361",
-    "lowest_sell_order": "0.05",
-    "highest_buy_order": "0.03",
-    "date_modified": 1765056893058
+    "sell_order_count": "445",
+    "buy_order_count": "362",
+    "lowest_sell_order": "0.06",
+    "highest_buy_order": "0.04",
+    "date_modified": 1765103437003
   },
   {
     "hash_name": "Sticker | Karsa | Boston 2018",
@@ -16147,7 +16147,7 @@
     "buy_order_count": "233",
     "lowest_sell_order": "4.43",
     "highest_buy_order": "3.07",
-    "date_modified": 1765056901183
+    "date_modified": 1765103445335
   },
   {
     "hash_name": "Sticker | Karsa (Gold) | Boston 2018",
@@ -16157,7 +16157,7 @@
     "buy_order_count": "1,191",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "105.59",
-    "date_modified": 1765056909414
+    "date_modified": 1765103453716
   },
   {
     "hash_name": "Sticker | Karsa (Foil) | Boston 2018",
@@ -16167,7 +16167,7 @@
     "buy_order_count": "1,569",
     "lowest_sell_order": "27.64",
     "highest_buy_order": "12.27",
-    "date_modified": 1765056917527
+    "date_modified": 1765103462019
   },
   {
     "hash_name": "Sticker | karrigan | Shanghai 2024",
@@ -16177,77 +16177,77 @@
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765056925873
+    "date_modified": 1765103470364
   },
   {
     "hash_name": "Sticker | karrigan | Rio 2022",
     "item_nameid": 176339605,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRPRUOCF7b_mNzaVGJ_JBZFv72kJUkxgvCcJWtB79nvx4LexPTxau6Bwj1Tu5N0ieyX94jx3gWw80Y9ZmHxOsbLJeh30twH",
-    "sell_order_count": "1,062",
+    "sell_order_count": "1,054",
     "buy_order_count": "42",
     "lowest_sell_order": "0.05",
     "highest_buy_order": "0.04",
-    "date_modified": 1765056933972
+    "date_modified": 1765103478566
   },
   {
     "hash_name": "Sticker | karrigan | Paris 2023",
     "item_nameid": 176371760,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg9WpKisLAZunfaecz4T74TlldnZkaalMO7QxDNUsZNyie-Yp9-hjlftrkpuZD2lJY-LMlhpyU9_kFc",
-    "sell_order_count": "24,930",
+    "sell_order_count": "25,060",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765056942078
+    "date_modified": 1765103486686
   },
   {
     "hash_name": "Sticker | karrigan | MLG Columbus 2016",
     "item_nameid": 144424272,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0DFSua4xJ2DAgs7Ng1QibGkORVp1PLGP21GuI_ukdLaxK6sZL3VkG1VsJV32ruUo96n3AXg-Rc-Nm73Io_Ge1UgIQaHBOdpo1A",
-    "sell_order_count": "16",
+    "sell_order_count": "17",
     "buy_order_count": "92",
     "lowest_sell_order": "4.65",
     "highest_buy_order": "3.98",
-    "date_modified": 1765056950182
+    "date_modified": 1765103494814
   },
   {
     "hash_name": "Sticker | karrigan | London 2018",
     "item_nameid": 176004362,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRRQ0LUSOr_h56LHE59Ijtct6i3IgBh3b3LI2oW6Y_uzNjclaKlYuiAlD9X7JB02bmU9NSt3gDl-EFkNm2nJNCdbEZgNohzfEOK",
-    "sell_order_count": "42",
-    "buy_order_count": "497",
-    "lowest_sell_order": "1.51",
+    "sell_order_count": "43",
+    "buy_order_count": "496",
+    "lowest_sell_order": "1.50",
     "highest_buy_order": "1.05",
-    "date_modified": 1765056958547
+    "date_modified": 1765103502974
   },
   {
     "hash_name": "Sticker | karrigan | Krakow 2017",
     "item_nameid": 175905908,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRWXk3bSPP_h56EHE59Ijtct6i3IgBh3b3JIzhAuoS1kYKOz6CiNu6CwTNVu8d0i-yT99yk3FbgrxA6aj_xItKXbEZgNvQhJWds",
     "sell_order_count": "23",
-    "buy_order_count": "407",
+    "buy_order_count": "403",
     "lowest_sell_order": "4.85",
     "highest_buy_order": "4.08",
-    "date_modified": 1765056966883
+    "date_modified": 1765103511097
   },
   {
     "hash_name": "Sticker | karrigan | Copenhagen 2024",
     "item_nameid": 176420548,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ_JBZFv72kJUkw1febdTwT7o-ywtjfkfSiYeyDwTlX7ZYj0-vFod_ziwfk_EJrY2nzOsbLJVHvNXyF",
-    "sell_order_count": "5,969",
+    "sell_order_count": "5,994",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765056974994
+    "date_modified": 1765103519504
   },
   {
     "hash_name": "Sticker | karrigan | Cologne 2016",
     "item_nameid": 157485925,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0DfQOqohZ-CBRJnLANovbu3OQ5n0v2GITgRud_lx9nTx6CiNePQk20IusAojO2Uot2kigS2_RJpamuhd4LDdxh-Pw88jJgF_w",
-    "sell_order_count": "7",
+    "sell_order_count": "8",
     "buy_order_count": "102",
     "lowest_sell_order": "15.84",
     "highest_buy_order": "7.97",
-    "date_modified": 1765056983130
+    "date_modified": 1765103527718
   },
   {
     "hash_name": "Sticker | karrigan | Cologne 2015",
@@ -16257,177 +16257,177 @@
     "buy_order_count": "93",
     "lowest_sell_order": "4.99",
     "highest_buy_order": "3.88",
-    "date_modified": 1765056991231
+    "date_modified": 1765103535844
   },
   {
     "hash_name": "Sticker | karrigan | Cluj-Napoca 2015",
     "item_nameid": 75982456,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQFnaFbT8goDAWlpLLgVFpLOiKgkugaacKW4XuYi1wNHdw6SjZr_Szj5S7pUj3O-X8N_30Vbh-UFvNWr7IpjVLFHD6Occnw",
-    "sell_order_count": "31",
+    "sell_order_count": "29",
     "buy_order_count": "184",
-    "lowest_sell_order": "4.29",
-    "highest_buy_order": "2.43",
-    "date_modified": 1765056999600
+    "lowest_sell_order": "5.15",
+    "highest_buy_order": "2.57",
+    "date_modified": 1765103543965
   },
   {
     "hash_name": "Sticker | karrigan | Boston 2018",
     "item_nameid": 175945348,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfQ1_ESOr_h56LHE59Ijtct6i3IgBh3b2cc2lH74iww4PYk6OtarnXwjMHv5Ik3riW99ysjQzm_EpkYW-gcIGTbEZgNjiG_az2",
-    "sell_order_count": "23",
+    "sell_order_count": "22",
     "buy_order_count": "242",
     "lowest_sell_order": "3.35",
     "highest_buy_order": "3.33",
-    "date_modified": 1765057007713
+    "date_modified": 1765103552087
   },
   {
     "hash_name": "Sticker | karrigan | Berlin 2019",
     "item_nameid": 176079695,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfSV7cTur_h56KHE59Ijtct6i3IgBh3b2YdDkS6oTlkNGPz_X1Me6DwT8IvpMljrjA8dyi3VHhqUFvNjz2cYedbEZgNgVfu7OP",
-    "sell_order_count": "104",
+    "sell_order_count": "102",
     "buy_order_count": "762",
     "lowest_sell_order": "0.49",
     "highest_buy_order": "0.43",
-    "date_modified": 1765057015828
+    "date_modified": 1765103560218
   },
   {
     "hash_name": "Sticker | karrigan | Austin 2025",
     "item_nameid": 176517073,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ_JBZFv72kJUkzhfWaIm0audnmwNDYwfGjMu7QzzwAsMF1iOzCp4-k3gK3-xVoMjrxOsbLJSJJTf51",
-    "sell_order_count": "888",
-    "buy_order_count": "991",
+    "sell_order_count": "890",
+    "buy_order_count": "990",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1765057023924
+    "date_modified": 1765103568335
   },
   {
     "hash_name": "Sticker | karrigan | Atlanta 2017",
     "item_nameid": 175865692,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWEDRSfCshZ-CBBJnLANovbu3OQ5n0v2GJmkVvd-1xtXcxKCgNb2JwTNVuZcjju3HrIqm3Qew8hBsam_1ItPHdBh-Pw9-MGO2xQ",
     "sell_order_count": "5",
-    "buy_order_count": "383",
+    "buy_order_count": "333",
     "lowest_sell_order": "12.25",
     "highest_buy_order": "7.99",
-    "date_modified": 1765057032038
+    "date_modified": 1765103576656
   },
   {
     "hash_name": "Sticker | karrigan | Antwerp 2022",
     "item_nameid": 176312389,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovbu3OQ5n0v2GKGRHuYSwxdfawaekYuvQwWoEu5B1ibjC9Nj3iQPs_kFlYGygJILGexh-Pw-oTxZPkg",
-    "sell_order_count": "2,931",
+    "sell_order_count": "2,928",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765057040157
+    "date_modified": 1765103584799
   },
   {
     "hash_name": "Sticker | karrigan (Holo, Champion) | Antwerp 2022",
     "item_nameid": 176315237,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovbu3OQ5n0v33eTJO4-O1nIGGh_77PfWHxTgJ7Mck27uX8dih3ACxqUJpZmj1IYOddgA6Yw2GqVK3ybvu1pDuot2Xnj-De1Tz",
-    "sell_order_count": "72",
-    "buy_order_count": "6,363",
-    "lowest_sell_order": "2.11",
-    "highest_buy_order": "2.09",
-    "date_modified": 1765057048266
+    "sell_order_count": "75",
+    "buy_order_count": "6,365",
+    "lowest_sell_order": "1.88",
+    "highest_buy_order": "1.73",
+    "date_modified": 1765103593114
   },
   {
     "hash_name": "Sticker | karrigan (Holo) | Shanghai 2024",
     "item_nameid": 176475294,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ_JBZFv72kJTho3P_HPztEv4ywwYXclvT3MezUkm4JvsEj0riS8NSi31a1qURpZDj3IYeXcVAgIQaH3_xtEA8",
     "sell_order_count": "69",
-    "buy_order_count": "909",
-    "lowest_sell_order": "1.47",
-    "highest_buy_order": "1.39",
-    "date_modified": 1765057056375
+    "buy_order_count": "893",
+    "lowest_sell_order": "1.49",
+    "highest_buy_order": "1.40",
+    "date_modified": 1765103601234
   },
   {
     "hash_name": "Sticker | karrigan (Holo) | Rio 2022",
     "item_nameid": 176339868,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRPRUOCF7b_mNzaVGJ_JBZFv72kJTho3P_HP2wVv9-zxYLYlK_xZeyCxjgB6sYo0riUod_z3gCx_hc_MjzyIYOTegYgIQaHQx7Ni4g",
-    "sell_order_count": "56",
-    "buy_order_count": "4,386",
+    "sell_order_count": "54",
+    "buy_order_count": "4,385",
     "lowest_sell_order": "1.96",
-    "highest_buy_order": "1.80",
-    "date_modified": 1765057064548
+    "highest_buy_order": "1.79",
+    "date_modified": 1765103609472
   },
   {
     "hash_name": "Sticker | karrigan (Holo) | Paris 2023",
     "item_nameid": 176371959,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg9WpKisLAZu7PvHfTIMuY3hxoTelq72Mu2BxjkHvsZwjrnApt3xjgOwrkdlYDunI4HEJwJvZEaQpAatRRu93Q",
-    "sell_order_count": "53",
-    "buy_order_count": "2,471",
-    "lowest_sell_order": "2.85",
+    "sell_order_count": "57",
+    "buy_order_count": "2,463",
+    "lowest_sell_order": "2.82",
     "highest_buy_order": "1.72",
-    "date_modified": 1765057072657
+    "date_modified": 1765103617595
   },
   {
     "hash_name": "Sticker | karrigan (Holo) | Copenhagen 2024",
     "item_nameid": 176420852,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ_JBZFv72kJTho3P_HP2gSuIrjxIXdwq6sNuiAwmlUvZMm3LrFrd7321XsrkZlNj37LdLAIQ4gIQaHrXH9FZY",
-    "sell_order_count": "36",
-    "buy_order_count": "1,804",
-    "lowest_sell_order": "2.90",
-    "highest_buy_order": "2.20",
-    "date_modified": 1765057080922
+    "sell_order_count": "43",
+    "buy_order_count": "1,807",
+    "lowest_sell_order": "2.79",
+    "highest_buy_order": "2.21",
+    "date_modified": 1765103625900
   },
   {
     "hash_name": "Sticker | karrigan (Holo) | Austin 2025",
     "item_nameid": 176517262,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ_JBZFv72kJTho3P_HPz4a7Y_gzdLclq7wMOvQx28D7cYmj7GW8d6j31flr0Q_NTugcdWXIwMgIQaH9Sfujns",
-    "sell_order_count": "49",
-    "buy_order_count": "404",
+    "sell_order_count": "50",
+    "buy_order_count": "403",
     "lowest_sell_order": "3.19",
     "highest_buy_order": "2.92",
-    "date_modified": 1765057089014
+    "date_modified": 1765103634014
   },
   {
     "hash_name": "Sticker | karrigan (Holo) | Antwerp 2022",
     "item_nameid": 176312500,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovbu3OQ5n0v33eTJO45LuldWKwvShauiDlW8Dvccg3ryX8NWhigXh_BFvYGugcNOcJAE8ZwvZ5BHgloL_QUYe",
     "sell_order_count": "12",
-    "buy_order_count": "2,988",
+    "buy_order_count": "2,985",
     "lowest_sell_order": "9.20",
     "highest_buy_order": "7.20",
-    "date_modified": 1765057097113
+    "date_modified": 1765103642151
   },
   {
     "hash_name": "Sticker | karrigan (Gold, Champion) | Antwerp 2022",
     "item_nameid": 176315243,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovbu3OQ5n0v33djJO6OO1nIGGh_77PfXTw28FsJwo2bCU9IqtjgCx-kU5YGCid9XDcFM_Z1-GqFK2lbzqhpTpot2XnivVpbLQ",
     "sell_order_count": "16",
-    "buy_order_count": "2,721",
+    "buy_order_count": "2,727",
     "lowest_sell_order": "12.26",
-    "highest_buy_order": "10.35",
-    "date_modified": 1765057105415
+    "highest_buy_order": "10.43",
+    "date_modified": 1765103650478
   },
   {
     "hash_name": "Sticker | karrigan (Gold) | Shanghai 2024",
     "item_nameid": 176475096,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ_JBZFv72kJThn3P_MPzlGvN7uxdKPz_WiNrqFxTwCuJEijr-Xo92j0AXk80o6a2vxIdeRd1AgIQaHMjjN22o",
     "sell_order_count": "12",
-    "buy_order_count": "398",
+    "buy_order_count": "399",
     "lowest_sell_order": "11.00",
-    "highest_buy_order": "9.46",
-    "date_modified": 1765057113531
+    "highest_buy_order": "9.54",
+    "date_modified": 1765103658610
   },
   {
     "hash_name": "Sticker | karrigan (Gold) | Rio 2022",
     "item_nameid": 176339628,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRPRUOCF7b_mNzaVGJ_JBZFv72kJThn3P_MP21GtYjvkNTZkvWtYuODzztUu8B1j7GXoNSg2A2xqEpvNjv1IoTGcAMgIQaH-p19N8o",
-    "sell_order_count": "13",
+    "sell_order_count": "12",
     "buy_order_count": "1,912",
-    "lowest_sell_order": "11.15",
+    "lowest_sell_order": "11.40",
     "highest_buy_order": "9.51",
-    "date_modified": 1765057121619
+    "date_modified": 1765103666914
   },
   {
     "hash_name": "Sticker | karrigan (Gold) | Paris 2023",
     "item_nameid": 176372193,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg9WpKisLAZu7PTHfTkMuI_mxdXalfOlN-OFzzIGu513i7qW99-lig3gqEQ5MDzzcdWWJwA_NEaQpAaZU8daGw",
-    "sell_order_count": "9",
-    "buy_order_count": "873",
-    "lowest_sell_order": "10.12",
+    "sell_order_count": "10",
+    "buy_order_count": "870",
+    "lowest_sell_order": "10.01",
     "highest_buy_order": "7.19",
-    "date_modified": 1765057129910
+    "date_modified": 1765103675040
   },
   {
     "hash_name": "Sticker | karrigan (Gold) | London 2018",
@@ -16437,7 +16437,7 @@
     "buy_order_count": "89",
     "lowest_sell_order": "246.80",
     "highest_buy_order": "117.53",
-    "date_modified": 1765057138011
+    "date_modified": 1765103683154
   },
   {
     "hash_name": "Sticker | karrigan (Gold) | Krakow 2017",
@@ -16447,17 +16447,17 @@
     "buy_order_count": "53",
     "lowest_sell_order": "506.47",
     "highest_buy_order": "216.32",
-    "date_modified": 1765057146110
+    "date_modified": 1765103691304
   },
   {
     "hash_name": "Sticker | karrigan (Gold) | Copenhagen 2024",
     "item_nameid": 176420914,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ_JBZFv72kJThn3P_MP20TuI3jx9HZz6L1a-PSxGoGvZF33byZ8Num31LjrRY9NW37JYaQdQIgIQaH5KSAvJg",
-    "sell_order_count": "14",
+    "sell_order_count": "15",
     "buy_order_count": "1,451",
-    "lowest_sell_order": "9.46",
+    "lowest_sell_order": "9.00",
     "highest_buy_order": "8.10",
-    "date_modified": 1765057154442
+    "date_modified": 1765103699436
   },
   {
     "hash_name": "Sticker | karrigan (Gold) | Boston 2018",
@@ -16467,7 +16467,7 @@
     "buy_order_count": "49",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "215.54",
-    "date_modified": 1765057162773
+    "date_modified": 1765103707777
   },
   {
     "hash_name": "Sticker | karrigan (Gold) | Berlin 2019",
@@ -16477,87 +16477,87 @@
     "buy_order_count": "66",
     "lowest_sell_order": "49.57",
     "highest_buy_order": "25.54",
-    "date_modified": 1765057170868
+    "date_modified": 1765103715904
   },
   {
     "hash_name": "Sticker | karrigan (Gold) | Austin 2025",
     "item_nameid": 176517242,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ_JBZFv72kJThn3P_MP2tBtYzultHYkaWgY-6EwT4F7pZ32rCX9t7x2wSx_Uo6Mj_xLdSccgcgIQaHFMPHp-s",
     "sell_order_count": "14",
-    "buy_order_count": "204",
+    "buy_order_count": "205",
     "lowest_sell_order": "13.34",
-    "highest_buy_order": "11.87",
-    "date_modified": 1765057179236
+    "highest_buy_order": "11.89",
+    "date_modified": 1765103724024
   },
   {
     "hash_name": "Sticker | karrigan (Gold) | Antwerp 2022",
     "item_nameid": 176312520,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovbu3OQ5n0v33djJO6JKzx9TelqDwZOiExmhSsJwk0-_Eo9SkjgexqBY6Y271LdKSewZqM1nT5BHgli-Tqhdz",
     "sell_order_count": "11",
-    "buy_order_count": "807",
+    "buy_order_count": "810",
     "lowest_sell_order": "30.85",
     "highest_buy_order": "27.03",
-    "date_modified": 1765057187344
+    "date_modified": 1765103732144
   },
   {
     "hash_name": "Sticker | karrigan (Glitter, Champion) | Antwerp 2022",
     "item_nameid": 176315236,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovbu3OQ5n0v33djFL-Mizhr-In_b5I7LemCUJ65wkjOuSptrzjlXg-0M5ZGqiLYOXdlVtMA3V8wPvyezsg5O-uZuY1zI97UloXVED",
-    "sell_order_count": "820",
-    "buy_order_count": "765",
+    "sell_order_count": "791",
+    "buy_order_count": "754",
     "lowest_sell_order": "0.10",
     "highest_buy_order": "0.09",
-    "date_modified": 1765057195442
+    "date_modified": 1765103740453
   },
   {
     "hash_name": "Sticker | karrigan (Glitter) | Shanghai 2024",
     "item_nameid": 176474949,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ_JBZFv72kJThn3_rcZThQoovjxoLSwvL2Z7qCwWoJv8QliLHF99-t2Fbm_BI_ZziiLY6RdAA9aVnOug_pWgJEBGA",
-    "sell_order_count": "1,820",
-    "buy_order_count": "704",
+    "sell_order_count": "1,823",
+    "buy_order_count": "700",
     "lowest_sell_order": "0.07",
     "highest_buy_order": "0.06",
-    "date_modified": 1765057203558
+    "date_modified": 1765103748589
   },
   {
     "hash_name": "Sticker | karrigan (Glitter) | Rio 2022",
     "item_nameid": 176339767,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRPRUOCF7b_mNzaVGJ_JBZFv72kJThn3_rcZThQotrnw4TTwvSiZ-PSwTgFuZZ13O2RpYqm3gbsqURpNm2gcdSQJg43YAnOug_pdmS71qo",
-    "sell_order_count": "181",
-    "buy_order_count": "1,420",
-    "lowest_sell_order": "0.17",
+    "sell_order_count": "177",
+    "buy_order_count": "1,421",
+    "lowest_sell_order": "0.18",
     "highest_buy_order": "0.16",
-    "date_modified": 1765057211669
+    "date_modified": 1765103756707
   },
   {
     "hash_name": "Sticker | karrigan (Glitter) | Paris 2023",
     "item_nameid": 176371857,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg9WpKisLAZu7PTEeClW6c74ldeNlqGiYLqGlG5UuJMkjLvAo42i0Ve3qEZsN2n0LYWTJlI6NVzV-U_-n7kcj8zSZA",
-    "sell_order_count": "726",
-    "buy_order_count": "51",
+    "sell_order_count": "732",
+    "buy_order_count": "50",
     "lowest_sell_order": "0.11",
     "highest_buy_order": "0.03",
-    "date_modified": 1765057219787
+    "date_modified": 1765103765079
   },
   {
     "hash_name": "Sticker | karrigan (Glitter) | Copenhagen 2024",
     "item_nameid": 176420534,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ_JBZFv72kJThn3_rcZThQoovux4OKz_TwNr3UxmkHusQmjLCY892gjgTh_0c6YjunLYWWelc_Ml3Oug_pz7nkCT8",
-    "sell_order_count": "154",
-    "buy_order_count": "2,550",
-    "lowest_sell_order": "0.21",
+    "sell_order_count": "148",
+    "buy_order_count": "2,557",
+    "lowest_sell_order": "0.23",
     "highest_buy_order": "0.18",
-    "date_modified": 1765057227898
+    "date_modified": 1765103773199
   },
   {
     "hash_name": "Sticker | karrigan (Glitter) | Antwerp 2022",
     "item_nameid": 176312091,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovbu3OQ5n0v33djFL-Mizhs7ZxKatNb-Jx28J6cRy2O_A8dqh3gK1_BJtZTvxLIOXI1JsNFnR-ADo366x0ue1qwW8",
     "sell_order_count": "106",
-    "buy_order_count": "1,843",
+    "buy_order_count": "1,842",
     "lowest_sell_order": "0.14",
     "highest_buy_order": "0.12",
-    "date_modified": 1765057236894
+    "date_modified": 1765103781349
   },
   {
     "hash_name": "Sticker | karrigan (Foil) | MLG Columbus 2016",
@@ -16567,7 +16567,7 @@
     "buy_order_count": "31",
     "lowest_sell_order": "28.66",
     "highest_buy_order": "22.91",
-    "date_modified": 1765057246263
+    "date_modified": 1765103789475
   },
   {
     "hash_name": "Sticker | karrigan (Foil) | London 2018",
@@ -16577,7 +16577,7 @@
     "buy_order_count": "526",
     "lowest_sell_order": "13.84",
     "highest_buy_order": "7.38",
-    "date_modified": 1765057254387
+    "date_modified": 1765103797606
   },
   {
     "hash_name": "Sticker | karrigan (Foil) | Krakow 2017",
@@ -16587,7 +16587,7 @@
     "buy_order_count": "47",
     "lowest_sell_order": "36.38",
     "highest_buy_order": "22.61",
-    "date_modified": 1765057262488
+    "date_modified": 1765103805740
   },
   {
     "hash_name": "Sticker | karrigan (Foil) | Cologne 2016",
@@ -16597,7 +16597,7 @@
     "buy_order_count": "95",
     "lowest_sell_order": "54.93",
     "highest_buy_order": "36.01",
-    "date_modified": 1765057270597
+    "date_modified": 1765103814052
   },
   {
     "hash_name": "Sticker | karrigan (Foil) | Cologne 2015",
@@ -16607,7 +16607,7 @@
     "buy_order_count": "49",
     "lowest_sell_order": "25.64",
     "highest_buy_order": "20.16",
-    "date_modified": 1765057278759
+    "date_modified": 1765103822177
   },
   {
     "hash_name": "Sticker | karrigan (Foil) | Cluj-Napoca 2015",
@@ -16617,7 +16617,7 @@
     "buy_order_count": "39",
     "lowest_sell_order": "26.63",
     "highest_buy_order": "16.23",
-    "date_modified": 1765057286863
+    "date_modified": 1765103830307
   },
   {
     "hash_name": "Sticker | karrigan (Foil) | Boston 2018",
@@ -16627,7 +16627,7 @@
     "buy_order_count": "262",
     "lowest_sell_order": "21.47",
     "highest_buy_order": "14.63",
-    "date_modified": 1765057294971
+    "date_modified": 1765103838427
   },
   {
     "hash_name": "Sticker | karrigan (Foil) | Berlin 2019",
@@ -16637,17 +16637,17 @@
     "buy_order_count": "647",
     "lowest_sell_order": "2.31",
     "highest_buy_order": "2.16",
-    "date_modified": 1765057303105
+    "date_modified": 1765103846568
   },
   {
     "hash_name": "Sticker | karrigan (Foil) | Austin 2025",
     "item_nameid": 176516703,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ_JBZFv72kJThm3PrEPztDuI3mldjSxvalZ7mElWoBuZwi27mQ9tys2Ae1-ktqYDr1JNCWdVMgIQaHnQf1UB8",
-    "sell_order_count": "86",
-    "buy_order_count": "998",
+    "sell_order_count": "85",
+    "buy_order_count": "985",
     "lowest_sell_order": "0.31",
     "highest_buy_order": "0.30",
-    "date_modified": 1765057311212
+    "date_modified": 1765103854902
   },
   {
     "hash_name": "Sticker | karrigan (Foil) | Atlanta 2017",
@@ -16657,27 +16657,27 @@
     "buy_order_count": "61",
     "lowest_sell_order": "165.37",
     "highest_buy_order": "59.36",
-    "date_modified": 1765057319307
+    "date_modified": 1765103863243
   },
   {
     "hash_name": "Sticker | karrigan (Champion) | Antwerp 2022",
     "item_nameid": 176315225,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovbu3OQ5n0v33cjVD4cy_m47Fz6OmYuPQwj0BvJEgiLCX9tv0i1WyqUpkZTj1LYaUJAZtZVzU-lPtwvCv28HeNFqgug",
-    "sell_order_count": "20,924",
+    "sell_order_count": "20,936",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765057327708
+    "date_modified": 1765103871356
   },
   {
     "hash_name": "Sticker | kabal | Rio 2022",
     "item_nameid": 176339665,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRPRUOCF7b_mNzaVGJ_JAZWuvT3egUz0vCYdG5AvIngzNKNx_HwZ7nVwGhUuZV03rmT8Nmj0QzmqBZufSmtczc7rbmP",
-    "sell_order_count": "967",
+    "sell_order_count": "976",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765057335828
+    "date_modified": 1765103879482
   },
   {
     "hash_name": "Sticker | kabal | Antwerp 2022",
@@ -16687,7 +16687,7 @@
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765057343976
+    "date_modified": 1765103887814
   },
   {
     "hash_name": "Sticker | kabal (Holo) | Rio 2022",
@@ -16697,57 +16697,57 @@
     "buy_order_count": "6,213",
     "lowest_sell_order": "1.33",
     "highest_buy_order": "1.06",
-    "date_modified": 1765057352272
+    "date_modified": 1765103896118
   },
   {
     "hash_name": "Sticker | kabal (Holo) | Antwerp 2022",
     "item_nameid": 176312191,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovbunKgtf2_zEfnMTvdjul9bckfKjY-OFzmkC7pR32OqTp9rxjQXn-0A4YmH3dteSewNqfxiOrds2GSeq",
     "sell_order_count": "62",
-    "buy_order_count": "2,319",
-    "lowest_sell_order": "0.51",
+    "buy_order_count": "2,318",
+    "lowest_sell_order": "0.52",
     "highest_buy_order": "0.43",
-    "date_modified": 1765057360455
+    "date_modified": 1765103904285
   },
   {
     "hash_name": "Sticker | kabal (Gold) | Rio 2022",
     "item_nameid": 176339864,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRPRUOCF7b_mNzaVGJ_JAZWuoWiJAtknfDNc2gau4vvw9DclqWka-uClDwJu5wm3brHrNql2FDm_UdoZzz3JISLMlhpa2z8uoc",
-    "sell_order_count": "4",
+    "sell_order_count": "3",
     "buy_order_count": "1,357",
-    "lowest_sell_order": "10.16",
+    "lowest_sell_order": "15.14",
     "highest_buy_order": "7.49",
-    "date_modified": 1765057368545
+    "date_modified": 1765103912413
   },
   {
     "hash_name": "Sticker | kabal (Gold) | Antwerp 2022",
     "item_nameid": 176312504,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovbunKgtf1PzEdXMbud_kw9WOz6Wna7iAxjJS7sZ13r2U8d2gigK1-kQ5Z23xcNLGIAM_fxiOrei6POuY",
-    "sell_order_count": "25",
-    "buy_order_count": "574",
+    "sell_order_count": "26",
+    "buy_order_count": "577",
     "lowest_sell_order": "2.67",
-    "highest_buy_order": "1.35",
-    "date_modified": 1765057376678
+    "highest_buy_order": "1.38",
+    "date_modified": 1765103920541
   },
   {
     "hash_name": "Sticker | kabal (Glitter) | Rio 2022",
     "item_nameid": 176339784,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRPRUOCF7b_mNzaVGJ_JAZWuoWiJw50x_baPzlA6N3gl4bZw_GsNeqJlTtSsZ0k076Y8NSljQTmr0tkNmD0d4eRJlAgIQaHSQ5ePRE",
-    "sell_order_count": "195",
+    "sell_order_count": "196",
     "buy_order_count": "274",
-    "lowest_sell_order": "0.17",
+    "lowest_sell_order": "0.16",
     "highest_buy_order": "0.13",
-    "date_modified": 1765057384884
+    "date_modified": 1765103928658
   },
   {
     "hash_name": "Sticker | kabal (Glitter) | Antwerp 2022",
     "item_nameid": 176312359,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovbunKgtf1P_BZSlH_pK1l9mNlK_yMOvTwG4DvcYn0rDFrY33jgG2-RJkYzrwIdKddwJrYljZ5BHglkqdPU2K",
-    "sell_order_count": "309",
-    "buy_order_count": "300",
+    "sell_order_count": "308",
+    "buy_order_count": "298",
     "lowest_sell_order": "0.05",
     "highest_buy_order": "0.03",
-    "date_modified": 1765057393019
+    "date_modified": 1765103936785
   },
   {
     "hash_name": "Sticker | k1to | Rio 2022",
@@ -16757,17 +16757,17 @@
     "buy_order_count": "40",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1765057401286
+    "date_modified": 1765103945103
   },
   {
     "hash_name": "Sticker | k1to (Holo) | Rio 2022",
     "item_nameid": 176339997,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRPRUOCF7b_mNzaVGJ_dBBYibKqJwgugvaYJG8VtIrlkdnclPKsMLiDkG4A6pEk2r-SpY2h2QS1_hZtYTjwLJjVLFEz-wX1Vg",
     "sell_order_count": "26",
-    "buy_order_count": "3,573",
-    "lowest_sell_order": "0.71",
-    "highest_buy_order": "0.66",
-    "date_modified": 1765057409399
+    "buy_order_count": "3,571",
+    "lowest_sell_order": "0.69",
+    "highest_buy_order": "0.65",
+    "date_modified": 1765103953424
   },
   {
     "hash_name": "Sticker | k1to (Gold) | Rio 2022",
@@ -16777,7 +16777,7 @@
     "buy_order_count": "292",
     "lowest_sell_order": "13.91",
     "highest_buy_order": "5.40",
-    "date_modified": 1765057417532
+    "date_modified": 1765103961547
   },
   {
     "hash_name": "Sticker | k1to (Glitter) | Rio 2022",
@@ -16787,17 +16787,17 @@
     "buy_order_count": "194",
     "lowest_sell_order": "0.09",
     "highest_buy_order": "0.06",
-    "date_modified": 1765057425874
+    "date_modified": 1765103969679
   },
   {
     "hash_name": "Sticker | k0nfig | Paris 2023",
     "item_nameid": 176371936,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg8HuLysLEljgvedJWsRv4rgwoPZzqGiZenQkG8FupV03r6Uo9SligDtr0FuYjrzOsbLJcMjKY1U",
-    "sell_order_count": "20,479",
+    "sell_order_count": "20,533",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765057433995
+    "date_modified": 1765103977812
   },
   {
     "hash_name": "Sticker | k0nfig | London 2018",
@@ -16807,17 +16807,17 @@
     "buy_order_count": "551",
     "lowest_sell_order": "0.64",
     "highest_buy_order": "0.51",
-    "date_modified": 1765057442196
+    "date_modified": 1765103985937
   },
   {
     "hash_name": "Sticker | k0nfig | Krakow 2017",
     "item_nameid": 175905856,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRWXk3bSPP_h56EHE59Ijtc5rSjIgAugqGRImQRuo3mkIHZw6CgYunQxWkBuJBzju-Xpt6s3Qbj_kdsZT2mJJjVLFFGW_Hpqg",
-    "sell_order_count": "29",
+    "sell_order_count": "25",
     "buy_order_count": "239",
-    "lowest_sell_order": "2.27",
+    "lowest_sell_order": "2.55",
     "highest_buy_order": "2.04",
-    "date_modified": 1765057450560
+    "date_modified": 1765103994164
   },
   {
     "hash_name": "Sticker | k0nfig | Cologne 2016",
@@ -16827,17 +16827,17 @@
     "buy_order_count": "121",
     "lowest_sell_order": "13.65",
     "highest_buy_order": "8.92",
-    "date_modified": 1765057458656
+    "date_modified": 1765104002337
   },
   {
     "hash_name": "Sticker | k0nfig | Boston 2018",
     "item_nameid": 175945115,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfQ1_ESOr_h56LHE59Ijtc5rSjIgAu1_fLd2oa6YrvzdXTwq7wY7iJlz0IsMMnjLuT842l3VW380VoY2H1JZjVLFFvyp5j6A",
     "sell_order_count": "23",
-    "buy_order_count": "232",
+    "buy_order_count": "231",
     "lowest_sell_order": "1.52",
     "highest_buy_order": "1.26",
-    "date_modified": 1765057466762
+    "date_modified": 1765104010770
   },
   {
     "hash_name": "Sticker | k0nfig | Atlanta 2017",
@@ -16847,47 +16847,47 @@
     "buy_order_count": "63",
     "lowest_sell_order": "5.00",
     "highest_buy_order": "2.99",
-    "date_modified": 1765057475060
+    "date_modified": 1765104018917
   },
   {
     "hash_name": "Sticker | k0nfig | Antwerp 2022",
     "item_nameid": 176312129,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANoveqrLQ5nnauddWxB74mzxIKJwaH2MeuDwTxTusFyiLuXrdTw2Q3m_RFrYDunJYWLMlhpVFUxJPw",
-    "sell_order_count": "9,504",
+    "sell_order_count": "9,511",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765057483162
+    "date_modified": 1765104027116
   },
   {
     "hash_name": "Sticker | k0nfig (Holo) | Paris 2023",
     "item_nameid": 176371794,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg8HuLysLDho3P_HP2QauovkkoTYk6HyZbqBzj5XvJNwibzDp9ij3QLg-UBoZGvwI9DHJgIgIQaHlqxmYRU",
-    "sell_order_count": "92",
-    "buy_order_count": "3,371",
-    "lowest_sell_order": "0.34",
+    "sell_order_count": "90",
+    "buy_order_count": "3,370",
+    "lowest_sell_order": "0.35",
     "highest_buy_order": "0.32",
-    "date_modified": 1765057491494
+    "date_modified": 1765104035270
   },
   {
     "hash_name": "Sticker | k0nfig (Holo) | Antwerp 2022",
     "item_nameid": 176312278,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANoveqrLQ5n7PvHfTIMv4rkzNLYz6b2Ye6EwW4Fu8Yhj7rCoY-j0VK3rRVoY2vwLYTHIQFtY0aQpAb2gySXKQ",
     "sell_order_count": "58",
-    "buy_order_count": "3,056",
+    "buy_order_count": "3,053",
     "lowest_sell_order": "0.70",
     "highest_buy_order": "0.54",
-    "date_modified": 1765057499772
+    "date_modified": 1765104043393
   },
   {
     "hash_name": "Sticker | k0nfig (Gold) | Paris 2023",
     "item_nameid": 176372127,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg8HuLysLDhn3P_MP2tB7djmwtnalvKjZ7mBz24JsJMm2LGZp9-s2Qax_0o9NTv3JI-XegcgIQaHeJJaCAs",
-    "sell_order_count": "41",
+    "sell_order_count": "39",
     "buy_order_count": "543",
     "lowest_sell_order": "1.21",
     "highest_buy_order": "0.92",
-    "date_modified": 1765057507867
+    "date_modified": 1765104051504
   },
   {
     "hash_name": "Sticker | k0nfig (Gold) | London 2018",
@@ -16897,7 +16897,7 @@
     "buy_order_count": "91",
     "lowest_sell_order": "256.15",
     "highest_buy_order": "52.52",
-    "date_modified": 1765057515966
+    "date_modified": 1765104059644
   },
   {
     "hash_name": "Sticker | k0nfig (Gold) | Krakow 2017",
@@ -16907,7 +16907,7 @@
     "buy_order_count": "24",
     "lowest_sell_order": "323.24",
     "highest_buy_order": "233.00",
-    "date_modified": 1765057524300
+    "date_modified": 1765104067764
   },
   {
     "hash_name": "Sticker | k0nfig (Gold) | Boston 2018",
@@ -16917,7 +16917,7 @@
     "buy_order_count": "98",
     "lowest_sell_order": "164.87",
     "highest_buy_order": "85.84",
-    "date_modified": 1765057532410
+    "date_modified": 1765104075949
   },
   {
     "hash_name": "Sticker | k0nfig (Gold) | Antwerp 2022",
@@ -16927,27 +16927,27 @@
     "buy_order_count": "661",
     "lowest_sell_order": "3.03",
     "highest_buy_order": "1.96",
-    "date_modified": 1765057540724
+    "date_modified": 1765104084078
   },
   {
     "hash_name": "Sticker | k0nfig (Glitter) | Paris 2023",
     "item_nameid": 176372054,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg8HuLysLDhn3_rcZThQotjgwNDczq-ha-7Sx24Eup0kieqRoI_2jADl_hVsZG37dY_Gdwc8NAnOug_p8Q1k2HY",
-    "sell_order_count": "2,437",
+    "sell_order_count": "2,443",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765057549065
+    "date_modified": 1765104092210
   },
   {
     "hash_name": "Sticker | k0nfig (Glitter) | Antwerp 2022",
     "item_nameid": 176312397,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANoveqrLQ5n7PTEeClW6c74woLYw6amYe3QwmpXuMcg2r2QoY2g3ADj_hY_MGj1I9OVI1c9Z1HYq0_-n7k8qe5p3w",
-    "sell_order_count": "735",
+    "sell_order_count": "727",
     "buy_order_count": 0,
-    "lowest_sell_order": "0.04",
+    "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765057557182
+    "date_modified": 1765104100400
   },
   {
     "hash_name": "Sticker | k0nfig (Foil) | London 2018",
@@ -16957,7 +16957,7 @@
     "buy_order_count": "268",
     "lowest_sell_order": "8.58",
     "highest_buy_order": "5.64",
-    "date_modified": 1765057565502
+    "date_modified": 1765104108539
   },
   {
     "hash_name": "Sticker | k0nfig (Foil) | Krakow 2017",
@@ -16967,7 +16967,7 @@
     "buy_order_count": "50",
     "lowest_sell_order": "27.88",
     "highest_buy_order": "19.98",
-    "date_modified": 1765057573870
+    "date_modified": 1765104116656
   },
   {
     "hash_name": "Sticker | k0nfig (Foil) | Cologne 2016",
@@ -16977,7 +16977,7 @@
     "buy_order_count": "26",
     "lowest_sell_order": "28.13",
     "highest_buy_order": "21.13",
-    "date_modified": 1765057581959
+    "date_modified": 1765104124963
   },
   {
     "hash_name": "Sticker | k0nfig (Foil) | Boston 2018",
@@ -16987,7 +16987,7 @@
     "buy_order_count": "332",
     "lowest_sell_order": "19.17",
     "highest_buy_order": "9.33",
-    "date_modified": 1765057590111
+    "date_modified": 1765104133075
   },
   {
     "hash_name": "Sticker | k0nfig (Foil) | Atlanta 2017",
@@ -16997,7 +16997,7 @@
     "buy_order_count": "47",
     "lowest_sell_order": "187.93",
     "highest_buy_order": "66.82",
-    "date_modified": 1765057598437
+    "date_modified": 1765104141214
   },
   {
     "hash_name": "Sticker | JW | MLG Columbus 2016",
@@ -17007,17 +17007,17 @@
     "buy_order_count": "115",
     "lowest_sell_order": "2.00",
     "highest_buy_order": "1.74",
-    "date_modified": 1765057606539
+    "date_modified": 1765104149349
   },
   {
     "hash_name": "Sticker | JW | London 2018",
     "item_nameid": 176004373,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRRQ0LUSOr_h56LHE59IjtdofT8fFM3gaqbJz4RvI-ykdmJx_T1Me6GlzwI65Ajj72Y84qs0ATgrUJqfSmtcyJ12CtS",
-    "lowest_sell_order": "1.29",
-    "highest_buy_order": "0.93",
-    "date_modified": 1765057614627,
-    "sell_order_count": "24",
-    "buy_order_count": "462"
+    "lowest_sell_order": "1.28",
+    "highest_buy_order": "0.92",
+    "date_modified": 1765104157668,
+    "sell_order_count": "25",
+    "buy_order_count": "459"
   },
   {
     "hash_name": "Sticker | JW | Krakow 2017",
@@ -17027,27 +17027,27 @@
     "buy_order_count": "231",
     "lowest_sell_order": "2.08",
     "highest_buy_order": "1.85",
-    "date_modified": 1765057622890
+    "date_modified": 1765104165807
   },
   {
     "hash_name": "Sticker | JW | Katowice 2019",
     "item_nameid": 176036789,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRWTVjfUO2u0p2DAgQ7Ng1QibCyZVcx0fWbKW8SvdnhxYaOlqOjY-nVzz9XuMByjr7D89yj3QznqhY9MGDtZNjCgQKpBN8",
-    "sell_order_count": "45",
+    "sell_order_count": "46",
     "buy_order_count": "656",
     "lowest_sell_order": "0.92",
     "highest_buy_order": "0.82",
-    "date_modified": 1765057631229
+    "date_modified": 1765104173923
   },
   {
     "hash_name": "Sticker | JW | Cologne 2016",
     "item_nameid": 157485798,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0DfQOqohZ-CBRJnLANovK3rKVU3h6DMI28R6tnkxdOPz_WjML7SxzhS7Jci27mQ842gjVDgqhdua3ezetHf0umJAg",
     "sell_order_count": "26",
-    "buy_order_count": "50",
+    "buy_order_count": "52",
     "lowest_sell_order": "2.87",
-    "highest_buy_order": "1.79",
-    "date_modified": 1765057639402
+    "highest_buy_order": "1.81",
+    "date_modified": 1765104182063
   },
   {
     "hash_name": "Sticker | JW | Cologne 2015",
@@ -17057,17 +17057,17 @@
     "buy_order_count": "311",
     "lowest_sell_order": "2.67",
     "highest_buy_order": "2.19",
-    "date_modified": 1765057647779
+    "date_modified": 1765104190191
   },
   {
     "hash_name": "Sticker | JW | Cluj-Napoca 2015",
     "item_nameid": 75982338,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQFnaFbT8goDAWlpLLxMZ7rv1fAY30qvLd25H74_gzIPbkqHwNerXkDIAv5Up0-uT947xi1bj_V0sPT5-s7FE0Q",
-    "sell_order_count": "22",
-    "buy_order_count": "85",
-    "lowest_sell_order": "2.64",
+    "sell_order_count": "21",
+    "buy_order_count": "88",
+    "lowest_sell_order": "2.89",
     "highest_buy_order": "2.53",
-    "date_modified": 1765057656051
+    "date_modified": 1765104198317
   },
   {
     "hash_name": "Sticker | JW | Boston 2018",
@@ -17075,7 +17075,7 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfQ1_ESOr_h56LHE59IjtdofSgelc31vKYdW8b6oW0xdTYxqKiMb2Ezz9SucQm2uqSptmm3gDj-xBpfSmtc0kqFhCj",
     "lowest_sell_order": "2.18",
     "highest_buy_order": "1.52",
-    "date_modified": 1765057664154,
+    "date_modified": 1765104206620,
     "sell_order_count": "18",
     "buy_order_count": "277"
   },
@@ -17087,7 +17087,7 @@
     "buy_order_count": "54",
     "lowest_sell_order": "3.41",
     "highest_buy_order": "2.31",
-    "date_modified": 1765057672248
+    "date_modified": 1765104214732
   },
   {
     "hash_name": "Sticker | JW (Gold) | London 2018",
@@ -17097,7 +17097,7 @@
     "buy_order_count": "82",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "74.71",
-    "date_modified": 1765057680512
+    "date_modified": 1765104222845
   },
   {
     "hash_name": "Sticker | JW (Gold) | Krakow 2017",
@@ -17107,7 +17107,7 @@
     "buy_order_count": "65",
     "lowest_sell_order": "890.00",
     "highest_buy_order": "223.17",
-    "date_modified": 1765057688855
+    "date_modified": 1765104231138
   },
   {
     "hash_name": "Sticker | JW (Gold) | Katowice 2019",
@@ -17117,7 +17117,7 @@
     "buy_order_count": "85",
     "lowest_sell_order": "118.46",
     "highest_buy_order": "53.65",
-    "date_modified": 1765057696976
+    "date_modified": 1765104239250
   },
   {
     "hash_name": "Sticker | JW (Gold) | Boston 2018",
@@ -17127,7 +17127,7 @@
     "buy_order_count": "117",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "142.49",
-    "date_modified": 1765057705091
+    "date_modified": 1765104247372
   },
   {
     "hash_name": "Sticker | JW (Foil) | MLG Columbus 2016",
@@ -17137,7 +17137,7 @@
     "buy_order_count": "26",
     "lowest_sell_order": "29.00",
     "highest_buy_order": "14.52",
-    "date_modified": 1765057713186
+    "date_modified": 1765104255689
   },
   {
     "hash_name": "Sticker | JW (Foil) | London 2018",
@@ -17145,7 +17145,7 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRRQ0LUSOr_h56LHE59IjtdoYWjJA5snfCeIG0WvojkxdjYzvStML2ExW8AupR3ie2S9oqk0Qy2qBZoMmD3J9SLMlhpx2MB8Pk",
     "lowest_sell_order": "5.80",
     "highest_buy_order": "4.05",
-    "date_modified": 1765057721294,
+    "date_modified": 1765104263835,
     "sell_order_count": "16",
     "buy_order_count": "735"
   },
@@ -17156,28 +17156,28 @@
     "sell_order_count": "9",
     "buy_order_count": "46",
     "lowest_sell_order": "19.35",
-    "highest_buy_order": "14.68",
-    "date_modified": 1765057729559
+    "highest_buy_order": "14.29",
+    "date_modified": 1765104272138
   },
   {
     "hash_name": "Sticker | JW (Foil) | Katowice 2019",
     "item_nameid": 176036837,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRWTVjfUO2u0p2DAgQ7Ng1QibCyFAFv2v-GdGUXuY_lxobexaesNeuIxj9VuMQhj7mUpY_20QXg80NtNTqlI4GTIxh-Pw-6A_xTcg",
     "sell_order_count": "26",
-    "buy_order_count": "936",
+    "buy_order_count": "937",
     "lowest_sell_order": "4.23",
-    "highest_buy_order": "3.05",
-    "date_modified": 1765057737679
+    "highest_buy_order": "3.33",
+    "date_modified": 1765104280257
   },
   {
     "hash_name": "Sticker | JW (Foil) | Cologne 2016",
     "item_nameid": 157485909,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0DfQOqohZ-CBRJnLANovK2aLQhp372QczsTvtiwwYXclfHwNemBzz4HvJR3j7jE8dijigHlqktlZG6mLIKVbEZgNr03Ih5d",
     "sell_order_count": "4",
-    "buy_order_count": "61",
+    "buy_order_count": "62",
     "lowest_sell_order": "27.00",
-    "highest_buy_order": "12.37",
-    "date_modified": 1765057745786
+    "highest_buy_order": "12.39",
+    "date_modified": 1765104288456
   },
   {
     "hash_name": "Sticker | JW (Foil) | Cologne 2015",
@@ -17187,7 +17187,7 @@
     "buy_order_count": "28",
     "lowest_sell_order": "18.34",
     "highest_buy_order": "13.41",
-    "date_modified": 1765057754071
+    "date_modified": 1765104296566
   },
   {
     "hash_name": "Sticker | JW (Foil) | Cluj-Napoca 2015",
@@ -17197,17 +17197,17 @@
     "buy_order_count": "32",
     "lowest_sell_order": "34.34",
     "highest_buy_order": "14.73",
-    "date_modified": 1765057762360
+    "date_modified": 1765104304908
   },
   {
     "hash_name": "Sticker | JW (Foil) | Boston 2018",
     "item_nameid": 175945395,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfQ1_ESOr_h56LHE59IjtdoYWjJA5snaOaJDwVuImzktePkvahYu6CxTNSvJN33L7ArNT03wGyr0dsZWn0cIOLMlhp1r90lgE",
-    "sell_order_count": "6",
+    "sell_order_count": "7",
     "buy_order_count": "374",
     "lowest_sell_order": "9.51",
     "highest_buy_order": "5.90",
-    "date_modified": 1765057770698
+    "date_modified": 1765104313038
   },
   {
     "hash_name": "Sticker | JW (Foil) | Atlanta 2017",
@@ -17217,117 +17217,117 @@
     "buy_order_count": "16",
     "lowest_sell_order": "39.34",
     "highest_buy_order": "27.11",
-    "date_modified": 1765057778798
+    "date_modified": 1765104321177
   },
   {
     "hash_name": "Sticker | JUST | Copenhagen 2024",
     "item_nameid": 176420835,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-MBdD-LjzeVE3gPbLcjga6tjnxNjekfX2YLmGxj0Fu8En2LvE8NzxjQ3i-UNyIzekwdsAv34",
-    "sell_order_count": "416",
-    "buy_order_count": "97",
-    "lowest_sell_order": "0.05",
+    "sell_order_count": "421",
+    "buy_order_count": "91",
+    "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1765057786893
+    "date_modified": 1765104329476
   },
   {
     "hash_name": "Sticker | Just Trolling",
     "item_nameid": 32300650,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9aDARJ-MBdDia63JAts2v3PPzxH7YTvzIPdz_atZOOBxDgB6ZZ1i7uSpdWt3VGxrhBqMW73doacdFUgIQaHI0_UiFY",
-    "sell_order_count": "244",
-    "buy_order_count": "813",
+    "sell_order_count": "245",
+    "buy_order_count": "812",
     "lowest_sell_order": "0.80",
     "highest_buy_order": "0.72",
-    "date_modified": 1765057795252
+    "date_modified": 1765104337615
   },
   {
     "hash_name": "Sticker | JUST (Holo) | Copenhagen 2024",
     "item_nameid": 176420784,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-MBdDibKqJwgugvXNIGhA7dngxIXdlvTxYO_VwjsG7pMh2erA84j3iVXiqBE6Y237I5jVLFF3BQYtSA",
-    "sell_order_count": "67",
+    "sell_order_count": "68",
     "buy_order_count": "1,963",
-    "lowest_sell_order": "2.76",
+    "lowest_sell_order": "2.73",
     "highest_buy_order": "2.71",
-    "date_modified": 1765057803361
+    "date_modified": 1765104345741
   },
   {
     "hash_name": "Sticker | JUST (Gold) | Copenhagen 2024",
     "item_nameid": 176421008,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-MBdDib2qJwMuh6GZKDgTvInuzILexPWtZ-qAkzoC7ZV12LHH9NqjiwDm-hE5a22mIJjVLFGH2MeCiQ",
-    "sell_order_count": "39",
-    "buy_order_count": "522",
-    "lowest_sell_order": "3.10",
+    "sell_order_count": "38",
+    "buy_order_count": "523",
+    "lowest_sell_order": "3.19",
     "highest_buy_order": "2.79",
-    "date_modified": 1765057811496
+    "date_modified": 1765104353871
   },
   {
     "hash_name": "Sticker | JUST (Glitter) | Copenhagen 2024",
     "item_nameid": 176420622,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-MBdDib2pIhN01uGGKTxHtNnnx9CNw_bwYePSl2oJvZ0m3evFp9T02QLj_kY5Njj7INDEexh-Pw9shKIv5g",
-    "sell_order_count": "664",
-    "buy_order_count": "1,887",
-    "lowest_sell_order": "0.37",
+    "sell_order_count": "657",
+    "buy_order_count": "1,889",
+    "lowest_sell_order": "0.38",
     "highest_buy_order": "0.30",
-    "date_modified": 1765057819771
+    "date_modified": 1765104362008
   },
   {
     "hash_name": "Sticker | junior | Antwerp 2022",
     "item_nameid": 176312167,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovK-rIghynfDLIGVEu9jmwtPdkvX1Nu2GlzhVsZMh3O2Qod6s3ADg80ZtMGHzJoKLMlhpOPHR-Q4",
-    "sell_order_count": "4,452",
+    "sell_order_count": "4,459",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765057827888
+    "date_modified": 1765104370124
   },
   {
     "hash_name": "Sticker | junior (Holo) | Antwerp 2022",
     "item_nameid": 176312415,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovK-rIghy7PvHfTIMu4_kxtTclPb2ar3VlW0AvsMpiOrAoN_0jlDiqUZlMmv7JIeQJ1drNUaQpAaPLVjwMw",
-    "sell_order_count": "38",
+    "sell_order_count": "39",
     "buy_order_count": "2,350",
-    "lowest_sell_order": "1.49",
+    "lowest_sell_order": "1.47",
     "highest_buy_order": "1.24",
-    "date_modified": 1765057835981
+    "date_modified": 1765104378248
   },
   {
     "hash_name": "Sticker | junior (Gold) | Antwerp 2022",
     "item_nameid": 176312454,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovK-rIghy7PTHfTkM6Nrul9TfxKX1Yr-DzjNXuZwp2LiQrNWsilax80FoN2mgco-ScgI5Y0aQpAbWBKH55Q",
     "sell_order_count": "8",
-    "buy_order_count": "648",
+    "buy_order_count": "646",
     "lowest_sell_order": "2.91",
     "highest_buy_order": "2.14",
-    "date_modified": 1765057844095
+    "date_modified": 1765104386548
   },
   {
     "hash_name": "Sticker | junior (Glitter) | Antwerp 2022",
     "item_nameid": 176312298,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovK-rIghy7PTEeClW6c74wdPakvOlN-mHwjIGvZR03euZ9N_x21fs-RFrMWDxddCTdwdtYgnY-U_-n7mM8oGqVA",
     "sell_order_count": "172",
-    "buy_order_count": "816",
+    "buy_order_count": "818",
     "lowest_sell_order": "0.06",
     "highest_buy_order": "0.03",
-    "date_modified": 1765057852186
+    "date_modified": 1765104394675
   },
   {
     "hash_name": "Sticker | JUGi | London 2018",
     "item_nameid": 176004448,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRRQ0LUSOr_h56LHE59Ijtdo72sZVc4g6XJIGRG74WyltLTwvGnN7-HxDMCvcdy2LrFodikiVaxrRc6Nj3tZNjCZOonYoI",
     "sell_order_count": "29",
-    "buy_order_count": "399",
+    "buy_order_count": "396",
     "lowest_sell_order": "0.96",
     "highest_buy_order": "0.74",
-    "date_modified": 1765057860470
+    "date_modified": 1765104402798
   },
   {
     "hash_name": "Sticker | JUGi | Berlin 2019",
     "item_nameid": 176079883,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfSV7cTur_h56KHE59Ijtdo72sZQQ516rMcztD7YrnkYXcw6GnN7-Fw2pUvZUn37yS8Y2sjAGx_RJuYmDtZNjC_r9hloY",
     "sell_order_count": "170",
-    "buy_order_count": "505",
+    "buy_order_count": "458",
     "lowest_sell_order": "0.13",
-    "highest_buy_order": "0.10",
-    "date_modified": 1765057868629
+    "highest_buy_order": "0.08",
+    "date_modified": 1765104410918
   },
   {
     "hash_name": "Sticker | JUGi (Gold) | London 2018",
@@ -17337,7 +17337,7 @@
     "buy_order_count": "90",
     "lowest_sell_order": "134.98",
     "highest_buy_order": "96.98",
-    "date_modified": 1765057876763
+    "date_modified": 1765104419033
   },
   {
     "hash_name": "Sticker | JUGi (Gold) | Berlin 2019",
@@ -17347,7 +17347,7 @@
     "buy_order_count": "96",
     "lowest_sell_order": "11.47",
     "highest_buy_order": "6.78",
-    "date_modified": 1765057884861
+    "date_modified": 1765104427333
   },
   {
     "hash_name": "Sticker | JUGi (Foil) | London 2018",
@@ -17357,17 +17357,17 @@
     "buy_order_count": "387",
     "lowest_sell_order": "5.57",
     "highest_buy_order": "3.76",
-    "date_modified": 1765057893182
+    "date_modified": 1765104435472
   },
   {
     "hash_name": "Sticker | JUGi (Foil) | Berlin 2019",
     "item_nameid": 176079977,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfSV7cTur_h56KHE59Ijtdo72sFAFv2v-GImhBud23x9ndlvOiMOmIkz9Qv5Mn3euS8NShjlLl8kBqZG_zJI6SdBh-Pw-nI3JWfQ",
     "sell_order_count": "49",
-    "buy_order_count": "1,063",
+    "buy_order_count": "1,062",
     "lowest_sell_order": "0.52",
     "highest_buy_order": "0.40",
-    "date_modified": 1765057901298
+    "date_modified": 1765104443648
   },
   {
     "hash_name": "Sticker | juanflatroo | Rio 2022",
@@ -17377,27 +17377,27 @@
     "buy_order_count": "51",
     "lowest_sell_order": "0.08",
     "highest_buy_order": "0.04",
-    "date_modified": 1765057909408
+    "date_modified": 1765104451774
   },
   {
     "hash_name": "Sticker | juanflatroo | Paris 2023",
     "item_nameid": 176371642,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5Ct7SjJwZ0wfzHP2satIywwtbfwvP1Y7rTwm0Ju8F1ie2XoNX02ALs8xFrZG_6ItDDcVcgIQaHjABL13I",
-    "sell_order_count": "12,625",
+    "sell_order_count": "12,643",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765057917706
+    "date_modified": 1765104460078
   },
   {
     "hash_name": "Sticker | juanflatroo | Antwerp 2022",
     "item_nameid": 176312176,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovK-kJQFs0ufafjIMut_uwtGOz_LyZ-yEwzxS6ZQk0rHDotqg2QTlqEE4N26ldoOUJAc8M0aQpAaBuNdT4Q",
-    "sell_order_count": "7,675",
+    "sell_order_count": "7,682",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765057925819
+    "date_modified": 1765104468208
   },
   {
     "hash_name": "Sticker | juanflatroo (Holo) | Rio 2022",
@@ -17407,27 +17407,27 @@
     "buy_order_count": "3,603",
     "lowest_sell_order": "0.97",
     "highest_buy_order": "0.61",
-    "date_modified": 1765057934093
+    "date_modified": 1765104476335
   },
   {
     "hash_name": "Sticker | juanflatroo (Holo) | Paris 2023",
     "item_nameid": 176371873,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5Ct7SjJwZ0wfzHTjVN4NP4w9HekaLwZb7SwW1XvsYoj-iQoNyljFLs_0VoMDjzdtLAdQI3ZlmE-U_-n7moJIAmfQ",
-    "sell_order_count": "69",
-    "buy_order_count": "4,167",
-    "lowest_sell_order": "0.78",
-    "highest_buy_order": "0.71",
-    "date_modified": 1765057942193
+    "sell_order_count": "79",
+    "buy_order_count": "4,161",
+    "lowest_sell_order": "0.76",
+    "highest_buy_order": "0.73",
+    "date_modified": 1765104484489
   },
   {
     "hash_name": "Sticker | juanflatroo (Holo) | Antwerp 2022",
     "item_nameid": 176312352,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovK-kJQFs0ufafjJ95NO6m87dla-lMu-HlWkI7sRy2ezHporx3AHiqUVlMDunJ4aWcVQ-ZlGD_VS6366x0tfmMbwG",
     "sell_order_count": "204",
-    "buy_order_count": "2,706",
+    "buy_order_count": "2,705",
     "lowest_sell_order": "0.69",
     "highest_buy_order": "0.39",
-    "date_modified": 1765057950305
+    "date_modified": 1765104492806
   },
   {
     "hash_name": "Sticker | juanflatroo (Gold) | Rio 2022",
@@ -17437,17 +17437,17 @@
     "buy_order_count": "786",
     "lowest_sell_order": "6.01",
     "highest_buy_order": "3.45",
-    "date_modified": 1765057958414
+    "date_modified": 1765104501140
   },
   {
     "hash_name": "Sticker | juanflatroo (Gold) | Paris 2023",
     "item_nameid": 176372157,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5Ct7SjJwZ0wfzHTjpN4Nj4zNKKkfWkZu2Ewm1Uv8Moi-_F9t6l3AHkrxVvN2DzJteXewc-ZlvU80_-n7nHF40z6A",
-    "sell_order_count": "17",
-    "buy_order_count": "781",
-    "lowest_sell_order": "2.78",
+    "sell_order_count": "19",
+    "buy_order_count": "775",
+    "lowest_sell_order": "2.77",
     "highest_buy_order": "1.96",
-    "date_modified": 1765057966690
+    "date_modified": 1765104509277
   },
   {
     "hash_name": "Sticker | juanflatroo (Gold) | Antwerp 2022",
@@ -17457,77 +17457,77 @@
     "buy_order_count": "61",
     "lowest_sell_order": "2.55",
     "highest_buy_order": "1.74",
-    "date_modified": 1765057974831
+    "date_modified": 1765104517387
   },
   {
     "hash_name": "Sticker | juanflatroo (Glitter) | Rio 2022",
     "item_nameid": 176339769,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRPRUOCF7b_mNzaVGJ-MAVZsLakPxVv3MzPfTRW-Nmk2taNwPWnau3XkDpTscckieuV9o73iQDi_RY6MGvycIbBclM4MA6D_1aggbC4pOFgCjU",
-    "sell_order_count": "128",
-    "buy_order_count": "352",
+    "sell_order_count": "127",
+    "buy_order_count": "302",
     "lowest_sell_order": "0.09",
     "highest_buy_order": "0.07",
-    "date_modified": 1765057983157
+    "date_modified": 1765104525505
   },
   {
     "hash_name": "Sticker | juanflatroo (Glitter) | Paris 2023",
     "item_nameid": 176371978,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5Ct7SjJwZ0wfzHTjpO5ciikZLFw_H3Y-OIkzkIusAh37DHpI2mjQe2-UZoZm7xJoCTcQA9M1HS_1LsxvCv28H8O_VKGg",
-    "sell_order_count": "1,862",
+    "sell_order_count": "1,847",
     "buy_order_count": 0,
-    "lowest_sell_order": "0.04",
+    "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765057991441
+    "date_modified": 1765104533622
   },
   {
     "hash_name": "Sticker | juanflatroo (Glitter) | Antwerp 2022",
     "item_nameid": 176312241,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovK-kJQFs0ufafjJ969C_gJSOhbmnML_XzzsBuMQg3L-SpI-tjAOyqUVoMWH7cYGScwc-NFvTrwe-yOu9m9bi67qexSnp",
-    "sell_order_count": "818",
-    "buy_order_count": "11",
+    "sell_order_count": "822",
+    "buy_order_count": "8",
     "lowest_sell_order": "0.05",
     "highest_buy_order": "0.04",
-    "date_modified": 1765057999534
+    "date_modified": 1765104541742
   },
   {
     "hash_name": "Sticker | JT | Shanghai 2024",
     "item_nameid": 176475339,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ-MUoOt-ykelFj0vWeIj5E6N63wtPex66jYeOJzjNXvZB32bnD8N7021Xs5QMyNJh5k1xt",
-    "sell_order_count": "320",
+    "sell_order_count": "321",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765058007679
+    "date_modified": 1765104550068
   },
   {
     "hash_name": "Sticker | JT | Paris 2023",
     "item_nameid": 176371971,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5D-O-nfgFj0PKdImlGuonnw9fTxPGtar-Bk28A6ZBwjuuU9I7w31GwrUNyIzekzyJNsQM",
-    "sell_order_count": "34,752",
+    "sell_order_count": "34,273",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765058016016
+    "date_modified": 1765104558180
   },
   {
     "hash_name": "Sticker | JT | Copenhagen 2024",
     "item_nameid": 176420721,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-MUpS47ykelMyg6PKKT4VtN-0zIPZlqaiZ-iGxG1Q65cli7iU9o6jiQGy5QMyNDiA0Eyo",
-    "sell_order_count": "12,155",
+    "sell_order_count": "12,129",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765058024112
+    "date_modified": 1765104566490
   },
   {
     "hash_name": "Sticker | JT | Austin 2025",
     "item_nameid": 176516925,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-MUoD5LikewMzhPWeImwbtYWzldOPzq6jauOJl21U7sZy2LyYpo-ljQTk5QMyNB4ipcl1",
-    "sell_order_count": "366",
-    "buy_order_count": "97",
+    "sell_order_count": "368",
+    "buy_order_count": "95",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1765058032208
+    "date_modified": 1765104574819
   },
   {
     "hash_name": "Sticker | JT | Antwerp 2022",
@@ -17537,7 +17537,7 @@
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765058040334
+    "date_modified": 1765104582932
   },
   {
     "hash_name": "Sticker | JT (Holo) | Shanghai 2024",
@@ -17547,47 +17547,47 @@
     "buy_order_count": "658",
     "lowest_sell_order": "1.90",
     "highest_buy_order": "1.55",
-    "date_modified": 1765058048439
+    "date_modified": 1765104591041
   },
   {
     "hash_name": "Sticker | JT (Holo) | Paris 2023",
     "item_nameid": 176372052,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5DibKqJwgu1vfKIz9G6ITmw9nbx66lN7mHlG8FupApj-2WoNSg2FW1rxBvMm_xcpjVLFHJSbL1kA",
-    "sell_order_count": "232",
-    "buy_order_count": "2,388",
-    "lowest_sell_order": "0.81",
-    "highest_buy_order": "0.71",
-    "date_modified": 1765058056678
+    "sell_order_count": "233",
+    "buy_order_count": "2,368",
+    "lowest_sell_order": "0.58",
+    "highest_buy_order": "0.57",
+    "date_modified": 1765104599157
   },
   {
     "hash_name": "Sticker | JT (Holo) | Copenhagen 2024",
     "item_nameid": 176420828,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-MTtfubaqZQJmgavKcmoavo21kdTcwqTwYbmDxTgHv5d32LGYpdik21Dg_UZqYj_tZNjCrVBZiis",
-    "sell_order_count": "50",
-    "buy_order_count": "2,455",
-    "lowest_sell_order": "0.75",
-    "highest_buy_order": "0.76",
-    "date_modified": 1765058064947
+    "sell_order_count": "49",
+    "buy_order_count": "2,448",
+    "lowest_sell_order": "0.82",
+    "highest_buy_order": "0.77",
+    "date_modified": 1765104607287
   },
   {
     "hash_name": "Sticker | JT (Holo) | Austin 2025",
     "item_nameid": 176517186,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-MTtfubaqZV82hqaccmoavYWwxdDZzvb2MbmIl21Qu5An3L6X9tyh0A23-UtqMGvtZNjCH8B-SpU",
-    "sell_order_count": "31",
+    "sell_order_count": "33",
     "buy_order_count": "596",
-    "lowest_sell_order": "1.97",
+    "lowest_sell_order": "1.96",
     "highest_buy_order": "1.65",
-    "date_modified": 1765058073105
+    "date_modified": 1765104615431
   },
   {
     "hash_name": "Sticker | JT (Holo) | Antwerp 2022",
     "item_nameid": 176312491,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovK6aIwhs3L3JJWQUv4myw4LSlvGjZ--CzzpT6pInjLrC9I-ki1bh_0ZqNmmmctKXbEZgNqYvMbVl",
     "sell_order_count": "50",
-    "buy_order_count": "2,336",
+    "buy_order_count": "2,332",
     "lowest_sell_order": "3.47",
     "highest_buy_order": "2.87",
-    "date_modified": 1765058081209
+    "date_modified": 1765104623737
   },
   {
     "hash_name": "Sticker | JT (Gold) | Shanghai 2024",
@@ -17597,97 +17597,97 @@
     "buy_order_count": "345",
     "lowest_sell_order": "5.41",
     "highest_buy_order": "3.58",
-    "date_modified": 1765058089326
+    "date_modified": 1765104631852
   },
   {
     "hash_name": "Sticker | JT (Gold) | Paris 2023",
     "item_nameid": 176372139,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5Dib2qJwMugaGfcm4WtY7lwNXfxaLxYriCxz0H7cMjiO2Y8N6iigbj-kNkZ2igdZjVLFE6N3WU3g",
-    "sell_order_count": "38",
+    "sell_order_count": "39",
     "buy_order_count": "633",
-    "lowest_sell_order": "1.42",
+    "lowest_sell_order": "1.44",
     "highest_buy_order": "1.35",
-    "date_modified": 1765058097434
+    "date_modified": 1765104639964
   },
   {
     "hash_name": "Sticker | JT (Gold) | Copenhagen 2024",
     "item_nameid": 176420975,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-MTtQubahZVQxgKuQdWwXu9riwYTZk6bxY7mHwW8CvsMk2LuWrNyk21Xnr0BoZmvtZNjC-p95wGo",
-    "sell_order_count": "59",
+    "sell_order_count": "58",
     "buy_order_count": "559",
     "lowest_sell_order": "1.53",
     "highest_buy_order": "1.27",
-    "date_modified": 1765058105715
+    "date_modified": 1765104648260
   },
   {
     "hash_name": "Sticker | JT (Gold) | Austin 2025",
     "item_nameid": 176517413,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-MTtQubahZV44haGRdztBtI_mzNCIlqfxYOzUlT8D65Mk373E99ys3QC2rRE5MmvtZNjC_5SKCTo",
-    "sell_order_count": "14",
-    "buy_order_count": "114",
+    "sell_order_count": "15",
+    "buy_order_count": "120",
     "lowest_sell_order": "4.23",
     "highest_buy_order": "2.73",
-    "date_modified": 1765058113875
+    "date_modified": 1765104656421
   },
   {
     "hash_name": "Sticker | JT (Gold) | Antwerp 2022",
     "item_nameid": 176312584,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovK6aLAhs172aITlDut-0kNPdlPT2MbrXlDJS6ZMj0-uQpdmjjVDg_UFlMD_yLY6QbEZgNo6TsEsV",
-    "sell_order_count": "12",
-    "buy_order_count": "157",
-    "lowest_sell_order": "5.00",
-    "highest_buy_order": "3.28",
-    "date_modified": 1765058121999
+    "sell_order_count": "11",
+    "buy_order_count": "162",
+    "lowest_sell_order": "5.67",
+    "highest_buy_order": "3.29",
+    "date_modified": 1765104664745
   },
   {
     "hash_name": "Sticker | JT (Glitter) | Shanghai 2024",
     "item_nameid": 176475017,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ-MTtQurOxPwJynaGYKDhDu4W1koWJkvSgZO_TlDsDuZYk27jFoYmn2gPm_0pvamugLIaLMlhpAUVWgLo",
-    "sell_order_count": "128",
-    "buy_order_count": "355",
+    "sell_order_count": "124",
+    "buy_order_count": "356",
     "lowest_sell_order": "0.11",
-    "highest_buy_order": "0.07",
-    "date_modified": 1765058130339
+    "highest_buy_order": "0.10",
+    "date_modified": 1765104673085
   },
   {
     "hash_name": "Sticker | JT (Glitter) | Paris 2023",
     "item_nameid": 176371968,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5Dib2pIhN01uGGdWhH6d23kNLSlqKnY-3VkzIGvsZz3uzEo9T20ADm-Etlam_zd46Sehh-Pw-R05145Q",
-    "sell_order_count": "1,541",
-    "buy_order_count": "110",
+    "sell_order_count": "1,542",
+    "buy_order_count": "108",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1765058138441
+    "date_modified": 1765104681392
   },
   {
     "hash_name": "Sticker | JT (Glitter) | Copenhagen 2024",
     "item_nameid": 176420594,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-MTtQurOxPwJynaOaJmwQ79qyltSKw6_wZe2FxzhXusAm3rGVpd2si1WyqEc-YWGhctSLMlhphPZdUHE",
-    "sell_order_count": "433",
-    "buy_order_count": "569",
+    "sell_order_count": "439",
+    "buy_order_count": "564",
     "lowest_sell_order": "0.06",
     "highest_buy_order": "0.05",
-    "date_modified": 1765058146557
+    "date_modified": 1765104689509
   },
   {
     "hash_name": "Sticker | JT (Glitter) | Antwerp 2022",
     "item_nameid": 176312233,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovK6aLAtpx-fNY3NH6IjukoKIxPPxNevQxT5QupQhjrqYpo_wiwPn-kc_NWqgcoORJlU8fxiOra-od8P4",
     "sell_order_count": "674",
-    "buy_order_count": "1,723",
+    "buy_order_count": "1,722",
     "lowest_sell_order": "0.12",
     "highest_buy_order": "0.08",
-    "date_modified": 1765058154894
+    "date_modified": 1765104697836
   },
   {
     "hash_name": "Sticker | JT (Foil) | Austin 2025",
     "item_nameid": 176516825,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-MTtRubOpZVcxgqefI2oWu4zjxtaJwvSjNenQzm0G7pAj0ryVo9Wi3Qzh_0RsNWrtZNjCDTV6V2s",
-    "sell_order_count": "111",
-    "buy_order_count": "2,386",
-    "lowest_sell_order": "0.16",
-    "highest_buy_order": "0.13",
-    "date_modified": 1765058163332
+    "sell_order_count": "107",
+    "buy_order_count": "2,387",
+    "lowest_sell_order": "0.18",
+    "highest_buy_order": "0.16",
+    "date_modified": 1765104705987
   },
   {
     "hash_name": "Sticker | jR | London 2018",
@@ -17697,47 +17697,47 @@
     "buy_order_count": "512",
     "lowest_sell_order": "2.26",
     "highest_buy_order": "1.72",
-    "date_modified": 1765058171493
+    "date_modified": 1765104714207
   },
   {
     "hash_name": "Sticker | jR | Krakow 2017",
     "item_nameid": 175905814,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRWXk3bSPP_h56EHE59IjtdpPShKFA5gKGcJzkav9qyltSIkq71Z7rQwTlU7sQl3bHDod702gbmrxdlfSmtc8VXJXxS",
-    "sell_order_count": "22",
-    "buy_order_count": "165",
+    "sell_order_count": "23",
+    "buy_order_count": "166",
     "lowest_sell_order": "3.19",
     "highest_buy_order": "2.44",
-    "date_modified": 1765058179755
+    "date_modified": 1765104722561
   },
   {
     "hash_name": "Sticker | jR | Katowice 2019",
     "item_nameid": 176036585,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRWTVjfUO2u0p2DAgQ7Ng1QibC3ZVc41aPLd2VB74rhltXYlKbwMuqBwD9T7Mdw2r-Vo9uj3AK1rxE9ZGDtZNjCHqb7K9I",
     "sell_order_count": "41",
-    "buy_order_count": "1,798",
+    "buy_order_count": "1,799",
     "lowest_sell_order": "2.04",
     "highest_buy_order": "1.31",
-    "date_modified": 1765058187977
+    "date_modified": 1765104730675
   },
   {
     "hash_name": "Sticker | jR | Boston 2018",
     "item_nameid": 175945174,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfQ1_ESOr_h56LHE59IjtdpPSnf1Q0gKrNdT8T74uwkIOIxaKiYL6EkGpTv8AjiOuV89z2iwXi-EBkfSmtc8CSaGMS",
-    "sell_order_count": "20",
+    "sell_order_count": "19",
     "buy_order_count": "371",
-    "lowest_sell_order": "1.89",
+    "lowest_sell_order": "1.90",
     "highest_buy_order": "1.63",
-    "date_modified": 1765058196077
+    "date_modified": 1765104738792
   },
   {
     "hash_name": "Sticker | jR (Gold) | London 2018",
     "item_nameid": 176004790,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRRQ0LUSOr_h56LHE59IjtdpIWiJAtknaSQdztDvN7hwtbczqTwNe2BwzJTsJwjj7GW94is3gex-kVoMTv2ItKLMlhp66nZPHw",
     "sell_order_count": "2",
-    "buy_order_count": "95",
+    "buy_order_count": "94",
     "lowest_sell_order": "556.87",
     "highest_buy_order": "120.00",
-    "date_modified": 1765058204342
+    "date_modified": 1765104746917
   },
   {
     "hash_name": "Sticker | jR (Gold) | Krakow 2017",
@@ -17747,7 +17747,7 @@
     "buy_order_count": "78",
     "lowest_sell_order": "448.61",
     "highest_buy_order": "287.56",
-    "date_modified": 1765058212442
+    "date_modified": 1765104755235
   },
   {
     "hash_name": "Sticker | jR (Gold) | Katowice 2019",
@@ -17757,7 +17757,7 @@
     "buy_order_count": "71",
     "lowest_sell_order": "85.85",
     "highest_buy_order": "56.61",
-    "date_modified": 1765058220808
+    "date_modified": 1765104763536
   },
   {
     "hash_name": "Sticker | jR (Gold) | Boston 2018",
@@ -17767,7 +17767,7 @@
     "buy_order_count": "96",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "74.67",
-    "date_modified": 1765058229143
+    "date_modified": 1765104771879
   },
   {
     "hash_name": "Sticker | jR (Foil) | London 2018",
@@ -17777,27 +17777,27 @@
     "buy_order_count": "542",
     "lowest_sell_order": "19.16",
     "highest_buy_order": "7.95",
-    "date_modified": 1765058237244
+    "date_modified": 1765104780270
   },
   {
     "hash_name": "Sticker | jR (Foil) | Krakow 2017",
     "item_nameid": 175905858,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRWXk3bSPP_h56EHE59IjtdpIWjJA5snaKQJTlGu960koTew_LxY-qBlT5Q7MZ33LiYotii2ADjrkBvaz2ncIKLMlhpK3pYvK8",
     "sell_order_count": "3",
-    "buy_order_count": "130",
+    "buy_order_count": "131",
     "lowest_sell_order": "73.50",
-    "highest_buy_order": "23.76",
-    "date_modified": 1765058245351
+    "highest_buy_order": "23.87",
+    "date_modified": 1765104788569
   },
   {
     "hash_name": "Sticker | jR (Foil) | Katowice 2019",
     "item_nameid": 176036607,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRWTVjfUO2u0p2DAgQ7Ng1QibC3FAFv2v-Gc2pB6Nm0wdKKwvGtZ--JxjpV6ZFy0rqXpo6hjQWwqEVkMWqgIoKRdxh-Pw_aPbPIVQ",
-    "sell_order_count": "15",
+    "sell_order_count": "14",
     "buy_order_count": "934",
     "lowest_sell_order": "14.79",
     "highest_buy_order": "7.08",
-    "date_modified": 1765058253632
+    "date_modified": 1765104796745
   },
   {
     "hash_name": "Sticker | jR (Foil) | Boston 2018",
@@ -17807,67 +17807,67 @@
     "buy_order_count": "334",
     "lowest_sell_order": "11.67",
     "highest_buy_order": "8.14",
-    "date_modified": 1765058261758
+    "date_modified": 1765104804870
   },
   {
     "hash_name": "Sticker | jottAAA | Austin 2025",
     "item_nameid": 176516662,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-KhBDt7ukZVNh0PWZKGQS6oznkoOIxvWtMeiGxjwDup0njL2YrNygiQXhrxE_amvtZNjCK2wg0wU",
-    "sell_order_count": "11,565",
+    "sell_order_count": "11,598",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765058269870
+    "date_modified": 1765104813014
   },
   {
     "hash_name": "Sticker | jottAAA (Holo) | Austin 2025",
     "item_nameid": 176517057,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-KhBDt7ukFA9v3_yGKG1DtYzlzNbew_SgZemAkzwD65Ep0r6Vpo2g3wXmrkttMWuiJtXEdBh-Pw_CQTrY4A",
-    "sell_order_count": "93",
-    "buy_order_count": "1,191",
-    "lowest_sell_order": "1.19",
-    "highest_buy_order": "1.07",
-    "date_modified": 1765058278176
+    "sell_order_count": "122",
+    "buy_order_count": "1,129",
+    "lowest_sell_order": "1.06",
+    "highest_buy_order": "0.96",
+    "date_modified": 1765104821333
   },
   {
     "hash_name": "Sticker | jottAAA (Gold) | Austin 2025",
     "item_nameid": 176516704,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-KhBDt7ukFABv3_eGIj9BuYXkxtHbxq_1a-mAxGhXvJBy3bDEpdql3wLk_UZvY2_6I4SUcRh-Pw_whz64uw",
-    "sell_order_count": "43",
+    "sell_order_count": "44",
     "buy_order_count": "164",
-    "lowest_sell_order": "1.84",
+    "lowest_sell_order": "1.78",
     "highest_buy_order": "1.55",
-    "date_modified": 1765058286277
+    "date_modified": 1765104829448
   },
   {
     "hash_name": "Sticker | jottAAA (Foil) | Austin 2025",
     "item_nameid": 176516589,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-KhBDt7ukFAFv2v-GIz8QuIXlxdbcxaCtZbrVkjIFuZNwj7yS8Nnx21Hk-hBlNmvyIoXBdhh-Pw9iviVrpw",
-    "sell_order_count": "775",
-    "buy_order_count": "1,177",
+    "sell_order_count": "773",
+    "buy_order_count": "1,171",
     "lowest_sell_order": "0.08",
     "highest_buy_order": "0.05",
-    "date_modified": 1765058294378
+    "date_modified": 1765104837598
   },
   {
     "hash_name": "Sticker | JOTA | Antwerp 2022",
     "item_nameid": 176312105,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovLWxKkllhKTJc2kWtY-1w9nZk6ahNu_SkGoG6pIm0--Xo4_23AS3_0FsMG76OsbLJW0q6XJr",
-    "sell_order_count": "8,447",
+    "sell_order_count": "8,473",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765058302700
+    "date_modified": 1765104845710
   },
   {
     "hash_name": "Sticker | JOTA (Holo) | Antwerp 2022",
     "item_nameid": 176312544,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovLWxKjho3P_HPzwatIzmxdjfzqL3NuyGwTxT7pYhjriYoN2k0QDn8xFva2r6cNeVe1MgIQaH-OBJzpg",
-    "sell_order_count": "41",
-    "buy_order_count": "2,705",
-    "lowest_sell_order": "0.60",
+    "sell_order_count": "42",
+    "buy_order_count": "2,702",
+    "lowest_sell_order": "0.48",
     "highest_buy_order": "0.48",
-    "date_modified": 1765058310795
+    "date_modified": 1765104853848
   },
   {
     "hash_name": "Sticker | JOTA (Gold) | Antwerp 2022",
@@ -17877,47 +17877,47 @@
     "buy_order_count": "620",
     "lowest_sell_order": "2.21",
     "highest_buy_order": "1.96",
-    "date_modified": 1765058318898
+    "date_modified": 1765104862000
   },
   {
     "hash_name": "Sticker | JOTA (Glitter) | Antwerp 2022",
     "item_nameid": 176312216,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovLWxKjhn3_rcZThQoo3lzNONw673N-uJzjsDuJwjj7iYpdrxjQLgr0tlMWinJdOQegc7NF_Oug_pEI5RMbs",
-    "sell_order_count": "420",
-    "buy_order_count": "1",
-    "lowest_sell_order": "0.06",
-    "highest_buy_order": "0.04",
-    "date_modified": 1765058327199
+    "sell_order_count": "421",
+    "buy_order_count": 0,
+    "lowest_sell_order": "0.03",
+    "highest_buy_order": "0.00",
+    "date_modified": 1765104870311
   },
   {
     "hash_name": "Sticker | Joan (Holo)",
     "item_nameid": 170165295,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulROWUvRVeKs1MrsUFxkNhFbs_WvJAZu7PvHfTIMu4nlw4bcz6-kMr-HxDtUu5R007uYpo3w2QW3_UBuNTqmLdTDewc5ZUaQpAZyQ6s1UA",
     "sell_order_count": "75",
-    "buy_order_count": "631",
-    "lowest_sell_order": "1.52",
-    "highest_buy_order": "1.42",
-    "date_modified": 1765058335489
+    "buy_order_count": "625",
+    "lowest_sell_order": "1.73",
+    "highest_buy_order": "1.43",
+    "date_modified": 1765104878433
   },
   {
     "hash_name": "Sticker | Joan",
     "item_nameid": 170165279,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulROWUvRVeKs1MrsUFxkNhFbs_WvJAZunfCaJW5Bu4vizNLTx6amYu_UkD4D6ZYlj7-S9NWs21ew-RJoa2_ydoeLMlhpn36WE5M",
-    "sell_order_count": "67",
-    "buy_order_count": "802",
-    "lowest_sell_order": "0.27",
-    "highest_buy_order": "0.24",
-    "date_modified": 1765058343753
+    "sell_order_count": "64",
+    "buy_order_count": "777",
+    "lowest_sell_order": "0.31",
+    "highest_buy_order": "0.26",
+    "date_modified": 1765104886542
   },
   {
     "hash_name": "Sticker | jmqa | London 2018",
     "item_nameid": 176004357,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRRQ0LUSOr_h56LHE59Ijtdu6ukZV431abMIDsWvovuw4HbkaCjY73TxjgDv5110r6RoNn0i1fk-0c5amjtZNjCZqVd7zU",
     "sell_order_count": "58",
-    "buy_order_count": "465",
+    "buy_order_count": "464",
     "lowest_sell_order": "0.70",
     "highest_buy_order": "0.51",
-    "date_modified": 1765058351898
+    "date_modified": 1765104894685
   },
   {
     "hash_name": "Sticker | jmqa | Boston 2018",
@@ -17925,7 +17925,7 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfQ1_ESOr_h56LHE59Ijtdu6ukZVUwhqfMIj8Qv4rnl4PSlPPyY-yEwTtQ7p1z2b_FrYnxjVXhrRJsYmjtZNjCwI6wbec",
     "lowest_sell_order": "1.69",
     "highest_buy_order": "1.24",
-    "date_modified": 1765058360003,
+    "date_modified": 1765104902827,
     "sell_order_count": "25",
     "buy_order_count": "242"
   },
@@ -17937,17 +17937,17 @@
     "buy_order_count": "92",
     "lowest_sell_order": "188.34",
     "highest_buy_order": "45.45",
-    "date_modified": 1765058368192
+    "date_modified": 1765104911164
   },
   {
     "hash_name": "Sticker | jmqa (Gold) | Boston 2018",
     "item_nameid": 175945642,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfQ1_ESOr_h56LHE59Ijtdu6ukFABv3_eGc29D6YjixtCIw_Lxa-6HlWkEucBy3OrCoYrx3AHtqBU6YWCgJtKTcBh-Pw8bKp1LPQ",
-    "sell_order_count": "1",
+    "sell_order_count": 0,
     "buy_order_count": "51",
-    "lowest_sell_order": "296.15",
+    "lowest_sell_order": "0.00",
     "highest_buy_order": "90.99",
-    "date_modified": 1765058376328
+    "date_modified": 1765104919574
   },
   {
     "hash_name": "Sticker | jmqa (Foil) | London 2018",
@@ -17957,7 +17957,7 @@
     "buy_order_count": "813",
     "lowest_sell_order": "4.39",
     "highest_buy_order": "2.89",
-    "date_modified": 1765058384433
+    "date_modified": 1765104927717
   },
   {
     "hash_name": "Sticker | jmqa (Foil) | Boston 2018",
@@ -17967,237 +17967,237 @@
     "buy_order_count": "276",
     "lowest_sell_order": "9.50",
     "highest_buy_order": "5.00",
-    "date_modified": 1765058392543
+    "date_modified": 1765104935850
   },
   {
     "hash_name": "Sticker | jL | Shanghai 2024",
     "item_nameid": 176474987,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ-KUpW5ePzKAY5h6rMKWsS6d61ltaPlKOgNriFxTMCvJVw0rzFpY703wO35QMyNPx9wRiD",
-    "sell_order_count": "3,062",
+    "sell_order_count": "3,127",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765058400652
+    "date_modified": 1765104944009
   },
   {
     "hash_name": "Sticker | jL | Paris 2023",
     "item_nameid": 176371861,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5b-O3zegQxiqafJGgStYyww4bdxqela-rSlGlSvpQp37uUpIrwjQ3m_0dyIzekTNVy8fk",
-    "sell_order_count": "17,604",
+    "sell_order_count": "17,683",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765058408763
+    "date_modified": 1765104952134
   },
   {
     "hash_name": "Sticker | jL | Copenhagen 2024",
     "item_nameid": 176420650,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-KUoO4rugL1Fh0KvOcmgW6oXiwYSJkfWiarqAxz0E6ZIo0rCSodT3jlXl5QMyNFLEJPJ_",
-    "sell_order_count": "5,915",
+    "sell_order_count": "5,932",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765058416893
+    "date_modified": 1765104960260
   },
   {
     "hash_name": "Sticker | jL | Austin 2025",
     "item_nameid": 176516801,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-KUoOs-zyflJk1vKaIGVGvN6yzYHZwaKlY-2EkjoJv8Qo3--Q9tusilbg5QMyNJAT1Cb2",
-    "sell_order_count": "1,057",
-    "buy_order_count": "11,346",
-    "lowest_sell_order": "0.34",
-    "highest_buy_order": "0.30",
-    "date_modified": 1765058425300
+    "sell_order_count": "1,088",
+    "buy_order_count": "11,388",
+    "lowest_sell_order": "0.32",
+    "highest_buy_order": "0.31",
+    "date_modified": 1765104968561
   },
   {
     "hash_name": "Sticker | jL (Holo, Champion) | Copenhagen 2024",
     "item_nameid": 176422584,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-KTtfubaqFARo0v7YeDJMotiyxIKIk6GkY-2DkjJXuJB0076YoNmm3wO1-UFqN2mnIdScIFI2ZFHOug_pa0xMgvA",
-    "sell_order_count": "68",
-    "buy_order_count": "2,983",
-    "lowest_sell_order": "0.95",
+    "sell_order_count": "64",
+    "buy_order_count": "2,982",
+    "lowest_sell_order": "1.16",
     "highest_buy_order": "0.66",
-    "date_modified": 1765058433459
+    "date_modified": 1765104976677
   },
   {
     "hash_name": "Sticker | jL (Holo) | Shanghai 2024",
     "item_nameid": 176474990,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ-KTtfubaqZVZmhaWRI2tGuN_nw4LakqelYr3SxG8GvcEoj7DApNrwiQDirUVtYWDtZNjCjDknYqA",
-    "sell_order_count": "76",
-    "buy_order_count": "1,447",
+    "sell_order_count": "96",
+    "buy_order_count": "1,462",
     "lowest_sell_order": "1.08",
     "highest_buy_order": "0.88",
-    "date_modified": 1765058441621
+    "date_modified": 1765104984789
   },
   {
     "hash_name": "Sticker | jL (Holo) | Paris 2023",
     "item_nameid": 176372033,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5bibKqJwguhfKdd2RHv4XizdjSwqHwZujUlWkB6ZMojLDHpI2g3lft-EtsMDimd5jVLFHe8kLX2w",
-    "sell_order_count": "192",
+    "sell_order_count": "185",
     "buy_order_count": "3,842",
     "lowest_sell_order": "0.60",
     "highest_buy_order": "0.54",
-    "date_modified": 1765058449959
+    "date_modified": 1765104992916
   },
   {
     "hash_name": "Sticker | jL (Holo) | Copenhagen 2024",
     "item_nameid": 176420705,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-KTtfubaqZV9mhKOcJT8RuYmyxNmIlPOiYrnTxT4HucR137_C8dqm21Hj8kc5N2jtZNjC0k0xpVA",
-    "sell_order_count": "114",
-    "buy_order_count": "1,653",
+    "sell_order_count": "131",
+    "buy_order_count": "1,650",
     "lowest_sell_order": "1.20",
     "highest_buy_order": "0.96",
-    "date_modified": 1765058458223
+    "date_modified": 1765105001049
   },
   {
     "hash_name": "Sticker | jL (Holo) | Austin 2025",
     "item_nameid": 176516621,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-KTtfubaqZVYxh6qYcmVGu4uyzYPelKb3Z-OFwDoE7J1y0rzHrIqg2lbsqhE-NmDtZNjC6yJ4Llo",
-    "sell_order_count": "62",
-    "buy_order_count": "1,376",
-    "lowest_sell_order": "10.47",
-    "highest_buy_order": "7.97",
-    "date_modified": 1765058466344
+    "sell_order_count": "64",
+    "buy_order_count": "1,380",
+    "lowest_sell_order": "10.02",
+    "highest_buy_order": "8.07",
+    "date_modified": 1765105009200
   },
   {
     "hash_name": "Sticker | jL (Gold, Champion) | Copenhagen 2024",
     "item_nameid": 176422594,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-KTtQubahFARo0v7YeDJMotnvxNiOlaOmZOPQkzJUvZMh2bGQoNXw2Aa1_0FpZGumLNCVdVVsZF3Oug_pSoC0A_8",
-    "sell_order_count": "25",
-    "buy_order_count": "498",
-    "lowest_sell_order": "4.31",
+    "sell_order_count": "23",
+    "buy_order_count": "497",
+    "lowest_sell_order": "4.34",
     "highest_buy_order": "4.28",
-    "date_modified": 1765058474666
+    "date_modified": 1765105017495
   },
   {
     "hash_name": "Sticker | jL (Gold) | Shanghai 2024",
     "item_nameid": 176475069,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ-KTtQubahZVJhiveeJ2ob6IXjwoaKlqLwYeqFxDIGvJN03bmYo9SjjAC3-kU_YG_tZNjC-162XcQ",
-    "sell_order_count": "21",
-    "buy_order_count": "598",
-    "lowest_sell_order": "5.12",
+    "sell_order_count": "22",
+    "buy_order_count": "594",
+    "lowest_sell_order": "5.09",
     "highest_buy_order": "5.02",
-    "date_modified": 1765058482994
+    "date_modified": 1765105025794
   },
   {
     "hash_name": "Sticker | jL (Gold) | Paris 2023",
     "item_nameid": 176372206,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5bib2qJwMuhKebIWVAvI7mx9Lfz6ChZOqJxWoEu5Ep3bjEpo-miQDsr0ZsYWiiIJjVLFFsiQhNTA",
-    "sell_order_count": "69",
+    "sell_order_count": "68",
     "buy_order_count": "299",
     "lowest_sell_order": "1.55",
     "highest_buy_order": "1.32",
-    "date_modified": 1765058491096
+    "date_modified": 1765105033906
   },
   {
     "hash_name": "Sticker | jL (Gold) | Copenhagen 2024",
     "item_nameid": 176420870,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-KTtQubahZQEzhqrKdTwTvIrgzIHaxKOtY-2Dwj1XuZVy2ejC9NWi3VHiqhZrNzrtZNjC8uoM64Y",
-    "sell_order_count": "18",
-    "buy_order_count": "2,084",
+    "sell_order_count": "17",
+    "buy_order_count": "2,087",
     "lowest_sell_order": "6.55",
-    "highest_buy_order": "4.22",
-    "date_modified": 1765058499367
+    "highest_buy_order": "4.45",
+    "date_modified": 1765105042221
   },
   {
     "hash_name": "Sticker | jL (Gold) | Austin 2025",
     "item_nameid": 176516647,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-KTtQubahZVc4h_ecJWlA6ojvkdGOxPbyZbjTwW5XscAmiL2RotSh2gTj_EZvYj3tZNjCbAUEWz0",
     "sell_order_count": "22",
-    "buy_order_count": "327",
+    "buy_order_count": "326",
     "lowest_sell_order": "23.86",
-    "highest_buy_order": "19.71",
-    "date_modified": 1765058507477
+    "highest_buy_order": "19.64",
+    "date_modified": 1765105050345
   },
   {
     "hash_name": "Sticker | jL (Glitter, Champion) | Copenhagen 2024",
     "item_nameid": 176422581,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-KTtQurOxPwJy7PDAcDBS5dO42tCKk6-kMOmFzmgE7cB12LiWodT2igS1-BI9ZD32ctPAdFc6YwrV_FeggbC4KPM0LeI",
-    "sell_order_count": "408",
-    "buy_order_count": "557",
-    "lowest_sell_order": "0.04",
-    "highest_buy_order": "0.03",
-    "date_modified": 1765058515594
+    "sell_order_count": "414",
+    "buy_order_count": "757",
+    "lowest_sell_order": "0.05",
+    "highest_buy_order": "0.04",
+    "date_modified": 1765105058478
   },
   {
     "hash_name": "Sticker | jL (Glitter) | Shanghai 2024",
     "item_nameid": 176475089,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ-KTtQurOxPwJynaKfJG8Tv9_uxdeJx_Kia7_XwT0Hvpd03-uXpo-njAbtqEBrNTj1JIKLMlhpw91g5S0",
-    "sell_order_count": "1,352",
+    "sell_order_count": "1,356",
     "buy_order_count": "386",
     "lowest_sell_order": "0.09",
     "highest_buy_order": "0.08",
-    "date_modified": 1765058524152
+    "date_modified": 1765105066781
   },
   {
     "hash_name": "Sticker | jL (Glitter) | Paris 2023",
     "item_nameid": 176372030,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5bib2pIhN01uGGI2gauN3jktjakqHxYu-DxjgI7sEnjrjFooj00QLt_kpvMj2iLYHBexh-Pw_Ab5T4hg",
-    "sell_order_count": "1,572",
-    "buy_order_count": "15",
-    "lowest_sell_order": "0.04",
-    "highest_buy_order": "0.03",
-    "date_modified": 1765058532307
+    "sell_order_count": "1,690",
+    "buy_order_count": 0,
+    "lowest_sell_order": "0.03",
+    "highest_buy_order": "0.00",
+    "date_modified": 1765105075112
   },
   {
     "hash_name": "Sticker | jL (Glitter) | Copenhagen 2024",
     "item_nameid": 176420554,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-KTtQurOxPwJynfLNczkWvoS3xdHawvOkaumFxz0AvJxw2L-W9tnx0Ae380NpZTrxIIWLMlhpLuzDBY0",
     "sell_order_count": "351",
-    "buy_order_count": "3,217",
+    "buy_order_count": "3,215",
     "lowest_sell_order": "0.11",
-    "highest_buy_order": "0.08",
-    "date_modified": 1765058540406
+    "highest_buy_order": "0.06",
+    "date_modified": 1765105083257
   },
   {
     "hash_name": "Sticker | jL (Foil) | Austin 2025",
     "item_nameid": 176516597,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-KTtRubOpZQNmiqfKJ2UXuITlxdCIw6_wYOLVxGkGvsMk3e_F89imiVWwqkE5NT_tZNjCADRWCW4",
-    "sell_order_count": "184",
-    "buy_order_count": "7,768",
-    "lowest_sell_order": "0.58",
-    "highest_buy_order": "0.55",
-    "date_modified": 1765058548671
+    "sell_order_count": "180",
+    "buy_order_count": "7,772",
+    "lowest_sell_order": "0.60",
+    "highest_buy_order": "0.58",
+    "date_modified": 1765105091684
   },
   {
     "hash_name": "Sticker | jL (Champion) | Copenhagen 2024",
     "item_nameid": 176422576,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-KTtUvruoOw5v3b2YcDgQtNiwkIGOkaXxa-7VwmkFsZAl37zD9N323Abt_Uo6amD2J4WVbEZgNoqEWc7J",
-    "sell_order_count": "17,321",
+    "sell_order_count": "17,469",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765058556883
+    "date_modified": 1765105099817
   },
   {
     "hash_name": "Sticker | jks | Shanghai 2024",
     "item_nameid": 176475350,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ-LhcZ4eihKFA40fLKIG4Qvt60xdGIz_agMOvTxW8JvZUniO-XrI332Qax_V0sPT7k04ROZg",
-    "sell_order_count": "83",
+    "sell_order_count": "87",
     "buy_order_count": "404",
     "lowest_sell_order": "0.14",
-    "highest_buy_order": "0.12",
-    "date_modified": 1765058564992
+    "highest_buy_order": "0.11",
+    "date_modified": 1765105108147
   },
   {
     "hash_name": "Sticker | jks | Paris 2023",
     "item_nameid": 176371928,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5cpfSkKVU01veeIm8QvIjux9COwKSjar2JzmpSvcF00r-YodTz2Vblr0M_fSmtc8N-4h84",
-    "sell_order_count": "16,419",
+    "sell_order_count": "16,489",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765058573321
+    "date_modified": 1765105116490
   },
   {
     "hash_name": "Sticker | jks | London 2018",
     "item_nameid": 176004529,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRRQ0LUSOr_h56LHE59Ijtdvanrf1cz0fKfc2RAuouwldXdxfTwZ-KDkzhX7JAkiOyX992h0QG28kBrZXezetH4RpMElg",
-    "sell_order_count": "57",
-    "buy_order_count": "398",
-    "lowest_sell_order": "1.33",
-    "highest_buy_order": "1.18",
-    "date_modified": 1765058581422
+    "sell_order_count": "60",
+    "buy_order_count": "395",
+    "lowest_sell_order": "1.18",
+    "highest_buy_order": "1.17",
+    "date_modified": 1765105124611
   },
   {
     "hash_name": "Sticker | jks | Katowice 2019",
@@ -18207,7 +18207,7 @@
     "buy_order_count": "516",
     "lowest_sell_order": "2.20",
     "highest_buy_order": "2.18",
-    "date_modified": 1765058589540
+    "date_modified": 1765105132906
   },
   {
     "hash_name": "Sticker | jks | Cologne 2015",
@@ -18217,7 +18217,7 @@
     "buy_order_count": "33",
     "lowest_sell_order": "18.00",
     "highest_buy_order": "10.29",
-    "date_modified": 1765058597840
+    "date_modified": 1765105141029
   },
   {
     "hash_name": "Sticker | jks | Boston 2018",
@@ -18227,37 +18227,37 @@
     "buy_order_count": "106",
     "lowest_sell_order": "8.55",
     "highest_buy_order": "6.78",
-    "date_modified": 1765058605950
+    "date_modified": 1765105149178
   },
   {
     "hash_name": "Sticker | jks | Berlin 2019",
     "item_nameid": 176079741,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfSV7cTur_h56KHE59Ijtdvanre1Iyi6TJdW4RtIW1x4SNkaeiNb6GzzkBucYg3OqW8N6ijQaw_Us-YnezetGaVpd27Q",
-    "sell_order_count": "215",
+    "sell_order_count": "213",
     "buy_order_count": "974",
-    "lowest_sell_order": "0.21",
+    "lowest_sell_order": "0.26",
     "highest_buy_order": "0.20",
-    "date_modified": 1765058614056
+    "date_modified": 1765105157311
   },
   {
     "hash_name": "Sticker | jks (Holo) | Shanghai 2024",
     "item_nameid": 176475224,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ-LhdovrWpJEkygfWRJGVA7d7jl9eIz6CkN-vXxT4Hu5ci2eqSp9injQG18hc_YD37OsbLJQ8Zfvvn",
     "sell_order_count": "15",
-    "buy_order_count": "449",
+    "buy_order_count": "448",
     "lowest_sell_order": "3.87",
-    "highest_buy_order": "3.75",
-    "date_modified": 1765058622473
+    "highest_buy_order": "3.77",
+    "date_modified": 1765105165637
   },
   {
     "hash_name": "Sticker | jks (Holo) | Paris 2023",
     "item_nameid": 176372100,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5cpYWtJAtvnaOQd2wbuYjkxoWJwqemY7-GxzoH7Zch2bnAp97z2AW1-hBpZTvxd4OLMlhplTy4vqc",
     "sell_order_count": "34",
-    "buy_order_count": "2,582",
+    "buy_order_count": "2,586",
     "lowest_sell_order": "1.33",
-    "highest_buy_order": "1.17",
-    "date_modified": 1765058630592
+    "highest_buy_order": "1.21",
+    "date_modified": 1765105173983
   },
   {
     "hash_name": "Sticker | jks (Gold) | Shanghai 2024",
@@ -18265,29 +18265,29 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ-LhdosbWpL0ljgfeQJmUV7923w9jexPKlZeuBzzMB68d03-vCpIj231fk-Epuajv1OsbLJZuF9u1A",
     "sell_order_count": "8",
     "buy_order_count": "591",
-    "lowest_sell_order": "23.23",
+    "lowest_sell_order": "21.43",
     "highest_buy_order": "12.09",
-    "date_modified": 1765058638685
+    "date_modified": 1765105182100
   },
   {
     "hash_name": "Sticker | jks (Gold) | Paris 2023",
     "item_nameid": 176371948,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5cpYWiJAtknfGcdGwR7Y-zwtfckaDyYr_UlTgF6pMl0r6Y9ImhjVa3r0poN2iid4SLMlhpmL5RvTc",
     "sell_order_count": "15",
-    "buy_order_count": "1,336",
+    "buy_order_count": "1,335",
     "lowest_sell_order": "6.67",
     "highest_buy_order": "6.49",
-    "date_modified": 1765058646949
+    "date_modified": 1765105190233
   },
   {
     "hash_name": "Sticker | jks (Gold) | London 2018",
     "item_nameid": 176004695,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRRQ0LUSOr_h56LHE59IjtdvamaLAhs173NKW1G7trglteOkvHxZO-AlzwBv5R30ujEp4ihigzl_hc4MmHwcYPBbEZgNn7D4Ezp",
     "sell_order_count": 0,
-    "buy_order_count": "92",
+    "buy_order_count": "93",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "121.24",
-    "date_modified": 1765058655300
+    "date_modified": 1765105198381
   },
   {
     "hash_name": "Sticker | jks (Gold) | Katowice 2019",
@@ -18297,7 +18297,7 @@
     "buy_order_count": "71",
     "lowest_sell_order": "196.50",
     "highest_buy_order": "106.68",
-    "date_modified": 1765058663408
+    "date_modified": 1765105206534
   },
   {
     "hash_name": "Sticker | jks (Gold) | Boston 2018",
@@ -18307,37 +18307,37 @@
     "buy_order_count": "64",
     "lowest_sell_order": "1184.59",
     "highest_buy_order": "377.20",
-    "date_modified": 1765058671510
+    "date_modified": 1765105214683
   },
   {
     "hash_name": "Sticker | jks (Gold) | Berlin 2019",
     "item_nameid": 176080008,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfSV7cTur_h56KHE59IjtdvamaLAhs173JKD8Sv4nkwtbakaemMLqBxjwAupEoi72Wo97w3VCx8xA6YDihdYedbEZgNgBdb7I6",
     "sell_order_count": "9",
-    "buy_order_count": "96",
+    "buy_order_count": "97",
     "lowest_sell_order": "30.30",
-    "highest_buy_order": "19.14",
-    "date_modified": 1765058679789
+    "highest_buy_order": "19.15",
+    "date_modified": 1765105222817
   },
   {
     "hash_name": "Sticker | jks (Glitter) | Shanghai 2024",
     "item_nameid": 176475393,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ-LhdosbasPxNlwb2YImhDu9jmwNjSlvWjZeyAx24EuMN13LGR8d_02gGw_EdtYz_zJ9DGbEZgNpRdDdQt",
-    "sell_order_count": "33",
-    "buy_order_count": "380",
-    "lowest_sell_order": "0.96",
-    "highest_buy_order": "0.84",
-    "date_modified": 1765058688030
+    "sell_order_count": "36",
+    "buy_order_count": "374",
+    "lowest_sell_order": "0.88",
+    "highest_buy_order": "0.82",
+    "date_modified": 1765105230954
   },
   {
     "hash_name": "Sticker | jks (Glitter) | Paris 2023",
     "item_nameid": 176371900,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5cpYWiJw50x_baP24Q746zwoHdxPL2N7rSzmoJsMAg0-qZo4qhiwTh_UptMD33IdOScwEgIQaHqigmS9I",
-    "sell_order_count": "677",
-    "buy_order_count": "496",
+    "sell_order_count": "708",
+    "buy_order_count": "494",
     "lowest_sell_order": "0.05",
     "highest_buy_order": "0.03",
-    "date_modified": 1765058696146
+    "date_modified": 1765105239257
   },
   {
     "hash_name": "Sticker | jks (Foil) | London 2018",
@@ -18347,7 +18347,7 @@
     "buy_order_count": "535",
     "lowest_sell_order": "14.55",
     "highest_buy_order": "9.74",
-    "date_modified": 1765058704490
+    "date_modified": 1765105247374
   },
   {
     "hash_name": "Sticker | jks (Foil) | Katowice 2019",
@@ -18356,18 +18356,18 @@
     "sell_order_count": "16",
     "buy_order_count": "1,051",
     "lowest_sell_order": "13.11",
-    "highest_buy_order": "11.51",
-    "date_modified": 1765058712585
+    "highest_buy_order": "11.63",
+    "date_modified": 1765105255795
   },
   {
     "hash_name": "Sticker | jks (Foil) | Cologne 2015",
     "item_nameid": 61699340,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0DfQOqohZ-CBhJnLANovLG2FAFv2v-GI2xH6o3nloHawfaiY-iJxGgGsZEljOjA9Iqj3VDsqUU5N23wcYKddBh-Pw8xsSHmPg",
-    "sell_order_count": "2",
+    "sell_order_count": "1",
     "buy_order_count": "28",
     "lowest_sell_order": "35.72",
     "highest_buy_order": "22.78",
-    "date_modified": 1765058720696
+    "date_modified": 1765105263921
   },
   {
     "hash_name": "Sticker | jks (Foil) | Boston 2018",
@@ -18377,77 +18377,77 @@
     "buy_order_count": "289",
     "lowest_sell_order": "48.00",
     "highest_buy_order": "29.09",
-    "date_modified": 1765058729012
+    "date_modified": 1765105272038
   },
   {
     "hash_name": "Sticker | jks (Foil) | Berlin 2019",
     "item_nameid": 176079804,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfSV7cTur_h56KHE59IjtdvamaLQhp373MJmRE6tq0xNTfwqHyYr-FwToJscQg0rHEp4jz2wHtqEtvMD37J4bAbEZgNlxhlGoy",
-    "sell_order_count": "82",
-    "buy_order_count": "957",
+    "sell_order_count": "81",
+    "buy_order_count": "955",
     "lowest_sell_order": "1.34",
     "highest_buy_order": "1.28",
-    "date_modified": 1765058737124
+    "date_modified": 1765105280159
   },
   {
     "hash_name": "Sticker | jkaem | Paris 2023",
     "item_nameid": 176371864,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5ct7-oZVFl1faeJTkbvI3hkdaOlPGiYbiBlDxUvZYi272Voor2jgW1_kZtMGvtZNjC0sX6GZs",
-    "sell_order_count": "23,416",
+    "sell_order_count": "23,443",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765058745237
+    "date_modified": 1765105288590
   },
   {
     "hash_name": "Sticker | jkaem | MLG Columbus 2016",
     "item_nameid": 144424212,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0DFSua4xJ2DAgs7Ng1QibCuKgJtnaSZdD8StNm3zNGPwqGgN-vSkGgFscEo2ryU8dWliQzh8ko4MmHxIoOLMlhpppGrCBI",
     "sell_order_count": "17",
-    "buy_order_count": "76",
+    "buy_order_count": "56",
     "lowest_sell_order": "2.70",
     "highest_buy_order": "2.42",
-    "date_modified": 1765058753507
+    "date_modified": 1765105296963
   },
   {
     "hash_name": "Sticker | jkaem | London 2018",
     "item_nameid": 176004557,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRRQ0LUSOr_h56LHE59IjtdvbugJklh0qvJd2tDtY7gwoPdlKChMLmDlWhSuJR307nAod2h2lHn-UBkYD37OsbLJXUwOuQA",
     "sell_order_count": "42",
-    "buy_order_count": "523",
+    "buy_order_count": "525",
     "lowest_sell_order": "0.57",
-    "highest_buy_order": "0.43",
-    "date_modified": 1765058761628
+    "highest_buy_order": "0.46",
+    "date_modified": 1765105305102
   },
   {
     "hash_name": "Sticker | jkaem | Katowice 2019",
     "item_nameid": 176036683,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRWTVjfUO2u0p2DAgQ7Ng1QibCuKgJtnfecJ2REvoS1l4bZxKGmNu_Sx2kJu5V3377Fo42giQG2-Us4Y271JoKLMlhpP9WISpQ",
-    "sell_order_count": "38",
+    "sell_order_count": "17",
     "buy_order_count": "586",
-    "lowest_sell_order": "0.63",
+    "lowest_sell_order": "0.88",
     "highest_buy_order": "0.31",
-    "date_modified": 1765058769722
+    "date_modified": 1765105313245
   },
   {
     "hash_name": "Sticker | jkaem | Copenhagen 2024",
     "item_nameid": 176420674,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-LgVSu_TzLwE2hKaQJz4b7t7mx9PSkvXwa-3QlG0HsZMjjuiV8d-t2lLi-kZqfSmtc5kjjJik",
-    "sell_order_count": "332",
+    "sell_order_count": "331",
     "buy_order_count": 0,
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.00",
-    "date_modified": 1765058777846
+    "date_modified": 1765105321380
   },
   {
     "hash_name": "Sticker | jkaem | Cologne 2016",
     "item_nameid": 157485898,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0DfQOqohZ-CBRJnLANovLGkLgoug6PNKGlEv4jnlYPYx_OmML6Al24BsJFwi7mV8d2l3AXh-xBvNz37LZjVLFEIN-s4MQ",
     "sell_order_count": "6",
-    "buy_order_count": "44",
-    "lowest_sell_order": "5.91",
+    "buy_order_count": "43",
+    "lowest_sell_order": "5.92",
     "highest_buy_order": "3.39",
-    "date_modified": 1765058786144
+    "date_modified": 1765105329504
   },
   {
     "hash_name": "Sticker | jkaem | Cluj-Napoca 2015",
@@ -18457,47 +18457,47 @@
     "buy_order_count": "54",
     "lowest_sell_order": "4.50",
     "highest_buy_order": "3.69",
-    "date_modified": 1765058794255
+    "date_modified": 1765105337769
   },
   {
     "hash_name": "Sticker | jkaem | Berlin 2019",
     "item_nameid": 176079671,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfSV7cTur_h56KHE59IjtdvbugJklmg6SfdW8TuY21w9PYw66lNu3SwjpXvpxz0uyUp9Sn2wexrkM9Zj2nOsbLJejxhWVt",
-    "sell_order_count": "639",
-    "buy_order_count": "1,165",
+    "sell_order_count": "638",
+    "buy_order_count": "1,162",
     "lowest_sell_order": "0.08",
     "highest_buy_order": "0.07",
-    "date_modified": 1765058802610
+    "date_modified": 1765105345925
   },
   {
     "hash_name": "Sticker | jkaem (Holo) | Paris 2023",
     "item_nameid": 176371992,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5ct7-oFA9v3_yGdTgW74myltTaw6amMu-Iwm5Xu8FyibuV9tmi3Vbh-EU-NWyidtPBchh-Pw-n0Rcqkg",
-    "sell_order_count": "213",
-    "buy_order_count": "12,969",
+    "sell_order_count": "220",
+    "buy_order_count": "12,965",
     "lowest_sell_order": "0.32",
     "highest_buy_order": "0.26",
-    "date_modified": 1765058810905
+    "date_modified": 1765105354299
   },
   {
     "hash_name": "Sticker | jkaem (Holo) | Copenhagen 2024",
     "item_nameid": 176420831,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-LgVSu4WtJAtvnaaZI2UU6drizdCPwKWkYOyIlDkH7cMk2buZo9Sn2VLjrUA_Zzj3LdCLMlhp2fpG9S4",
-    "sell_order_count": "36",
+    "sell_order_count": "35",
     "buy_order_count": "1,276",
-    "lowest_sell_order": "0.66",
+    "lowest_sell_order": "0.70",
     "highest_buy_order": "0.57",
-    "date_modified": 1765058819005
+    "date_modified": 1765105362503
   },
   {
     "hash_name": "Sticker | jkaem (Gold) | Paris 2023",
     "item_nameid": 176372123,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5ct7-oFABv3_eGImkVvY7nxoKOlfWhML6IkjoHuZx3i7GY94iljQfg_xZvZ27xcdWdcRh-Pw-u_MepAg",
     "sell_order_count": "7",
-    "buy_order_count": "533",
+    "buy_order_count": "529",
     "lowest_sell_order": "2.31",
     "highest_buy_order": "0.92",
-    "date_modified": 1765058827288
+    "date_modified": 1765105370612
   },
   {
     "hash_name": "Sticker | jkaem (Gold) | London 2018",
@@ -18507,7 +18507,7 @@
     "buy_order_count": "83",
     "lowest_sell_order": "193.20",
     "highest_buy_order": "82.40",
-    "date_modified": 1765060181797
+    "date_modified": 1765105378730
   },
   {
     "hash_name": "Sticker | jkaem (Gold) | Katowice 2019",
@@ -18517,7 +18517,7 @@
     "buy_order_count": "45",
     "lowest_sell_order": "45.70",
     "highest_buy_order": "26.17",
-    "date_modified": 1765060190141
+    "date_modified": 1765105387042
   },
   {
     "hash_name": "Sticker | jkaem (Gold) | Copenhagen 2024",
@@ -18527,7 +18527,7 @@
     "buy_order_count": "592",
     "lowest_sell_order": "2.70",
     "highest_buy_order": "2.04",
-    "date_modified": 1765060198476
+    "date_modified": 1765105395182
   },
   {
     "hash_name": "Sticker | jkaem (Gold) | Berlin 2019",
@@ -18537,7 +18537,7 @@
     "buy_order_count": "158",
     "lowest_sell_order": "8.58",
     "highest_buy_order": "5.17",
-    "date_modified": 1765060206568
+    "date_modified": 1765105403359
   },
   {
     "hash_name": "Sticker | jkaem (Glitter) | Paris 2023",
@@ -18545,19 +18545,19 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5ct7-oFABs2ufcdC8M6o6zx9Lek_GlMOqGkGgAsMR3jL6SoImi0AS3r0tkZT30coGcew46ZEaQpAZdZwtLTg",
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765060214701,
-    "sell_order_count": "5,462",
+    "date_modified": 1765105411474,
+    "sell_order_count": "5,503",
     "buy_order_count": 0
   },
   {
     "hash_name": "Sticker | jkaem (Glitter) | Copenhagen 2024",
     "item_nameid": 176420472,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-LgVSu4WiJw50x_baP2kWtY3lx4PSwfHwZeKJwj1XuZUm3e_C99qn3Q3mqUs-ZWrzJ4aRcFUgIQaHvzoCRFg",
-    "sell_order_count": "122",
-    "buy_order_count": "373",
-    "lowest_sell_order": "0.11",
+    "sell_order_count": "143",
+    "buy_order_count": "372",
+    "lowest_sell_order": "0.09",
     "highest_buy_order": "0.07",
-    "date_modified": 1765060222812
+    "date_modified": 1765105419678
   },
   {
     "hash_name": "Sticker | jkaem (Foil) | MLG Columbus 2016",
@@ -18567,7 +18567,7 @@
     "buy_order_count": "58",
     "lowest_sell_order": "19.38",
     "highest_buy_order": "10.36",
-    "date_modified": 1765060230916
+    "date_modified": 1765105428008
   },
   {
     "hash_name": "Sticker | jkaem (Foil) | London 2018",
@@ -18577,17 +18577,17 @@
     "buy_order_count": "603",
     "lowest_sell_order": "4.11",
     "highest_buy_order": "2.85",
-    "date_modified": 1765060239222
+    "date_modified": 1765105436351
   },
   {
     "hash_name": "Sticker | jkaem (Foil) | Katowice 2019",
     "item_nameid": 176036852,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRWTVjfUO2u0p2DAgQ7Ng1QibCuKgJt7PXHeDEMvt-1xNGOxfWmZ-rXz2kE7Zd127rDoNyt3VftqEc6az2nIoOWJFBvZ0aQpAbEtoXSMA",
     "sell_order_count": "20",
-    "buy_order_count": "978",
+    "buy_order_count": "928",
     "lowest_sell_order": "2.78",
     "highest_buy_order": "2.42",
-    "date_modified": 1765060247331
+    "date_modified": 1765105444482
   },
   {
     "hash_name": "Sticker | jkaem (Foil) | Cologne 2016",
@@ -18597,7 +18597,7 @@
     "buy_order_count": "41",
     "lowest_sell_order": "25.41",
     "highest_buy_order": "17.07",
-    "date_modified": 1765060255453
+    "date_modified": 1765105452650
   },
   {
     "hash_name": "Sticker | jkaem (Foil) | Cluj-Napoca 2015",
@@ -18607,187 +18607,187 @@
     "buy_order_count": "31",
     "lowest_sell_order": "15.95",
     "highest_buy_order": "11.13",
-    "date_modified": 1765060263717
+    "date_modified": 1765105460993
   },
   {
     "hash_name": "Sticker | jkaem (Foil) | Berlin 2019",
     "item_nameid": 176079696,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfSV7cTur_h56KHE59IjtdvbugJjhm3PrEPz8UtYnikYXZk6_xN7mJlz4B65Mhi7DF8dyh3FHh80Fta2zwdYaUcgcgIQaHKH5YMI0",
     "sell_order_count": "60",
-    "buy_order_count": "947",
+    "buy_order_count": "950",
     "lowest_sell_order": "0.41",
-    "highest_buy_order": "0.32",
-    "date_modified": 1765060271822
+    "highest_buy_order": "0.34",
+    "date_modified": 1765105469133
   },
   {
     "hash_name": "Sticker | Jimpphat | Copenhagen 2024",
     "item_nameid": 176420478,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-LAlHprKkP0k31fCZJm5Aud3mloLYw_Sta-iFwDgB6ZQgjOqSrY733QfhrUc-MW2hOsbLJRpR0yYL",
-    "sell_order_count": "10,383",
+    "sell_order_count": "10,377",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765060279914
+    "date_modified": 1765105477516
   },
   {
     "hash_name": "Sticker | Jimpphat | Austin 2025",
     "item_nameid": 176516761,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-LAlHprKkP0lm1aKeJmoU7di1wtTTkvKsYeOFkjlU6pQj2O_CpN70jFfhrxc6NzqmOsbLJVlFuBiC",
-    "sell_order_count": "13,718",
+    "sell_order_count": "13,759",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765060288200
+    "date_modified": 1765105485641
   },
   {
     "hash_name": "Sticker | Jimpphat (Holo) | Shanghai 2024",
     "item_nameid": 176475078,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ-LAlHprKkPzho3P_HP21DtYywx4bewK_1YrjQl2lU7Zx33rmUoonw2FHi-EJlMWvyd46dJ1AgIQaH7jtmRRQ",
-    "sell_order_count": "80",
-    "buy_order_count": "784",
-    "lowest_sell_order": "0.29",
+    "sell_order_count": "82",
+    "buy_order_count": "773",
+    "lowest_sell_order": "0.30",
     "highest_buy_order": "0.28",
-    "date_modified": 1765060296300
+    "date_modified": 1765105493762
   },
   {
     "hash_name": "Sticker | Jimpphat (Holo) | Copenhagen 2024",
     "item_nameid": 176420589,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-LAlHprKkPzho3P_HP2gbvYnnkoGOz6OjY-_SlzkBusck3bCXpdzx3QTtqBVtN26mIdSdIVcgIQaHlicOhPY",
-    "lowest_sell_order": "0.75",
+    "lowest_sell_order": "0.85",
     "highest_buy_order": "0.64",
-    "date_modified": 1765060304402,
-    "sell_order_count": "134",
-    "buy_order_count": "1,261"
+    "date_modified": 1765105501900,
+    "sell_order_count": "131",
+    "buy_order_count": "1,260"
   },
   {
     "hash_name": "Sticker | Jimpphat (Holo) | Austin 2025",
     "item_nameid": 176516517,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-LAlHprKkPzho3P_HP2RH7o7lwtXcw_aiYu7Qwj5QuJNz3uzD9tum3QDkqEI9Zj_1JI-TelMgIQaHqyrB0Gs",
-    "sell_order_count": "113",
-    "buy_order_count": "1,852",
+    "sell_order_count": "110",
+    "buy_order_count": "1,855",
     "lowest_sell_order": "0.42",
-    "highest_buy_order": "0.32",
-    "date_modified": 1765060312774
+    "highest_buy_order": "0.34",
+    "date_modified": 1765105510225
   },
   {
     "hash_name": "Sticker | Jimpphat (Gold) | Shanghai 2024",
     "item_nameid": 176475075,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ-LAlHprKkPzhn3P_MPztG7om3ldjdz_agZ7qHlG0EuJQkjr2XoY6l0ATl_BU_ZGmidYaRdQYgIQaH89O_aGU",
     "sell_order_count": "28",
-    "buy_order_count": "354",
+    "buy_order_count": "349",
     "lowest_sell_order": "1.45",
     "highest_buy_order": "1.35",
-    "date_modified": 1765060321103
+    "date_modified": 1765105518361
   },
   {
     "hash_name": "Sticker | Jimpphat (Gold) | Copenhagen 2024",
     "item_nameid": 176420904,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-LAlHprKkPzhn3P_MPzxAu4vuldWJlPWmZ-mIx20JvsZ0ibyS89mk2lDs-BJra2_6IYaWcgQgIQaHnRAqHHc",
     "sell_order_count": "42",
-    "buy_order_count": "913",
+    "buy_order_count": "917",
     "lowest_sell_order": "2.91",
-    "highest_buy_order": "2.20",
-    "date_modified": 1765060329212
+    "highest_buy_order": "2.21",
+    "date_modified": 1765105526473
   },
   {
     "hash_name": "Sticker | Jimpphat (Gold) | Austin 2025",
     "item_nameid": 176516689,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-LAlHprKkPzhn3P_MP2UVvYWwwIbexq-gYOiJlD8I7MNy3rqW89-gjlbh-EA4NWD6cI-QegMgIQaHqXR-8N8",
     "sell_order_count": "48",
-    "buy_order_count": "160",
-    "lowest_sell_order": "2.00",
+    "buy_order_count": "170",
+    "lowest_sell_order": "1.95",
     "highest_buy_order": "1.50",
-    "date_modified": 1765060337315
+    "date_modified": 1765105534869
   },
   {
     "hash_name": "Sticker | Jimpphat (Glitter) | Shanghai 2024",
     "item_nameid": 176475119,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRORE2CF7b5mNzaVGJ-LAlHprKkPzhn3_rcZThQot3vzISPwKD1YOKGlTMJ6pUn2eiQpdyh3wbi_EplZmn0d4XDIwA7Yw7Oug_pGCZ2yHE",
-    "sell_order_count": "1,047",
+    "sell_order_count": "1,051",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765060345408
+    "date_modified": 1765105543177
   },
   {
     "hash_name": "Sticker | Jimpphat (Glitter) | Copenhagen 2024",
     "item_nameid": 176420731,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-LAlHprKkPzhn3_rcZThQoovizITSwPTyau6IwjIAu5Ih3u-Yoo_ziwW1-kA4Y22idoXEegRvMF3Oug_pExth5rk",
-    "sell_order_count": "402",
-    "buy_order_count": "712",
-    "lowest_sell_order": "0.08",
+    "sell_order_count": "455",
+    "buy_order_count": "711",
+    "lowest_sell_order": "0.09",
     "highest_buy_order": "0.07",
-    "date_modified": 1765060353509
+    "date_modified": 1765105551479
   },
   {
     "hash_name": "Sticker | Jimpphat (Foil) | Austin 2025",
     "item_nameid": 176516757,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-LAlHprKkPzhm3PrEP2lEvoXixIXSwvOtauiGwW8I7pAhiOyWrdik3gXm-kFrNWH2IoHEclIgIQaHo5RsSIU",
-    "sell_order_count": "985",
-    "buy_order_count": "541",
-    "lowest_sell_order": "0.05",
+    "sell_order_count": "993",
+    "buy_order_count": "211",
+    "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1765060361878
+    "date_modified": 1765105559874
   },
   {
     "hash_name": "Sticker | Jerry | Paris 2023",
     "item_nameid": 176371916,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5SpKi8ZQJjg6XKIGhHtYjgwtnbxvStN7qEwm0D68Qp37mXo4mgjgK18kU_N2jtZNjC079ONLQ",
-    "sell_order_count": "26,496",
+    "sell_order_count": "26,538",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765060369978
+    "date_modified": 1765105567997
   },
   {
     "hash_name": "Sticker | Jerry | Berlin 2019",
     "item_nameid": 176079765,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfSV7cTur_h56KHE59Ijtds6i3Mkk00PGaKD8W7t7iwdONlvGgMeuIwzkAvp1y3r_DpdWn3FDsr0I5Yj_0OsbLJXaDCCLX",
-    "sell_order_count": "193",
-    "buy_order_count": "590",
+    "sell_order_count": "191",
+    "buy_order_count": "540",
     "lowest_sell_order": "0.14",
     "highest_buy_order": "0.11",
-    "date_modified": 1765060378119
+    "date_modified": 1765105576145
   },
   {
     "hash_name": "Sticker | Jerry | Antwerp 2022",
     "item_nameid": 176312308,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovL-3OR4u0ffMcGsauIjvx4KPwqGsa--FkD8AvpQi3-yZpI_z3FfgqUNoY2Hyd5jVLFHkEszyUA",
-    "sell_order_count": "9,416",
+    "sell_order_count": "9,432",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765060386535
+    "date_modified": 1765105584447
   },
   {
     "hash_name": "Sticker | Jerry (Holo) | Paris 2023",
     "item_nameid": 176371964,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5SpKi8FA9v3_yGI2tB747ukoTalaWmZb-Ikz1TusMkj-uU9Nrz0Azm_EFuYGihIIWdIxh-Pw_S77WNxg",
-    "sell_order_count": "226",
-    "buy_order_count": "2,297",
-    "lowest_sell_order": "0.35",
-    "highest_buy_order": "0.29",
-    "date_modified": 1765060394689
+    "sell_order_count": "213",
+    "buy_order_count": "2,295",
+    "lowest_sell_order": "0.34",
+    "highest_buy_order": "0.27",
+    "date_modified": 1765105592562
   },
   {
     "hash_name": "Sticker | Jerry (Holo) | Antwerp 2022",
     "item_nameid": 176312231,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovL-3OR5f2_zEfnNBtdruzdaPwqanZ-3Uzz0J7JMh376U8Yrz3wywqhJrZmvxdofEdQY5fxiOraT5JvKG",
-    "sell_order_count": "66",
-    "buy_order_count": "2,866",
+    "sell_order_count": "67",
+    "buy_order_count": "2,870",
     "lowest_sell_order": "0.43",
-    "highest_buy_order": "0.35",
-    "date_modified": 1765060402783
+    "highest_buy_order": "0.37",
+    "date_modified": 1765105600679
   },
   {
     "hash_name": "Sticker | Jerry (Gold) | Paris 2023",
     "item_nameid": 176372201,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5SpKi8FABv3_eGd24UtNq3l4PblaSgZ7iCzmkBu8Ap37uX89mg0QTl_0NsNj30JNCWcxh-Pw8M5pS7xg",
     "sell_order_count": "29",
-    "buy_order_count": "602",
+    "buy_order_count": "601",
     "lowest_sell_order": "1.46",
     "highest_buy_order": "1.24",
-    "date_modified": 1765060411052
+    "date_modified": 1765105608978
   },
   {
     "hash_name": "Sticker | Jerry (Gold) | Berlin 2019",
@@ -18797,37 +18797,37 @@
     "buy_order_count": "81",
     "lowest_sell_order": "25.43",
     "highest_buy_order": "11.00",
-    "date_modified": 1765060419202
+    "date_modified": 1765105617097
   },
   {
     "hash_name": "Sticker | Jerry (Gold) | Antwerp 2022",
     "item_nameid": 176312353,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovL-3OR5f1PzEdXNAuYznwoWKwKWgNuqGlD5U6pEg2-2W99v32AW1_RFpNjv6JNfBdQQ6fxiOrULBWwSd",
     "sell_order_count": "20",
-    "buy_order_count": "700",
+    "buy_order_count": "694",
     "lowest_sell_order": "2.24",
     "highest_buy_order": "1.58",
-    "date_modified": 1765060427303
+    "date_modified": 1765105625225
   },
   {
     "hash_name": "Sticker | Jerry (Glitter) | Paris 2023",
     "item_nameid": 176372078,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5SpKi8FABs2ufcdC8MvYS1wNKIlqKsYLmDkj1SvJ0jjLnC99uk2wHt-ko4YjunLYaVewdsZEaQpAY-TU1LqA",
-    "sell_order_count": "2,829",
+    "sell_order_count": "2,773",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765060435581
+    "date_modified": 1765105633372
   },
   {
     "hash_name": "Sticker | Jerry (Glitter) | Antwerp 2022",
     "item_nameid": 176312398,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANovL-3OR5f1P_BZSlH_pLjkYKIxvSkYLqHlG1XvZx33LuYpdys2AXkqkA4MW2mJoGUdAVqMA3S5BHgljmQmocT",
-    "sell_order_count": "350",
-    "buy_order_count": "283",
+    "sell_order_count": "356",
+    "buy_order_count": "281",
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.03",
-    "date_modified": 1765060443676
+    "date_modified": 1765105641579
   },
   {
     "hash_name": "Sticker | Jerry (Foil) | Berlin 2019",
@@ -18837,127 +18837,127 @@
     "buy_order_count": "1,046",
     "lowest_sell_order": "0.88",
     "highest_buy_order": "0.60",
-    "date_modified": 1765060451786
+    "date_modified": 1765105649695
   },
   {
     "hash_name": "Sticker | jeorge | Austin 2025",
     "item_nameid": 176517176,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-IAtFsb_rKV40gqqfJ2oS6d3kzdjfxPTyar2EwD4DvZwpjrzCodXz3Afm_kVpanezetFX9QwUCA",
-    "sell_order_count": "2,691",
+    "sell_order_count": "2,705",
     "buy_order_count": 0,
     "lowest_sell_order": "0.03",
     "highest_buy_order": "0.00",
-    "date_modified": 1765060460126
+    "date_modified": 1765105657904
   },
   {
     "hash_name": "Sticker | jeorge (Holo) | Austin 2025",
     "item_nameid": 176516973,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-IAtFsb-aIwhs3L2YKGtE6ouzktjTxKWnY-PXxWgJvp0gjr2XrY7z21Dn_EZoMm71INSXbEZgNuy6UPBl",
-    "sell_order_count": "55",
-    "buy_order_count": "732",
+    "sell_order_count": "56",
+    "buy_order_count": "730",
     "lowest_sell_order": "0.89",
     "highest_buy_order": "0.74",
-    "date_modified": 1765060468258
+    "date_modified": 1765105666022
   },
   {
     "hash_name": "Sticker | jeorge (Gold) | Austin 2025",
     "item_nameid": 176517326,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-IAtFsb-aLAhs173MKTxD74nml4bTwPHxZOPQxm5Q6pQn27zDp96j0AO1_0BuNmD3LYWUbEZgNqRQ3Lmi",
-    "sell_order_count": "10",
-    "buy_order_count": "177",
-    "lowest_sell_order": "4.83",
-    "highest_buy_order": "2.10",
-    "date_modified": 1765060476603
+    "sell_order_count": "11",
+    "buy_order_count": "172",
+    "lowest_sell_order": "4.71",
+    "highest_buy_order": "2.13",
+    "date_modified": 1765105674146
   },
   {
     "hash_name": "Sticker | jeorge (Foil) | Austin 2025",
     "item_nameid": 176516921,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-IAtFsb-aLQhp372cdG4Vudi0x4LaxPaiYe_SwDhU65QliOjEpN3zigfnqUFkZjrxItDHbEZgNp_1GKZJ",
-    "sell_order_count": "279",
-    "buy_order_count": "975",
+    "sell_order_count": "277",
+    "buy_order_count": "625",
     "lowest_sell_order": "0.06",
     "highest_buy_order": "0.04",
-    "date_modified": 1765060484940
+    "date_modified": 1765105682443
   },
   {
     "hash_name": "Sticker | Jee | Copenhagen 2024",
     "item_nameid": 176420684,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-IAEZsrvyflcygqKQI2QR6IvixYbSwq6hYL6JlT4JsZUm3-iX8Nyi3wDhrV0sPT7mOY7wWg",
-    "sell_order_count": "1,991",
+    "sell_order_count": "2,000",
     "buy_order_count": 0,
     "lowest_sell_order": "0.04",
     "highest_buy_order": "0.00",
-    "date_modified": 1765060493098
+    "date_modified": 1765105690568
   },
   {
     "hash_name": "Sticker | Jee | Austin 2025",
     "item_nameid": 176517166,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-IAEZtemjKV9igfHNd2oa7Yvgx4XclafwNuLTkGhU7JBz27nHo9_xigKw810sPT44pUhXYg",
-    "sell_order_count": "300",
-    "buy_order_count": "2,072",
+    "sell_order_count": "361",
+    "buy_order_count": "2,068",
     "lowest_sell_order": "0.09",
     "highest_buy_order": "0.08",
-    "date_modified": 1765060501246
+    "date_modified": 1765105698688
   },
   {
     "hash_name": "Sticker | Jee (Holo) | Copenhagen 2024",
     "item_nameid": 176420843,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-IAFovrWpJEllh6PJcDtH6YrjxtLexvXyYuLXzjtU7Zxz0u-Y8Nqh0VeyrhJsammnOsbLJZpV_yfo",
-    "sell_order_count": "46",
-    "buy_order_count": "2,005",
-    "lowest_sell_order": "3.87",
-    "highest_buy_order": "3.77",
-    "date_modified": 1765060509349
+    "sell_order_count": "47",
+    "buy_order_count": "1,994",
+    "lowest_sell_order": "3.83",
+    "highest_buy_order": "3.74",
+    "date_modified": 1765105706808
   },
   {
     "hash_name": "Sticker | Jee (Holo) | Austin 2025",
     "item_nameid": 176517253,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-IAFovrWpJEljiquZcDwavdjhxtbfxKCsMbqCl2gB6cZ13L6Z9N6j3wLs-EdtZGn0OsbLJcmO7R0u",
-    "sell_order_count": "29",
-    "buy_order_count": "361",
-    "lowest_sell_order": "7.78",
-    "highest_buy_order": "6.32",
-    "date_modified": 1765060517639
+    "sell_order_count": "28",
+    "buy_order_count": "363",
+    "lowest_sell_order": "7.75",
+    "highest_buy_order": "6.33",
+    "date_modified": 1765105714923
   },
   {
     "hash_name": "Sticker | Jee (Gold) | Copenhagen 2024",
     "item_nameid": 176420972,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-IAFosbWpL0lhh_DMI28X6YzgwtaIlvLxN-vTwmkBu8Epjr-U94jx0Fay-RU9Zm70OsbLJfKyqhY7",
-    "sell_order_count": "15",
-    "buy_order_count": "1,164",
-    "lowest_sell_order": "25.22",
+    "sell_order_count": "16",
+    "buy_order_count": "1,163",
+    "lowest_sell_order": "25.10",
     "highest_buy_order": "20.20",
-    "date_modified": 1765060525740
+    "date_modified": 1765105723226
   },
   {
     "hash_name": "Sticker | Jee (Gold) | Austin 2025",
     "item_nameid": 176517457,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-IAFosbWpL0lk0KDMdGtDu4m3xISOk6Hxa-iAl2pXuJYijLHErdqg0Q3s-RdkYzvxOsbLJcJQ6c3r",
     "sell_order_count": "13",
-    "buy_order_count": "128",
+    "buy_order_count": "127",
     "lowest_sell_order": "40.37",
     "highest_buy_order": "33.78",
-    "date_modified": 1765060533866
+    "date_modified": 1765105731370
   },
   {
     "hash_name": "Sticker | Jee (Glitter) | Copenhagen 2024",
     "item_nameid": 176420637,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReXESCF7b5mNzaVGJ-IAFosbasPxNlwb2aJWxG6Y3mwIPYz_ShariEwz9UuJd02-vC8Nvzjlfg8hdqMG6hLIbHbEZgNs-RE1vx",
-    "sell_order_count": "195",
-    "buy_order_count": "587",
-    "lowest_sell_order": "0.15",
+    "sell_order_count": "193",
+    "buy_order_count": "565",
+    "lowest_sell_order": "0.16",
     "highest_buy_order": "0.13",
-    "date_modified": 1765060542207
+    "date_modified": 1765105739509
   },
   {
     "hash_name": "Sticker | Jee (Foil) | Austin 2025",
     "item_nameid": 176516941,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcWV-CF7b4mNzaVGJ-IAFosLWsJ0lmh6KcJ2sT7d23x9GOx6b3Mb7Ul2hXusYij7GT94mhjAzs_UJqZ2n0OsbLJV4U4g42",
-    "sell_order_count": "141",
-    "buy_order_count": "1,082",
-    "lowest_sell_order": "0.86",
-    "highest_buy_order": "0.81",
-    "date_modified": 1765060550339
+    "sell_order_count": "140",
+    "buy_order_count": "1,081",
+    "lowest_sell_order": "0.84",
+    "highest_buy_order": "0.63",
+    "date_modified": 1765105747648
   },
   {
     "hash_name": "Sticker | jdm64 | MLG Columbus 2016",
@@ -18967,17 +18967,17 @@
     "buy_order_count": "94",
     "lowest_sell_order": "3.56",
     "highest_buy_order": "3.05",
-    "date_modified": 1765060558462
+    "date_modified": 1765105755773
   },
   {
     "hash_name": "Sticker | jdm64 | Cologne 2016",
     "item_nameid": 157485904,
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0DfQOqohZ-CBRJnLANovL6ofVMuiqGZcjxGvNngwtKIxq-kZ72HlW4Av5F107mYpdTwjVK2rUM-Z22gLJjVLFHaijYq8A",
     "sell_order_count": "20",
-    "buy_order_count": "84",
+    "buy_order_count": "86",
     "lowest_sell_order": "2.89",
     "highest_buy_order": "2.61",
-    "date_modified": 1765060566737
+    "date_modified": 1765105764205
   },
   {
     "hash_name": "Sticker | jdm64 | Cologne 2015",
@@ -18987,7 +18987,7 @@
     "buy_order_count": "63",
     "lowest_sell_order": "5.93",
     "highest_buy_order": "3.94",
-    "date_modified": 1765060574873
+    "date_modified": 1765105772328
   },
   {
     "hash_name": "Sticker | jdm64 | Cluj-Napoca 2015",
@@ -18997,7 +18997,7 @@
     "buy_order_count": "146",
     "lowest_sell_order": "9.70",
     "highest_buy_order": "4.68",
-    "date_modified": 1765060582967
+    "date_modified": 1765105780629
   },
   {
     "hash_name": "Sticker | jdm64 | Boston 2018",
@@ -19006,8 +19006,8 @@
     "sell_order_count": "15",
     "buy_order_count": "327",
     "lowest_sell_order": "2.83",
-    "highest_buy_order": "1.69",
-    "date_modified": 1765060591308
+    "highest_buy_order": "1.70",
+    "date_modified": 1765105788749
   },
   {
     "hash_name": "Sticker | jdm64 | Atlanta 2017",
@@ -19017,7 +19017,7 @@
     "buy_order_count": "88",
     "lowest_sell_order": "19.61",
     "highest_buy_order": "4.20",
-    "date_modified": 1765060599492
+    "date_modified": 1765105796862
   },
   {
     "hash_name": "Sticker | jdm64 (Gold) | Boston 2018",
@@ -19027,7 +19027,7 @@
     "buy_order_count": "50",
     "lowest_sell_order": "0.00",
     "highest_buy_order": "88.82",
-    "date_modified": 1765060607605
+    "date_modified": 1765105805005
   },
   {
     "hash_name": "Sticker | jdm64 (Foil) | MLG Columbus 2016",
@@ -19037,7 +19037,7 @@
     "buy_order_count": "42",
     "lowest_sell_order": "17.50",
     "highest_buy_order": "11.57",
-    "date_modified": 1765060615893
+    "date_modified": 1765105813121
   },
   {
     "hash_name": "Sticker | jdm64 (Foil) | Cologne 2016",
@@ -19047,7 +19047,7 @@
     "buy_order_count": "43",
     "lowest_sell_order": "39.99",
     "highest_buy_order": "23.51",
-    "date_modified": 1765060624037
+    "date_modified": 1765105821248
   },
   {
     "hash_name": "Sticker | jdm64 (Foil) | Cologne 2015",
@@ -19055,7 +19055,7 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0DfQOqohZ-CBhJnLANovL6ofVNf1fzBfXMQ74jmxdPcwqLwMe-Ikm1XsJVyibHEo4jx0Q3m8hFkNW32JdCVdgE5fxiOrUyGKx4S",
     "lowest_sell_order": "19.37",
     "highest_buy_order": "10.41",
-    "date_modified": 1765060632332,
+    "date_modified": 1765105829683,
     "sell_order_count": "4",
     "buy_order_count": "26"
   },
@@ -19065,7 +19065,7 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQFnaFbT8goDAWlpLLwBa4O6aLQhp373Jdz4b6oS3kNmIwaKnY7-ExTMI650pj-2Z8dX331KyrUVlZ233ItPHbEZgNrgPJxmq",
     "lowest_sell_order": "34.34",
     "highest_buy_order": "22.17",
-    "date_modified": 1765060640599,
+    "date_modified": 1765105837805,
     "sell_order_count": "8",
     "buy_order_count": "21"
   },
@@ -19075,7 +19075,7 @@
     "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfQ1_ESOr_h56LHE59Ijtdsrfzfzhm3PrEP2VB6t3vkIHZxKStYbrUwGpT6pV13bDE89j3jlfnr0pqYjymINTAJAMgIQaHpSLbGEc",
     "lowest_sell_order": "34.38",
     "highest_buy_order": "15.10",
-    "date_modified": 1765060648738,
+    "date_modified": 1765105845927,
     "sell_order_count": "8",
     "buy_order_count": "275"
   },
