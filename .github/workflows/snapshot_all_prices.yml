@@ -1,8 +1,8 @@
 name: Snapshot prices
 
 on:
-  schedule:
-    - cron: "0 0 * * 3"    # at 00:00 on Wednesdays
+  # schedule:
+  #   - cron: "0 0 * * 3"    # at 00:00 on Wednesdays
   workflow_dispatch:       # allow manual run via GitHub UI
 
 permissions:
